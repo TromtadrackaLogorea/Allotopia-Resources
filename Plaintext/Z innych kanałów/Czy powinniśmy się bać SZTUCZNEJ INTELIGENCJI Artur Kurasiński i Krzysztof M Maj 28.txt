@@ -1,0 +1,536 @@
+Czy powinniśmy się bać SZTUCZNEJ INTELIGENCJI? Artur Kurasiński i Krzysztof M. Maj  |🚀28
+🔗 https://www.youtube.com/watch?v=jFHyKfb22qA
+AK (Artur Kurasiński)
+KMM (Krzysztof M. Maj)
+
+0:  AK - Tak, za chwilę będziemy rozmawiali i ta komunikacja będzie dwubiegunowa z maszynami.
+5:  AK - I to będzie najpiękniejszy moment w historii naszej ludzkości.
+8:  AK - Więc, żeby w ogóle funkcjonować, a być może w ogóle przetrwać jako cywilizacja ludzka, to musimy wdrożyć system pod tytułem niech te roboty za nas wykonują pracę, niech one się nami opiekują, niech nam zamiatają ulice, tworzą produkty i tak dalej.
+22:  AK - Halo, halo, wiesz co?
+23:  AK - Nie bądźmy tacy...
+24:  AK - optymistycznie nastawieni, czy hura optymistycznie, ile takich ludzi należy i sam się tytułuję mianem tech-realista.
+30:  AK - Kiedyś byłem tech-optymistą, zawadzałem niebezpiecznie o tech-solucjonizm, a teraz powiedziałbym szczerze, że jestem osobą, która mówi, wiem jakie są negatywne strony technologii, być może jesteśmy właśnie pierwszym pokoleniem, które może powiedzieć, dobra, to jestem ja, możesz z mojej wiedzy, z doświadczeń, z emocji korzystać przez najbliższe tysiące lat.
+53:  KMM - Witam w Bunkrze Nauki, gdzie jest z nami przedsiębiorca, inwestor Artur Kurasiński.
+58:  KMM - Arturze, powiedz mi, czy też masz tak dość rozmowy na temat sztucznej inteligencji jak ja?
+63:  AK - Tak, witaj Krzysztofie, witajcie wszyscy, którzy nas słyszą i oglądają.
+66:  AK - Może skończymy w takim razie tę rozmowę i wyjdziemy na dwór, tak mówi się w Krakowie.
+71:  AK - Na zewnątrz, po lwownie powiedzmy.
+75:  AK - Może te tematy po prostu już są takie zaszłe.
+77:  AK - Nie rozmawiajmy o tym, o czym wszyscy rozmawiają.
+79:  AK - Bądźmy oryginalni.
+80:  KMM - W czym jest problem zatem, jeżeli chodzi o tę dyskusję dla ciebie?
+82:  KMM - Bo dla mnie przede wszystkim rozwodnienie tematu, sprowadzenie tego wszystkiego do takiego odgrzewania sporu luddystów z XIX wieku, że jest postęp technologiczny, w związku z powyższym odbiorą nam pracę i nie będziemy mogli zarabiać na swoje utrzymanie.
+99:  AK - Ja przy takich rozważaniach zazwyczaj zakładam czapeczkę socjologa, bo dzięki Bogu udało mi się jakieś wykształcenie wyższe zdobyć.
+106:  AK - Jestem z tego dumny, bo ciężko mi to szło, ale papier mam na to, jakby ktoś się pytał.
+110:  AK - No i podchodzę do tego zgodnie z tym, co mnie nauczono na studiach, czyli staram się zobaczyć to od takiej strony raczej analitycznej.
+117:  AK - Jestem zdziwiony, bo tak jak powiedziałeś, ten spór, można powiedzieć, toczy się nieustannie, po prostu od zarania wieków, odkąd myśmy jako ludzie wyszli z jaskiń, zaczęliśmy strugać te patyki, montować na nich kawałki ociosanych kamieni, to zawsze był ktoś, kto powiedział, że dzieci u nas się nie bawiły patykami, przestańcie.
+135:  AK - Potem się mówiło, maszyny to zło.
+137:  AK - Wygrzebałem nawet niedawno informację o tym, że w Nowym Jorku, i to w takim bardzo poczytnym piśmie,
+143:  AK - Potępiano rowerzystów, mówiąc o tym, że kobiety, które jeżdżą na siodełkach, nie będą zachodziły w ciąże, a ludzie, którzy jeżdżą w kółko, wariują.
+152:  AK - To są lunatycy.
+153:  AK - I to było poważnie próbowano, poważnie to argumentować.
+157:  AK - Więc zawsze było tak, że nowość budziła w nas, jako ludziach, cały czas budzi przerażenie.
+162:  AK - My tego nie znamy.
+163:  AK - Ba, elektryczność była również takim demonem.
+166:  AK - No przecież jak to?
+167:  AK - Nie widzimy tego, a to płynie w jakichś sieciach, jakichś kablach.
+172:  AK - I może to porazić, w związku z tym to jest złe.
+174:  AK - Więc z ambon prawie, że wyganiano tą elektryczność.
+178:  AK - To samo dzieje się obecnie oczywiście z szeroko zaawansowaną technologią, bo serio, my po prostu jako ludzie przestaliśmy nadążać za tempem rozwoju.
+186:  AK - Ja staram się z racji obowiązków zawodowych patrzeć na to, analizować, przynajmniej starać się zrozumieć, co się dzieje, ale odpadłem kompletnie na Web3, to było dla mnie
+196:  AK - poziom, nie wiem, matematyki niedyskretnej, czy tam jakkolwiek to się nazywa, a potem jeszcze dodatkowo weszła AI, która jest, no, można powiedzieć, no, fajne, bo tam prompty się wpisuje w tego czata GPT, natomiast za tym stoi ogromna nauka matematyka i to jest coś bardzo, bardzo głębokiego, więc jak przechodzimy do rozmów na poziomie, jedziesz taksówką i pan, który ci wiezie, mówi, to co, panie Krzysztofie, ten AI nas zabije, czy nie?
+220:  AK - No, to jest takie...
+221:  AK - A dlaczego miałby nas zabić?
+222:  AK - W sensie, czy kalkulator chce nas zabić?
+224:  AK - To jest takie pytanie, które zawsze staram się postawić.
+227:  AK - Czy twój laptop chce cię zabić?
+228:  AK - No nie, ale to jest tylko laptop.
+229:  AK - Nie, nie, nie.
+230:  AK - On tam jest napakowany algorytmami.
+232:  AK - Czy on budzi się rano?
+233:  AK - Czy on ma wolną wolę?
+234:  AK - Uważasz, że ma wolną wolę?
+235:  AK - Czy ma świadomość?
+236:  AK - Czy ma cel?
+237:  AK - Nie ma, bo to jest algorytm.
+239:  AK - W związku z tym przestańmy narzucać nasze ludzkie emocje.
+243:  AK - Nie projektujmy, jak to mówią psychologowie, nie narzucajmy tym sztucznym inteligencjom naszych zamiarów.
+249:  KMM - Właśnie mam wrażenie, że ludzie mylą ogólną sztuczną inteligencję, która była w literaturze fantastyczno-naukowej, w filmach, w serialach, w grach, z tym, z czym mamy dzisiaj do czynienia.
+259:  KMM - Bo mamy do czynienia z modelami generatywnymi.
+262:  AK - Modele generatywne, które w wielkim skrócie działają na takiej zasadzie, że mamy zbiór danych, ten taki zasób, na którym one się uczą, te algorytmy, i mamy bardzo prosty w miarę algorytm, który mówi będę teraz zgadywał, co ty byś chciał ode mnie otrzymać.
+276:  AK - Ala poszła do lasu,
+278:  AK - Udało mi się, fajnie, ale tam może również powstać jaskinia, dom albo autostrada.
+283:  AK - Ten sztuczny, ten algorytm sztucznej inteligencji generatywnej działa w sposób probabilistyczny.
+289:  AK - On nie jest w stanie przewidzieć, on przewiduje przyszłość, ale on nie decyduje o niej.
+294:  AK - W tym sensie to nie jest źródło wiedzy.
+296:  AK - Więc jeżeli podchodzimy do tych rewelacji na poziomie o, on nie wie kim ja jestem, albo o, on nie wie w jakim roku urodziła się dana osoba i mówimy głupi, głupi ten algorytm jest,
+307:  AK - Tak, oczywiście.
+308:  AK - Tak samo jak głupi jest Wikipedia, bo tam nie ma bardzo dużej ilości informacji, która jest częścią naszej kultury.
+314:  AK - Natomiast to pamiętajmy o tym, że nie jest wyrocznia.
+319:  AK - To nie są mechanizmy, które mają za zadanie dobrze obliczać, bo wielokrotnie udawało mi się bardzo prosto, na prostych równaniach łapać,
+328:  AK - ten chociażby czat GPT, który po prostu wykładał się i złapany za rękę mówił, przepraszam, popełniłem błąd, jak mam to poprawić?
+335:  AK - A, okej, 2 plus 2 to jednak jest 4, sorry.
+337:  AK - I tak to będzie wyglądało.
+339:  AK - W związku z tym pewnie postęp będzie nadchodził i już mamy jaskółki tego, obecnie operujemy na czacie GPT na modelu numer 4, GPT-4, ale za chwilę będziemy mieli numer 5 i właśnie stąd być może
+353:  AK - już wielkimi krokami szybkimi zbliżymy się do tej generatywnej, albo inaczej generalnej Artificial General Intelligence, czyli tej silnej sztucznej inteligencji, o której właśnie osoby z zakresu science fiction, literatury i filmów mówiły od dawna.
+369:  KMM - Mam wrażenie, że w ogóle ten czat GPT-4 i 3,5, który już się pojawił, to on sprawił, że wszyscy zaczęli mówić na temat sztucznej inteligencji w ogólności, ponieważ wreszcie dostali narzędzie, nazwijmy to...
+382:  KMM - szum nieprogramistyczne, którymi są w stanie komunikować się językiem naturalnym.
+386:  KMM - Nie wiem, czy pamiętasz, jak wchodziły pierwsze systemy operacyjne, to ludzie się strasznie ekscytowali tym, że można zadać pytanie o imię albo o to, ile masz lat.
+395:  KMM - Windows odpowiadał wtedy 3.11, ile ma lat.
+398:  KMM - I mam wrażenie, że to jest dokładnie to samo.
+400:  KMM - Ludzie wreszcie dostali możliwość komunikowania się na takim bardzo elementarnym poziomie.
+404:  KMM - Nawet w tak elementarnym poziomie, że Krzysztof Stanowski z kanału sportowego jest w stanie się tym bawić.
+409:  KMM - Pozdrawiamy.
+410:  KMM - Pamiętam tylko, że problem polega na tym, że nie doczytał jak się bawił czatem GPT, że na dole jest napisane, że to jest pula danych do 2020 któregoś roku, pierwszego.
+420:  KMM - konkretnie, więc to nie jest Google.
+422:  KMM - Z tym się nie rozmawia tak jak z wyszukiwarką.
+424:  KMM - Można z Bingiem AI próbować tak rozmawiać, bo tam już jest podpięty pod to internet, ale to jest internet w wersji Microsoftowej bez algorytmów Google'owych z kolei.
+433:  AK - Jest już możliwość wpięcia się przez wersję płatną właśnie GPT-4.
+438:  AK - Umożliwia to, mamy połączenie z internetem, można browsować internet, również też stosować pluginę.
+444:  AK - Natomiast oczywiście to, z czym mam do czynienia obecnie, to jest też, zgadzam się z tym, bo to jest bardzo fajna teza, to jest rewolucja pod kątem interfejsu.
+453:  AK - Dlatego, że paręnaście lat temu, żeby uzyskać taki efekt, jaki teraz możemy sobie zrobić za pomocą wpisania, a jakie jest fajne miasto w Europie, w którym jeszcze nie byłem i chcę pojechać tam z osobami typu dwie osoby dorosłe i dwójka dzieci, służ mi jakąś trasę.
+469:  AK - To było potrzebne stworzenie ogromnego oprogramowania, ściągnięcia ogromnych baz danych i zrobienie jakichś tysięcy symulacji.
+476:  AK - Teraz my korzystamy z tego narzędzia, tak samo korzystamy z czatów, tak?
+480:  AK - Jak na Messengera Facebookowego, Discorda czy Slacka.
+485:  AK - I ludzie rzucili się i okazało się, że po raz pierwszy w historii ludzkości, bodajże w ciągu dwóch miesięcy, liczba osób aktywnych użytkowników czata GPT przekroczyła 100 milionów użytkowników.
+495:  AK - To jest największy, najbardziej taki, można powiedzieć, najlepszy dowód na to, że dobrze przygotowana technologia, która znajduje zastosowanie, to jest bardzo ważne, w przeciwieństwie właśnie do Web3, ma ogromną moc adopcji.
+509:  AK - I z tym będziemy mieli też do czynienia w przypadku kolejnych kroków, czy takich właśnie wynalazków opartych o AI, bo już się nauczyliśmy, że nie może być potężne, to musi być potężne i zrozumiałe dla klienta, czyli dla użytkownika końcowego takiego jak ja czy ty.
+524:  AK - dopóki wtedy, dopiero wtedy możemy mówić o jakimś przełomie.
+527:  AK - Stąd też na przykład rewolucja, która za chwilę będzie zachodziła, czy już zachodzi, jeżeli chodzi o kwestie graficzne.
+533:  AK - To, co pokazał kilka dni temu Adobe swoim Fireflyem, to jest niebywałe.
+539:  AK - Zaznaczasz kawałek grafiki i mówisz niech to będzie teraz jezioro.
+543:  AK - To ma być rower?
+544:  AK - Nie, ja tu chcę mieć samochód.
+546:  AK - Śmieli się moi koledzy, że tak dokładnie kiedyś wyobrażano sobie DTP, czyli zamiast stać nad głową grafika i mówić przesuń piksel w prawo, piksel w lewo, teraz sam możesz to zrobić.
+555:  AK - I to jest właśnie ta wielka rewolucja.
+557:  AK - My porozumiewamy się, wytworzony został fajny interfejs człowiek-maszyna, który jest bardzo naturalny dla nas, bo my poruszamy się, wykorzystujemy swój język,
+567:  AK - Na razie pisane, ale już obecnie możemy nawet za pomocą aplikacji na telefonie, chyba obecnie jeszcze na razie na iPhone'ach, na iOS'ie, już kiedy ściągniemy sobie 3GPT, tam jest ten komponent głosowy.
+577:  AK - W związku z tym tak, za chwilę będziemy rozmawiali i ta komunikacja będzie dwubiegunowa z maszynami i to będzie najpiękniejszy moment w historii naszej ludzkości, dlatego że
+587:  AK - Programiści, czyli ci magicy od kodu, będą nagle musieli zejść ze swoich tronów, bo my wszyscy będziemy programistami.
+595:  AK - Już nie będzie problemu ze zrobieniem strony internetowej.
+597:  AK - Nie trzeba będzie znać kodu, nie trzeba będzie znać składni tego magicznego i tajemnego języka, tylko usiądziesz, powiesz, zaprojektuj mi stronę, będzie miała żółte tło, tam będzie taki duży czerwony cyferblat, niech on odmierza czas od śmierci, nie wiem, Einsteina.
+613:  AK - zrobione.
+613:  AK - Kod HTML, proszę bardzo, wklej sobie na stronę i to wisi.
+616:  AK - Nie potrzebuję znać kodu HTML, nie potrzebuję znać JavaScriptu, nie potrzebuję znać CSSa, nic.
+622:  AK - Ty mówisz, co chcesz osiągnąć za efekt i to się dzieje.
+625:  AK - To jest magia.
+626:  KMM - Ale to jest piękne, że powiedziałeś o tym, że zmieniają się interfejsy, bo przypominam sobie zupełnie anegdotycznie, jak niecierpliwiłem się widząc, no zwłaszcza jak młodsi studenci komunikowali się z wyszukiwarką.
+637:  KMM - Ja przyzwyczajony byłem do tego, że stosowałem kody różnego rodzaju, tam znaki logiczne.
+643:  AK - Plusy, tak?
+644:  KMM - plusy, cudzysłowy, tak, file type PDF.
+647:  KMM - Jaki jest artykuł na ten temat?
+649:  KMM - I to było pytanie zadane semantycznie właśnie.
+652:  KMM - Dlatego to jest potężne, co mówisz, bo możemy myśleć o integracji z systemami smart home, o integracji w ogóle z tym, w jaki sposób funkcjonujemy dzisiaj w rzeczywistości cyfrowej na takim bardzo właśnie ludzkim poziomie.
+666:  KMM - I tutaj prowadzi mnie to do bardzo prostej rzeczy, to znaczy dużo ludzi widzi w tym właśnie
+671:  KMM - Kłopot, że chociażby znika taki zawód potencjalnie jak właśnie no powiedzmy grafik 2D, czy grafika użytkowa, czy montażysta filmów, bo Adobe Firefly też umożliwia montowanie bardzo szybkie.
+683:  KMM - Ale pytanie brzmi, czy to nie jest tak, że po prostu znikną te najbardziej nazwijmy to rzemieślnicze z zawodów kreatywnych, a będziemy potrzebowali nagle o wiele bardziej wykwalifikowanych pracowników kreatywnych wyższego szczebla?
+696:  AK - Właśnie to jest esencja tego pytania.
+697:  AK - Jak ktoś się zaczyna zastanawiać nad tym, jak wyglądała ewolucja naszego gatunku i ewolucja też pod kątem technologicznym, no to ja mogę rzucać takie nazwy i jestem ciekaw, czy ty będziesz w stanie odpowiedzieć na takie pytanie, czym zajmował się ten zawód.
+713:  AK - Pewnie będzie, że jesteś bardzo wykształconą osobą, ale spróbujmy.
+716:  AK - Druciarz.
+717:  AK - Czym zajmował się druciarz?
+719:  AK - Bingo.
+721:  AK - Latarnika pewnie znajdziesz w swojej głowie.
+723:  AK - Nie mówię o tym latarniku książkowym, tylko o tym człowieku, który gasił latarnie gazowe.
+728:  KMM - Zecera też będę... Zecera też.
+730:  AK - Powroźnik pewnie też dojdziesz.
+732:  AK - Pewnie z Duna też jeszcze pewnie będziesz mógł definicję jakąś podać.
+737:  AK - Ale na przykład wygrzebałem taką osobę, która budziła pracowników w erze industrialnej w Anglii.
+745:  AK - strzelając grochem w okna.
+746:  AK - To byli ludzie, którzy chodzili ulicami, ponieważ ludzie nie mieli zegarków, nie było ich w ogóle, nie było takiego urządzenia, nie było ich stać.
+752:  AK - W związku z tym oni tym grochem budzili codziennie rano pracowników do fabryki.
+757:  KMM - Bardzo ważny zawód.
+758:  AK - Bardzo ważny zawód, bo bez tego nie byłoby fabryk, nie byłoby ubrań, nie byłoby chociażby produkowanych masowo samochodów Forte.
+764:  AK - No i to jest właśnie pytanie, czy
+767:  AK - W wczesnych czasach nie było takiego, nie panował taki nastrój właśnie wielkiego przygnębienia, że pojawiły się zegarki masowo produkowane i ci pukacze do tych okien tym grochem zostali po prostu z tego zawodu wyrogowani.
+779:  AK - Pewnie tak było.
+780:  AK - Tak samo jak mleczarz, który kiedyś rozwoził mleko i stawiał nam bańki pod drzwiami.
+784:  AK - I wiele, wiele setek osób, które obecnie po prostu przestały w naszym społeczeństwie funkcjonować, bo albo przejęły ich rolę maszynę, albo właściwie te produkty i usługi, które oni oferowali, znikły.
+794:  AK - Nie przestały być nam potrzebne.
+796:  AK - Ja rozumiem, siedzimy tu i teraz i pewnie dużo z nas, osób, jak tu siedzimy, zna grafików, ludzi, którzy stracą pracę.
+804:  AK - Tylko to zawsze było.
+805:  AK - Znaczy na tym polega postęp.
+806:  AK - Jeżeli chcemy jechać Uberem,
+808:  AK - Jeżeli chcemy mieć dobrą opiekę społeczną i opiekę medyczną, jeżeli chcemy mieć dobrą edukację, to nie ma możliwości, żebyśmy cały czas powtarzali te błędy z XIX wieku.
+819:  AK - Musi przyjść ten komponent, pojawić się komponent technologiczny, który powie, dobra, za cenę wyrzucenia
+826:  AK - obcięcia, wyrugowania kilkuset tysięcy osób, albo może milionów, my przejdziemy na wyższy poziom.
+832:  AK - Ja wiem, że jeżeli będę taką osobą, a być może będę, która zostanie zredukowana, jej rola zostanie zmniejszona, albo właściwie wyrzucona poza nawias społeczeństwa z uwagi na automatyzację i właśnie sztuczą inteligencję, będę z tego powodu płakał.
+845:  AK - Natomiast to samo zadziało się w przeszłości wielokrotnie, więc
+848:  AK - Patrząc na makroskalę, to się dzieje i działo od zawsze.
+853:  AK - Teraz, jak siedzimy, zastanawiamy się, że znikną zawody?
+855:  AK - Oczywiście.
+856:  AK - Tylko pomyślmy sobie, że to wiąże się z postępem.
+859:  AK - Nie ma możliwości, abyśmy mieli platformę streamingową, ale nie mieli internetu, nie korzystali z mediów społecznościowych.
+867:  AK - To implikuje wiele innych rzeczy.
+870:  AK - Ja oczywiście uważam, że powinniśmy zastanawiać się, próbować w jakiś sposób modelować to, co się będzie działo.
+876:  AK - Możemy regulować prawnie sztuczną inteligencję, ale nie możemy zatrzymać tego postępu.
+881:  AK - Idea pojawienia się sztucznej inteligencji jest to, że ona będzie zmieniała, a zmiana również polega na tym, że część z nas po prostu straci pracę.
+888:  AK - Wiem, bardzo jest to bolesne, mi jest to prosto mówić, bo prawdopodobnie będę jedną z ostatnich osób, oby, będę robił wszystko, żeby to się stało bardzo późno.
+897:  AK - ale też być może będę tego ofiarą.
+899:  AK - Tylko, jak mówię, będziemy dzięki temu beneficjentami tego, że zmieni się sposób, w jaki jesteśmy na przykład opiekowani pod kątem medycznym.
+906:  AK - Bo nie ma możliwości.
+908:  AK - Przy okazji, wiesz ile jest geriatrów w Polsce?
+910:  KMM - Domyślam się, że o wiele za mało.
+913:  AK - Tak, mamy parę milionów osób już, które, delikatnie mówiąc, które są w wieku prawie że postprodukcyjnym, zbliżają się do wieku 60-70 lat.
+922:  AK - To jest kilkaset osób.
+923:  AK - To jest 400 chyba 30 osób w 2021 na wiele, wiele milionów osób.
+928:  AK - W związku z tym, jakim sposobem ja za chwilę, mając 49 lat, wejdę w tą
+933:  AK - smugę cienia i będę mógł oczekiwać na co?
+936:  AK - Na to, że jak coś mi się popsuje w plecach, to do kogo zadzwonię?
+939:  AK - Do człowieka, który ma na głowie kilkadziesiąt tysięcy osób?
+942:  AK - Jest jednym lekarzem na kilkanaście tysięcy osób?
+944:  AK - Nie.
+945:  AK - Ja pewnie zwrócę się do jakiegoś telemedyka, który będzie podłączony na jakiś wielki bazy danych i tak jak obecnie szukamy informacji na poziomie doktora Googla, boli mnie nos, czy to jest rak, czy to może jednak jest zapalenie tutaj, no to tak samo będziemy komunikować, tylko
+962:  AK - to w jakiś sposób bardziej poukładane naprawdę ma szansę zmienić sposób, w którym funkcjonujemy.
+967:  AK - Tak samo, jeżeli chodzi o edukację.
+968:  AK - Nie możemy dalej reprodukować tego pruskiego sposobu uczenia, tak?
+973:  AK - Na uczelniach w podstawówkach, tak samo na uczelniach wyższych.
+976:  KMM - Ja jestem aż zdumiony nawet, że nie dochodzi teraz w tym momencie do rewolucji, ponieważ sam czat GPT kompromituje nasz sposób
+986:  KMM - zadawania zadań domowych, sprawozdawania wszystkiego.
+990:  KMM - Zresztą były przypadki pisania sprawozdań uczelnianych.
+993:  KMM - To była głośna sprawa, które były wielomilionowe i zostały ocenione pozytywnie, ponieważ sztuczna inteligencja jest w stanie bez żadnego problemu ten urzędniczy bełkot
+1005:  KMM - I to jest właśnie to, że wydaje mi się, że zapominamy trochę o tym, że już doprowadziliśmy się, zanim był ten świt AI, do sytuacji, w której zamienialiśmy się trochę w maszyny.
+1015:  KMM - Gamedev crunchował za duże światy, światy otwarte, w których nie dało się zaprojektować wszystkiego.
+1020:  KMM - CD Projekt Red się na tym przejechał na swoich ambicjach.
+1024:  KMM - Inne przypadki, grafik chociażby właśnie, któremu mówiono dobrze za projektur 90 rodzajów logotypu, bo miał takiego szefa akurat, a on był po ASP albo po grafice użytkowej, chciał zrobić przepiękne logo, miał pomysł na to, ale nie, ma zrobić 90 rodzajów.
+1039:  KMM - No więc teraz pracodawca może, jeżeli nie ma takich ambicji, kupić sobie program i zapodawać mu w nieskończoność te nieszczęsne logotypy, a może tamten człowiek wtedy będzie miał się okazję rozwijać kreatywnie, nie?
+1049:  AK - To jest oczywiście ten pozytywny, ja również patrzę raczej na to z takiego pozytywnego punktu widzenia.
+1056:  AK - Rzecz jasna nie jestem zwolennikiem tezy, wszyscy będziemy siedzieli nad brzegiem jakiegoś ciepłego morza i kontemplowali, wiesz, i wymyślali na nowo filozofię.
+1064:  KMM - I zasysali UBI, tak?
+1066:  AK - To raczej się nie wydarzy.
+1067:  AK - To znaczy część z nas pewnie wybierze taki sposób życia, ale uważam, że po prostu większość jednak osób będzie żyła podobnie jak teraz, tylko będziemy mieli więcej czasu i trzeba będzie wymyślać sobie.
+1077:  AK - Praca będzie przywilejem.
+1079:  AK - Zaczynam tak na to patrzeć.
+1081:  AK - To znaczy faktycznie taka realnie mająca wpływ na coś praca będzie przywilejem.
+1086:  AK - Być może część z nas będzie pomagała innym osobom.
+1089:  AK - Być może będziemy przeprowadzali przez pasy starsze osoby.
+1094:  AK - ale taka prawdziwa praca w rozumieniu takiego, wiesz, siedzenia i snucia imperialnych planów, myślę, że będzie przynależna bardzo w wąskiej grupie osób.
+1103:  AK - Być może to jest ta fundamentalna zmiana, która nas czeka.
+1106:  AK - O tym w ogóle nie mówimy, że my się starzejemy jako ludzkość, a już nie mówimy jako Europa.
+1111:  AK - My jesteśmy bardzo starym społeczeństwem.
+1113:  AK - W związku z tym
+1114:  AK - tak bardzo teraz narzekamy na ten AI, a kto nam poda miskę ryżu na starość?
+1119:  AK - To raczej nie będą nasze dzieci, bo właśnie okazuje się, że ten poziom dzietności u nas regularnie spada.
+1123:  AK - Więc żeby w ogóle funkcjonować, a być może w ogóle przetrwać jako cywilizacja ludzka, to musimy wdrożyć system pod tytułem niech te roboty za nas wykonują pracę, niech one się nami opiekują, niech nam zamiatają ulice, tworzą produkty i tak dalej.
+1138:  AK - Być może to będzie jedyny sposób na przetrwanie naszego gatunku.
+1142:  KMM - Poruszyłeś też problem diagnostyki medycznej, fakt faktem, że nawet lekarze mówią, że taki bardzo podstawowy poziom diagnostyki, który im zabiera czas cenny właśnie, który mogą wtedy poświęcić ciężkim przypadkom, może być spokojnie przyjęty przez sztuczną inteligencję i mówią nawet, że o wiele lepiej, żeby faktycznie jakiś model generatywny na bazie zaufanej bazy danych decydował niż właśnie doktor Google, bo to jest zresztą ironiczne, już memiczne, że cokolwiek sprawdzimy w Google, okazuje się, że mamy raka.
+1170:  KMM - Tak.
+1171:  KMM - No bo tak też są pisane te teksty, a te teksty też pisali ludzie, copywriterzy konkretnie, którym płacono psie pieniądze.
+1177:  KMM - To samo jest jeżeli chodzi o kurierów.
+1179:  KMM - Kurier dowożący w korkach jedzenie czy jakiekolwiek inne towary nie dostaje najwyższej stawki na rynku.
+1187:  KMM - Natomiast dron, który będzie dowoził, to już zmienia postać rzeczy, ale oczywiście sprawia nagle, że kurierów nie ma.
+1194:  KMM - Więc cały czas wracamy do tego problemu, że musimy w którymś momencie postawić sobie pytanie, czy rzeczywiście chcemy, żeby prace, które sami nie do końca je cenimy, żeby one rzeczywiście były tylko po to, żeby pracować.
+1206:  KMM - Fordyści, do których się tak wszyscy odwołują, mówili, że postęp technologiczny jest po to, żebyśmy pracowali mniej, a odpoczywali więcej.
+1213:  AK - No właśnie, to się nie dzieje, jak popatrzymy sobie na krzywe ilości pracy, to się okazuje, że pracujemy właściwie albo tyle samo, albo wręcz trochę nawet więcej.
+1222:  AK - Są kraje, tak jak na przykład Grecja i Polska, gdzie my uwielbiamy pracować, to jest tak naprawdę mielić powietrze, żeby po prostu cały czas wykonywać jakieś prace, ale one nie przekładają się na efekt.
+1233:  AK - Więc dochodzi ten moment i być może to jest coś, co będzie nam narzucone przez większe organizacje typu Unia Europejska, ale wydaje mi się, że to właśnie jest ten czas, w którym powinniśmy sobie bardzo jasno powiedzieć, słuchajcie, może my źle po prostu ukierunkowaliśmy całe swoje życie, może my nie musimy pracować w rozumieniu, chodzić od ósmej do siedemnastej, tylko możemy mieć...
+1253:  AK - jakąś formę, niech to będzie hobby, albo być może nawet jakiegoś zajęcia, które niekoniecznie musi być naszą pracą, ale poświęcajmy mu swój czas w ciągu dnia, a potem miejmy jeszcze czas na rodzinę i na odpoczynek.
+1265:  AK - Bo jak popatrzymy sobie, z czego się składa nasze życie, to jest przede wszystkim praca, edukacja i końcówka naszego życia to jest taki niby odpoczynek, a wtedy jesteśmy zmęczeni, schorowani i nie czerpiemy takiej satysfakcji, jakbyśmy mieli 40 czy 30 lat.
+1279:  AK - Więc uważam, że
+1281:  AK - Być może jest w naszej głowie potrzeba przejścia takiego Rubiconu, że to może nie trzeba czekać do 75. roku życia, żeby nagle wyjechać kamperem i pojechać po całym świecie.
+1292:  AK - Nie, być może można zrobić to wcześniej.
+1294:  AK - I znowu, być może do tego potrzebujemy podatku nakładanego na tych producentów różnego typu algorytmy i roboty.
+1301:  AK - Być może Universal Basic Income, czyli ten dochód gwarantowany podstawowy jest też potrzebny, żebyśmy ten świat jakoś zestawili i żeby on się nie rozpadł, a być może potrzebujemy czegoś jeszcze i tak jak patrzyłem na kolejny produkt, który się pojawił na rynku wyprodukowany ze stajni Apple'a, czyli Apple.
+1318:  AK - okulary do zmniejszonej rzeczywistości.
+1320:  AK - To jest kolejna rzecz, która bardzo się wpasowuje w tę układankę, bo akurat Apple jest bardzo odsłana.
+1327:  AK - Oni nie powiedzieli w ogóle o AI.
+1329:  AK - Tam był machine learning, AI nie był wymieniany.
+1331:  AK - Natomiast absolutnie to jest coś, co będzie częścią tego nowego świata.
+1334:  AK - I znowu, dla większości osób, które mają problem, zarabiają średnią krajową, jakaś zabawka Apple'a za 4 tysiące dolarów, to dla nich jest po prostu kosmos.
+1343:  AK - Ale my wiemy, że to jest przyszłość i prawdopodobnie piąta, szósta, siódma literacja będzie na tyle tania, że będzie możliwa do kupienia, wiesz, jak jednorazowe soczewki w budce ruchu i to będzie twoja rzeczywistość.
+1354:  AK - Więc wydaje mi się, że fajnie jest patrzeć i mieć takich ludzi, którzy mówią, no dobra,
+1360:  AK - to właściwie dokąd jedzie ten pociąg i też mieć ludzi, którzy mówią halo, halo, wiesz co, nie bądźmy tak optymistycznie nastawieni, czy hura optymistycznie, ile takich ludzi należy i sam się tytułuję mianem techrealista.
+1371:  AK - Kiedyś byłem techoptymistą, zawadzałem niebezpiecznie o techsolucjonizm, a teraz powiedziałbym szczerze, że jestem osobą, która mówi, wiem jakie są negatywne strony technologii, dlatego mówię, nie wierzmy w to, że technologia puszczy na sam opas, na pewno nie korporacje technologiczne, które tworzą i monetyzują tą technologię, że one będą się same regulowały.
+1388:  AK - To jest
+1389:  AK - Bullshit.
+1390:  AK - Nieprawdopodobny bullshit.
+1391:  AK - Przerabialiśmy Binder Dandrat.
+1392:  AK - Absolutnie nie.
+1394:  AK - Stąd też trzeba patrzeć na to, co się dzieje w Unii Europejskiej versus Ameryka, bo Ameryka lubi klasyczny taki biznes, wiesz, twardy kapitalizm, taki troszkę jeszcze turbo.
+1403:  AK - Więc oni patrzą na nas jak na wariatów.
+1404:  AK - Jak to wy sobie regulujecie życie, uprzykrzacie, jakieś RODO wprowadzacie?
+1407:  AK - Po co wam to jest?
+1408:  AK - Nie będzie można sprzedawać danych teleadresowych.
+1410:  AK - No właśnie, my mówimy Europejczycy dlatego, że chcemy mieć prywatność.
+1413:  AK - Prywatność to jest produkt, to jest feature.
+1416:  AK - Dlaczego chcecie to ograniczać?
+1417:  AK - Więc będą takie tarcia, ale mamy jeszcze trzecią stronę, nazywa się Chiny.
+1420:  AK - Autorytarny reżim komunistyczny, który niczy się z ludzkim życiem.
+1423:  AK - Dla nich nie ma żadnych oporów, żeby wszystkim ludziom kazać dokonywać jakiegoś identyfikacji, znaczy żeby oni na przykład zostawiali po sobie cyfrowy ślad.
+1432:  AK - Kazać montować aplikacje.
+1433:  AK - Te aplikacje oczywiście są sczytywane i podłączone do jakiegoś centralnego krwiobiegu
+1438:  AK - I partia komunistyczna zawiaduje życiem tych ludzi.
+1441:  AK - Więc mamy różne modele na przyszłość.
+1443:  AK - Teraz pytanie, w którym nam jest wygodniej?
+1445:  AK - Czy będziemy bardziej tacy, jak z nas się śmieją Amerykanie, biurokratycznie nastawieni do świata?
+1449:  AK - Panowie tacy Excelowie i tabelki?
+1452:  AK - Czy raczej tacy hura optymistycznie, super, jedźmy, to będzie na pewno tacy pozytywnie naiwni jak Amerykanie?
+1457:  AK - Czy jak Chińczycy, którzy mówią spoko, spoko,
+1459:  AK - pod koniec tak musimy opanować ten modwalk, bo on jest głupi, on musimy panować i życie gdyby tutaj trwać do końca.
+1466:  AK - Więc mamy wiele pomysłów na to, jak ten ma świat wyglądać, ale w każdym systemie już jest AI.
+1470:  AK - AI jest wykorzystywany w dobrych celach, w niecnych.
+1474:  AK - AI jest esencją i on już nie ucieknie, więc zaklinanie rzeczywistości mówi nie, nie, nie, przestańcie o tym gadać, bo nie, on wjechał na twardo, charge GPT, mid journey do tworzenia grafik, różnego typu jeszcze bardzo dużo jeszcze
+1487:  AK - raczkujące technologie, o których nie wiemy, one będą poważnie zmieniały to, w jaki sposób tworzymy, pracujemy i prawdopodobnie w ogóle jak żyjemy.
+1495:  KMM - Bardzo dużo wątku też poruszyłeś i przeciekawa jedna rzecz, którą bym wybił, to że jeżeli nawet się zatrzymamy w Europie i nie będziemy rozwijać sztucznej inteligencji, to właśnie są Chiny.
+1505:  KMM - Ameryka.
+1507:  KMM - Nieuregulowane stany, tak.
+1509:  KMM - I pytanie, co zrobi Zuckerberg, który teraz wszystkie środki z metaversum... Machamemo.
+1513:  AK - Ojej, ojej.
+1515:  AK - Masz problem, Mark, ale cóż, wszyscy ci to mówili.
+1518:  AK - Zagrał wabank, stracił i teraz patrzymy... Ale odbija się właśnie.
+1521:  KMM - I to jest w momencie, w którym powiedział, że idzie w stronę sztucznej inteligencji...
+1525:  KMM - Nieciekawi jedna rzecz w tym wszystkim, to znaczy to, w jaki sposób ta adaptacja powinna przebiegać.
+1531:  KMM - I powiedziałeś też bardzo ciekawą rzecz, że takie były trzy etapy w naszym życiu, że jest etap edukacji, jest etap pracy, jest etap emerytury.
+1539:  KMM - Tymczasem prawda jest taka, że z tymi narzędziami technologicznymi możemy ten etap edukacji mieć przez całe życie.
+1546:  KMM - I ostatnio testowałem Leonardo AI do
+1550:  KMM - Generowania grafik.
+1552:  KMM - Ona ma jedną fajną funkcję, której nie widziałem w Midgenie, mianowicie negatywne prompty.
+1555:  KMM - Że można dać nie tylko prompt taki, w którym generujemy dany obraz, ale także wszystko to, czego nie chcemy.
+1560:  KMM - A zatem te słynne przypadki, że tam jest pięć palców, możemy powiedzieć, nie, nie chcę grafiki z pięcioma palcami.
+1565:  KMM - I to jest przeciekawe, ponieważ uczy na dwa sposoby.
+1568:  KMM - Uczymy sztuczną inteligencję, jak ona ma myśleć, ale też uczymy się, jak my mamy myśleć, bo przecież pojawia się...
+1574:  KMM - Już mówiono o tym w sektorze, który jest Ci bliski, przedsiębiorczości, biznesu, taki zawód jak inżynier promptów, całkowicie na serio.
+1583:  AK - Tak, czyli inżynier promptów pewnie ten zawód będzie się zmieniał do tego, że tak jak rozmawialiśmy, sztuczna inteligencja wybitnie dąży do tego albo inaczej.
+1592:  AK - Wszystko wskazuje na to, że sztuczna inteligencja, my się będziemy z nią porozumiewali za pomocą naszego naturalnego języka.
+1598:  AK - tego, którym się rodzimy, tego, który szkolimy od maleńkości, którym się porozumiewamy i dla nas jest naturalne.
+1604:  AK - Dlaczego my mamy uczyć się komend, tego skomplikowanego, hermetycznego żargonu programistycznego, że musisz mieć jakiś nawias kwadratowy i tak dalej.
+1611:  KMM - Pozdrowienia dla wydziałów technicznych.
+1612:  AK - To jest...
+1613:  AK - Dokładnie, to jest coś, co jest nienaturalne.
+1614:  AK - Oczywiście jest możliwe, jest duża grupa ostra, która sobie potrafi poukładać to w głowie, ale ja na przykład takiej grupy nie istnieję.
+1620:  AK - Dlaczego ja mam być wykluczony?
+1622:  AK - Bo jestem humanistą?
+1623:  AK - Przez całe życie ktoś mnie sekował, bo nie rozumiałem, jak napisać kawałek kodów w Paskalu?
+1628:  AK - No na Boga, dlaczego ja mam się czuć... To jest jakaś forma po prostu społecznej presji.
+1633:  AK - Więc teraz ja powiem...
+1634:  AK - Okej, ja nie znam się na programowaniu, ale mam maszynę, która wie jak to zrobić, w związku z tym powiem, opowiem tej maszynie, a ponieważ storytelling, opowieść jest tym, co praktykujemy od zarania ludzkości, bo siedzieliśmy przy ognisku i oprócz tego, że uwielbialiśmy najpierw, musieliśmy nawet zdobyć trochę tej padliny, żeby się pożywić,
+1652:  AK - Potem szliśmy do jaskini, żeby się rozmnażać.
+1654:  AK - To potem ten czas wypełnialiśmy właśnie opowieściami, które kształtowały nas, bo dzięki tym opowieściom mówiliśmy na przykład i za górami jest taki zły smok, który pożera.
+1662:  AK - I w związku z tym dzieci nie chodźcie same za górę, bo jak wpadniecie do strumienia głupie, małe szkraby, to zginiecie.
+1668:  AK - W związku z tym powiemy wam jakieś figurze wielkiego smoka, który czai się w nieznane.
+1672:  AK - I to jest kultura.
+1673:  AK - I dzięki temu też olbrzymią rzecz wykonaliśmy w
+1676:  AK - Wytworzyliśmy parę fajnych obrazów, parę powieści się pojawiło.
+1679:  AK - W związku z tym to nie jest też tak, że my, nie wiem, będziemy teraz ewoluowali z tym jakiegoś Matrixa.
+1684:  AK - Też dużo ludzi się obawia, że będzie jakieś wszczepy mieli.
+1686:  AK - Pewnie pojawią się takie propozycje.
+1689:  AK - bo z drugiej strony patrząc na to, w jaki sposób możemy lepiej przekazywać swoje intencje, no tak, połączenie bezpośrednie, jakieś implanty mózgowe pewnie będą opcją.
+1700:  AK - Natomiast ja uważam, że dla większości osób spokojnie wystarczy operowanie swoim głosem, potencjalnie może jakieś machanie rękoma przed obiektywem i to będzie nasza przyszłość.
+1710:  AK - I znowu, czy my na przykład, to jeszcze odniosę się do kwestii, że przyjdzie zły AI i nas zje.
+1715:  AK - Jak popatrzyłem ostatnio na prasę i media, no to
+1719:  AK - mam takie dziwne poczucie graniczące z pewnością, że my sobie jak ludzkość doskonale radzimy z zabijaniem tego świata i nas przy okazji bez potrzeby AI, tak?
+1727:  AK - Bo zatruwamy środowisko od wielu, wielu dekad, zanim mówiliśmy o generatywnej sztucznej inteligencji.
+1732:  AK - Toczymy wojnę, tak?
+1734:  AK - Mamy olbrzymi niedostatek głód, który nadal występuje na świecie.
+1738:  AK - Potrafimy wytworzyć szczepionkę, ale nie do końca już niektórzy potrafią zrozumieć, że to jest coś, co trzeba przyjąć i sobie ją wprowadzić do organizmu, bo to być może jest jakieś tam nanoszczepy od wujka Gatesa i tak dalej.
+1750:  AK - Więc ja bym troszkę też nie był takim hej do przodu, jeżeli chodzi o obarczanie tej sztucznej inteligencji o wszelkie zło tego świata.
+1756:  AK - My naprawdę jako ludzie mamy w sobie tak ogromne pokłady zła i świetnie radzimy sobie z tym, żeby robić krzywdę drugiej osobie, że już ten AI nam niewiele będzie tutaj potrzebny.
+1765:  AK - Oczywiście
+1766:  AK - Jeżeli źle przygotujemy kod, no to on będzie wykonywany beznamiętnie, bo ten AI nie ma żadnej świadomości, on nie ma celu, on nie ma żadnego elementu, który jest jego mózgiem.
+1779:  AK - On ma do wykonania pewną instrukcję, więc jeżeli ta instrukcja będzie zła, ale to jest słynne programistyczne garbage in, garbage out, źle podasz element kodu i on po prostu się rozwali.
+1787:  AK - No w tym wypadku może po prostu, tak jak ta konstrukcja do nami wisząca,
+1790:  AK - uaktywnić się na przykład i nie wiem, postanowić, że wykona krok, no i przy okazji zmiażdży nas.
+1794:  AK - No ale to jest element... Przynajmniej będziemy mieli tutaj dwaj rada.
+1798:  AK - Tak, tak, więc drogi, drogi automacie.
+1800:  AK - Dlatego na przykład trzeba być miły.
+1802:  AK - Nie wiem, czy zauważyłeś to, ale ja na przykład zawsze zaczynam i kończę moją rozmowę z chatem GPT od takich słów bardzo miłych, to znaczy dziękuję ci bardzo, dzień dobry, dobrze wykonałeś zadanie
+1813:  AK - Ja naprawdę mam szacunek do tego rozwiązania.
+1815:  AK - Nikt mnie nie każe być, no bo normalnie byśmy powiedzieli, hej, zrób to, wykonaj, napisz.
+1819:  AK - Nie, nie, ja tak staram się być, wiesz, bo z tyłu głowy gdzieś mam taki właśnie lęk, że pewnego dnia, jak powstaną te roboty, to on powie, Arturze, byłeś dla mnie miły, ciebie oszczędzę.
+1830:  AK - Nie wiem, jakoś tak mój, wiesz, gadzi mużdżek ma to zakodowane, że to jest jakaś większa już, bardziej istotna, istotny byt.
+1838:  AK - Natomiast reszta jest przed nami.
+1840:  AK - My nie wiemy.
+1840:  AK - Równie dobrze pamiętajmy, Czarny GPT zadebiutował w listopadzie 2022 roku.
+1844:  AK - To jest kilka miesięcy.
+1846:  KMM - Nawet nie rok jeszcze.
+1847:  AK - Nawet nie rok, a my już tutaj robimy, widzimy ogromną rewolucję, co dopiero będzie za dwa albo za trzy lata.
+1853:  AK - Nieprawdopodobne zmiany.
+1854:  KMM - Wiesz, mam też wrażenie, złośliwie powiem, że tej rewolucji by aż takiej nie było, gdyby nie fakt, że dużo sektorów naszego życia społecznego, edukacyjnego i zawodowego tkwiło w XIX wieku.
+1864:  AK - No właśnie, bo się okazuje nagle, że jeżeli możesz mieć teraz takiego swojego prywatnego nauczyciela, który nie jest osobą, która jest panem albo panią od matematyki, która mówi...
+1875:  AK - Jasiu, ty nie zaliczyłeś tej klasówki, ale cała klasa zaliczyła.
+1878:  AK - W związku z tym, sorry, Jasiu, nie możesz być osobą, która ciągnie w dół całą klasę.
+1882:  AK - W związku z tym albo sobie walniesz korki po zajęciach, albo będę cię sekował i dawał ci oceny niedostateczne, bo się musisz głębiej nauczyć, że 2 plus 2 to 4.
+1891:  AK - A Jasiu ma jakieś fundamentalne z tym problemy.
+1893:  AK - Nieważne.
+1894:  AK - Ma zły dzień, ma ADHD, tysiące innych powodów może występować.
+1898:  AK - A teraz odwrócamy tę sytuację.
+1899:  AK - Nie ma klasy, nie ma pana.
+1901:  AK - Każdy z tych dzieciaków, być może nawet nie siedzących w klasie, chociaż lepiej było, żeby one się socjalizowały,
+1906:  AK - w werbalny, niewerbalny kontakt.
+1907:  AK - Jesteśmy istotami społecznymi, więc fajnie, żeby one siedziały w klasie, ale każdy pracuje na własnym poziomie.
+1913:  AK - Rozwija się.
+1914:  AK - I potem te na jaję ze sobą gadają.
+1916:  AK - Słuchaj, Basia jest gotowa do tego, żeby już poznać na przykład geografię, nie wiem, gór stołowych.
+1920:  AK - Dajmy jej, wrzućmy jej to.
+1921:  AK - Ale wiesz co, mały Karol jednak, wiesz co, już jest tak zaawansowany, że on to, przeskoczmy go tam o trzy poziomy.
+1928:  AK - I to będzie piękne.
+1928:  AK - Nie będzie...
+1930:  AK - szkoły w takim rozumieniu, że... Bo po co są oceny?
+1932:  AK - Oceny są po to, żebyśmy my, jako osoby zewnętrznie, obserwatorzy, potrafili ocenić, czy to dziecko się rozwija.
+1939:  KMM - Pseudoobiektywnie jeszcze do tego wszystkiego.
+1941:  AK - Pseudoobiektywnie, tak?
+1942:  AK - Bo to jest obbrzymia czasami bardzo zła robota.
+1945:  AK - Nie ma potrzeby ocen, jeżeli każdy z tych mechanizmów, tych algorytmów będzie rozwijał to dziecko w swoim tempie.
+1952:  AK - Po co jest to?
+1953:  AK - Dziecko pozna tą historię i starożytności i dowie się o tym renesansie i pozna, kto to był Wałęsa i potem jeszcze nauczymy go samorządności.
+1961:  AK - Ale to będzie w ciągu jakiegoś długiego okresu czasu.
+1963:  AK - A być może to, co powiedziałeś.
+1965:  AK - Być może my zawsze będziemy mieli ze sobą gdzieś tutaj takiego swojego przyjaciela.
+1969:  AK - Tu mi od razu przypomina się opowiadanie Stanisława Lema, bo jesteśmy w Krakowie.
+1974:  AK - o takim przyjacielu, który był w uchu, który pamiętasz, a potem ten człowiek próbował tego przyjaciela tam pozbawić życia.
+1983:  AK - Natomiast tak, być może my jako ludzie, którzy po prostu są białkowi, mają tą inteligencję dosyć niewielką, potrafimy, będziemy chcieli uczyć się przez całe życie i będziemy mieli do tego narzędzia.
+1995:  AK - I to dla mnie
+1997:  AK - powoduje, że myślę sobie, kurde, chciałbym mieć taką osobę, taki byt, z którym mogę porozmawiać.
+2002:  AK - Nie dość, że się zwierzyć i to znowu wkraczamy w erę, czy w sferę związaną z zdrowiem psychicznym i w ogóle z opieką zdrowotną, ale właśnie, żeby to był ktoś, kto wie o mnie wszystko,
+2012:  AK - I mówi, słuchaj, ty się jednak doucz tych różniczek, bo to ci będzie za chwilę potrzebne tu i tu, tak?
+2017:  AK - Nie wiesz, co są różniczki?
+2018:  AK - Siadaj, to ci wytłumaczę.
+2019:  AK - Nie umiesz, wiesz co?
+2020:  AK - To może inaczej.
+2021:  AK - Masz dwie gruszki, znajdzie się sposób, tylko musisz mieć do tego cierpliwość i czas.
+2025:  AK - W szkole nie ma ani cierpliwości, ani czasu, a ponieważ program jest układany w taki sposób, że to jest właściwie politycznie narzucona jakaś agenda, to nigdy nie wiadomo, co to dziecko będzie potrzebowało za rok czy za dwa.
+2036:  AK - W związku z tym myślę, że tu też leży problem, bo AI będzie starał się być,
+2043:  AK - efektywny, ale z drugiej strony niezbajasowany.
+2045:  AK - To jest takie, przepraszam za makaronizm, ale nie będący poddany jakimś wpływom.
+2051:  AK - I to się okaże nagle, że prawicowo, lewicowo, centrystycznie wszyscy będą mówili, ale gdzie tu jest ten Żeromski?
+2057:  AK - A gdzie tu jest jakaś lektura, która wiadomo, że jest potrzebna, żeby to był Polak albo Polka?
+2064:  AK - Nie ma.
+2064:  AK - Możesz czytać te lektury, które ci się układają w jakąś logiczną.
+2068:  AK - Dlaczego masz nie czytać Masłowskiej?
+2070:  AK - I na przykład tylko Lema.
+2071:  AK - Dlaczego ktoś się ma katować tym cholernym Żeromskim czy Reymontem, tak?
+2075:  AK - Co to dla dzisiejszego dziecka czyta tych chłopów?
+2078:  AK - Powiem ci szczerze, albo w pustyni i w puszczy.
+2080:  AK - To są opowieści jakiegoś... To właściwie dla nich są piramidy.
+2084:  AK - Znaczy cokolwiek, co ma 50, 80 lat, to jest...
+2087:  AK - równie dobrze mogłoby zostać wykopane właśnie w gipcie.
+2091:  KMM - Ja o tym oczywiście mogę bardzo długo mówić, bo to jest kwestia mnie szczególnie rozpalająca, ale poruszasz kluczową kwestię, to znaczy sztuczna inteligencja ma dostęp do znacznie większej puli parametrów niż nauczyciel, któremu się narzuca pewien schemat, według którego ma uczyć, a uczniowie z kolei mają się do tego schematu podpasować i to jest przepis na tworzenie ludzi, którzy nigdy nie będą kreatywni.
+2112:  AK - I formatowanie, absolutnie.
+2113:  KMM - I formatowanie.
+2114:  KMM - Miałem ostatnio właśnie taką rozmowę z znajomą, która powiedziała, i to było mega przykre, że autentycznie chat GPT potrafi ją bardziej empatycznie uczyć niż profesor na uczelni.
+2126:  KMM - Zresztą wspomniałeś też o ocenianiu.
+2129:  KMM - Myśmy już się zmaszynizowali dawno temu.
+2131:  KMM - To znaczy rozliczamy się za punkciki, za artykuły.
+2135:  KMM - Tu patrzę bardzo znacząco w kamerę.
+2138:  KMM - Mamy średnio ważoną na studiach, mimo że...
+2142:  KMM - to rośli ludzie, powinno być zaliczenie, brak zaliczenia i tyle, most stoi, most leży.
+2146:  KMM - Elo, koniec tematu, tak?
+2148:  KMM - Albo jest dobrze zrobiona, albo jest źle zrobiona.
+2150:  KMM - Jeżeli potrzebujemy subtelności, wtedy no właśnie, wtedy się okazuje, że tej subtelności nie daje nam obecnie człowiek, tylko daje nam sztuczna inteligencja.
+2158:  KMM - Dla mnie to jest taki papierek lakmusowy i dzwonek alarmowy, który nam mówi, ok, jeżeli chcecie krytykować AI, to zacznijcie od siebie.
+2165:  AK - Absolutnie, to co powiedziałeś, uważam, że
+2170:  AK - Był parę lat temu film Hair, w którym mieliśmy piękną historię, akurat miłosną, ale to była, mam wrażenie, znowu taki artefakt, który został stworzony, który oczywiście w sobie skupia wiele pasji i różnego typu lęków.
+2186:  AK - Natomiast on pokazywał, moim zdaniem, świetnie przyszłość, która nastąpi niebawem.
+2192:  AK - Akurat tu mieliśmy seksowny głos Khaled Johansson i to chodziło o uczucia.
+2196:  AK - Natomiast absolutnie wyobrażam sobie, że tak będzie wyglądała m.in.
+2199:  AK - nasza praca czy nasze kontakty.
+2201:  AK - My będziemy potrzebowali jakiegoś wyzwalacza, bo my jesteśmy cholernie ciekawi jako ludzie.
+2208:  AK - Vasco da Gama nie popłynął do tej Indii dlatego, że mu ktoś kazał, tylko on po prostu chciał.
+2212:  AK - On zaryzykował życie swoje i kilkuset innych osób i popłynął.
+2215:  AK - I tak samo wielu z nas, którzy, nie wiem, wspinają się na niezdobyte szczyty, latają jakimiś dziwnymi maszynami, robimy to nie dlatego, że chcemy być piękni i bogaci, tylko żeby zrobić coś, czego nikt wcześniej nie dokonał.
+2225:  AK - W związku z tym my jesteśmy otwarci na ryzyko i przede wszystkim na nowe doznania.
+2229:  AK - I dlatego uważam, że AI będzie dla nas absolutnie fundamentalnym narzędziem i on będzie wszędzie.
+2234:  AK - To będzie jakiś nowy
+2236:  AK - Tak naprawdę pewien poziom dostępności, kiedyś był prąd, potem był internet, obecnie będzie AI.
+2242:  AK - On będzie wszędzie, w tym mikrofonie niedługo, to będzie usługa, która będzie po prostu pływała sobie w powietrzu, będzie wyciągała te informacje i ona będzie cały czas uczyła się.
+2251:  AK - Jasne, znowu pytanie, czy my chcemy być kwantyfikowani i żeby jakiś obcy algorytm wiedział o nas wszystko?
+2259:  AK - Z drugiej strony, jak sobie popatrzymy, jaką moc oddaliśmy mediom społecznościowym, ile metryk one wiedzą, rzeczy, które myśmy nawet nie podejrzewamy, że wewnętrznie mamy jakieś przekonania czy jakieś emocje, te platformy za pomocą różnego typu interakcji z nami potrafią to wyciągnąć.
+2274:  AK - Przekroczyliśmy dawno już ten próg, że dajemy bardzo dużo informacji osobie zupełnie obcym podmiotom, a teraz sformalizujmy to, zamknijmy to i powiedzmy, te informacje są moje.
+2285:  AK - Na przykład na podstawie takiej tworzymy swoje jakieś właśnie wirtualnych pomocników, którzy uczą nas, którzy mają z nami interakcję.
+2293:  AK - Z drugiej strony pomyśl na przykład, że...
+2295:  AK - Ja bym chętnie wziął sobie na kilka dni i na przykład douczył mojego AI-a twoim AI-em, bo na przykład chciałbym dowiedzieć się o światotwórczstwie i chciałbym, żebyś na przykład w jakiś sposób inteligentny, zamiast pytać się ciebie to, co zrobiłem, hej, podaj mi listę lektur, jaką trzeba przeczytać, żeby na przykład zająć się właśnie takim world buildingiem, to teraz twój AI mógłby mi
+2315:  AK - troszkę byś go oddał, w zasadzie skopiowalibyśmy część jego zbioru i on by mógł być moim AI-em.
+2319:  AK - Można handlować tym AI-em, można tworzyć takie osobowości.
+2322:  AK - Dlaczego na przykład nie chciał... Ja bym bardzo też chciał mieć kontakt z osobą, która jest genialna jeżeli chodzi o kwestie kreacji, ale na takim poziomie, że właśnie on siada ze mną i tłumaczy mi, takim kompletnemu nowicjuszowi, jak postawić tą pierwszą kreskę, a za pół roku być może namalować piękny obraz.
+2337:  AK - I to być może jest osoba, która jest unikalna w skali wszechświata i ona istnieje tu i teraz.
+2343:  AK - W ciągu 30 lat będzie żyła na tej ziemi, a potem umrze.
+2345:  AK - I my ją stracimy.
+2346:  AK - Możemy nagrać ją, możemy publikować jej memuary, ale jeżeli ja będę miał z nią kontakt i ona do końca życia będzie zaklęta w tym krzemie, wiem, creepy as, ale z drugiej strony to może być też ratunek dla nas.
+2358:  AK - Czy nie chciałbyś porozmawiać ze swoją zmarłą osobą ukochaną?
+2362:  AK - Ja wiem, że to też może być, nie, trzeba przeżyć tę żałobę.
+2365:  AK - Kurde, pójść na cmentarz i patrzeć się w jakieś wieko leżące, a może można nacisnąć klawisz i powiedzieć, cześć mamo, hej, co u ciebie, pamiętasz, 15 lat temu zrobiliśmy to i to.
+2375:  AK - To jest zupełnie nowe, ja wiem, to jest transhumanizm połączony właśnie z takim bardzo już głębokim puściem do przodu, ale być może jesteśmy pierwszym pokoleniem, które wyprodukowało tak dużo informacji o sobie, że
+2387:  AK - Potencjalnie będziemy żyli już w nieskończoność, bo da się to potem właśnie kwantyfikować i zrobić z nas takie konstrukty, które za kilka lat będziemy mogli po prostu opakować ładnie i możemy powiedzieć, słuchaj, to jestem ja, to jest mój 15 lat wypowiedzi na Facebooku, miliony informacji wymienionych w Gmailu z innymi osobami, skonstruuj moją osobowość na podstawie tych informacji, da się i jeszcze będziesz mówił swoim głosem, bo akurat to jest najpiękniejsze i najprostsze.
+2414:  AK - I nagle się okazuje, że żyjesz w nieskończoność.
+2416:  AK - Oczywiście nie masz świadomości, to będzie na razie oczywiście.
+2419:  AK - Nie ma tam tego pierwiastka, tej iskierki.
+2422:  AK - Ale możesz już mieć taki konstrukt siebie.
+2424:  AK - I kiedyś to były tylko wspomnienia jakichś osób i echa odbijające się przez eony czasu.
+2430:  AK - A teraz być może jesteśmy właśnie pierwszym pokoleniem, które może powiedzieć dobra, to jestem ja.
+2435:  AK - Możesz z mojej wiedzy, z doświadczeń, z emocji korzystać przez najbliższe tysiące lat.
+2440:  KMM - To jest piękna wizja także dlatego, że mieliśmy już takie precedensy.
+2445:  KMM - William Simms Benbridge w takiej serii MIT Press on Game Studies była książką Warcraft Civilization.
+2452:  KMM - I on opisywał sytuację, którą nazwał posthumous playing character.
+2456:  KMM - Cyfrowy byt w grze wideo unieśmiertelniony w zasadzie tak długo, jak długo serwer nie jest wyłączony.
+2462:  KMM - I oczywiście, że ten byt nie ma świadomości, ale piękne w tym wszystkim jest to, że w ten sposób możemy jakoś przedłużyć naszą egzystencję i sprawić, że te informacje, które wyprodukowaliśmy nie zginą.
+2474:  KMM - Bo wcześniej mieliśmy sztukę, a teraz mamy sztuczną inteligencję.
+2477:  KMM - Powiedz mi, jakiego byś dał radę ludziom, którzy dzisiaj nie są tak potężni?
+2483:  KMM - technorealistyczni czy technoentuzjastyczni, w zależności od tego, jak będziemy na to patrzeć, w stosunku do sztucznej inteligencji, a chcą na przykład się rozwijać i chcą się uczyć.
+2494:  AK - Wydaje mi się, że taką najprostszą radą jest bycie ciekawym i posiadanie otwartej głowy, to znaczy nie zamykanie się na poziomie, ja już wiem wszystko, przeczytałem 15 książek,
+2505:  AK - Zero, już nic nie potrzebuję w życiu robić, dlatego że życie nas zaskakuje.
+2509:  AK - Parę lat temu mówiliśmy, że to będzie rok VR, potem był rok Linuxa, potem był rok kryptowalut, teraz mamy rok AI, za być może rok znowu wróci do łask, rok virtual reality.
+2521:  AK - To są jakieś cykle, ale z drugiej strony informacje, które krążą wokół nas, potrzebują cały czas interpretacji.
+2526:  AK - Jeżeli ktoś chce robić, już nie chodzi o zarabianie pieniędzy, bo mam wrażenie, że to jest w ogóle najprostsze, najbanalniejsze, bo właśnie zarobić pieniądze na technologii, ale żeby tak naprawdę
+2535:  AK - rozumie, co się dzieje, na czym polega ten taki wielki, wielkie, te płyty tektoniczne się nachodzą.
+2541:  AK - Tak jak powiedziałem właśnie o kwestii kontaktu między, czy konfliktu między Unią Europejską, Ameryką, Ameryką, a Chinami.
+2548:  AK - Za chwilę mamy kwestię Tajwanu, na którym
+2551:  AK - Nomen omen znajduje się firma TSMC, która produkuje najwięcej mikroprocesorów na świecie i jest najbardziej chyba obecnie taką ciekawszą firmą, ponieważ bez niej 60% światowej produkcji procesorów poszłoby do kosza.
+2564:  AK - Dziwnym sposobem Chiny chcą ten Taiwan odzyskać.
+2566:  AK - Dlaczego akurat teraz?
+2567:  AK - Dlaczego nie?
+2568:  AK - I tak dalej.
+2569:  AK - W związku z tym ja wiem, że to jest bardzo banalne, bardzo wytarte.
+2573:  AK - Czytajcie dużo, interesujcie się, ale na tym właśnie polega.
+2576:  AK - Bycie ciekawym i to na takim poziomie, że
+2579:  AK - Nie tylko bycie ciekawym na zasadzie jestem programistą, to interesuję się innymi językami programowania, tylko kurde, może coś w tej sztuce jest fajnego, a może jednak w tym sporcie, a może potrzebuję właśnie, nie wiem, dwalnąć sobie dopaminkę w postaci tam treningu, bo wtedy mi się otwiera jakaś klapka w głowie, nie wiemy, bo nie próbujemy, a jak nie próbujemy, to potem się okazuje, że jesteśmy...
+2600:  AK - sformatowani i na łożu śmierci okazuje się, zawsze chciałem być marynarzem, dlaczego nie pływałem na statkę?
+2605:  AK - No bo nie spróbowałeś.
+2607:  AK - Co się dziwisz, człowieku?
+2609:  AK - Teraz właśnie umierasz i przyszło do głowy, że chcesz być marynarzem, ale zawsze się bałeś, bo trzeba wyjść z domu, bo trzeba pójść na egzamin.
+2615:  AK - Próbujcie.
+2615:  AK - Zawsze jest ten moment, że najwyżej ktoś wam powie, nie nadaje ci się, to nie jest wasza bajka, albo stwierdzicie, nie, za dużo, za mało, ale to nie jest dla mnie.
+2622:  AK - Ale żebyście potem, pod koniec tego swojego, nawet nie chodzi o życie, ale takiego
+2626:  AK - A, bo tam miałem, nie wiem, czas na studiach i mogłem robić wszystko, a teraz mam żonę i dzieci, już niewiele mogę, no to już te rzeczy nie zrobię.
+2634:  AK - No to do cholery nie żałuj tego.
+2636:  AK - Lepiej jest żałować tego, co się zrobiło.
+2638:  AK - I się przynajmniej człowiek sparzy i mówi, dobra, nie będę profesjonalnym wrestlerem, tak?
+2642:  AK - Mam połamane żuchwę, trzy biodra tam, biodro zwichrowane, dobra, wiem, że to już nie jest dla mnie, tak?
+2648:  AK - Ale jak tego nie zrobisz, to zawsze będziesz marzył, a może bym tam dostał parazę po ryju i jeszcze byłbym z tego sławny, więc...
+2654:  AK - Taka moja fundamentalna rada.
+2656:  AK - Bądźcie otwarci, próbujcie robić te rzeczy, te, które, jak się tak ładnie mówi, wychodźcie spoza swojej sfery komfortu.
+2661:  AK - Ale też na tym to polega.
+2663:  AK - Jak nienawidzisz podróżować stopem, ale nigdy tego nie spróbowałaś, to spróbuj może pojechać raz.
+2669:  AK - Najwyżej wrócisz po trzech dniach z płaczem.
+2670:  AK - Ale jak być może okaże się, że to jest najpiękniejszy okres twojego życia, że pojedziesz pół świata, spotkasz ciekawe osoby i nagle głowa ci eksploduje od nowych doznań.
+2678:  AK - To trzeba po prostu zobaczyć.
+2679:  AK - Są miliony książek,
+2681:  AK - Wszystko jest tak naprawdę spisane, wszystkie nasze emocje, ale ty musisz wybrać, co ciebie interesuje.
+2686:  AK - Więc być otwartym plus ciekawe tego świata.
+2690:  AK - Dlaczego to się zadziało?
+2691:  AK - Dlaczego ten polityk to powiedział?
+2692:  AK - Interesujcie się tym, co się dzieje w waszym najbliższym otoczeniu, w waszej małej ojczyźnie, bo to ma fundamentalny wpływ.
+2698:  AK - A potem się okazuje, że jest jakiś człowiek, który decyduje gdzieś tam w jakiejś głupiej Warszawie o waszym życiu.
+2703:  AK - No bo daliście mu możliwość.
+2705:  AK - Dlaczego?
+2705:  AK - Bo nie poszliście na przykład na wybory.
+2707:  AK - A możesz pójść i głosować.
+2709:  AK - I nie jest prawdą, że twój głos niczego nie zmienia.
+2711:  AK - Absolutnie nie.
+2712:  AK - Kiedyś też był taki facet, który by mógł powiedzieć, nie, ten komunizm na pewno nie upadnie.
+2715:  AK - Nie będę skakał przez mur, czy tam płot tego miejsca.
+2720:  AK - Nie pójdę na to miejsce.
+2721:  AK - Nie będę na czele tego strajku.
+2723:  AK - Kurde, okazało się, że można.
+2724:  AK - Więc sprawczość jest w waszym zasięgu.
+2727:  AK - Róbcie te rzeczy, które być może nawet nie macie pojęcia, że one będą tym pierwszym ruchem motylich skrzydeł, które zmienią cały świat.
+2734:  KMM - I nigdy nie wiadomo, czy w naszym zawodzie, który stereotypowo się nie kojarzy ze służbą inteligencji, właściwie się ona dzięki temu nie przyda.
+2740:  KMM - Dokładnie.
+2741:  KMM - Był z nami Artur Kurasiński, technorealista, przedsiębiorca.
+2744:  KMM - Jeżeli jesteście zainteresowani jego działalnością, polecamy profile społecznościowe.
+2748:  KMM - Na LinkedInie Artur jest szczególnie aktywny i Edukomiks Różo.
+2752:  KMM - Co chcesz wiedzieć?
+2752:  KMM - Co chcesz wiedzieć?
+2753:  AK - Komiks edukacyjny dla dzieciaków, bo to jest też moja pasja, dawać i właśnie edukować dzieciaki.
+2758:  KMM - Dzięki serdeczne Artur i widzimy się w następnym odcinku Bunkru Nauki.
+2767:  AK - Patrzę na tą maszynę, czy ona nie spadnie jednak na głowę.
+2770:  KMM - Dobra, fajnie.

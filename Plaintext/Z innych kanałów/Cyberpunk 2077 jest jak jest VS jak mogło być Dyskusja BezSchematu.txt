@@ -1,0 +1,541 @@
+Cyberpunk 2077: jest jak jest VS jak mogło być || Dyskusja Bez/Schematu
+🔗 https://www.youtube.com/watch?v=XbH9VgGem-A
+BFP (Bartosz Filip Malinowski, Bez/Schematu)
+KMM (Krzysztof M. Maj)
+MG (Marcin Giełzak)
+
+0:  BFP - Znaczy panowie, no powiedzieć, że o Cyberpunk 2077 jest teraz głośno, to nie powiedzieć nic.
+6:  BFP - I niekoniecznie w najlepszym świetle.
+9:  BFP - I pomyślałem, z kim mogę pogadać o cyberpunku, jeżeli nie z ludźmi, którzy już ukończyli tę grę, a ja jeszcze nie, i którzy reprezentują dwa zupełnie różne nurty w podejściu do tej gry.
+19:  BFP - Bo Krzysztof, którego witam po raz pierwszy na bez schematu, mój serdeczny kumpel,
+23:  BFP - który zajmuje się fantastyką i światotwórstwem od strony teoretycznej, akademickiej, a powoli także praktycznej i którego książkę bardzo polecam.
+32:  BFP - Bardzo Ci dziękuję, Światotwórstwo w fantastyce, ale nie dlatego zaprosiłem Cię do odcinka.
+38:  BFP - Reprezentuje ten nurt, a bo Krzysztof też prowadzi swojego vloga.
+42:  BFP - który jedzie po cyberpunku jak walec.
+45:  BFP - Ja myślę, że Krzysztof nie będzie dzisiaj oszczędzał kompletnie cyberpunku.
+49:  BFP - Natomiast Marcin, mój serdeczny przyjaciel, z którym zakładałem bez schematu, jest także tą osobą, która w ogóle wprowadziła mnie w świat cyberpunku.
+56:  BFP - Marcin polecał mi książki mojego kochanego pisarza Williama Gibsona i Marcin jest zachwycony cyberpunkiem.
+65:  BFP - I ja jestem gdzieś pomiędzy wami.
+66:  BFP - To znaczy, wprost mówię, to jest gra, którą uważam za grę bardzo dobrą w porywach do świetnej.
+73:  BFP - A co nie zmienia faktu, że nie spełniłem moich oczekiwań i że jest dużo do powiedzenia także na temat samej sytuacji, w której postawił się CD Projekt Red.
+81:  BFP - I o tym też dzisiaj porozmawiamy.
+82:  BFP - Porozmawiamy o designie mechaniki systemów w tej grze, czyli de facto samym gameplayu, o świecie przedstawionym.
+91:  BFP - o scenariuszu, o zadaniach pobocznych i questach, o postaciach i wreszcie o technikaliach, wizualiach, muzyce, udźwiękowieniu i nie da się uniknąć także tematu bugów.
+101:  BFP - Będziemy unikali spoilerów, to też jest ważne, szczególnie jak przejdziemy do kwestii scenariuszowych.
+105:  BFP - Natomiast chciałem zacząć od tego, że jak ja zacząłem grać w tę grę, moje pierwsze wrażenie nie było pozytywne.
+113:  BFP - Nie było skrajnie negatywne, ale trafiłem na ścianę czy na mur, który
+120:  BFP - którego nie mogłem przejść.
+122:  BFP - Dopiero do 12 godziny, a dokładnie do misji, która dzieje się w hotelu i która uruchamia konkretną sekwencję zdarzeń, to znaczy pojawia się Keanu Reeves, czyli Johnny Silverhand.
+132:  BFP - Bohater zostaje postawiony w bardzo ciekawej sytuacji.
+136:  BFP - Tak naprawdę taki incydent czy zdarzenie, które inicjuje właściwą fabułę, to wtedy zaczęło się robić dla mnie ciekawie.
+143:  BFP - Ale to była dwunasta godzina.
+144:  BFP - Ja dopiero w dwunastej godzinie zobaczyłem ekran główny, ekran tytułowy Cyberpunk 2077.
+150:  BFP - Ale zanim to nastąpiło, to miałem poważny problem z tym, żeby przemóc się i grać dalej.
+155:  BFP - I zastanawiałem się, co zawiodło.
+157:  BFP - I powiedziałbym, że dwie rzeczy.
+158:  BFP - Po pierwsze, brak czegoś, co bym nazwał huk.
+162:  BFP - Brak jakiegoś lepu, który przyssałby mnie do tej gry.
+166:  BFP - Dokładnie tak jak ta misja w hotelu czy Johnny Silverhand, bo ta gra próbowała mi powiedzieć wszystko naraz.
+172:  BFP - Miałem takie wrażenie, że mówi tu jest miasto, tu są tacy bohaterowie, tu są takie gangi, tu możesz robić to, tu możesz się skradać, tu możesz strzelać, tu możesz walczyć kataną, tu masz takie wszczepy.
+182:  BFP - Bardzo dużo próbowała powiedzieć naraz, nie koncentrując się de facto na niczym.
+187:  BFP - I po prostu prześlizgiwała się po powierzchni, nie mówiąc niczego ciekawego o bohaterze, o świecie, o relacji między bohaterem a konkretnymi postaciami, o jakichś charakterystycznych wyróżnikach w rozgrywce tego, co będę robił.
+200:  BFP - nie potrafiła przyciągnąć mojej uwagi, chociaż wiedziałem, że jest jakby ogrom możliwości, które będę przed sobą miał.
+207:  BFP - I z tym się wiąże drugi problem, który miałem.
+209:  BFP - To jest przeładowanie poznawcze.
+211:  BFP - Jak pierwszy raz zobaczyłem mapę i wszystkie znaczniki, które na niej są, to wstałem i powiedziałem, nie, nie wiem czy ja chcę w to grać.
+219:  BFP - Bo zobaczyłem, to nie chodzi o to, że ja nie lubię jak jest dużo contentu w grze, ale ja nie przyzwyczaiłem się w grach CD Projektu do tego, że jestem przeładowany dużą ilością contentu.
+230:  BFP - Przyzwyczaiłem się do tego, że jest jakość nad ilość.
+234:  BFP - I jak szybko się okazało, większość z tych znaczników to są na przykład znaczniki, gdzie ja mogę kurwa kupić samochód, które mają dokładnie ten sam kolor i to samo oznaczenie, co ciekawe questy.
+244:  BFP - I teraz designerzy rozwiązują to zazwyczaj w ciekawy sposób.
+247:  BFP - Na przykład dopiero po jakimś czasie wprowadzają postać, która otwiera przede mną szereg questów danego typu.
+253:  BFP - Albo ja uzyskuję jakąś umiejętność, która pozwala mi wykonywać zadania pewnego typu.
+258:  BFP - A CD Projekt Red postanowił zrzucić na mnie to wszystko.
+261:  BFP - I w efekcie...
+262:  BFP - Ani nie miałem ciekawego hook na początku, który by mnie wciągnął i wykonywałem te niepotrzebne aktywności oddalając się od tego, co faktycznie by mnie wciągnęło do gry, czyli misji w hotelu.
+272:  BFP - Jestem w stanie sobie wyobrazić, że jest bardzo wielu graczy, którzy spędzą 20-30 godzin w tym świecie i będą mówili no jest takie, no fajne.
+280:  BFP - Tylko dlatego, że nie wybrali misji fabularnej, która powinna się pojawić wcześniej.
+283:  BFP - Gracz powinien zostać nawet, jeżeli nie zmuszony, to bardzo silnie zachęcony do tego, żeby się jej podjąć.
+289:  BFP - I
+290:  BFP - To było dla mnie bardzo dziwne rozwiązanie designerskie, a nawet reżyserskie.
+294:  BFP - Bo wystarczyło, że przemogłem się, dotarłem do tej misji, uruchomiła się sekwencja zdarzeń, uruchomiły się nowe możliwości i gra zaczęła być bardzo dobra w porywach do świetnej.
+304:  BFP - I ten okres takiej inercji i niezdecydowania minął bezpowrotnie, ale mogło to nastąpić szybciej.
+311:  BFP - Takie było moje pierwsze wrażenie, kiedy sięgnąłem po grę, na którą czekałem 8 lat.
+315:  BFP - Jakie było wasze pierwsze wrażenie, kiedy sięgnęliście po grę, na którą tak długo się czekało i mając przecież świetne wspomnienia po Wiedźminie 3?
+322:  BFP - Marcin.
+325:  MG - Ja podszedłem do tej gry wbrew pozorom bardzo po buddyjsku.
+328:  MG - Przyszedłem bez oczekiwań, odszedłem bez oczekiwań i cieszyłem się tym, co było pomiędzy.
+334:  MG - Mi ta gra dała bardzo dużo przyjemności i przez duży ten czas to było guilty pleasure.
+340:  MG - Od samego początku miałem to wrażenie, że to nie będzie to, czego ludzie się spodziewali, kiedy zobaczyli ten zwiastun w 2018 roku.
+350:  MG - To będzie dużo bardziej rozrywkowa gra, w której chodzi o to, żeby
+354:  MG - zdobywać fajne ubrania, żeby kupować fajne samochody, żeby postrzelać, żeby pobiegać z elektryczną kataną w kuloodpornym garniturze, a nie będzie chodziło o to, że dostaniemy tutaj jakiś niesamowity świat przedstawiony, jakąś głębię fabularną.
+369:  MG - I w związku z tym, że moje oczekiwania nie były w tej mierze bardzo wywindowane, toteż nie zostały bardzo zawiedzione.
+376:  MG - Chociaż przyznaję, że jak czytałem przed premierą gry, że jednym z
+382:  MG - nieprzyjaciół, z którymi się będziemy tam musieli zmagać, jest pogoda.
+386:  MG - I będzie jak w Blade Runner 2049, będziemy mieli nagle śnieżyce albo kwaśny deszcz i trzeba będzie się nauczyć radzić z tym.
+396:  MG - Jeżeli słyszałem o tym, że będą hipertargetowane reklamy, nagracza, w taki sposób, żebyśmy weszli do tego, a nie do innego sklepu, to myślałem sobie, to będzie uczta.
+405:  MG - I tego po prostu w finalnej grze nie ma, więc
+409:  MG - Tak szybko się połapałem w tym, że to, co nam dano, to jest naprawdę dobra wersja beta.
+414:  BFP - A to ciekawe, bo fu...
+417:  BFP - Mocne słowa, szczególnie jak na graczy na PlayStation 4.
+422:  BFP - Ale to, co powiedziałeś, bo tak przeleciałeś po tym i powiedziałeś, no przecież nie spodziewałem się jakiegoś złożonego, imersyjnego świata i poważnej fabuły.
+432:  BFP - Momen, ale to nie jest przypadkiem to, co właśnie nam obiecano?
+436:  BFP - Czy to nie jest coś, co przez 8 lat nam obiecywano?
+438:  BFP - Ja myślę, że ten wątek podejmie Krzysztof lepiej, bo o tym sporo mówił.
+442:  BFP - Zresztą tym się zajmujesz, tak?
+443:  BFP - Światami przedstawionymi.
+446:  MG - Też się zajmuję światami przedstawionymi, czasem muszę coś sprzedać.
+451:  KMM - Właśnie to jest ciekawe, bo zastanówmy się, co sprzedaje Blizzard w World of Warcraft od lat.
+458:  KMM - Ma lepsze dodatki fabularne, ma dobre dodatki fabularne, ma dobre rozszerzenia, ma świetne mechaniki, czasem gorsze mechaniki, czasem mu się zdarza wyzerować pół świata i wściec fanów, a gracze grają.
+471:  KMM - Bo świat jest zaprojektowany tak i ma taką głębię,
+475:  KMM - że cały czas jest coś w nim do odkrycia, więc myślę, że tutaj jest właśnie ta pełna korelacja między tym potencjałem sprzedażowym, a dobrze zaprojektowanym światem i nie rozumiało tego EA przy Anthem, czy Bioware przy Anthem, który upadł w zasadzie przez tę grę i mam wrażenie niestety, że nie zrozumiało tego CD Projekt Red, co jest fenomenem, biorąc pod uwagę, że i tutaj jestem dlatego dla nich bezwzględny, oni dostali gotowca, to znaczy oni dostali świat zaprojektowany
+501:  KMM - świetnie, m.in.
+502:  KMM - przez Mike'a Pondsmitha w postaci Cyberpunka 2020, dostali genialne postaci, dostali Rock, dostali Adama Smashera, dostali Johnny'ego Silverhanda.
+511:  KMM - Jedyna postać, jaką mieli napisać, to był V. Poczekaj, zanim przejdziemy do postaci... I to jest najgorsza postać w grze.
+517:  BFP - Zanim przejdziemy do postaci i zanim przejdziemy jeszcze do świata.
+520:  KMM - Więc jeśli chodzi o... Twoje pierwsze wrażenie.
+523:  KMM - Więc moje pierwsze wrażenia, bo tak, to było ad vocem krótkie, ale pierwsze wrażenie było bardzo pozytywne.
+529:  KMM - Pierwsze 20 godzin mojej rozgrywki to było jedno wielkie wow, robienie screenshotów, wysłanie jej narzeczonej, mówienie, popatrz, jestem w niesamowitym świecie, wysłałem ci pocztówki z tego świata, dosłownie wysłałem pocztówki z cyfrowego świata.
+545:  KMM - Dodam, że zaczynałem jako korpos, ponieważ stwierdziłem, że podejdę do cyberpunka subwersywnie i zobaczę, jak to jest być po stronie tych złych.
+554:  KMM - w tym świecie i co gra mi zaproponuje.
+557:  KMM - Czy gra pozwoli mi zdradzić korporację, czy gra pozwoli mi uwikłać się w wojnę korporacji taką, która jest sednem cyberpunka, niestety czytamy o nich głównie w e-bookach.
+568:  KMM - Czy może będzie tak, że wręcz przeciwnie, uda mi się być lepszym Saburo Arasako i zreformować jedną z korporacji.
+576:  KMM - no to się okazało, że po mniej więcej 10 minutach zostałem z tej korporacji wykopany, ponieważ cyberpunk we wszystkich trzech otwarciach dąży do tego, żeby wyzerować nasze linie życia i doprowadzić do głównej linii fabularnej.
+588:  KMM - Więc muszę powiedzieć otwarcie, że u mnie ten napis cyberpunk pojawiający się po 12 godzinach gry, to było takie uczucie zadowolenia.
+598:  KMM - No tak, to przebili Assassin's Creed'a, dwójkę, którego pamiętam właśnie po tym, że sekwencja pościgu, która mi się wydawała częścią gry, to był tak naprawdę prolog i pojawił się napis wtedy Assassin's Creed 2.
+608:  KMM - Dla mnie to był duży pozytyw.
+610:  KMM - Natomiast później niestety, jak zorientowałem się, że
+615:  KMM - gra składa się też z otwartego świata, to w tym momencie moje wrażenia zaczęły z poziomu 90 na 100 schodzić na 60 na 100 i 40 na 100 powoliutku i to się niestety coraz bardziej pogarszało, ale od razu dopowiem, że to otwarcie, które jest monumentalne, wyreżyserowane tak właśnie, żeby
+635:  KMM - wzbudzać zachwyt, ma jednak równocześnie wadę, którą też dostrzegam teraz po chwili, to znaczy wadę w ekspozycji.
+640:  KMM - Rzeczywiście gra próbuje za dużo nam przedstawić naraz i robi taki infodump, czyli coś, czego uczy się na wszystkich warsztatach creative writingu, żeby nie robić.
+649:  BFP - I tu jest ten problem, wydaje mi się.
+651:  BFP - Znaczy ja uważam, że właśnie źle była wyreżyserowana ta gra na początku.
+654:  BFP - Ja dopiero co robiłem recenzję innej polskiej gry cyberpunkowej, jaką był Observer,
+660:  BFP - W wersji System Redux i tam ten huk był od razu.
+663:  BFP - Trafiam do kamienicy, doszło do morderstwa, zdaje się, że to może być mój syn, który jest martwy, ale nie mam dowodów, można się jak najszybciej dowiedzieć.
+672:  BFP - Bam!
+673:  BFP - Oczywiście, że to jest zupełnie innego typu gra.
+675:  BFP - To jest...
+677:  BFP - przestrzeń, w której mogę się poruszać tak jak chcę, ale bardzo, bardzo, bardzo, bardzo ograniczona.
+682:  BFP - Są tam jakieś side questy, powiedzmy, czy sprawy dodatkowe, ale jakby to, co sprawia, że ja rozumiem, o co chodzi w tej grze, po co tam jestem, pojawia się bardzo szybko.
+692:  BFP - W cyberpunku nie.
+693:  BFP - Jest jakby tu masz miasto, tu będziesz robił rzeczy, tu będą postaci, tu masz różne umiejętności.
+699:  BFP - Rób, co chcesz.
+700:  BFP - Miej powód, żeby chcieć to robić.
+703:  BFP - To był mój problem.
+704:  MG - Ale powiem wam, że jest na samym początku pewien big reveal, który naprawdę pomaga zarządzać oczekiwaniami.
+711:  MG - To znaczy to, o czym wspomniał Krzysztof.
+714:  MG - Jak ja zobaczyłem, że w kreacji postaci większą rolę odgrywa to, jakie genitalia będzie miała postać niż jej historia.
+724:  MG - Że wszystkie te opcje, które obiecywano związane z tym, że na przykład będziemy zapytani, jak ona trafiła do Night City.
+730:  MG - albo jakie było kluczowe wydarzenie z jej dzieciństwa, że one wyparowały, że tego nie ma.
+735:  MG - A później po naprawdę krótkim prologu, po którym jest całkiem nieźle zrobiony montaż, mamy wyzerowanie historii naszej postaci, czyli okazuje się, że wszyscy musimy znaleźć się w tym samym punkcie, bez względu na to, czy byliśmy street kid, nomad czy corpo.
+753:  MG - Zdałem sobie sprawę, że
+755:  MG - Albo to jest japońska szkoła robienia RPGów, czyli RPGi z dużym wpływem kalwinizmu, mamy tysiąc wyborów, ale wszystko zawsze się skończy tak samo.
+765:  MG - Albo to w ogóle nie jest RPG, to jest shooter za statystykami.
+769:  MG - No i okazało się, że to jest to drugie.
+771:  MG - I właśnie do tego... Skoro shooter, to ja się cieszyłem strzelaniem.
+775:  KMM - Znaczy wiecie, od razu dopowiem, bo to jest wprawdzie informacja, którą od razu robię disclaimer, przeczytałem w Line Reddicie i na wykopie, ale podobno miała być początkowo w cyberpunku trzy historie trzech postaci.
+788:  KMM - Mieliśmy się wcielać albo w Johnego Silverhanda, albo w Saburo Arasaka, albo i tutaj jest trzecia postać z uniwersum wyparowała mnie, ale właśnie jakiegoś street kida.
+796:  KMM - I wydaje mi się, że
+798:  KMM - ten sam pomysł, żeby dwie postacie zmerge'ować w jedną, a te wszystkie linie fabularne zbiec do jednej, właśnie bierze się z tego, że zmieniła się koncepcja narracyjna w trakcie.
+808:  KMM - I być może z tym się też wiążą te problemy, o których mówicie, to znaczy, że w grze nie ma motywacji, czyli tego podstawowego czynnika, który powinien sprawiać, że znam odpowiedź na to, co ja robię w tym świecie.
+818:  KMM - Bo prawda jest taka, że my mamy tutaj odpowiedź na pytanie, gdzie jesteśmy.
+822:  KMM - I ta odpowiedź jest realizowana fantastycznie.
+827:  KMM - I mój problem bierze się z tego, że jest taki fajny tekst klas trupitowski, w którym one pokazują, co to jest, co sprawia, że my świat odczuwamy jako świat.
+837:  KMM - I ona mówi, że tam są trzy rzeczy.
+839:  KMM - znaczy one mówią.
+840:  KMM - Po pierwsze, że jest mytos, jakieś legendarium, właśnie historia, która sprawia, że wiemy skąd przyszliśmy, co się dzieje w tym świecie, że on ma jakąś swoją historię.
+847:  KMM - George Lucas dbał o to, żeby była ta formuła used universe, żebyśmy wiedzieli, że te wszystkie pojazdy są naznaczone zębem czasu itd.
+854:  KMM - Po drugie jest przestrzeń, topos, no to nie trzeba wyjaśniać, a po trzecie jest etos i to jest ta najważniejsza część, która sprawia, że jest filozofia, są motywacje, wybory moralne,
+865:  KMM - Także nie ma wyborów moralnych, nawiasem mówiąc, albo jest im bardzo niewiele.
+869:  KMM - I tych dwóch komponentów tu nie ma.
+872:  KMM - I to sprawia, że owszem, możemy się rozejrzeć i w tym sensie mówiłem też po świecie i być zachwyconym, i w tym sensie mówiłem, że gra robi wrażenie na mnie, ponieważ moment, w którym wzbijałem się śmigłowcem z najwyższych wieżowców Night City i okrężnym lotem
+891:  KMM - płynęliśmy przez ten ciemny przestwór rozjażony neonami, to ja wiedziałem, co ta gra mi mówi.
+897:  KMM - Ta gra mówi mi, zachwycaj się mną.
+899:  KMM - To miasto mi to mówi.
+900:  KMM - Ja to robiłem, bo przyznam też, że moje podejście jest takie, że ja zawsze cenię sobie to, jak jest świat wykreowany, dopiero potem się zaczynamy zastanawiać w zasadzie, kim w tym świecie jestem.
+910:  KMM - I być może dlatego moje oczekiwania na początku zostały zaspokojone, ale tylko na początku.
+915:  BFP - Powiedzieliście bardzo ważną rzecz, którą ja w zasadzie chciałem powiedzieć, więc może ją tylko uzupełnię.
+921:  BFP - Dla mnie największy problem, jaki jest cyberpunkiem, czyli sprowadzając już do szczegółu, co to znaczy, że nie spełniła do końca oczekiwań, to jest to, że on jest dla mnie w rozedrganiu między dwoma gatunkami gier, czyli tak de facto dwiema obietnicami, które składa się graczowi.
+938:  BFP - Z jednej strony spektrum jest złożone, głębokie, ciekawe RPG,
+943:  BFP - które może reprezentować na przykład Fallout New Vegas, Divinity Original Sin czy niedawno Wasteland 3.
+949:  BFP - I z drugiej strony tak zwany Immersive Sim, którym może być Hitman, Deus Ex, Mankind Divided albo Dishonored.
+958:  BFP - I z Deus Exa bardzo dużo czerpie ta gra.
+960:  BFP - Szczególnie jeżeli chodzi o czystą taką mechanikę gameplayową, jeżeli chodzi o hakowanie, skradanie się, systemy walki, a nawet rozwój postaci i wszczepy.
+971:  BFP - To jest żywcem wzięty z Deus Exa.
+973:  BFP - Tylko problem z tym rozedrganiem polega na tym, że żadnej z tych rzeczy nie robi dobrze.
+978:  BFP - Po pierwsze, jeżeli chodzi o RPG,
+980:  BFP - To dla mnie razi płytkość wyborów w tej grze.
+982:  BFP - Jak bardzo to wszystko jest powierzchowne.
+984:  BFP - Co z tego, że ja mogłem sobie wybrać inne genitalia, jeżeli to nie ma wpływu na rozgrywkę żadnego.
+990:  BFP - I trafiłem kilka razy na takie irytujące sytuacje.
+994:  BFP - Jest świetny quest w tej grze, List Jonasza, prawda?
+997:  BFP - Który jest naprawdę dobrze napisany fabularnie.
+999:  BFP - Jest głęboki, pełen odniesień, symboliki.
+1001:  BFP - Jest naprawdę ciekawy, ma wielki potencjał.
+1004:  BFP - Ale ja nie mogłem zmienić wyboru bohatera tego questu.
+1008:  BFP - Ja nie mogłem nic zrobić.
+1010:  BFP - Jakby, cokolwiek bym nie powiedział, ten quest kończył się tak samo, zawsze tak samo.
+1014:  BFP - Ja pamiętam, że Wiedźmi nie trzeba było więcej opcji.
+1018:  BFP - Inny quest, który dzisiaj skończyłem, właśnie Stróże Bezprawia bodajże, także kończy się dokładnie tak samo.
+1025:  BFP - Mówię do detektywa Rivera, nie, nie rób tego, a on mówi, no, zrobię po swojemu.
+1031:  BFP - I jakby ta iluzja wyboru jest dla mnie dość irytująca, podobnie jak iluzja miasta.
+1036:  BFP - Nie widziałem bardziej żywego miasta i bardziej żywego świata od czasu dwa lata temu Red Dead Redemption 2, gdzie wszystko naprawdę dynamicznie reagowało na każdą moją decyzję, na wszystko co robiłem.
+1046:  BFP - A tutaj skrypt mieszkańców zawsze działa w jeden sposób, kiedy otworzę ogień, kiedy to jakby to jest...
+1053:  BFP - Stary design, to jest już przestarzały design, jakby troszeczkę nie z tych czasów.
+1058:  BFP - Wioska podjankinowska.
+1060:  BFP - Ta imersja, która powinna być charakterystyczna dla nowoczesnego RPG, co jest świetnie widoczne właśnie w Wasteland 3, albo w Divinity Original Sin.
+1070:  BFP - Ta głębia wyborów i możliwości kształtowania swojej własnej przygody, bo jakby nie patrzeć, to jest gra fabularna.
+1076:  BFP - I kiedy myślę o Wasteland 3 i myślę, że ja tam mogłem niszczyć całe frakcje,
+1080:  BFP - Ja mogłem się zgadać z jakimś gościem i powiedzieć, słuchaj, zniszczmy całą tą frakcję.
+1085:  BFP - Nie wiem, zrzućmy na nich bombę atomową.
+1087:  BFP - Albo zagrajmy na moje, albo zbudujmy nietypowe sojusze.
+1092:  BFP - I naprawdę tak było.
+1093:  BFP - Ja wracałem na miejsce i była zniszczona lokacja.
+1096:  BFP - Albo wybiłem całą frakcję.
+1098:  BFP - A tutaj nie ma takiej możliwości, a przecież jest 7, czy 8, czy 9 gangów.
+1102:  BFP - Więc dla mnie w tym aspekcie RPG-owym jest skala.
+1107:  BFP - Jest bardzo duża szerokość, ale nie ma...
+1110:  BFP - głębi.
+1112:  BFP - I tu naprawdę nie mówię nawet o pewnych motywach, które są podejmowane.
+1116:  BFP - Mam na myśli przede wszystkim
+1120:  BFP - To, że brakuje mi jakiegoś splotu zdarzeń, czy sekwencji zdarzeń, które uruchamiałbym jak domino dzięki decyzjom, które podejmuję, czy nawet to, jak ukształtowałem swoją postać, żeby miało to wpływ na rozgrywkę.
+1130:  BFP - A z drugiej strony, kiedy mówię o immersive simie, jak mówię o porównaniu do Deus Exa, którego się nie uniknie, to te wszystkie mechaniki rozgrywki, które ja bym nazwał wielorakim podejściem do jednego problemu, daniem różnych możliwości rozwiązania jednego problemu,
+1145:  BFP - To również jest strasznie płytkie.
+1147:  BFP - Przykładowo, i to są takie rzeczy, na które natrafiałem raz na jakiś czas.
+1153:  BFP - Niby mam do dyspozycji walkę, hakowanie i skradanie się, ale za każdym razem faworyzowana jest walka.
+1160:  BFP - Bo hakowanie jest dość prymitywne, a skradania się nie można rozwijać.
+1165:  BFP - W Deus Ex mogłem zdobywać nawet specjalne punkty i perki za to, że byłem jak duch.
+1171:  BFP - Dostawałem najwięcej punktów doświadczenia za to, że unikałem kompletnie walki.
+1174:  BFP - I dopiero ledwie dzisiaj miałem taką sytuację, w której wszedłem w lokację, która miała poziom trudności bardzo wysoki.
+1183:  BFP - I udało mi się przekraść pomiędzy wszystkich przeciwników i naprawdę byłem gotów sobie sam bić brawo, dopóki nie dotarłem do punktu, w którym okazało się, że muszę zabić bossa.
+1193:  BFP - I ten boss, nie w rozumieniu gry, tylko boss jako szef tej szajki był nie do pokonania.
+1199:  BFP - I musiałem spierdalać z tamtej lokacji, bo gra nie dała mi możliwości podstępnego zabicia go.
+1204:  BFP - Albo inny przykład jeszcze z dzisiaj.
+1206:  BFP - Trafiłem do szpitala dla chorych umysłowo i miałem stamtąd uratować jakąś kobietę.
+1215:  BFP - I pomyślałem, wow, jak ja do tego podejdę w stylu Deus Exa albo w stylu Hitmana.
+1219:  BFP - I wkradłem się do jakiejś przebieralni i znalazłem uniform, jeden z tych uniformów, które można założyć na całe ciało.
+1228:  BFP - I założyłem ten uniform i pomyślałem, teraz będę wyglądał dokładnie tak jak obsługa szpitala.
+1232:  BFP - Okazało się, że nie, to nie miało żadnego znaczenia.
+1234:  BFP - Nie mogłem się wtopić w obsługę szpitala, bo to był po prostu jakiś uniform, który nie odgrywa żadnej funkcji użytecznej.
+1240:  BFP - Czyli za każdym razem miałem takie wrażenie, chciałbym hakować, ale nie mogę na przykład zablokować drzwi, żeby nie wydostali się stamtąd przeciwnicy.
+1247:  BFP - Nie mogę przejąć kontroli na moment nad potężnym przeciwnikiem, nie tylko machiną, ale przeciwnikiem.
+1253:  BFP - Nie mogę nosić sam drona, ani wieżyczek, drona tak jak było w Spider-Manie, żeby na przykład zrobić rekonesans.
+1260:  BFP - A kiedy się skradam, nie mogę na przykład przemykać super szybko, nie mogę włączyć jakiejś niewidzialności, bo za każdym razem gra wymusza na mnie, żebym nawiązał walkę i marzyło mi się, żebym w pewnym momencie miał takie opcje jak mam w New Vegas czy Wasteland 3, mam się dostać do jakiegoś klubu, mam coś zinfiltrować, coś wykraść, ja wiem jak tam wejdę, zagadam gościa.
+1281:  BFP - Użyję perswazji i tak jak w Deus Exie będę w stanie zintegrować się z jego oczekiwaniami i nagadać mu to, czego on oczekuje, żeby dostać się do środka.
+1291:  BFP - Ale nie było takiej możliwości.
+1292:  BFP - Kilka razy w toku fabuły, ale nie w samych questach, więc ja naprawdę wolałbym, żeby ta gra była mniej rozległa.
+1299:  BFP - ale miała więcej jakościowego contentu, który będzie bardziej immersyjny, a niestety chciano wrzucić zbyt wiele w tę grę i przez to wiele z takich zadań pobocznych, które ja chciałbym wykonać na swój sposób, ma jedno bądź dwa rozwiązania, kiedy Deus Ex czy Hitman ma ich 20.
+1315:  BFP - I to boli.
+1318:  KMM - Przypominam sobie, krótki ad vocem, przypominam sobie bardzo specyficzny typ walki z bossem w Deus Exie, którego bardzo im brakowało w cyberpunku.
+1331:  KMM - To nie jest ta walka, w której wyciągaliśmy najlepsze giwery i obrzucaliśmy granatami.
+1335:  KMM - To nawet nie jest ta walka, w której podchodziliśmy od tyłu i zabijaliśmy nożem.
+1339:  KMM - Tylko z nim rozmawialiśmy.
+1341:  KMM - Tylko rozmawialiśmy, był specjalny wszczep, który badał puls serca, tętno itd., rozmówcy i ten wszczep mogliśmy rozwijać w taki sposób, żeby panować retorycznie nad konwersacją.
+1353:  KMM - Ja pamiętam swoje emocje wtedy i były niesamowite.
+1357:  KMM - A cyberpunk ma jedną odpowiedź, zabij go.
+1360:  KMM - Zawsze.
+1361:  KMM - Ewentualnie oszczędź.
+1364:  MG - Jest gorzej, jest gorzej.
+1366:  MG - Powiedziałeś Filip, życie to boli, mój ból jest większy niż twój.
+1371:  MG - Jest scena, w której możesz w sposób zbędny kogoś zabić, z czystej mściwości i nienawiści, co będzie miało rzekomo wpływ na swoją relację z jedną z kluczowych postaci, czyli nie spodoba jej się ten...
+1389:  MG - Ten obraz ciebie, jako osoby, która jest w stanie zabić kogoś w taki sposób,
+1394:  MG - I dosłownie w następnej scenie masz możliwość wybrania jednej z dwóch opcji dialogowych na pytanie dlaczego zabiłeś, zabiłaś tego człowieka.
+1404:  MG - Obydwie sprowadzają się do czegoś w rodzaju, nie wiem Andrzej, nie wiem.
+1409:  MG - I nic ci się nie stanie.
+1410:  MG - Po prostu ta postać przyjmie to do wiadomości i następnym razem zadzwoni do ciebie jakby nigdy nic i możesz kontynuować rozgrywkę.
+1417:  MG - To nie miało żadnego znaczenia.
+1421:  MG - się podejmuje w cyberpunku aż do samego końca gry, bo w ostatniej misji wybory zaczynają mieć znaczenie, po prostu stają na niczym.
+1430:  MG - Natomiast czy widzę światło w tunelu?
+1432:  MG - Widzę.
+1433:  MG - Widzę je w DLC i widzę je w modowaniu przez graczy, bo taka możliwość podobna jest przez CD Projekt Red stworzona.
+1442:  MG - My już mamy ciasto, mamy wkład, to znaczy to jest ogromny, niezwykły świat.
+1448:  MG - Każdy lokal, do którego można wejść na drinka, ma swój charakter, swoją osobowość, ma barmana, z którym można wdać się w rozmowę i to nie jest ten sam barman w każdym lokalu.
+1459:  MG - Każdy Ripper Dog, do którego idziemy, czyli ci... Wszczepowcy.
+1467:  MG - Nie lekarze na pewno, ci rzeźnicy technologiczni, którzy pomagają nam udoskonalać swoje ciało.
+1476:  MG - Jednym biznes się kręci, drugim idzie słabo, niektórzy są w tym dobzi, inni są raczej w tym niskobudżetowym odcinku rynku.
+1485:  MG - Też jest w tym ogromny potencjał.
+1487:  MG - I wreszcie gangi.
+1489:  MG - Ta gra ma niesamowity zestaw gangów.
+1494:  MG - Demoxes, czarny sen polskiej prawicy, czyli gang mniejszości seksualnych i seksworkerów, którzy się zorganizowali dla samoobrody.
+1505:  MG - I można ich spotykać bardzo często przed lokalami, przed domami publicznymi.
+1509:  MG - Trzymają też branżę porno, mają w sobie coś trochę w stylu The Deuce, Simona.
+1517:  MG - Sixth Street Gang, czyli tacy amerykańscy good old boys, wyglądają trochę jak Tea Party, które przychodzi bronić drugiej poprawki.
+1525:  MG - To jest gang, który powstał, żeby chronić uczciwych obywateli przed gangami.
+1529:  MG - Sam się zamienił w jeden z najgorszych gangów.
+1532:  MG - Mój ukochany gang, czyli Voodoo Boys, to jest hajdańska mafia, która łączy voodoo z kultem technologii.
+1541:  MG - I teraz, kiedy mówię wam o tych gangach, jest ich więcej, to aż chciałoby się wejść w sojusz z jednym z nich przeciwko drugiemu gangowi, przyłączyć się do nich, mieć z nim jakąś relację.
+1554:  MG - A jedyne, co mamy, to możliwość zastrzelenia ich, rozcięcia ich w pół kataną albo rozjechania samochodem.
+1560:  MG - Tak.
+1560:  MG - To są jedyne interakcje, na które gra nam pozwala z gangami.
+1563:  MG - To jest absolutnie zmarnowany potencjał.
+1565:  MG - Ale jeżeli powstanie DLC na temat gangu Tiger Claws,
+1570:  MG - czyli takiego przemieszania Jakut ze Striadą.
+1572:  MG - Albo jeżeli powstanie mod, czy DLC, gdzie będziemy mogli współpracować z RipperDockami, to będzie zupełnie inna rozmowa.
+1580:  MG - Ja po prostu liczę na to, że cyberpunk zamieni się w taki trochę światak Skyrim, że my za 10 lat od dzisiaj będziemy rozmawiali o cyberpunku, dlatego, bo powstaną naprawdę udane mody i naprawdę udane DLC, które powiększą ten świat i pogłębia po prostu.
+1595:  KMM - śmieszne.
+1596:  KMM - Czyli mówiąc trochę złośliwie, jeżeli chcemy pozytywnie ocenić świat Cyberpunka, musimy ocenić Cyberkabanka 2020, a także DLC, których jeszcze nie ma.
+1606:  KMM - Więc to jest pewien problem, prawda?
+1609:  KMM - Zgadzamy się wszyscy z tym, że tu jest niesamowicie dużo treści, nieprawdopodobny potencjał, ale jest niestety coś, co anglosasi nazywają void, czyli jest po prostu
+1620:  KMM - próżnia fabularna, próżnia narracyjna także, bo to nie to samo, próżnia światotwórcza w tym sensie, że ten świat nie wytwarza się sam, to znaczy on już został wytworzony, ale nie żyje, nie rozwija się, w tym świecie nie ma czasu, on jest zawieszony w bezczasie.
+1637:  KMM - Postaci są tak oskryptowane, że krążą wokół tej samej dzielnicy, ja wpadłem parę razy na niewidzialną ścianę, przed którą wszyscy przechodnie zawracali.
+1647:  KMM - Samochody krążą w kółko po rondach.
+1650:  KMM - To jest oczywiście przykład tego, jak gra została oskryptowana, ale te decyzje przenoszą się dalej.
+1655:  KMM - To znaczy nie ma konsekwencji właśnie dlatego, że zastrzelimy chociażby jakiegoś szefa gangu, bo za moment w głównej linii fabularnej on zmartwychwstaje i daje nam dalej questy.
+1665:  KMM - To był mój przypadek.
+1666:  KMM - Więc ten brak konsekwencji i brak poczucia jedności ze światem sprawia, że właśnie on jest tak trochę zawieszony między tymi dwoma porządkami.
+1674:  BFP - Ja będę bronił tego tytułu, jeżeli chodzi o warstwę fabularną.
+1679:  BFP - Dlatego, że mimo, że jestem jedynym z naszego grona, który jeszcze nie ukończył gry, to miałem pośród wszystkich moich zarzutów, a jak już wiecie, największy to jest to, że poszli w szerokość i w ilość, a nie w głębie i w jakość.
+1693:  BFP - To jest to, że wydawało mi się, że nie trafię na takie questy, na takie zadania, takie małe, zamknięte historie, które uwielbiam w grach, jakie oferował Wiedźmin 3 na każdym kroku.
+1704:  BFP - I Marcin mówił mi, uspokajam cię, spokojnie, poczekaj na quest List Jonasza, poczekaj na quest Judy i tak dalej, i tak dalej.
+1713:  BFP - I rzeczywiście, miał rację, trafiłem na te questy, tylko ciężko było je odsiać od różnych innych questów, które są banalne, bo jest wiele questów zbudowanych na następującym silniku, czy też schemacie.
+1724:  BFP - Zinfiltruj, ukradnij, zabij albo ochraniaj.
+1729:  BFP - I to jest kopiuj w klej.
+1730:  BFP - To jest taki niebezpieczny krok w stronę Dragon Age Inquisition od Bioware'u i Electronic Arts, czy też od nieprawdopodobnie rozdmuchanych wielkością gier typu Assassin's Creed, które osobiście lubię, ale Valhalla czy Odyssey są po prostu przeładowane takimi
+1748:  BFP - Rzeczami typu kopiuj wklej, kopiuj wklej.
+1750:  BFP - Tutaj mam jakiś klub, mam jakiś magazyn należący do tego gangu i mam tam wejść i coś wykraść albo zinfiltrować i zawsze muszę wyciągnąć katanę albo karabin, albo muszę się spróbować zagrać, ale hakować mogę niewiele, nie mogę się przebrać, nie mogę talk my way in, czyli nie mogę wkupić się tam po prostu dając jednego z nich, to jest to o czym mówiliśmy przed chwilą.
+1770:  BFP - Natomiast
+1771:  BFP - Siłą rzeczy i tak te questy na koniec są do siebie bardzo podobne, mówię o tych aktywnościach, ale wciąż i tego żałuję, że w jakiś sposób nie wyróżniono tych questów chociażby wizualnie na mapie.
+1783:  BFP - Żeby trafiać na te, które są wartościowe i jest ich sporo, to jest właśnie ten list Jonasza, to są wszystkie questy Judy, to są wszystkie wyborne questy Della Mainne.
+1794:  BFP - które trafią na kolejny i kolejny samochód z kolejną osobowością.
+1798:  BFP - To są te momenty, gdzie naprawdę dobrzy pisarze mogą się wykazać.
+1802:  BFP - Aha, no i przepraszam, główny wątek fabularny jest naprawdę bardzo dobry.
+1808:  BFP - Koncept jest świetny.
+1809:  BFP - Takie postaci jak, Marcin się uśmiechnie, Takemura, który jest moją ulubioną postacią w grze Bogdaniego Silverhanda.
+1816:  BFP - Sposób, w jaki zagrano te postacie, to jak nawet jakieś drobne dialogi z takiemurą na dachu wychodzą, czy komentarze, które rzuca Johnny Silverhand, sama Judy, Panam, Jackie Wells, to są naprawdę świetne postaci umieszczone w ciekawym świecie i ja tego będę bronił, tylko one cierpią na tym nadmiarze, że jest tyle rzeczy, które odciąga moją uwagę, że jest tyle niepotrzebnego contentu,
+1838:  BFP - który powstaje, no bo przecież jak w Red Dead Redemption można polować na jelenie i łowić ryby, to czemu my tu nie możemy wrzucić sporo aktywności?
+1845:  BFP - Dzieje się przez ten, co pojedź tam i uratuj ludzi.
+1848:  BFP - Albo zabij kogoś, albo coś ukradnij.
+1850:  BFP - I to jest właśnie to dziwne rozedrganie, w którym utknęła ta gra ponownie.
+1854:  BFP - Ono wraca, które sprawia, że to co fabularnie jest świetne, nie zostaje skanalizowane.
+1859:  BFP - Tylko cały czas mam inne rzeczy, które odciągają mnie od tego, żeby się na to skupić.
+1864:  BFP - A zauważcie, że gdyby to nie była silnie skupiona na fabule gra, to i tak powinien mieć bardzo mocny ten komponent, możesz robić co chcesz.
+1871:  BFP - A nie możesz tak naprawdę robić co chcesz, bo masz tą potiomkinowską wioskę.
+1876:  MG - Nie, skorridor shooter w pewnym sensie.
+1878:  MG - Natomiast jeżeli chodzi o fabułę, to
+1885:  MG - Jedna rzecz in plus, jedna in minus.
+1886:  MG - In plus to jest naprawdę character driven story.
+1889:  MG - Chcesz wiedzieć, co się będzie działo dalej z tymi postaciami.
+1893:  MG - Judy jest znakomicie napisaną postacią.
+1896:  MG - River, który ma wydawałoby się prosty wątek dobrego gliny na złym posterunku, takiego serpiko, jest świetnie napisaną postacią.
+1906:  MG - Nawet takie postaci, które pobłyskują na 3-4 quest, jak właśnie Takemura.
+1910:  MG - Wydawałoby się, że to jest stokowa postać, taki korporacyjny samuraj, ale poznajemy go nie tylko w toku operacji typu wpadnijmy do doków i wystrzelajmy wszystkich, którzy tam są,
+1925:  MG - ale poznajemy go w trakcie takiej sceny, gdzie razem z bohaterem musi poczekać kilka godzin i zaczynają naturalnie rozmawiać o tym, skąd są, o swoich rodzinach, o swojej przeszłości.
+1936:  BFP - SMS-y o takie mury są złote.
+1937:  MG - Dostajemy SMS-y o takie mury,
+1941:  MG - Nie może znaleźć w Night City nic dobrego do jedzenia, on musi jeść japońskie potrawy, więc idzie do knajpy z sushi i oczywiście jest fatalna, idzie do knajpy z ramenem czy czymkolwiek, jest fatalna i możemy go trollować, możemy mu pisać to idź na pizzę.
+1958:  MG - I to jest rzadki wątek RPG-owy, ale on jest świetny.
+1963:  MG - Jeżeli mamy bardzo wysoki wskaźnik kul, to jest wskaźnik, który pozwala nam zachowywać zimną krew, to dostajemy świetne opcje dialogowe.
+1971:  MG - I jest na przykład moment, w którym Takemura umawia się z nami na moście i możemy podejść do niego i powiedzieć, Goro,
+1979:  MG - To, że straciłeś pracę i straciłeś wszystko w życiu, nie znaczy, że życie nie ma sensu.
+1983:  MG - Nie musisz skakać, porozmawiaj ze mną o tym.
+1986:  MG - Jest mnóstwo fajnych tego typu opcji, na przykład przy wymaksowanym cool.
+1993:  MG - Tylko dobrze by było, gdyby to było robione z większą konsekwencją i gdyby to naprawdę pozwalało na imersję.
+2001:  MG - Natomiast co bym powiedział in minus, jeśli chodzi o fabułę.
+2005:  MG - Wyobraźcie sobie, że cyberpunka zrobiłby obsydian.
+2010:  MG - Ci ludzie robiliby wszystko, żeby bawić się konwencją.
+2014:  MG - żeby nie brać takich typowych trop cyberpunkowych, tylko żeby zawsze odwrócić, zmienić, zadać sobie pytanie, co możemy zrobić inaczej.
+2022:  MG - Natomiast CD Projekt Red jest niesamowicie wierne materiałowi źródłowemu, które dostało i jest wierne wszystkim oczywistym stereotypom cyberpunkowym i to wypada słabo.
+2037:  MG - To znaczy,
+2041:  MG - Gdyby udało im się choć trochę tym zamieszać, to ja bym wtedy nie miał poczucia, że to jest aż tak odtwórcze.
+2048:  MG - A to jest odtwórcze do tego stopnia, że jeśli ktoś czytał Neuromancera, to będzie widział całe wątki fabularne.
+2055:  BFP - A zauważmy, że akcja toczy się w mieście, które się kurwa nazywa Night City.
+2060:  BFP - Nocne miasto.
+2060:  BFP - Znaczy czego oczekiwać od tego...
+2063:  MG - I powiem wam więcej.
+2065:  MG - Nazwa Night City pada w neuromancerze jako swego rodzaju pseudonim miasta Chiba City, w którym toczy się akcja.
+2073:  MG - Jak to są takie drobne rzeczy?
+2074:  MG - Na przykład to, że giniemy i jest napis Flatlined.
+2078:  MG - Flatlined to jest w slangu postaci z New Romancera śmierć.
+2083:  MG - I William Gibson to podłapał... Netrunnerzy.
+2087:  MG - William Gibson to podłapał z socjolektu motocyklistów kanadyjskich, którzy mówili Flatlined, o kimś kto miał wypadek na motorze i zginął.
+2094:  MG - To jest świetne, ale nie... Umówiliśmy się, że nie spojlujemy, ale naprawdę centralny wątek w grze jest wyjęty z powieści i zacytowany.
+2107:  MG - Oczekiwalibyśmy czegoś więcej w 2020 roku niż kopiowanie wątków z powieści wydanych w latach 80.
+2112:  BFP - Która nazywa się Cyberpunk 2020.
+2115:  BFP - Ze świata.
+2116:  BFP - Bo oczywiście jest tu miks, tak jak mówisz, faktycznie takich cyberpunkowych tekstów kultury.
+2122:  KMM - Ja tu od razu ad vocem muszę coś powiedzieć, to znaczy ten wątek, te wątki wszystkie w zasadzie, które wymieniliście, Judy Alvarez, Rivera, wątek główny oczywiście, wątek samego Johnny'ego Sylvanhanda, one tak dalece odstają od wszystkiego innego, co znajduje się w grze, że ja przez cały czas miałem absolutne i niezłomne wrażenie, że to jest wątek główny.
+2145:  KMM - To znaczy te linie fabularne mi się nie rozwarstwiały.
+2148:  KMM - One mi tworzyły taką synergiczną całość, która sprawiała, że się cieszyłem grą.
+2153:  KMM - I to był ten moment, kiedy włączałem nagrywanie.
+2156:  KMM - I stałem się uwiecznić każdą z tych chwil.
+2159:  KMM - To był moment, kiedy robiłem screenshoty właśnie ze złośliwych rozmówek z Takemurą.
+2163:  KMM - Do dzisiaj pamiętam, jak sobie nie radził z wpisaniem czegoś w odpowiedniku tamecznym Google'a i wysyłał to komunikatorem.
+2170:  KMM - Przepiękna sytuacja.
+2171:  KMM - To są takie drobne...
+2173:  KMM - fragmenty, kawałki fabuły, które sprawiają, że ta historia żyje.
+2177:  KMM - Ale właśnie ta historia, która żyje, jakkolwiek by nie była schematyczna pod pewnymi względami oczywiście, jednak bardzo odstaje od tego wszystkiego, co w grze jest poza, a zwróćmy na to uwagę, że tego w grze jest bardzo dużo, jest znacznie więcej.
+2192:  KMM - Dzisiaj czytałem artykuł w serwisie, który specjalizuje się w badaniu schematyczności questów i wyszło im, że 92% wszystkich questów i z głównej linii, z pobocznych i samych questów emergentnych w otwartym świecie nie ma żadnego wpływu na zakończenie gry.
+2210:  KMM - 92%, strasznie dużo.
+2211:  KMM - I sam jak starałem się testować różne momenty, pamiętam właśnie to, co przywołał przed sekundą Marcin, ten moment fabularny, wydaje mi się, że mówimy o tym samym, kiedy wydawało się, że popełniliśmy błąd zabijając jakąś osobę.
+2226:  KMM - Ja zloadowałem wcześniejszy stan gry, żeby jej nie zabić, żeby poprawić relację z postacią, z którą chciałem mieć bardzo dobre relacje.
+2235:  KMM - Po czym się okazało, że ona na to zareagowała negatywnie.
+2239:  KMM - I starałem się zrozumieć te motywacje i nie umiałem ich zrozumieć, więc Cyberpunk jest grą paradoksalną, to znaczy z jednej strony oferuje detale, które urzekają, jak ten moment, który ja uwielbiam przytaczać jedzenia klopsików z szaszłyku, które znikają jeden po drugim, a nie tak jak we wszystkich grach, to znaczy podnosimy cały szaszłyk cały czas i to jest piękny detal.
+2259:  KMM - Pięknym detalem jest to, że każda wlepka w grze, na każdej wiacie jest namalowana od zera przez level designera, że wnętrza są zrobione ręcznie, to widać.
+2270:  KMM - Są piękne detale, ale one nie tworzą synergicznej całości.
+2274:  KMM - Tak samo jak ten piękny, dopracowany wątek główny i te quest line'y w zasadzie nie tworzą synergicznej całości z repetytywnymi, nudnymi Ubisoftowymi questami typu podaj przymieść, pozamiataj, Fedexami, escort questami i innymi.
+2289:  BFP - Zacząłeś mówić o czymś, do czego chciałem już teraz przejść, czyli troszeczkę przejść przez pracę, która powinna zostać doceniona, ale niestety zostaje przykryta przez kontrowersję.
+2299:  BFP - Odchodzimy powoli od tego, co jest uznaniowe i możemy mieć swoje opinie, a przechodzimy do tego, co jest po prostu jakimś faktem, jak sytuacja CD Projekt Red, ale najpierw jeszcze właśnie o tej pracy artystów, czyli powiedziałbym technikalia, bo mówiłem o pracy artystów,
+2316:  BFP - scenarzystów i pisarzy, która jest naprawdę dobra, jeżeli uda się ją odsączyć, odfiltrować od tego contentu kopii w klej.
+2325:  BFP - Natomiast wizualia są dość niezwykłe.
+2329:  BFP - Ja nie uważam, że to jest najpiękniejsza gra na rynku.
+2331:  BFP - Ja uważam, że Observer jest ładniejszy.
+2334:  BFP - w tej nowej wersji.
+2335:  BFP - Uważam, że production design w Observerze jest jeszcze lepszy, ale ilość pracy, to o czym mówisz Krzysztof, to że jest art w samej grze, że są plakaty, że są wszelkiego rodzaju no nawet
+2352:  BFP - Okładki winyli, na których widzimy podobiznę Johnny'ego Silverhanda, tego typu rzeczy.
+2356:  BFP - I wreszcie wchodzimy tu też w sam soundtrack.
+2359:  BFP - Ja miałem zajęcia z Marcinem Przybyłowicz, który jest w ogóle inżynierem dźwięku, a jest jednocześnie też kompozytorem.
+2374:  BFP - No jego muza, jego autorstwo, chociaż on, przepraszam, on jest jednym z trzech kompozytorów, który tworzył muzę do tej gry, no po prostu rozwala.
+2381:  BFP - No jak wchodzą motywy podczas walki, które są takim ciężkim vapor wave'em, synth wave'em połączonym z brutalnym noise'em i techno, to jest coś niesamowitego.
+2391:  BFP - To naprawdę wypada nieźle i to, że zaangażowano takie gwiazdy jak Run the Jewels chociażby do tego, żeby
+2396:  BFP - nagrać kawałki, to wypada naprawdę fajnie i nie spodziewałem się, że trafię na stację radiową cyberpunkową, która gra muzykę jazzową.
+2404:  BFP - Jest tam parę dobrych kawałków jazzowych, to robi na mnie duże wrażenie.
+2408:  BFP - Myślę, że bardzo wielu graczy się tym nie nacieszy, bo nie spodziewało się, że to jest gra typu GTA, gdzie spędzą bardzo dużo czasu w tym świecie, tylko odbębnią po prostu questy, no bo nie została założona jako zabawa w emergentność, tak jak już mówiliśmy.
+2421:  BFP - Natomiast jest to masa, masa znakomitej pracy i to da się docenić na dobrym sprzęcie.
+2427:  BFP - Ale Marcin, pora żebyś powiedział, jak ty odbierasz tę grę na PS4?
+2433:  MG - Z dużym wysiłkiem.
+2437:  MG - To znaczy, do momentu, kiedy nie pojawiły się obydwa patche, łącznie z tym, który pojawił się całkiem niedawno, czyli dwa razy po 20 giga, trzeba wziąć w lew dwa razy po 20 giga, żeby gra faktycznie zaczęła działać z grubsza bez problemu.
+2453:  MG - Bo wcześniej był jeden problem fundamentalny, gra się wieszała.
+2457:  MG - Potrafiła się zawiesić dwa razy w ciągu jednej godziny.
+2460:  MG - No i mogę to rytualnie potępiać.
+2462:  MG - Oczywiście coś, co się kupiło w sklepie nie ma prawa nie działać w taki sposób.
+2467:  MG - Muszę przyznać, że po tych dwóch paczach ten problem zniknął.
+2470:  MG - Nadal zdarzają się różnego rodzaju wpadki, natomiast dla mnie one są overblown.
+2477:  MG - To znaczy odnoszę wrażenie, że ludzie z dużą rozkoszą robią te kompilacje na YouTubie, gdzie widać jak bardzo
+2488:  MG - Gra może się rozlecieć w rękach, jak tekstury mogą się nie renderować itd.
+2492:  MG - Ale naprawdę w moim playthrough ja nie widziałem tych rzeczy, które potem są na YouTubie.
+2497:  MG - Więc myślę, że ludzie po prostu wybierają the worst of.
+2500:  MG - Cyberpunki się nad tym pastwią.
+2504:  MG - ale ja miałem swoje incydenty, które będą jednymi rzeczy, które najlepiej zapamiętam w tej grze i jeden z nich był taki, że zmierzałem na randkę z jedną z postaci, trzeba się naprawdę napocić, żeby ta postać dopuściła nas do swojego wewnętrznego kręgu i zmierzam do jej mieszkania i w sposób absolutnie niewytłumaczalny spadłem pod windę, po prostu otworzyła się niewidzialna zapadnia i znalazłem się pod windą, która była
+2531:  MG - Tam naprawdę się coś działo, tam jakaś trawa rosła i tak dalej.
+2534:  MG - Oni nawet się przyłożyli do tej sekcji pod windą, tylko nie stworzyli żadnego wyjścia z tamtej sytuacji.
+2539:  MG - Ja dosłownie wyglądałem jak dziewczynka z The Ring, patrząc się w górę i mówię, czy ktoś mnie słyszy?
+2544:  BFP - A czy możemy wrócić do rozmowy o cyberpunku?
+2546:  BFP - Bo to miło było posłuchać tej historii, ale wróćmy do cyberpunka.
+2549:  MG - No przepraszam, odpłynąłem trochę.
+2553:  MG - I dodam jeszcze, zanim wrócimy do Cyberpunka, że to nastąpiło po tym, jak przez 15 minut customizowałem swoje broni.
+2559:  MG - Byłem naprawdę zadowolony z zestawu, który miałem, a save był wcześniej.
+2562:  MG - Więc w poprzedniej wersji gra uczyła cię save'ować co chwila, bo za chwilę się zawiesi.
+2568:  MG - Albo nie będzie w stanie wyjść z combat mode.
+2571:  MG - A to sprawia, że nie możesz nigdy zasejwować i nie masz checkpointu.
+2574:  MG - Po prostu combat mode jest wieczny.
+2577:  MG - Więc tego rodzaju wpadki oczywiście, że psuły przyjemność i oczywiście, że nie miały prawa mieć miejsca, ale twierdzenie, zwłaszcza po tych paczach, że gra jest niegrywalna, że zasługuje na osobną recenzję, moim zdaniem jest przesadzone.
+2598:  BFP - Ja zapytam Ciebie Krzysztof o jakiś zabawny bug, bo na pewno masz coś, ale ja tutaj ad vocem, bo zaraz przejdziemy do wątku CD Projekt Red, oczywiście, że daję Ci wiarę i że odbierasz tę grę lepiej niż być może duża część graczy na PlayStation 4, no ale w tym wypadku ja będę po prostu sugerował się statystyką i faktami zewnętrznymi, znaczy jeżeli Sony
+2623:  BFP - W ruchu bez precedensu usuwa ze swojego sklepu grę AAA, na której przecież zarabia wielkie pieniądze, Sony zarabia na tym, no przecież oni biorą prowizję z tego, że to jest w ich sklepie.
+2635:  BFP - Usuwa i oferuje zwroty pieniędzy, no to znaczy, że coś jest na rzeczy, znaczy, że ta gra jest w stanie, w którym nie powinna być i być może byśmy byli w stanie przepuścić to w przypadku innych tytułów,
+2645:  BFP - ale nie gry, która od 8 lat była tak hype'owana, tak zapowiadana i od tak renomowanego studia, które przyzwyczaja nas do takiej jakości.
+2652:  MG - A propos... Wejdę Ci w słowo.
+2655:  MG - Rozróżnijmy dwie rzeczy.
+2658:  MG - Według mnie bezpośrednią przyczyną decyzji Sony było to, że gra cały czas się wieszała.
+2662:  MG - Dosłownie wyskakiwał błąd numer i nie można było grać dalej.
+2666:  MG - I druga rzecz, były błędy, które sprawiały, że gry się nie da przejść na początku.
+2670:  MG - Na przykład jakaś postać ma do ciebie zadzwonić.
+2672:  MG - Bez tego fabuła nie posunie się dalej.
+2674:  MG - I ta postać nie zadzwoni do ciebie nigdy.
+2678:  MG - Natomiast kiedy wycofano te najgorsze błędy, po pierwszym patchu, pierwszy patch przyszedł szybko, to grę się da spokojnie przejść.
+2687:  BFP - Ja przyznam, że mimo, że przez pierwsze około 20 godzin nie miałem w ogóle żadnych bugów.
+2692:  BFP - To było dla mnie zaskakujące.
+2694:  BFP - Kiedy już się pojawiły, to pojawiły się, że tak powiem, delikatnie na pełnej kurwie.
+2699:  BFP - To znaczy, na przykład byłem w stanie przyzwać motor, który gdzieś tam leciał w stratosferę,
+2705:  BFP - albo ktoś wykonywał telefon w trakcie wykonywania jakiegoś questu czy jakiejś rozmowy i kompletnie mieszał mi opcje dialogowe, a miałem też rozmowę, której nie mogłem rozłączyć i nie mogłem zejść z motoru, bo nie działał mi klawisz F, bo kiedy wciskałem klawisz F, to po raz setny słyszałem tę samą kwestię dialogową, którą miałem przez rozmowę, więc musiałem zrestartować grę, ale było to do przełknięcia.
+2728:  BFP - Krzysztof, możesz powiedzieć coś o bugach, ale chciałbym, żebyś ty powiedział coś o tym, co uważasz
+2732:  BFP - odnośnie tej sytuacji, w której znajduje się teraz CD Projekt Red, bo znajduje się w sytuacji kryzysowej.
+2739:  BFP - Jakby nie patrzeć, ta wersja, która okazała się na PlayStation 4, pomimo tego co mówi Marcin, jest bardzo negatywnie odbierana i jest traktowana jako duża wtopa.
+2748:  BFP - Co Ty o tym sądzisz?
+2750:  KMM - No właśnie, jeśli chodzi o bugi, to ja mam niewiele do powiedzenia, bo niestety ja nie mam nigdy żadnych zabawnych bugów.
+2755:  KMM - Jeżeli ja napotykam na jakieś bugi, to to są game-breaking bugi, a ja reaguję nerwowo jak grać, to bardzo nerwowo, więc to nie są historie, które mi się z lekkim sercem dzielę, bo mam kilka questów, których się nie da skończyć i mnie ten problem będzie drążył głowę, aż one nie zostaną naprawione.
+2770:  KMM - A że to są questy poboczne, to nigdy nie zostaną naprawione.
+2773:  BFP - Kogo gał Keanu Reeves na przykład?
+2774:  BFP - Tak.
+2776:  KMM - I rolem z CD Projekt Red polega na tym głównie i o tym mówią wszyscy.
+2781:  KMM - Niestety nie mówi tylko i wyłącznie o tym, no nie wiem, Ninja czy Angry Joe, którzy będą się skupiali na takim bardziej rozrywkowym aspekcie, ale mówi też o tym Jim Sterling, który od lat prowadził kampanię informującą nas o tym, że CD Projekt Red nie jest tym, za kogo się podają.
+2800:  KMM - No i powoływało się na dane różne, głównie chodziło o rozmowy z developerami, którzy narzekali na crunching.
+2807:  KMM - Potem się okazało, że nie ma żadnego crunchingu, tak mówiono, że nie jest o premie uzależnione od sukcesu gry.
+2813:  KMM - Potem się okazało, że tak, tylko po prostu devowie dostają żetony, które sobie mogą później wymieniać jak w kasynie na pieniądze, ale tak, ale to nie jest premia, tylko dostają żetony, czyli płaci się im euro gąbkami, krótko mówiąc, za to, że crunchują.
+2828:  KMM - No więc to nie jest dobre.
+2831:  KMM - Dużo wyciekło tego rodzaju historii, ale dla mnie
+2836:  KMM - Wisienka na torcie.
+2837:  KMM - To była sytuacja sprzedwczoraj bodajże, którą raportowały absolutnie wszystkie media i która trafiła też z tego, co pamiętam, do tego dużego artykułu w New York Timesie, ale mogę się mylić.
+2847:  KMM - Chodzi mianowicie o sytuację, w której CD Projekt, nie CD Projekt Red, ale grupa CD Projekt wycofała z Good Old Games grę, która ośmieszała przywódcę komunistycznej partii Chin, porównując go z Kubusiem Puchatkiem.
+2862:  KMM - I eksplodował internet, to pokazując, że nie dość, że korposi, którzy zarządzali CD Projektem Red doprowadzili do tego, że gra o korposach jest grą, która korpożycie faworyzuje, to jeszcze do tego wszystkiego zrobili to, co wszystkie największe korporacje niestety robią od jakiegoś czasu, to znaczy stwierdzić, że trzeba się podlizać Chińczykom.
+2885:  KMM - I to jest najgorsza rzecz, którą CD Projekt Red mógł zrobić i ten 40% w sumie spadek akcji, to nie jest kwestia tego, że wypuścili grę z bugami, bo robił to EA, robił to Blizzard, robił to BioWare, zrobili to sami wielcy.
+2899:  KMM - Robiła to Bethesda, to robi od 10 lat.
+2902:  KMM - Ale CD Projekt Red
+2905:  KMM - Za każdym razem prowadził zupełnie inną narrację.
+2909:  KMM - We are rebels, to jest ich motto, które wszędzie mają wyplakatowane studio.
+2915:  KMM - Mówili, że są po stronie graczy.
+2917:  KMM - Mówili, że to nie my jesteśmy oszustami, nie będzie mikrotransakcji, nie będzie tego rodzaju rzeczy.
+2922:  KMM - I tak wiele z tych obietnic, które składali, złożyło się na taki obraz firmy, która jest po stronie gracza przeciwko korposom.
+2929:  KMM - I nagle się okazało, że jest odwrotnie.
+2932:  KMM - I wydaje mi się, że furia ogarnęła wtedy wszystkich.
+2934:  KMM - To znaczy, no gracze są wszędzie.
+2937:  KMM - Wśród graczy są akcjonariusze, wśród graczy są inwestorzy, wśród graczy są redaktorzy serwisów, wśród graczy jest też Jimmy Sterling.
+2944:  KMM - I wszyscy nagle zaczęli tworzyć narrację zupełnie inną.
+2947:  KMM - To znaczy, no zobaczcie, oni pokazali swoje prawdziwe oblicze.
+2950:  KMM - I co z tego, że w CD Projektie są zdolni ludzie,
+2952:  KMM - skoro nad nimi jest korpo.
+2954:  KMM - I krótko mówiąc to, co ja zawsze powtarzam, problem ze światotwórstwem zaczyna się wtedy, kiedy świat przestają projektować architekci, designerzy, a zaczynają projektować księgowi.
+2966:  BFP - Krzysztof, ja generalnie uważam, że przesadzasz i spółka Good Old Games to jest coś innego niż CD Projekt Red w tym momencie.
+2975:  BFP - I to warto zaznaczyć, więc nie mieszałbym ze sobą tych spraw.
+2978:  BFP - Brzmisz trochę jak Johnny Silverhand, to znaczy anarchistycznie punkowe podejście masz do wszystkiego i uważasz, że trzeba zniszczyć każdą formę organizacji, która może mieć rys korporacyjny.
+2990:  BFP - I nie uderzałbym w CD Projekt Red z każdej strony.
+2993:  BFP - To znaczy, mają zarzuty o Crunch, trzeba im stawić czoła.
+2999:  BFP - Mają zarzuty o to, co dzieje się w tym momencie, czyli nieudaną premierę.
+3005:  BFP - cyberpunka i temu trzeba stawić czoła, ale ja bym powiedział, że źródło problemu, może nie źródło problemu, ale istota tego problemu jest taka, że CD Projekt Red ukrywał, że tworzył dwie gry.
+3019:  BFP - Jedna była bardzo dobra, a druga była niedopracowana kompletnie.
+3024:  BFP - I ta jedna gra była promowana i pokazywana wszystkim, a druga była trzymana w piwnicy.
+3031:  BFP - I ta trzymana w piwnicy gra to jest ta, która trafiła na konsolę starej generacji.
+3037:  BFP - I wysłano intencjonalnie recenzentom tylko wersję pecetową, tą, którą promowano, a graczy do samego końca trzymano w dezinformacji,
+3049:  BFP - I dopiero kiedy otrzymali grę, za którą zapłacili pieniądze, tak jak Marcin, okazało się, że to jest inna gra.
+3054:  BFP - Inna gra to w takim sensie, że inaczej wygląda miasto, bo jest tam mniej ludzi, bo jest tam mniej samochodów, bo tekstury się doczytują inaczej.
+3062:  BFP - Oczywiście mam w głowie głos Marcina, który...
+3066:  BFP - Zauważył, że trzeba uważać z tą przesadą.
+3069:  BFP - Ale kiedy mówię inna gra, to mam na myśli produkt innej jakości niż ten, który był promowany.
+3074:  BFP - Tak jakby była stosowana fałszywa reklama.
+3077:  BFP - I to jest moim zdaniem niemoralne w przypadku CD Projektu, bo oni wiedzieli w jakim stanie jest ta gra.
+3082:  BFP - Oni wiedzieli w jakim stanie jest gra na PlayStation 4, a mimo to nie zdecydowali się opóźnić premiery na przykład na konsolę starej generacji.
+3090:  BFP - Mało tego...
+3091:  BFP - złapano ich na tym, że tygodnie, tygodnie przed premierą, czyli wtedy, kiedy już można było poprawić wszystko, a przynajmniej mówili, że teraz crunchują, żeby poprawić wszystko, mówili, nie, no działa to w najlepszym razie tak, jakbyśmy tego oczekiwali po PlayStation 4.
+3105:  BFP - Wiadomo, że to nie wygląda i nie działa tak jak na pececie, czy na konsolach nowej generacji, ale wygląda bardzo dobrze, jesteśmy zadowoleni z tego, jak to działa.
+3113:  BFP - A więc kłamali.
+3115:  BFP - Albo był naprawdę bardzo zły przepływ informacji tam.
+3118:  BFP - I to jest uważam poważny kryzys, który może uderzyć rykoszetem w ogóle w zaufanie spółki gamedevowe w Polsce.
+3125:  BFP - Bo to Wiedźmin 3 sprawi, że ludzie zaczęli inwestować w spółki gamingowe na giełdzie papierów wartościowych.
+3133:  BFP - I życzę, trzymam kciuki za CD Projekt Red.
+3136:  BFP - Ale ten case pokazuje, że budowaną renomę przez 10 lat, która jest naprawdę potężną renomą w świecie graczy i jakby to, jak podchodzi się do gier City Projectu, no to jest niemalże kult.
+3148:  BFP - I to nie tylko w Polsce, na całym świecie.
+3150:  BFP - Można zaprzepaścić w tydzień.
+3153:  BFP - I przykre, że to zarząd podjął takie decyzje, więc nie korpo, po prostu zarząd i konkretni ludzie.
+3158:  BFP - I przykre tym bardziej, że przykrywa to wspaniałą pracę bardzo wielu artystów i twórców, którzy włożyli w tę grę całe swoje serce.
+3165:  BFP - Więc kibicuję CD Projekt Red, ale uważam, że musi stawić czoła konsekwencjom swoich działań, a przede wszystkim działań swojego zarządu.
+3172:  BFP - Marcin?
+3174:  MG - Kojarzycie, w grze jest taki wątek, jest dzielnica, która nazywa się Pasyfika.
+3178:  MG - Ona jest zaludniona przez imigrantów z Karaibów.
+3180:  MG - Otóż w Pasyfice wielka korporacja miała zbudować największe w Night City centrum handlowe z wszystkimi możliwymi atrakcjami, co miało podnieść tą biedną dzielnicę i zrobić z niej park rozrywki dla Ameryki.
+3197:  MG - I w pewnym momencie, już nie pamiętam za sprawą czego, po prostu porzucono tą produkcję, porzucono tą budowę w połowie i zostaje takie centrum handlowe widmo, które szybko po prostu pochłaniają slumsy.
+3210:  MG - No i w pewnym sensie to jest los cyberbanka.
+3212:  MG - porzucono mnóstwo pracy w trakcie, nie ukończono.
+3217:  MG - I my jesteśmy tymi, którzy teraz biegają między tymi korytarzami tego budynku widmo.
+3223:  MG - Ale czy źle się bawimy?
+3225:  MG - Moim zdaniem nie.
+3226:  MG - Moim zdaniem bawiły się świetnie.
+3228:  MG - Tylko musimy wiedzieć, co to jest.
+3230:  MG - To, co im wyszło w praktyce, być może także z uwagi na presję marketingową, to jest taki feel good game.
+3236:  MG - W tej grze chodzi o to, że masz Porsche 911 Carrera, Johnego Silverhanda, jak się postarasz, że masz elektryczną katanę, że masz kuloodporny garnitur, że masz... Jakie tylko whisky chcesz, możesz zamówić.
+3248:  MG - Więc pewien paradoks, ale gra, która chce potępiać złe korporacje, została w dużej mierze
+3255:  MG - wykrzywiona przez to, że korporacja chciała, żeby była bardziej komercyjna i żeby wyszła wcześniej.
+3262:  MG - I gra, która potępia konsumpcjonizm w dużej mierze polega na tym, że się świetnie bawisz kupując drogie samochody, drogie zabawki i drogą broń.
+3270:  BFP - Tak.
+3270:  BFP - Ciekawe to, co powiedziałeś na koniec.
+3273:  BFP - Trochę mi raziło w marketingu i wciąż razi mnie w tej grze, a mimo, że gdzieś to jest tam właśnie ten fajna zawartość ukryta, która trochę się od tego odrywa, to jest ta krzykliwość, ta takie...
+3286:  BFP - źle rozumiane rockmeństwo i to, że nazywasz to feel good game, ja bym powiedział strzelaj, ciachaj, pij i rozrabiaj i to jest takie w stylu GTA, a jednak... I sceny seksu z pierwszej osoby, no hedonizmu w tej grze jest dużo.
+3304:  BFP - Panowie, zaraz nam się skończy czas, bo jesteśmy na bezpłatnej wersji Zooma, CD Projekt Red, jeżeli to słyszycie, zrobimy jeszcze jeden odcinek, w którym będziemy Was chwalili, tylko kupcie nam lepszą wersję.
+3314:  BFP - Dziękuję Wam bardzo, że uczestniczyliście ze mną w tej dyskusji, to nie jest na pewno ostatnia dyskusja, którą mamy razem.
+3320:  BFP - Prosimy wszystkich o komentarze i opinie na temat i sytuacji CD Projektu, i Cyberpunka.
+3326:  BFP - Pamiętajcie, żeby subskrybować bez schematu, jeżeli robicie to na YouTubie, to także
+3331:  BFP - Dzwoneczek, tak?
+3333:  BFP - Tak.
+3333:  BFP - A widzisz, kurwa, prowadzisz swojego vloga i wiesz, co trzeba mówić.
+3337:  BFP - Bardzo dobrze.
+3337:  MG - Zapiszę cię dzwoneczek w telefonie.
+3339:  BFP - Co prawda zareagowałeś jak postać z cyberpunku, kiedy pojawia się bug i nie reaguje na twoje kwestie dialogowe, ale było całkiem w porządku.
+3346:  BFP - Dzięki, panowie.

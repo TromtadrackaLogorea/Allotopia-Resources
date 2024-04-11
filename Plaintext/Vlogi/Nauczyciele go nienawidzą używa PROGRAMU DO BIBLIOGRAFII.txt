@@ -1,0 +1,191 @@
+Nauczyciele go nienawidzą, używa PROGRAMU DO BIBLIOGRAFII
+🔗 https://www.youtube.com/watch?v=mR9HPOQJ5Q0
+
+0:  Prawdopodobnie każdy z nas na jakimś etapie naszego nudnego edukacyjnego żywota został zmuszony do wykonania bibliografii, czyli zbioru opisu literatury z greckiego biblion oznaczającego zwój i grafein oznaczającego opisywanie.
+16:  I pamiętam, że jak byłem w szkole, a potem na studiach, wydawało mi się, że nie ma głupszej i bardziej marnującej mu czas rzeczy niż właśnie robienie bibliografii, co wiedziałem.
+25:  Więcej zajmowało to kilometry mojego czasu i nie sprawiało w żaden sposób, że uczyłem się tego, jak bardzo istotne w istocie rzeczy są bibliografie.
+36:  Nie mamy w prasie bibliografii, nie mamy w mediach bibliografii, przez co nie jesteśmy w stanie weryfikować na bieżąco tego, co kto cytuje.
+45:  Przez co też stają się powszechne te memiczne cytaty, że w badaniach...
+50:  amerykańskich naukowców i oczywiście nie ma przypisu do rzeczonych badań amerykańskich naukowców, jak również nie ma odniesienia bibliograficznego właśnie do źródła, w których moglibyśmy się z tymiż sensacyjnymi doniesieniami zapoznać.
+67:  I dlatego też w tej naszej miniserii, w której pokazuję Wam różne narzędzia, których sam używam po to, żeby ułatwić sobie pracę, będziemy się zapoznawać z rzeczą, która znacząco skróci czas przygotowywania przez Was bibliografii.
+80:  No bo właśnie, jeżeli byśmy mieli spojrzeć na to, w jaki sposób uczono nas bibliografię przygotowywać, no to zwykle wyglądało to w ten sposób.
+88:  Będę Wam pokazywał na bazie własnego tekstu, który niedawno kończyłem, tak będzie prościej.
+93:  No otóż, jeżeli mamy jakieś słowo, które wymaga odniesienia, ponieważ jest zapożyczone skąd inąd i my je tylko wykorzystujemy jak to termin, no to dajemy przypis.
+104:  I w ramach tego przypisu piszemy sobie autor, przecinek, tytuł kursywą, przecinek, miejsce wydania...
+114:  W kropek, wydawnictwo, spacja, rok wydania, przecinek, strona, albo skrót S kropka i później numer strony i kropka.
+126:  Ale, ale, ale, ale, moi drodzy, moi drodzy.
+129:  Czy naprawdę myślicie, że tak jest łatwo, że to jest wszystko?
+132:  Ależ absolutnie nie!
+134:  Wymyślono sobie mianowicie, że będą różne style tych cytowań.
+137:  I w jednym stylu cytowania stosujemy inicjał imienia, a w innym zapisujemy tytuł kursywą, a w jeszcze innym w cudzysłowie, a czasem w ogóle nie używamy cudzysłowia, a czasem zamiast dwukropków są przecinki, a zamiast kropek dwukropki.
+150:  Nie ma żadnego logicznego uzasadnienia dla fonfnastu bombilionów tych wszystkich styli,
+157:  I zgadliście, oczywiście, że są dedykowane przedmioty na studiach filologicznych, podczas których studenci muszą wpruwać style bibliograficzne i uczyć się, zgodnie z którym, gdzie są kropki, dwukropki, przecinki i spacje.
+173:  No rozumiecie, są tacy ludzie na uczelni, którzy nie mają co robić, więc trzeba im dać taki przedmiot, żeby była zapchaj dziura w programie.
+182:  No tak serio na to patrząc, to mam nadzieję, że rozumiecie już na tym etapie, że to nie jest sposób, w jaki ja realizuję bibliografię i w jaki ja staram sobie ułatwiać życie.
+194:  No więc po kolei, jeżeli chcecie
+196:  żeby czas waszego przygotowywania prezentacji maturalnej, pracy dyplomowej, czy jakiegokolwiek tekstu, który przygotowujecie, ba, raportu dla korporacji, gdzie też musimy wykorzystywać cytowania, był znacząco krótszy, no to mam dla was dobrą informację, mianowicie jest to możliwe i to całkiem w zasięgu waszej ręki.
+216:  używamy w takich sytuacjach menadżera bibliograficznego.
+219:  Jeżeli chcecie użyć menadżera bibliograficznego, to macie do dyspozycji generalnie trzy.
+223:  Pierwszym jest Mendeley, drugim jest Zotero, trzecim jest Citavi.
+227:  To są wiodące menadżery bibliograficzne.
+229:  Jeżeli chodzi o Mendeleya, to
+231:  Ja by wam powiedzieć, mój stosunek do tego menadżera bibliograficznego jest następujący, to znaczy jego autorem, wydawcą i producentem jest Elsevier, czyli ta sama firma, o której wam opowiadałem kiedyś, że ma margines profitu wyższy niż Apple, Google i Amazon.
+251:  Jeżeli jesteście zainteresowani, wrzucę link do tego filmu, w którym o tym opowiadałem i jeszcze do artykułu, który to porusza, więc nie, nie jestem zainteresowany kolejnym filmem,
+261:  protokytem korporacji Elsevier i dlatego też przejdźmy sobie od razu płynnie do kolejnego wydawcy, to znaczy Zotero, który zresztą możecie mieć i na Apple, i na Linuxy, i na Windowsy.
+275:  Jest to dość zbliżony program do tego, który dzisiaj będę wam
+279:  pokazywał, natomiast ma tę wadę, że ja go po prostu nie używam i nie jest to środowisko, w którym bym się dobrze czuł.
+285:  Ale nie martwcie się, jeżeli na przykład z jakichś względów nie będziecie chcieli najczęściej niestety kupić Citaviego, ponieważ wersje próbne są dostępne na dość krótki okres, a niektóre z nich mają też inne ograniczenia, na przykład wersja 5, która jest tutaj wciąż dostępna do pobrania i którą rekomenduję, ma ograniczenie do 100 rekordów na dany program.
+306:  projekt bibliograficzny, więc możecie zacytować 100 źródeł.
+309:  Powyżej tych 100 musicie utworzyć już nowy projekt.
+312:  Niestety wersja szósta Citaviego jest już w chmurze, no i jak to bywa z wersjami w chmurze oprogramowania, jest dostępna w opłacie subskrypcyjnej.
+320:  Więc dlatego też póki możemy używać piątki, będę polecał ją właśnie, zwłaszcza, że te licencje akurat są wiekuiste i program ten znacząco od wersji szóstej się nie różni.
+332:  No ale możecie mnie spytać, po co kolejny program, skoro i tak już siedzę w tym Wordzie, przygotowuję to wszystko?
+338:  Bez sensu.
+340:  Otóż nie do końca.
+341:  To znaczy używanie Citaviego, czy jakiegokolwiek innego menadżera bibliograficznego, bo powtórzę raz jeszcze, zasada działania jest taka sama, sprowadza się do tego, że tworzycie sobie swego rodzaju bibliotekę, taką wewnętrzną bibliotekę dla danego projektu.
+355:  I oczywiście im więcej piszecie raportów, prac, prac dyplomowych, prac na studia, czy jakichkolwiek innych tekstów, które wymagają odwoływania się do zbliżonych źródeł bibliograficznych, ta wasza biblioteka wewnętrzna będzie coraz bardziej puchła.
+370:  Jak wygląda sam program Citavi?
+372:  Bardzo prosto, to znaczy macie do dyspozycji tego rodzaju interfejs, są poszczególne książki, artykuły z czasopism, rozdziały z książek tutaj zassane, opis bibliograficzny znajduje się w zakładce tytuł, w przeglądzie mamy z grubsza.
+389:  opisane to, co się w środku znajduje.
+391:  Oczywiście możemy do tego dodawać jeszcze jakiegoś rodzaju streszczenia, możemy też zamieszczać swego rodzaju komentarze albo słowa kluczowe, przypisywać kategorie.
+400:  Krótko mówiąc, program pozwala w maksymalnie precyzyjny sposób opisać dany tekst, żebyśmy mogli się później do niego odwołać.
+407:  Ale to nie jest największy jego atut.
+410:  Największym jego atutem jest to, że nigdy nie będziecie już musieli w momencie, w którym zaczniecie z niego korzystać, postawić choćby jednej litery, przepisywać czegokolwiek lub żmudnie wciskać Ctrl-C i Ctrl-V, przechodząc co i róż między kolejnymi oknami przeglądarki.
+427:  Otóż Citavi oprócz programu, który jest tą biblioteką, ma również wtyczkę.
+433:  czyli Chitavi Picker.
+434:  I ta wtyczka jest dostępna do większości przeglądarek i działa w następujący sposób.
+438:  Wchodzicie sobie, zgodnie z tą instrukcją, którą kiedyś Wam pokazywałem, podlinkuję to w opisie i w karcie tutaj się powinno gdzieś wyświetlać, w materiale dotyczącym SciHuba, wchodzicie sobie do Google Scholara, szukacie rzeczy, które Was interesują, oczywiście to może być także dowolne inne miejsce w internecie,
+456:  I w momencie, w którym macie owegoż CIT-a VPK-era zainstalowanego jako wtyczkę do przeglądarki, pojawia się tutaj taki radosny przycisk importuj.
+466:  I ten radosny przycisk importuj pojawić się będzie za każdym razem wtedy, kiedy program wykryje, że mamy do czynienia z jakąś publikacją naukową, która jest w specyficzny sposób opisana.
+478:  Najczęściej chodzi o to, że ma przypisany tak zwany numer DOI, czyli Digital Object Identifier, albo numer ISBN, ISSN i pokrewne.
+486:  i za pośrednictwem tych numerów Citavi lokalizuje dany tekst i zasysa dane bibliograficzne do programu, co dzieje się ekstremalnie prosto.
+494:  Jeżeli sobie klikniemy w rzeczoną ikonę, możemy zaimportować cytowany tytuł, albo jeżeli ktoś chce powiększyć sobie bibliografię do pracy dyplomowej szybko, może zaimportować wszystkie cytowane w tym artykule także źródła.
+507:  W momencie, w którym sobie rzecz zaimportujemy,
+510:  to pojawia się to już w naszym programie bezpośrednio i mamy rzecz z głowy.
+515:  Ja osobiście polecam klikiwanie się bezpośrednio, przydajmy sobie inny przykład, w jakiś konkretny tekst naukowy, niech to będzie chociażby tekst Toma Aperleja na temat John at Game Studies i wtedy zobaczycie, że ta ikonka się pojawi również właśnie przy wspomnianym przeze mnie wcześniej numerze DOI, czyli tym IDENTITY,
+536:  identyfikatorze unikatowym dla danej publikacji naukowej, który zawsze pozwala ją zlokalizować.
+542:  I tak samo tutaj możecie się wklikać bezpośrednio w cita VPKera, on wykryje, że jest jakiś artykuł, możecie kliknąć radosny przycisk przejmij, zaimportować artykuł, pojawi się ikona importu i po chwili rzecz znajduje się faktycznie w programie, jest gotowa do naszej dalszej obróbki.
+559:  No bo właśnie, kluczowa sprawa jest taka, że zawsze się zdarzy tak, że będzie trzeba zrobić jakieś drobne korekty, na przykład w tym wypadku będzie trzeba zgodnie z ortografią angielską wpisać wielkie litery za każdym razem, kiedy się pojawia rzeczownik.
+573:  Możemy też sobie przenieść podtytuł do podtytułu.
+576:  I to jest w zasadzie wszystko, czego potrzebujecie.
+579:  I teraz zaczyna się magia.
+580:  W momencie, jak macie to już wszystko opisane, przechodzicie sobie do tego nieszczęsnego dokumentu ordowskiego i w momencie, w którym chcecie wstawić tradycyjny przypis, zamiast kopiować wszystkie te dane,
+594:  Otwieracie sobie panel Citaviego, który jest jako wtyczka dokładnie tak samo dostępny jak do Chroma, także i do Worda, czyli dowolnego innego edytora tekstu, którego używacie i wklikujecie się tutaj w przypis.
+608:  Następnie wyszukujecie rzecz, którą świeżo zaimportowaliście do Citaviego, w naszym przypadku był to Upperlay Genre and Game Studies i wstawiacie.
+617:  Albo możecie wstawić bezpośrednio
+619:  Cały cytat i jest on gotowy.
+621:  Sformatowany dokładnie tak samo, jak miał być.
+624:  Jeżeli zobaczycie, że jest jakiś błąd, na przykład tutaj studies jest wciąż małą literą, możemy wejść szybko do programu i tutaj to skorygować.
+631:  Nie robimy tego w Wordzie z tego względu, że importuje się to jako pole aktywne, więc w momencie, w którym odświeżymy sobie całość, to dopiero w ten sposób się nakładają zmiany i one są aktualizowane.
+642:  Trzeba często przejść do osobnego pola tutaj, żeby rzecz się zaktualizowała w programie i jest bingo.
+648:  A zatem przestajecie się w tym momencie już przechowywać kompletnie przypisami i nie tylko przypisami, bo najlepsze w tym wszystkim jest to, że na końcu waszego tekstu program automatycznie będzie tworzył bibliografię.
+660:  Jak mi nie wierzycie, na samym początku pojawi się nasz Tom Upperley Genre and Game Studies, sformatowany już inaczej, zgodnie z wytycznymi, wedle których powinny wyglądać wpisy bibliograficzne na samym końcu, a bardzo często jest tak, że przypisy się różnią.
+675:  Jeżeli wciąż nie sprzedałem wam tego pomysłu, to dodam jeszcze jedną kwestię.
+679:  Czasem się zdarza tak, że co bardziej upierdliwi wykładowcy lub redaktorzy czasopism stwierdzają, o nie, nie, ten, ten, o nie, nie, nie, nie, nie, ten styl bibliograficzny jest zły, zły, musimy zmienić styl bibliograficzny, bo to jest bardzo ważne i teraz zmieniamy sobie z tych kropek na przecinki lub z wielkich liter na małe litery, no i w tym momencie...
+701:  bylibyśmy w tak zwanej czarnej dupie, jeżeli byśmy musieli to zrobić od samego początku i tracilibyśmy kilometry czasu na zmianę tego pod nowe wytyczne.
+711:  To nie jeżeli używacie menadżera bibliograficznego, wtedy jesteście dwa kliknięcia od tej zmiany, bo zmieniacie sobie w ten sposób w stylu cytowania, na przykład ze stylu cytowania, który aktualnie używacie, na jakikolwiek inny.
+722:  Tutaj, żeby pokazać różnicę, wybierzemy sobie chicagowski skrócony i zobaczycie jaka wygląda ta zmiana.
+730:  Nie dość, że w przypisy wszystkie się zmieniły i zaktualizowały automatycznie, to taka sama zmiana się zdarzy w bibliografii.
+736:  To znaczy będziemy mieli minimalnie inny system zapisu.
+739:  To jest to, co wam mówiłem.
+740:  Zamiast kursywy pojawia się tytuł, ale w cudzysłowie.
+745:  Żaden normalny człowiek nie jest w stanie tego przy zdrowych zmysłach zapamiętać, więc całe szczęście, że są takie programy.
+750:  Szkoda tylko, że nie są one nauczane powszechnie, bo w moim przekonaniu każde seminarium dyplomowe czy jakiekolwiek inne, a ba, każdy moment, kiedy na lekcjach szkolnych się pojawi biografia, to jest dokładnie ten moment, w którym powinniśmy się uczyć wykorzystywania menadżerów bibliograficznych.
+766:  No dobrze, czyli mamy już z grubsza stworzony ekosystem cytowania przynajmniej tych tekstów naukowych, które to opatrzone są, co istotne, numerami DOI albo innymi tego rodzaju wskaźnikami.
+778:  Bo tak zgadliście, jeżeli niestety teksty naukowe są wrzucone do internetu i nie są zdeponowane w żadnej naukowej bazie danych, która dysponuje tego rodzaju wskaźnikami,
+790:  no to niestety nie będziemy mieli tak ułatwionej pracy i będzie trzeba wtedy żmudnie przeklejać wszystko z sieci do menadżera bibliograficznego, ale w dalszym ciągu uważam, że jest to mniej pracy, bo owszem, żmudnie przeklejamy do menadżera bibliograficznego, ale jeżeli to zrobimy raz, to w każdym kolejnym tekście mamy już dostęp do tych danych, to po pierwsze, no i po drugie, jeżeli z jakichś powodów będziemy musieli zmienić styl cytowania na inny, wówczas robimy to jednym kliknięciem, a nie musimy wszystkiego przepisywać od nowa.
+818:  Cały problem polega na tym, że niestety bazy naukowe danych głównie hostują publikacje w postaci artykułów.
+827:  Bardzo rzadko się zdarza tak, i robią to wyłącznie wydawnictwa wiodące typu Cambridge University Press czy Oxford University Press, że są również wprowadzane dane bibliograficzne bardzo szczegółowe dla nie tylko książek, ale także rozdziałów w książkach.
+842:  Jak sobie w takiej sytuacji poradzić, żeby mimo wszystko ułatwiać sobie pracę?
+847:  No jest proste rozwiązanie, mam nadzieję znowu dla Was, mianowicie wtedy używacie wyszukiwarki, która się nazywa WorldCat.
+854:  Więc wróćmy sobie jeszcze raz do naszych przykładów.
+857:  Konkretnie tutaj mieliśmy akurat książkę An Introduction to Video Game Studies Fransa Mayry.
+863:  No więc wtedy wchodzimy sobie do...
+866:  tak zwanej Biblioteki Kongresu, tak się o tym mówi, bo to jest wyszukiwarka, która głównie bazuje na Bibliotece Kongresu Stanów Zjednoczonych i ma dostęp do absolutnie wszystkich książek wydanych na świecie, przynajmniej tych liczących się.
+877:  I możecie wyszukać sobie dane bibliograficzne tejże książki.
+880:  Tutaj najczęściej jest tak, że trzeba będzie jeszcze
+883:  dopisać sobie autora, ponieważ bardzo wielu autorów pisało na temat studiów nad grami wideo, więc dopisujemy sobie szybko jeszcze autora i rzecz powinna nam się szybko pokazać.
+893:  I oczywiście jest, wklikujemy się w to i dokładnie tak samo jak było w wypadku artykułu naukowego, tak i tutaj będziemy mieli możliwość dodania do projektu CITAVI według numeru ISBN.
+905:  Czyli to jest ta alternatywna ścieżka, o której Wam mówiłem, ponieważ nie ma
+910:  Digital Object Identifier nie ma numeru DOI tak często przyznawanego publikacjom książkowym, jak jest przyznawany w większości artykułów naukowych, to niestety musimy korzystać z numeru ISBN.
+922:  Bardzo często się zdarza, i tutaj trzeba mieć troszeczkę więcej cierpliwości do tego, że program Citavi się wykrzacza albo muli w momencie, w którym usiłuje zaimportować ten tytuł,
+932:  głównie dlatego, że czas kontaktu z bazami bibliograficznymi, które hostują informacje o książkach, jest po prostu o wiele dłuższy.
+940:  Coraz częściej jednak te numery DOI są przypisywane także książkom, w związku z powyższym ten nasz problem przestaje być taki problematyczny.
+948:  No i w momencie, w którym znowu przeklikamy się do naszego CITAViego, będziemy mieli rzeczonego Fransa Meire i Introduction to Video Game Studies.
+955:  Tradycyjnie sobie możemy wprowadzić drobniutkie poprawki,
+958:  że wszystko było w porządku.
+959:  Bardzo często jest też tak, że ludzie, którzy opracują bibliografię, dodają tutaj różne tego rodzaju notatki, jak i pozostałe, możemy to sobie wszystko usunąć.
+968:  No i ważna kwestia, jeżeli zaimportuje się Wam coś, co jest kluczową daną, jak na przykład autor, albo nazwa czasopisma, albo nazwa wydawnictwa z jakimkolwiek błędem, tutaj Franz się zaimportował z kropką, to edytujemy to nie bezpośrednio tutaj w tym edytorze, tylko w listach.
+985:  Macie w ramach list nie tylko słowa kluczowe i kategorie czy grupy, które nas nie interesują, ale osoby i instytucje, czasopisma i wydawców.
+992:  I to będą najczęstsze listy, w które się będziecie wklikiwać.
+995:  Jak wejdziemy sobie w osoby i instytucje, będziemy mieli tutaj w którymś momencie, prawdopodobnie pod F, rzeczonego naszego, nie, to będzie pod M, Franz Mayra.
+1004:  Niech go tylko znajdę.
+1006:  Tutaj jest i możecie w tym miejscu go zedytować, żeby nie pojawiała się tutaj ta kropka.
+1012:  Upierdliwa rzecz, ale drobna.
+1015:  Pozostałe wszystkie dane mamy dostępne i znowu wchodzimy sobie do Citaviego i w momencie, w którym chcemy sobie zacytować Fransa Meire, wyszokujemy go w aplecie Citaviego i wstawiamy Introduction to Video Game Studies.
+1029:  Fajna rzecz też w Citavi jest taka, że ponieważ tutaj pojawiają się, jak zobaczycie sobie
+1034:  informacje szczegółowe dotyczące poszczególnych artykułów, bardzo często też jest zaimportowana paginacja.
+1040:  Jeżeli będziemy próbowali zacytować, pomyląc się na przykład, zakres stron, który nie istnieje w danej książce, to Citavin zwróci nam uwagę, że na przykład strony 269 tutaj nie ma.
+1051:  Prowadzony zakres stron błędny.
+1056:  Czyli na pewno chcesz to wprowadzić.
+1058:  To też jest kolejny sposób na to, żeby ułatwić sobie życie i później nie wprowadzać czytelnika w błąd.
+1064:  No bo właśnie, bibliografie do tego służą, żeby dać naszemu czytelnikowi jak najwięcej informacji.
+1069:  I tutaj krótkie...
+1072:  To nie wstęp w zasadzie, tylko wstęp do małego rantu.
+1075:  Mianowicie, nie wiem z jakiego powodu nauczyciele wymawiają wszystkim, że bibliografie polegają na tym, że wstawiamy tam wszystkie rzeczy, które przeczytaliśmy, zanim napisaliśmy nasz tekst, ponieważ inaczej.
+1090:  Nie, nie będzie żaden plagiat, ponieważ wszystkie teksty, które kiedykolwiek powstały, są tekstami zależnymi od tekstów, które powstały wcześniej.
+1098:  I bibliografia służy do tego, żeby zamieszczać wyłącznie oznaczenia książek, z których bezpośrednio cytowaliśmy coś lub niebezpośrednio się do nich odwołaliśmy.
+1109:  A zatem za każdym razem, kiedy pojawia się cytat w
+1112:  Wtedy ważne jest wprowadzenie rekordu bibliograficznego.
+1115:  Jak czegoś nie cytujecie, co to czytelnika obchodzi?
+1118:  Co czytaliście, zanim się czegoś dowiedzieliście?
+1121:  To jest też wyjaśnienie tego, dlaczego w bibliografiach nie cytujemy podręczników, źródeł słownikowych i innych tego rodzaju pomocy naukowych, które mają służyć nam, a nie czytelnikowi.
+1133:  Czytelnik może sobie sam sięgnąć do słownika języka angielskiego albo do encyklopedii dinożarłów.
+1140:  Nie musi korzystać z naszej bibliografii.
+1142:  W bibliografii zamieszczamy wyłącznie te źródła, które są wymagane dla czytelnika do tego, żeby zrozumiał kontekst albo żeby sięgnął do jakichś babań, na bazie których powstawało to, nad czym my pracowaliśmy.
+1155:  Ale możecie zadać bardzo zasadne pytanie.
+1158:  Co zrobić w sytuacji, w której nie mamy dostępu do danej książki?
+1163:  No bo wszystko jest pięknie, jeżeli możemy sobie skorzystać z tego rodzaju menadżerów bibliograficznych, ale co wtedy, jeżeli nie mamy dostępu do danej książki?
+1172:  No i tak pokazywałem Wam kiedyś, jak radzić sobie w takiej sytuacji, jak nie mamy dostępu do jakiegoś artykułu naukowego.
+1179:  Oczywiście jest też sposób,
+1181:  na to, żeby znaleźć sobie książkę, której akurat poszukujemy.
+1185:  No więc znowu wracamy do tego naszego Introduction to Video Game Studies i przenosimy się do jedynej słusznej wyszukiwarki pod tytułem Library Genesis, gdzie wyszukujemy brzeczone Introduction to Video Game Studies i pobieramy przez dowolny z mirrorów.
+1201:  Wiem, co myślicie i wiem, co się może zaraz pojawić w komentarzach.
+1205:  Dlatego też przygotowałem dla was pewien argument.
+1210:  To znaczy, możecie nie wiedzieć tego, ale naukowcy nie dostają wynagrodzenia za swoje publikacje, ani za artykuły, ani za książki, ani nawet za, jak możecie widzieć w tym artykule, recenzowanie.
+1223:  Czyli jedyny sposób na to, żeby zweryfikować jakość naukową danego artykułu lub danej publikacji naukowej.
+1232:  I w tekście, który wam tutaj pokazuję, wyliczono, że...
+1237:  Ponad 100 miliardów dolarów kosztowałoby wydawnictwa amerykańskie same opłacenie nieopłacanych w ogóle recenzentów.
+1249:  I te 15 tysięcy lat, które są wymienione w artykule, również są dość problematyczne, bo to właśnie tyle czasu naukowcy poświęcają na czytanie swoich tekstów nawzajem i weryfikowanie, czy są one poprawne, czy są one niepoprawne, czy badania, które są w nich przywoływane, są kluczowe, czy nie.
+1268:  I oczywiście w wypadku tekstu humanistycznego nie jest to taki priorytet, ale w wypadku artykułu o szczepionkach
+1275:  Wydaje mi się, że może być to już ciut ważniejsze, prawda?
+1280:  Teraz to zależy od waszego etycznego wyboru.
+1285:  Czy uznacie w ciszy własnego serca, że piractwem jest pobieranie książki naukowej, za którą naukowiec nie dostaje żadnych pieniędzy i wszystkie pieniądze do wydawcy, ba, książki naukowej, za którą naukowiec płaci z własnej kieszeni albo płaci z waszej kieszeni podatników?
+1307:  Czy jest etyczne zatem, że wydawca bierze całość i nie ma z tego dochodu ani recenzent, który przesądza o naukowej wartości danego zbioru czy danej publikacji, ani autor, bez którego w ogóle to wydawnictwo by nie funkcjonowało?
+1321:  Jeśli dojdziecie do takiego wniosku jak ja, to będziecie bez całkowitej żenady korzystać z Library Genesis i będziecie cieszyć się z tej możliwości, ponieważ prawda jest taka, że ja osobiście i mogę powiedzieć to szczerze, nie miałbym szans stworzyć żadnej publikacji naukowej w swoim życiu z doktoratem, włącznie gdyby właśnie nie możliwość wyszukiwania tekstów w Library Genesis, o której się dowiedziałem.
+1342:  I myślę sobie, że warto, żeby wiedziało na ten temat więcej studentów czy uczniów, którzy właśnie mają problem z tym, że w bibliotekach nie ma źródeł dotyczących właśnie Game Studies.
+1352:  No bo przecież wiemy, oczywiście, że to wiemy, że badania nad grami wideo nie powinny być prowadzone, ponieważ jedyne badania nad, jakie należy prowadzić w obrębie humanistyki, są nad literaturą, teatrem, operą i ewentualnie malarstwem.
+1365:  Cała reszta jest całkowicie niedopuszczalna.
+1368:  No więc jeżeli chcemy dokonywać jakiegokolwiek postępu w obrębie nauki, bardzo często jest tak, że nie mamy innego wyjścia.
+1374:  Bo w bibliotekach nie ma tych źródeł, bardzo rzadko się zdarza, żeby biblioteki miały wykupiony w ogóle dostęp do baz, w których tego rodzaju książki są dostępne.
+1382:  No i właśnie, najczęściej książki w tych bazach dostępne nie są, dostępne są artykuły.
+1387:  To zatem wasza decyzja, czy będziecie korzystać z Library Genesis czy nie.
+1391:  Ja z przyczyn prawnych nie mogę polecać tej wyszukiwarki i absolutnie tego nie czynię.
+1396:  Wskazuję wam tylko, że problem, z którym się mierzymy jest znacznie bardziej szeroki i fakt, że w Polsce średnia cena wydania książki naukowej waha się od 15 tysięcy złotych netto do 30 tysięcy złotych netto i mówimy o takich oficynach jak Uniwersitas czy Słowo Obraz Terytoria,
+1415:  I fakt, że za każdym razem w modelu tym króluje vanity publishing, czyli model wydawniczy, w którym to autor finansuje absolutnie wszystko, jest troszeczkę inny od self-publishingu, bo self-publishingowo oczywiście można wydać swoją książkę naukowo, problem polega na tym, że zabezpieczono się przed tym.
+1434:  Otóż jedynie wydawnictwa, które są na ministerialnej liście dają naukowcom punkty, za które oni są potem rozliczani.
+1442:  Zatem jeżeli wydamy coś self-pubowo, to tak, jest dostępne dla wszystkich, ale tak by tej książki nie było.
+1449:  Więc krótko mówiąc, naukowcy muszą te 15, 30 czy 20 tysięcy złotych wydać i muszą pozyskać te pieniądze skądś.
+1458:  Więc jeżeli chcecie dotować wydawnictwa, róbcie to.
+1461:  Natomiast jeśli faktycznie będziecie o tym wiedzieć, mam wrażenie, że zastanowicie się wtedy dwa razy przed kupnem jakiejkolwiek książki naukowej i serdecznie to doradzam.
+1471:  Pamiętajcie również, że Library Genesis to nie jest tylko wyszukiwarka, z której pobieramy książki, ale jest też wyszukiwarka, do której książki możemy wygrywać.
+1481:  I to informacja dla moich kolegów i koleżanek, którzy chcieliby walczyć z tym chorym modelem publikacyjnym.
+1487:  Mam nadzieję, że ten krótki materiał pozwoli Wam oszczędzić trochę czasu, przede wszystkim właśnie tego czasu przygotowywania żmudnego bibliografii, zastanawiania się nad tym, w jaki sposób należy to wszystko zrobić i tym zarządzać, no i przede wszystkim też oddawania kolejnych materiałów.
+1505:  stron niepotrzebnie produkowanych bibliografii, promotorom podczas seminariów dyplomowych, czy nauczycielom, którzy wymagają już coraz częściej podawania źródeł pod koniec różnego rodzaju prac, czy to zaliczeniowych, czy też prezentacji wszelkiego autoramentu.
+1523:  Osobiście, ze swojego własnego doświadczenia mogę Wam powiedzieć jedno.
+1527:  Pierwszą książkę napisałem w sześć miesięcy.
+1531:  Drugą książkę napisałem w dwa i pół miesiąca.
+1535:  Co różniło te dwie sytuacje?
+1538:  Podczas pisania drugiej książki korzystałem z menadżera bibliograficznego.
+1543:  Co i mam nadzieję będzie waszym udziałem, jeśli kiedykolwiek ktokolwiek będzie was zmuszać do tej żmudnej czynności.
+1550:  A tymczasem wszystkiego dobrego i do następnego.

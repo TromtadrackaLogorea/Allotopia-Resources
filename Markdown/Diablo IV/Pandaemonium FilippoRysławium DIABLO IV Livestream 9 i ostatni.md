@@ -1,0 +1,15852 @@
+# [🔗](https://www.youtube.com/watch?v=Q2LSy4NEYOw) 🔴 Pandaemonium Filippo-Rysławium | DIABLO IV Livestream #9 i ostatni
+
+<table>
+    <tr id="t35">
+        <td><a href="#t35">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=35">35s</a></td>
+        <td>Zdjęcia i montaż</td>
+    </tr>
+    <tr id="t115">
+        <td><a href="#t115">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=115">115s</a></td>
+        <td>Dzięki za oglądanie!</td>
+    </tr>
+    <tr id="t149">
+        <td><a href="#t149">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=149">149s</a></td>
+        <td>To jest droga do wielu zdolności, które niektórzy uważają za nienaturalne.</td>
+    </tr>
+    <tr id="t207">
+        <td><a href="#t207">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=207">207s</a></td>
+        <td>Muzyka Muzyka</td>
+    </tr>
+    <tr id="t238">
+        <td><a href="#t238">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=238">238s</a></td>
+        <td>Witam, witam wszystkich na zapowiadanym długo livestreamie z udziałem wspaniałych naszych gości, ale zanim ich powitamy, zanim się pojawią na ekranie, witam wszystkich przybyłych w ten oto mroczny, straszliwy piątek.</td>
+    </tr>
+    <tr id="t255">
+        <td><a href="#t255">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=255">255s</a></td>
+        <td>Lwy, tygrysy, niedźwiedzie, czerwony lisk, kambriana, kranczy, panczy, antitowiec, Elena, raciaveli, rogal, świętomarciński, pełcio, lacustro,</td>
+    </tr>
+    <tr id="t262">
+        <td><a href="#t262">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=262">262s</a></td>
+        <td>Ałpatryk.</td>
+    </tr>
+    <tr id="t284">
+        <td><a href="#t284">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=284">284s</a></td>
+        <td>Krogier, Zły Czarownik, Ditwe Bon Brando, Mr. Magic Hook, Ptyś Różowy i reszta naszych wspaniałych moderatorów, Wieszcz Pingwy, Ola Kustra, Atomowy Gość, Black Cat, Galaktyczny Jaguar, Arwen Winchester, Pomelo, Płaczka, Cambriana, I'm Freedom 66, Emeriu, Lucifer,</td>
+    </tr>
+    <tr id="t304">
+        <td><a href="#t304">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=304">304s</a></td>
+        <td>Lacek Palachowski, Świter Karol Kaka, Emeriu raz jeszcze, Robert Cyganik, ale przede wszystkim moi drodzy, niech zostaną powitani nasi wspaniali goście.</td>
+    </tr>
+    <tr id="t316">
+        <td><a href="#t316">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=316">316s</a></td>
+        <td>Witam najserdeczniej Rysława, witam najserdeczniej Filipa.</td>
+    </tr>
+    <tr id="t322">
+        <td><a href="#t322">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=322">322s</a></td>
+        <td>Witajcie moi drodzy, dzisiaj będziemy diablować, dzisiaj będziemy robić rzeczy, czaty was witają jak zawsze tłumnie.</td>
+    </tr>
+    <tr id="t330">
+        <td><a href="#t330">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=330">330s</a></td>
+        <td>Cieszę się, jeżeli pierwszy raz moi drodzy robimy livestream na tym kanale w trybie multiplayer, to musi być on legendarny.</td>
+    </tr>
+    <tr id="t337">
+        <td><a href="#t337">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=337">337s</a></td>
+        <td>I skoro już mamy naszych gości i wciąż gra nam mroczna i wspaniała muzyka, to moi kochani, polecajki ważne.</td>
+    </tr>
+    <tr id="t344">
+        <td><a href="#t344">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=344">344s</a></td>
+        <td>Po pierwsze, ważna rzecz, Rysławowi brakuje bardzo niewiele subskrypcji do 30 tysięcy.</td>
+    </tr>
+    <tr id="t349">
+        <td><a href="#t349">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=349">349s</a></td>
+        <td>Ja nie wiem, co jeszcze tutaj robicie, ja nie wiem, dlaczego jeszcze nie subskrybujecie Rysława.</td>
+    </tr>
+    <tr id="t354">
+        <td><a href="#t354">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=354">354s</a></td>
+        <td>Jeżeli możecie subskrybować Rysława, subskrybujcie Rysława i ponadto, moi drodzy,</td>
+    </tr>
+    <tr id="t359">
+        <td><a href="#t359">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=359">359s</a></td>
+        <td>Niemniej ważna informacja jest następująca, a mianowicie potrzebujemy również wsparcia dla kanału drugiego naszego wspaniałego gościa, a mianowicie dla Filipa.</td>
+    </tr>
+    <tr id="t369">
+        <td><a href="#t369">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=369">369s</a></td>
+        <td>Filip założył nowy kanał, ponieważ jednego mu za mało.</td>
+    </tr>
+    <tr id="t372">
+        <td><a href="#t372">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=372">372s</a></td>
+        <td>Bez życia, ponieważ Filip jest bez życia.</td>
+    </tr>
+    <tr id="t376">
+        <td><a href="#t376">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=376">376s</a></td>
+        <td>A poza tym bez schematu, więc moi drodzy, wiecie co robić.</td>
+    </tr>
+    <tr id="t379">
+        <td><a href="#t379">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=379">379s</a></td>
+        <td>Filip tam odgrywa Bloodborne'y w tym momencie w Final Fantasy XVI i Wiedźmin 3 Krew i Wino.</td>
+    </tr>
+    <tr id="t386">
+        <td><a href="#t386">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=386">386s</a></td>
+        <td>się nakrzyczałem, witajcie serdecznie raz jeszcze, wyciszam już naszą mroczną muzykę, załączamy Diablo teraz już na spokojnie i zaczynamy grańsko moi drodzy, zaczynamy.</td>
+    </tr>
+    <tr id="t402">
+        <td><a href="#t402">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=402">402s</a></td>
+        <td>Tak.</td>
+    </tr>
+    <tr id="t418">
+        <td><a href="#t418">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=418">418s</a></td>
+        <td>Filip, teraz ty.</td>
+    </tr>
+    <tr id="t425">
+        <td><a href="#t425">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=425">425s</a></td>
+        <td>Jak to... Jak to nie słychać was?</td>
+    </tr>
+    <tr id="t429">
+        <td><a href="#t429">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=429">429s</a></td>
+        <td>Oh my goodness.</td>
+    </tr>
+    <tr id="t432">
+        <td><a href="#t432">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=432">432s</a></td>
+        <td>Już zaraz, zaraz będzie was słychać.</td>
+    </tr>
+    <tr id="t434">
+        <td><a href="#t434">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=434">434s</a></td>
+        <td>Ja wiem, co muszę zrobić.</td>
+    </tr>
+    <tr id="t436">
+        <td><a href="#t436">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=436">436s</a></td>
+        <td>Wiem, co muszę zrobić.</td>
+    </tr>
+    <tr id="t437">
+        <td><a href="#t437">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=437">437s</a></td>
+        <td>Wiem, co muszę zrobić.</td>
+    </tr>
+    <tr id="t438">
+        <td><a href="#t438">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=438">438s</a></td>
+        <td>Wiem, co muszę zrobić.</td>
+    </tr>
+    <tr id="t440">
+        <td><a href="#t440">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=440">440s</a></td>
+        <td>Wiem, co muszę zrobić.</td>
+    </tr>
+    <tr id="t441">
+        <td><a href="#t441">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=441">441s</a></td>
+        <td>Teraz będziecie słyszalni.</td>
+    </tr>
+    <tr id="t443">
+        <td><a href="#t443">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=443">443s</a></td>
+        <td>Lecicie.</td>
+    </tr>
+    <tr id="t444">
+        <td><a href="#t444">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=444">444s</a></td>
+        <td>Rysław, przedstawiasz się jeszcze raz.</td>
+    </tr>
+    <tr id="t446">
+        <td><a href="#t446">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=446">446s</a></td>
+        <td>Ha!</td>
+    </tr>
+    <tr id="t446">
+        <td><a href="#t446">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=446">446s</a></td>
+        <td>Dzień dobry, wieczór, witam wszystkich bardzo serdecznie.</td>
+    </tr>
+    <tr id="t449">
+        <td><a href="#t449">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=449">449s</a></td>
+        <td>Mam nadzieję, że teraz mnie słychać i będziemy bawić się wyśmienicie w jakże zacnym towarzystwie.</td>
+    </tr>
+    <tr id="t455">
+        <td><a href="#t455">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=455">455s</a></td>
+        <td>Witam Filipa i witam zacnego jakże gospodarza.</td>
+    </tr>
+    <tr id="t458">
+        <td><a href="#t458">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=458">458s</a></td>
+        <td>I słyszę w tle, jak dostaję powiadomienia o subskrypcjach, więc tym bardziej dziękuję wszystkim osobom subskrybującym.</td>
+    </tr>
+    <tr id="t464">
+        <td><a href="#t464">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=464">464s</a></td>
+        <td>Może uda się odrobić do 30 tysięcy w lipcu.</td>
+    </tr>
+    <tr id="t466">
+        <td><a href="#t466">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=466">466s</a></td>
+        <td>Robicie dobre rzeczy, moi drodzy, wspaniale.</td>
+    </tr>
+    <tr id="t469">
+        <td><a href="#t469">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=469">469s</a></td>
+        <td>Filip, teraz twoja kolej.</td>
+    </tr>
+    <tr id="t470">
+        <td><a href="#t470">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=470">470s</a></td>
+        <td>Filip bez schematu i Filip bez życia.</td>
+    </tr>
+    <tr id="t473">
+        <td><a href="#t473">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=473">473s</a></td>
+        <td>No to ja, korzystając z okazji, tylko pozdrowię dygresywnego Wilka, którego możecie kojarzyć także na czatach i może dzisiaj do nas dołączy, który jest jednym ze współautorów kanału Bez Życia, bo jego kompilacje są sercem tego, co właśnie wyrabia się na tym kanale.</td>
+    </tr>
+    <tr id="t487">
+        <td><a href="#t487">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=487">487s</a></td>
+        <td>Także, Wilku, pozdrawiam cię i pozdrawiam wszystkich pozostałych 364 osoby, które w tym momencie są razem z nami.</td>
+    </tr>
+    <tr id="t495">
+        <td><a href="#t495">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=495">495s</a></td>
+        <td>przy piąteczku, kiedy Krzysztof nic nie streamuje.</td>
+    </tr>
+    <tr id="t497">
+        <td><a href="#t497">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=497">497s</a></td>
+        <td>Więc tym bardziej dziękuję wszystkim, którzy wpadli o tej nietypowej dla nas porze.</td>
+    </tr>
+    <tr id="t502">
+        <td><a href="#t502">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=502">502s</a></td>
+        <td>Niech będzie płomienna chałwa, pisze Brendo, tak.</td>
+    </tr>
+    <tr id="t505">
+        <td><a href="#t505">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=505">505s</a></td>
+        <td>Bardzo dobrze, bardzo.</td>
+    </tr>
+    <tr id="t507">
+        <td><a href="#t507">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=507">507s</a></td>
+        <td>Było ich trzech, w każdym z nich inna krew.</td>
+    </tr>
+    <tr id="t509">
+        <td><a href="#t509">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=509">509s</a></td>
+        <td>Moi drodzy, kim gramy i powiedzcie, przedstawcie się teraz growo.</td>
+    </tr>
+    <tr id="t513">
+        <td><a href="#t513">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=513">513s</a></td>
+        <td>My gramy kusą po kusą.</td>
+    </tr>
+    <tr id="t515">
+        <td><a href="#t515">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=515">515s</a></td>
+        <td>Czaty dobrze znają kusą po kusę.</td>
+    </tr>
+    <tr id="t516">
+        <td><a href="#t516">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=516">516s</a></td>
+        <td>To jest najbardziej rozwydrzona spośród wszystkich czarodziejek, która obnaża się, ale równocześnie goreje ogniem i wszystkich wypala.</td>
+    </tr>
+    <tr id="t526">
+        <td><a href="#t526">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=526">526s</a></td>
+        <td>To ja gram barbarzyńcą, tutaj stoi obok.</td>
+    </tr>
+    <tr id="t530">
+        <td><a href="#t530">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=530">530s</a></td>
+        <td>Bogdan z brzegu, bezwzględny łajdak, to ja.</td>
+    </tr>
+    <tr id="t534">
+        <td><a href="#t534">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=534">534s</a></td>
+        <td>Troszkę mam wyższy poziom niż wy, wobec tego będę miał możliwość przeprowadzenia was przez podziemia wieńczące i wejścia na wyższe rangi świata.</td>
+    </tr>
+    <tr id="t545">
+        <td><a href="#t545">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=545">545s</a></td>
+        <td>Boże drogi, ty mówisz bezwzględny łajdak, ja teraz zobaczyłem, że kusa pokusa jest przelotną kozą.</td>
+    </tr>
+    <tr id="t552">
+        <td><a href="#t552">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=552">552s</a></td>
+        <td>Właśnie...</td>
+    </tr>
+    <tr id="t554">
+        <td><a href="#t554">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=554">554s</a></td>
+        <td>To jest wszystko przez to, że spotkaliśmy Guślarza.</td>
+    </tr>
+    <tr id="t557">
+        <td><a href="#t557">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=557">557s</a></td>
+        <td>Rysław, może przypomnisz, kto dubbingował Guślarza w Wiedźminie III?</td>
+    </tr>
+    <tr id="t561">
+        <td><a href="#t561">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=561">561s</a></td>
+        <td>I tutaj też się pojawia ten aktor.</td>
+    </tr>
+    <tr id="t563">
+        <td><a href="#t563">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=563">563s</a></td>
+        <td>Włodzimierz Press dubbingował.</td>
+    </tr>
+    <tr id="t564">
+        <td><a href="#t564">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=564">564s</a></td>
+        <td>O proszę, o proszę.</td>
+    </tr>
+    <tr id="t566">
+        <td><a href="#t566">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=566">566s</a></td>
+        <td>No więc on zawsze ma taki bardzo charakterystyczny głos.</td>
+    </tr>
+    <tr id="t569">
+        <td><a href="#t569">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=569">569s</a></td>
+        <td>Guślarz, Guślarz nie wie, nie wie kto zbrzuchacił jego księżniczkę.</td>
+    </tr>
+    <tr id="t574">
+        <td><a href="#t574">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=574">574s</a></td>
+        <td>I tak za każdym razem było, w związku z powyższym... Tak, pan Włodzimierz Press występuje w grze i występuje także jego wnuczek.</td>
+    </tr>
+    <tr id="t581">
+        <td><a href="#t581">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=581">581s</a></td>
+        <td>Kosma Press, który jest przesympatyczny młodym człowiekiem i akurat miałem przyjemność być na nagraniach, kiedy obaj wymieniali się w drzwiach.</td>
+    </tr>
+    <tr id="t592">
+        <td><a href="#t592">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=592">592s</a></td>
+        <td>Wtedy też jeszcze wpadł pan Jacek Rodzenek, który też jest, ale nie jest w głównej linii fabularnej, możecie go spotkać i jeśli graliście w Diablo 3,</td>
+    </tr>
+    <tr id="t602">
+        <td><a href="#t602">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=602">602s</a></td>
+        <td>to możecie poznać bardzo, znaczy spotkać, nie poznać, bo poznaliście już Diablo 3, pewną bardzo ważną postać z Diablo 3, która tu je powraca, no i jest cała linia fabularna z tą postacią bardzo ważną z Trójki.</td>
+    </tr>
+    <tr id="t617">
+        <td><a href="#t617">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=617">617s</a></td>
+        <td>Po wielu latach, po 50, minęło 50 lat od trójki, więc postać jest trochę starsza, bardziej doświadczona, ale nadal ma skłonności do zgrywy, więc... Proszę bardzo, proszę bardzo.</td>
+    </tr>
+    <tr id="t628">
+        <td><a href="#t628">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=628">628s</a></td>
+        <td>Natalia pisze z tyłu z live'ami z Diablo.</td>
+    </tr>
+    <tr id="t630">
+        <td><a href="#t630">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=630">630s</a></td>
+        <td>Nie martw się, dzisiaj będziemy grać bez zobowiązania, bo fabuła jest już skończona.</td>
+    </tr>
+    <tr id="t635">
+        <td><a href="#t635">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=635">635s</a></td>
+        <td>Filip, kim ty grasz?</td>
+    </tr>
+    <tr id="t638">
+        <td><a href="#t638">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=638">638s</a></td>
+        <td>No, w sześciu chłopa, jak dobrze pójdzie.</td>
+    </tr>
+    <tr id="t642">
+        <td><a href="#t642">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=642">642s</a></td>
+        <td>Mówisz.</td>
+    </tr>
+    <tr id="t643">
+        <td><a href="#t643">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=643">643s</a></td>
+        <td>Właśnie, wy nie widzicie moich szkieletów.</td>
+    </tr>
+    <tr id="t645">
+        <td><a href="#t645">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=645">645s</a></td>
+        <td>Musisz chyba wejść w pole widzenia Krzysztofa.</td>
+    </tr>
+    <tr id="t649">
+        <td><a href="#t649">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=649">649s</a></td>
+        <td>No ja jestem w polu widzenia, ale właśnie nie widać moich szkieletów.</td>
+    </tr>
+    <tr id="t653">
+        <td><a href="#t653">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=653">653s</a></td>
+        <td>To jest ekipa ośmiu chłopa, pięć szkieletowych wojowników, trzech szkieletów magów, którzy do tego... Sprawdź, Nergal.</td>
+    </tr>
+    <tr id="t660">
+        <td><a href="#t660">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=660">660s</a></td>
+        <td>O, możemy cię sprawdzić, nie masz wybranego tytułu.</td>
+    </tr>
+    <tr id="t664">
+        <td><a href="#t664">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=664">664s</a></td>
+        <td>Co Filip, co to w ogóle jest?</td>
+    </tr>
+    <tr id="t665">
+        <td><a href="#t665">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=665">665s</a></td>
+        <td>Dlaczego nie masz wybranego tytułu?</td>
+    </tr>
+    <tr id="t667">
+        <td><a href="#t667">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=667">667s</a></td>
+        <td>Bądź przelotną kozą też.</td>
+    </tr>
+    <tr id="t670">
+        <td><a href="#t670">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=670">670s</a></td>
+        <td>On może być przelotnym kozłem.</td>
+    </tr>
+    <tr id="t674">
+        <td><a href="#t674">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=674">674s</a></td>
+        <td>Ja nie potrzebuję tytułu, ja i tak jestem najlepiej ubrany z całej waszej trójki.</td>
+    </tr>
+    <tr id="t677">
+        <td><a href="#t677">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=677">677s</a></td>
+        <td>To raz.</td>
+    </tr>
+    <tr id="t679">
+        <td><a href="#t679">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=679">679s</a></td>
+        <td>Dwa.</td>
+    </tr>
+    <tr id="t680">
+        <td><a href="#t680">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=680">680s</a></td>
+        <td>Czekaj, to jest dobrze ubrany.</td>
+    </tr>
+    <tr id="t683">
+        <td><a href="#t683">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=683">683s</a></td>
+        <td>Jestem black metalowcem i to takim norweskim black metalowcem i nie dajcie się zwieść temu, że... I masz farbę na twarzy, tak?</td>
+    </tr>
+    <tr id="t691">
+        <td><a href="#t691">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=691">691s</a></td>
+        <td>Nie, właśnie nie mam farby na twarzy, bo noszę dosłownie maskę szkieleta razem z demoniczną koroną.</td>
+    </tr>
+    <tr id="t699">
+        <td><a href="#t699">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=699">699s</a></td>
+        <td>Więc ja, jak to mówi młodzież, I'm all about the swag.</td>
+    </tr>
+    <tr id="t703">
+        <td><a href="#t703">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=703">703s</a></td>
+        <td>Tu nie chodzi o tytuły.</td>
+    </tr>
+    <tr id="t704">
+        <td><a href="#t704">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=704">704s</a></td>
+        <td>Tytuły są dla ludzi, którzy...</td>
+    </tr>
+    <tr id="t708">
+        <td><a href="#t708">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=708">708s</a></td>
+        <td>nie są dzisiejsi.</td>
+    </tr>
+    <tr id="t709">
+        <td><a href="#t709">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=709">709s</a></td>
+        <td>Ja po prostu stawiam na blink-blink.</td>
+    </tr>
+    <tr id="t712">
+        <td><a href="#t712">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=712">712s</a></td>
+        <td>Okej, Filip.</td>
+    </tr>
+    <tr id="t713">
+        <td><a href="#t713">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=713">713s</a></td>
+        <td>Stawiasz swoje szkielety.</td>
+    </tr>
+    <tr id="t714">
+        <td><a href="#t714">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=714">714s</a></td>
+        <td>Dobrze.</td>
+    </tr>
+    <tr id="t715">
+        <td><a href="#t715">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=715">715s</a></td>
+        <td>Wszystko już wiemy.</td>
+    </tr>
+    <tr id="t715">
+        <td><a href="#t715">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=715">715s</a></td>
+        <td>Panika, dzięki za wsparcie od 12 miesięcy.</td>
+    </tr>
+    <tr id="t717">
+        <td><a href="#t717">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=717">717s</a></td>
+        <td>Będą widoczne w walce chyba, jak już wejdziemy do walki.</td>
+    </tr>
+    <tr id="t720">
+        <td><a href="#t720">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=720">720s</a></td>
+        <td>Właśnie, Drysław, prowadź nas, bo ja nic nie wiem.</td>
+    </tr>
+    <tr id="t723">
+        <td><a href="#t723">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=723">723s</a></td>
+        <td>Myśmy skończyli fabułę na ostatnim live'ie.</td>
+    </tr>
+    <tr id="t726">
+        <td><a href="#t726">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=726">726s</a></td>
+        <td>Lilif została pokonana i to jest wszystko, co wiemy.</td>
+    </tr>
+    <tr id="t729">
+        <td><a href="#t729">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=729">729s</a></td>
+        <td>W związku z powyższym... O, teraz zobaczyłem wszystkie szkielety Filipa.</td>
+    </tr>
+    <tr id="t734">
+        <td><a href="#t734">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=734">734s</a></td>
+        <td>Tak?</td>
+    </tr>
+    <tr id="t734">
+        <td><a href="#t734">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=734">734s</a></td>
+        <td>Tak, i teraz zniknęły.</td>
+    </tr>
+    <tr id="t735">
+        <td><a href="#t735">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=735">735s</a></td>
+        <td>Czy możesz napisać taką książkę?</td>
+    </tr>
+    <tr id="t737">
+        <td><a href="#t737">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=737">737s</a></td>
+        <td>Wszystkie szkielety Filipa?</td>
+    </tr>
+    <tr id="t739">
+        <td><a href="#t739">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=739">739s</a></td>
+        <td>Tak, tak właśnie.</td>
+    </tr>
+    <tr id="t740">
+        <td><a href="#t740">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=740">740s</a></td>
+        <td>Dobrze, moi drodzy, pierwsze podziemia wieńczące są tutaj, w tym, że w Kiełbosadzie, w świątyni, więc idziemy do świątyni.</td>
+    </tr>
+    <tr id="t749">
+        <td><a href="#t749">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=749">749s</a></td>
+        <td>Czy to jest trzecia ranga świata koszmar?</td>
+    </tr>
+    <tr id="t751">
+        <td><a href="#t751">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=751">751s</a></td>
+        <td>Bo ja mam zadanie priorytetowe, trzecia ranga świata koszmar.</td>
+    </tr>
+    <tr id="t754">
+        <td><a href="#t754">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=754">754s</a></td>
+        <td>Właśnie, to musisz wejść właśnie... podążaj za tym zadaniem.</td>
+    </tr>
+    <tr id="t757">
+        <td><a href="#t757">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=757">757s</a></td>
+        <td>Podążaj za tym zadaniem i ono poprowadzi cię tutaj na północ do posągu Rangi Świata i wyżej.</td>
+    </tr>
+    <tr id="t764">
+        <td><a href="#t764">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=764">764s</a></td>
+        <td>Ja po prostu za to będę biegł.</td>
+    </tr>
+    <tr id="t767">
+        <td><a href="#t767">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=767">767s</a></td>
+        <td>Kto lepiej jest ubrany?</td>
+    </tr>
+    <tr id="t768">
+        <td><a href="#t768">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=768">768s</a></td>
+        <td>Czatek chcą rozstrzygnąć, kto jest lepiej ubrany, w związku z powyższym piszem.</td>
+    </tr>
+    <tr id="t771">
+        <td><a href="#t771">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=771">771s</a></td>
+        <td>Nie wiem jak można pokazać.</td>
+    </tr>
+    <tr id="t773">
+        <td><a href="#t773">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=773">773s</a></td>
+        <td>Możemy pokazać.</td>
+    </tr>
+    <tr id="t774">
+        <td><a href="#t774">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=774">774s</a></td>
+        <td>Dobrze.</td>
+    </tr>
+    <tr id="t775">
+        <td><a href="#t775">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=775">775s</a></td>
+        <td>Nergal.</td>
+    </tr>
+    <tr id="t776">
+        <td><a href="#t776">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=776">776s</a></td>
+        <td>Dobrze.</td>
+    </tr>
+    <tr id="t777">
+        <td><a href="#t777">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=777">777s</a></td>
+        <td>I Bogdan.</td>
+    </tr>
+    <tr id="t780">
+        <td><a href="#t780">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=780">780s</a></td>
+        <td>Ja pokazywałem Filipa, nie pokazywałem jeszcze Bohdana, ponieważ Bohdan spierniczył na północ.</td>
+    </tr>
+    <tr id="t787">
+        <td><a href="#t787">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=787">787s</a></td>
+        <td>Dobrze, idę do ciebie.</td>
+    </tr>
+    <tr id="t788">
+        <td><a href="#t788">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=788">788s</a></td>
+        <td>Przy okazji dziękuję serdecznie za trybut.</td>
+    </tr>
+    <tr id="t789">
+        <td><a href="#t789">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=789">789s</a></td>
+        <td>Bo nie mamy jak pokazać na przykład trykotu elegancko.</td>
+    </tr>
+    <tr id="t794">
+        <td><a href="#t794">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=794">794s</a></td>
+        <td>Pokusa, ono tu.</td>
+    </tr>
+    <tr id="t796">
+        <td><a href="#t796">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=796">796s</a></td>
+        <td>Jest, jest, Jamnikowy Piechurze, dziękuję ci za trybut.</td>
+    </tr>
+    <tr id="t799">
+        <td><a href="#t799">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=799">799s</a></td>
+        <td>Dzięki Jamnikowemu Piechurowi teraz sprawdzamy Bohdana.</td>
+    </tr>
+    <tr id="t802">
+        <td><a href="#t802">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=802">802s</a></td>
+        <td>Proszę bardzo.</td>
+    </tr>
+    <tr id="t803">
+        <td><a href="#t803">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=803">803s</a></td>
+        <td>Dlaczego masz talerze na sutkach?</td>
+    </tr>
+    <tr id="t807">
+        <td><a href="#t807">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=807">807s</a></td>
+        <td>jako Bogdan.</td>
+    </tr>
+    <tr id="t809">
+        <td><a href="#t809">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=809">809s</a></td>
+        <td>Gdyż po prostu były wystarczające, gdyż na dół były za małe, więc musiałem je umieścić na górę.</td>
+    </tr>
+    <tr id="t817">
+        <td><a href="#t817">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=817">817s</a></td>
+        <td>Proszę bardzo, kusa po kusa 60% głosów na czatach.</td>
+    </tr>
+    <tr id="t821">
+        <td><a href="#t821">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=821">821s</a></td>
+        <td>Widzicie, tak to jest, jak się zgorszą.</td>
+    </tr>
+    <tr id="t822">
+        <td><a href="#t822">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=822">822s</a></td>
+        <td>Ciekawe dlatego.</td>
+    </tr>
+    <tr id="t823">
+        <td><a href="#t823">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=823">823s</a></td>
+        <td>Prawda?</td>
+    </tr>
+    <tr id="t823">
+        <td><a href="#t823">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=823">823s</a></td>
+        <td>Ale nie, zadanie jest inne.</td>
+    </tr>
+    <tr id="t825">
+        <td><a href="#t825">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=825">825s</a></td>
+        <td>Potrzebujemy 69%.</td>
+    </tr>
+    <tr id="t829">
+        <td><a href="#t829">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=829">829s</a></td>
+        <td>Dobrze, idziemy.</td>
+    </tr>
+    <tr id="t831">
+        <td><a href="#t831">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=831">831s</a></td>
+        <td>Ja jestem teraz w kaplicy.</td>
+    </tr>
+    <tr id="t834">
+        <td><a href="#t834">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=834">834s</a></td>
+        <td>No i idziesz tutaj na bok, po lewej.</td>
+    </tr>
+    <tr id="t837">
+        <td><a href="#t837">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=837">837s</a></td>
+        <td>Dobrze.</td>
+    </tr>
+    <tr id="t838">
+        <td><a href="#t838">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=838">838s</a></td>
+        <td>I tutaj są drzwi.</td>
+    </tr>
+    <tr id="t838">
+        <td><a href="#t838">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=838">838s</a></td>
+        <td>Czy mam kliknąć w drzwi?</td>
+    </tr>
+    <tr id="t841">
+        <td><a href="#t841">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=841">841s</a></td>
+        <td>Kraina Światłości, tak to zostało napisane.</td>
+    </tr>
+    <tr id="t843">
+        <td><a href="#t843">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=843">843s</a></td>
+        <td>Katedra Światłości.</td>
+    </tr>
+    <tr id="t845">
+        <td><a href="#t845">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=845">845s</a></td>
+        <td>Katedra.</td>
+    </tr>
+    <tr id="t845">
+        <td><a href="#t845">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=845">845s</a></td>
+        <td>Habit Krzysztofa, koszula Rosława, koszula Filipa.</td>
+    </tr>
+    <tr id="t848">
+        <td><a href="#t848">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=848">848s</a></td>
+        <td>Głosować, tak.</td>
+    </tr>
+    <tr id="t850">
+        <td><a href="#t850">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=850">850s</a></td>
+        <td>Wampir, dzięki za wsparcie od 7 miesięcy.</td>
+    </tr>
+    <tr id="t851">
+        <td><a href="#t851">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=851">851s</a></td>
+        <td>Krzysztof ma tę samą bluzę od roku.</td>
+    </tr>
+    <tr id="t852">
+        <td><a href="#t852">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=852">852s</a></td>
+        <td>Nie, od dwóch lat.</td>
+    </tr>
+    <tr id="t854">
+        <td><a href="#t854">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=854">854s</a></td>
+        <td>O, teraz zobaczyliśmy szkielety.</td>
+    </tr>
+    <tr id="t856">
+        <td><a href="#t856">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=856">856s</a></td>
+        <td>No i teraz zbierz po ożywionych rycerzach animus, czyli będziemy taką substancję ich ożywiającą zbierać.</td>
+    </tr>
+    <tr id="t862">
+        <td><a href="#t862">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=862">862s</a></td>
+        <td>Najpierw będę chciał zobaczyć... Nie ma Filipa.</td>
+    </tr>
+    <tr id="t865">
+        <td><a href="#t865">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=865">865s</a></td>
+        <td>O, i są jego szkielety.</td>
+    </tr>
+    <tr id="t866">
+        <td><a href="#t866">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=866">866s</a></td>
+        <td>Jest Filip, jest twoja... Jestem ja i moja ekipa.</td>
+    </tr>
+    <tr id="t868">
+        <td><a href="#t868">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=868">868s</a></td>
+        <td>Ja wiem, jaki wierszyk będziemy teraz Filipowi cały czas recytować.</td>
+    </tr>
+    <tr id="t873">
+        <td><a href="#t873">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=873">873s</a></td>
+        <td>Na cmentarzu, w snu ukropie, trupek trupka nogą kopie.</td>
+    </tr>
+    <tr id="t877">
+        <td><a href="#t877">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=877">877s</a></td>
+        <td>Tak.</td>
+    </tr>
+    <tr id="t878">
+        <td><a href="#t878">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=878">878s</a></td>
+        <td>Bardzo ładnie i ja najpierw popatrzę co wy będziecie robić.</td>
+    </tr>
+    <tr id="t881">
+        <td><a href="#t881">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=881">881s</a></td>
+        <td>Ooo Rysław, Rysław.</td>
+    </tr>
+    <tr id="t883">
+        <td><a href="#t883">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=883">883s</a></td>
+        <td>Jak się gra w diabla?</td>
+    </tr>
+    <tr id="t885">
+        <td><a href="#t885">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=885">885s</a></td>
+        <td>Nie, nie, nie, no chciałbym zobaczyć po prostu jak sobie radzicie, bo możliwe, że moja pomoc nie będzie potrzebna.</td>
+    </tr>
+    <tr id="t889">
+        <td><a href="#t889">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=889">889s</a></td>
+        <td>Może Rysław jest niepotrzebny?</td>
+    </tr>
+    <tr id="t891">
+        <td><a href="#t891">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=891">891s</a></td>
+        <td>Proszę bardzo, proszę bardzo.</td>
+    </tr>
+    <tr id="t893">
+        <td><a href="#t893">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=893">893s</a></td>
+        <td>Może jesteś tutaj tylko zbyteczny?</td>
+    </tr>
+    <tr id="t896">
+        <td><a href="#t896">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=896">896s</a></td>
+        <td>Nie Rysław, nie jesteś zbyteczny, nikt nie jest zbyteczny.</td>
+    </tr>
+    <tr id="t899">
+        <td><a href="#t899">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=899">899s</a></td>
+        <td>Znaczy zbyteczna jest moja postać.</td>
+    </tr>
+    <tr id="t901">
+        <td><a href="#t901">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=901">901s</a></td>
+        <td>Spooky scary skeleton piszą czaty, strasznie spooky szkielety.</td>
+    </tr>
+    <tr id="t905">
+        <td><a href="#t905">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=905">905s</a></td>
+        <td>Ale dlaczego one są widoczne tak lekko tylko?</td>
+    </tr>
+    <tr id="t908">
+        <td><a href="#t908">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=908">908s</a></td>
+        <td>Trzeba ty powiedzcie, czy nie zagłusza muzyka z gry i efekty dźwiękowe naszych wspaniałych gości.</td>
+    </tr>
+    <tr id="t918">
+        <td><a href="#t918">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=918">918s</a></td>
+        <td>Filip już ginie.</td>
+    </tr>
+    <tr id="t920">
+        <td><a href="#t920">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=920">920s</a></td>
+        <td>Nie ma to jak potężny nekromanta.</td>
+    </tr>
+    <tr id="t923">
+        <td><a href="#t923">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=923">923s</a></td>
+        <td>Mój Ergal ma głos Wojciecha Malajkata, bo Wojciech Malajkat nigdy nie zginie.</td>
+    </tr>
+    <tr id="t929">
+        <td><a href="#t929">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=929">929s</a></td>
+        <td>Kim jest Wojciech Malajkat?</td>
+    </tr>
+    <tr id="t931">
+        <td><a href="#t931">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=931">931s</a></td>
+        <td>Dobra, Krzysztof.</td>
+    </tr>
+    <tr id="t933">
+        <td><a href="#t933">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=933">933s</a></td>
+        <td>Graj.</td>
+    </tr>
+    <tr id="t934">
+        <td><a href="#t934">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=934">934s</a></td>
+        <td>Troszeczkę ciszej gra, mówicie.</td>
+    </tr>
+    <tr id="t936">
+        <td><a href="#t936">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=936">936s</a></td>
+        <td>Dobrze.</td>
+    </tr>
+    <tr id="t937">
+        <td><a href="#t937">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=937">937s</a></td>
+        <td>Efekty zagłuszają.</td>
+    </tr>
+    <tr id="t939">
+        <td><a href="#t939">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=939">939s</a></td>
+        <td>Problem z moją postacią jest taki, że ja dotknę przeciwników i oni umierają.</td>
+    </tr>
+    <tr id="t943">
+        <td><a href="#t943">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=943">943s</a></td>
+        <td>Ale to znaczy, że masz gorący dotyk, bardziej gorący od kusej pokusy, Rysław.</td>
+    </tr>
+    <tr id="t949">
+        <td><a href="#t949">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=949">949s</a></td>
+        <td>Zobaczcie, jak sobie radzicie z tym rycerzem i drajecie go i tam pomogę wam.</td>
+    </tr>
+    <tr id="t953">
+        <td><a href="#t953">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=953">953s</a></td>
+        <td>Brakuje mi potrzebnej esencji.</td>
+    </tr>
+    <tr id="t955">
+        <td><a href="#t955">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=955">955s</a></td>
+        <td>Co to było?</td>
+    </tr>
+    <tr id="t956">
+        <td><a href="#t956">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=956">956s</a></td>
+        <td>Dlaczego usłyszałeś?</td>
+    </tr>
+    <tr id="t957">
+        <td><a href="#t957">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=957">957s</a></td>
+        <td>To był Wojciech Malejkat.</td>
+    </tr>
+    <tr id="t959">
+        <td><a href="#t959">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=959">959s</a></td>
+        <td>Ale to strasznie sabawnie zabrzmiało.</td>
+    </tr>
+    <tr id="t962">
+        <td><a href="#t962">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=962">962s</a></td>
+        <td>Dobra, już nie żyję.</td>
+    </tr>
+    <tr id="t963">
+        <td><a href="#t963">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=963">963s</a></td>
+        <td>Lepiej zna przyczantek, jest to dobrze.</td>
+    </tr>
+    <tr id="t965">
+        <td><a href="#t965">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=965">965s</a></td>
+        <td>Filip i jego przypakowani koledzy z siłowni.</td>
+    </tr>
+    <tr id="t969">
+        <td><a href="#t969">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=969">969s</a></td>
+        <td>To jest to, co ona powiedziała.</td>
+    </tr>
+    <tr id="t997">
+        <td><a href="#t997">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=997">997s</a></td>
+        <td>Fanrodzynek w serniku.</td>
+    </tr>
+    <tr id="t998">
+        <td><a href="#t998">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=998">998s</a></td>
+        <td>Niemożliwe jest bardziej gorąco od kusy po kusy, pisze Lucifer, prawda?</td>
+    </tr>
+    <tr id="t1003">
+        <td><a href="#t1003">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1003">1003s</a></td>
+        <td>Też się z tym zgadzam, jest to fizycznie niemożliwe.</td>
+    </tr>
+    <tr id="t1005">
+        <td><a href="#t1005">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1005">1005s</a></td>
+        <td>Kusa po kusę jest najbardziej gorąca.</td>
+    </tr>
+    <tr id="t1008">
+        <td><a href="#t1008">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1008">1008s</a></td>
+        <td>A, to ja tu sam walczę, a wy sobie poszliście.</td>
+    </tr>
+    <tr id="t1010">
+        <td><a href="#t1010">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1010">1010s</a></td>
+        <td>Ojej, przepraszam, bo ja sobie tam stałem i walczyłem i myślałem, huał, chłopaki, patrzcie na mnie.</td>
+    </tr>
+    <tr id="t1015">
+        <td><a href="#t1015">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1015">1015s</a></td>
+        <td>A wy jesteście w innej lokacji.</td>
+    </tr>
+    <tr id="t1017">
+        <td><a href="#t1017">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1017">1017s</a></td>
+        <td>Tak.</td>
+    </tr>
+    <tr id="t1017">
+        <td><a href="#t1017">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1017">1017s</a></td>
+        <td>Zrobiło mi się bardzo przydro nagle.</td>
+    </tr>
+    <tr id="t1021">
+        <td><a href="#t1021">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1021">1021s</a></td>
+        <td>Po prostu tak.</td>
+    </tr>
+    <tr id="t1025">
+        <td><a href="#t1025">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1025">1025s</a></td>
+        <td>Ryusowo, a poziom ten by był tatą, który gra z synami.</td>
+    </tr>
+    <tr id="t1028">
+        <td><a href="#t1028">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1028">1028s</a></td>
+        <td>Dobra, już zabijam, już zabijam, no.</td>
+    </tr>
+    <tr id="t1031">
+        <td><a href="#t1031">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1031">1031s</a></td>
+        <td>Tak.</td>
+    </tr>
+    <tr id="t1033">
+        <td><a href="#t1033">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1033">1033s</a></td>
+        <td>Sobie świecisz, czy mnie?</td>
+    </tr>
+    <tr id="t1035">
+        <td><a href="#t1035">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1035">1035s</a></td>
+        <td>Dobra.</td>
+    </tr>
+    <tr id="t1038">
+        <td><a href="#t1038">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1038">1038s</a></td>
+        <td>Tak.</td>
+    </tr>
+    <tr id="t1039">
+        <td><a href="#t1039">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1039">1039s</a></td>
+        <td>No poczekajcie na mnie, no bądźcie... Ale myślałem, że jak jesteś nekromantą, to się poruszasz szybko dosyć.</td>
+    </tr>
+    <tr id="t1044">
+        <td><a href="#t1044">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1044">1044s</a></td>
+        <td>Poruszam się szybko, ale ja czyszczę wszystkie kąty.</td>
+    </tr>
+    <tr id="t1046">
+        <td><a href="#t1046">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1046">1046s</a></td>
+        <td>Jestem nekromantą, który jest pokusy pedantem.</td>
+    </tr>
+    <tr id="t1051">
+        <td><a href="#t1051">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1051">1051s</a></td>
+        <td>Filip jest nekromantą i pokojówką w jednym.</td>
+    </tr>
+    <tr id="t1053">
+        <td><a href="#t1053">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1053">1053s</a></td>
+        <td>Ma taką specjalną zmiotkę i zmiata kurze wszędzie.</td>
+    </tr>
+    <tr id="t1057">
+        <td><a href="#t1057">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1057">1057s</a></td>
+        <td>Krzysztof, zapytałeś mnie o tytuł.</td>
+    </tr>
+    <tr id="t1059">
+        <td><a href="#t1059">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1059">1059s</a></td>
+        <td>Mój tytuł to jest nekromanta z Manhattanu.</td>
+    </tr>
+    <tr id="t1064">
+        <td><a href="#t1064">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1064">1064s</a></td>
+        <td>O nie.</td>
+    </tr>
+    <tr id="t1066">
+        <td><a href="#t1066">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1066">1066s</a></td>
+        <td>O nie.</td>
+    </tr>
+    <tr id="t1068">
+        <td><a href="#t1068">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1068">1068s</a></td>
+        <td>Ach, Borysław.</td>
+    </tr>
+    <tr id="t1069">
+        <td><a href="#t1069">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1069">1069s</a></td>
+        <td>Już wiem, dlaczego czaty piszą o serniku.</td>
+    </tr>
+    <tr id="t1071">
+        <td><a href="#t1071">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1071">1071s</a></td>
+        <td>Borysław jest zwolennikiem serenika z rodzynkami, a myśmy rozstrzygnęli ten dylemat, stwierdzając, że sernik z rodzynkami to jest po prostu inne ciasto i nazywa się rodzynnik.</td>
+    </tr>
+    <tr id="t1081">
+        <td><a href="#t1081">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1081">1081s</a></td>
+        <td>Nie, nie, nie.</td>
+    </tr>
+    <tr id="t1082">
+        <td><a href="#t1082">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1082">1082s</a></td>
+        <td>Rodzynnik to byłoby ciasto wykonane z rodzynek.</td>
+    </tr>
+    <tr id="t1085">
+        <td><a href="#t1085">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1085">1085s</a></td>
+        <td>No właśnie.</td>
+    </tr>
+    <tr id="t1086">
+        <td><a href="#t1086">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1086">1086s</a></td>
+        <td>Nie, nie, tam jest przetykany.</td>
+    </tr>
+    <tr id="t1088">
+        <td><a href="#t1088">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1088">1088s</a></td>
+        <td>On jest delikatnie inkrustowany.</td>
+    </tr>
+    <tr id="t1091">
+        <td><a href="#t1091">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1091">1091s</a></td>
+        <td>Rozumiem.</td>
+    </tr>
+    <tr id="t1091">
+        <td><a href="#t1091">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1091">1091s</a></td>
+        <td>Tym jakże wspaniałym owocem suszonym.</td>
+    </tr>
+    <tr id="t1095">
+        <td><a href="#t1095">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1095">1095s</a></td>
+        <td>Filip jest rumbą.</td>
+    </tr>
+    <tr id="t1096">
+        <td><a href="#t1096">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1096">1096s</a></td>
+        <td>Perfekcyjny nekromanta domu.</td>
+    </tr>
+    <tr id="t1098">
+        <td><a href="#t1098">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1098">1098s</a></td>
+        <td>Wskrzesza myszy z kurzu.</td>
+    </tr>
+    <tr id="t1099">
+        <td><a href="#t1099">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1099">1099s</a></td>
+        <td>Nekromanta i pokojówka wie... Tak, czaty są zgodne.</td>
+    </tr>
+    <tr id="t1103">
+        <td><a href="#t1103">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1103">1103s</a></td>
+        <td>Pronto na sponsora odcinka.</td>
+    </tr>
+    <tr id="t1104">
+        <td><a href="#t1104">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1104">1104s</a></td>
+        <td>Pronto... Nie śmiejcie się z Pronto.</td>
+    </tr>
+    <tr id="t1106">
+        <td><a href="#t1106">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1106">1106s</a></td>
+        <td>Pronto to jest super rzecz.</td>
+    </tr>
+    <tr id="t1109">
+        <td><a href="#t1109">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1109">1109s</a></td>
+        <td>Uwiebiam prąto.</td>
+    </tr>
+    <tr id="t1110">
+        <td><a href="#t1110">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1110">1110s</a></td>
+        <td>W ogóle uwiebiam środki do czyszczenia.</td>
+    </tr>
+    <tr id="t1113">
+        <td><a href="#t1113">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1113">1113s</a></td>
+        <td>O, zobaczymy, jak ten... Bo chcę zobaczyć, jaka rzeczywista jest Ruica.</td>
+    </tr>
+    <tr id="t1117">
+        <td><a href="#t1117">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1117">1117s</a></td>
+        <td>Wy macie niezłe postacie, w sumie, przecież na tym poziomie.</td>
+    </tr>
+    <tr id="t1119">
+        <td><a href="#t1119">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1119">1119s</a></td>
+        <td>Proszę bardzo.</td>
+    </tr>
+    <tr id="t1120">
+        <td><a href="#t1120">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1120">1120s</a></td>
+        <td>Proszę bardzo.</td>
+    </tr>
+    <tr id="t1121">
+        <td><a href="#t1121">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1121">1121s</a></td>
+        <td>No i sobie rotujcie.</td>
+    </tr>
+    <tr id="t1122">
+        <td><a href="#t1122">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1122">1122s</a></td>
+        <td>Dobra.</td>
+    </tr>
+    <tr id="t1122">
+        <td><a href="#t1122">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1122">1122s</a></td>
+        <td>Hop, koniec.</td>
+    </tr>
+    <tr id="t1123">
+        <td><a href="#t1123">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1123">1123s</a></td>
+        <td>Koniec już.</td>
+    </tr>
+    <tr id="t1123">
+        <td><a href="#t1123">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1123">1123s</a></td>
+        <td>Zabić.</td>
+    </tr>
+    <tr id="t1129">
+        <td><a href="#t1129">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1129">1129s</a></td>
+        <td>To mi się przypomina od razu to, co mówiła Krystyna Czubówna w IMAXie, że to jest sprzęt wykorzystany z niezwykłu, jak na taki przedmiot, precyzją.</td>
+    </tr>
+    <tr id="t1137">
+        <td><a href="#t1137">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1137">1137s</a></td>
+        <td>I my też z Filipem mamy buildy niezwykłe, jak na taki poziom.</td>
+    </tr>
+    <tr id="t1142">
+        <td><a href="#t1142">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1142">1142s</a></td>
+        <td>Tak jest.</td>
+    </tr>
+    <tr id="t1144">
+        <td><a href="#t1144">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1144">1144s</a></td>
+        <td>Dlaczego tutaj mi się wyświetla stronnik?</td>
+    </tr>
+    <tr id="t1146">
+        <td><a href="#t1146">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1146">1146s</a></td>
+        <td>Aha, bo to są przeciwnicy po prostu.</td>
+    </tr>
+    <tr id="t1148">
+        <td><a href="#t1148">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1148">1148s</a></td>
+        <td>No właśnie, Rysław, opowiedz nam, jak to było z przekładami nazw potworów na początek.</td>
+    </tr>
+    <tr id="t1154">
+        <td><a href="#t1154">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1154">1154s</a></td>
+        <td>Powiem tak, to jest, mimo że pracowałem przy wszystkich, jestem jedną chyba z nielicznych osób na świecie, które pracowały przy wszystkich częściach Diablo, bo przy wszystkich... O, nawet nie widziałem.</td>
+    </tr>
+    <tr id="t1164">
+        <td><a href="#t1164">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1164">1164s</a></td>
+        <td>...tłumaczyłem coś, to przy czwórce tłumaczyłem najmniej.</td>
+    </tr>
+    <tr id="t1169">
+        <td><a href="#t1169">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1169">1169s</a></td>
+        <td>Sporo dialogów, sporo nazw miejsc,</td>
+    </tr>
+    <tr id="t1174">
+        <td><a href="#t1174">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1174">1174s</a></td>
+        <td>Mało umiejętności i trochę przedmiotów.</td>
+    </tr>
+    <tr id="t1179">
+        <td><a href="#t1179">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1179">1179s</a></td>
+        <td>Natomiast tutaj podejrzewam, że mój wpłat w całość to jest pewnie z 20%, więc są osoby, które przetłumaczyły znacznie więcej.</td>
+    </tr>
+    <tr id="t1190">
+        <td><a href="#t1190">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1190">1190s</a></td>
+        <td>Ja troszkę się udzielałem paszczowo też, ale tak malutko.</td>
+    </tr>
+    <tr id="t1194">
+        <td><a href="#t1194">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1194">1194s</a></td>
+        <td>Jak się udzielałeś?</td>
+    </tr>
+    <tr id="t1195">
+        <td><a href="#t1195">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1195">1195s</a></td>
+        <td>Poszczowo.</td>
+    </tr>
+    <tr id="t1197">
+        <td><a href="#t1197">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1197">1197s</a></td>
+        <td>Robiłeś voice acting do czegoś?</td>
+    </tr>
+    <tr id="t1198">
+        <td><a href="#t1198">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1198">1198s</a></td>
+        <td>Tak, tak, tak.</td>
+    </tr>
+    <tr id="t1201">
+        <td><a href="#t1201">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1201">1201s</a></td>
+        <td>Myśmy mieli teorię.</td>
+    </tr>
+    <tr id="t1203">
+        <td><a href="#t1203">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1203">1203s</a></td>
+        <td>O co chodziło z tą postacią, o której mówiliście, że Rysław na pewno dubbingował?</td>
+    </tr>
+    <tr id="t1209">
+        <td><a href="#t1209">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1209">1209s</a></td>
+        <td>Która to była, pamiętacie?</td>
+    </tr>
+    <tr id="t1210">
+        <td><a href="#t1210">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1210">1210s</a></td>
+        <td>Rzeźnika nie dubbingowałem teraz, tak.</td>
+    </tr>
+    <tr id="t1213">
+        <td><a href="#t1213">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1213">1213s</a></td>
+        <td>Był ktoś inny.</td>
+    </tr>
+    <tr id="t1216">
+        <td><a href="#t1216">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1216">1216s</a></td>
+        <td>Ja tu jestem tak naprawdę, mówię swoim łagodniejszym głosem, mówię tak bardzo spokojnie i dostojnie i jestem jednym z rycerzy w świcie Viggo.</td>
+    </tr>
+    <tr id="t1228">
+        <td><a href="#t1228">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1228">1228s</a></td>
+        <td>Pamiętacie, jest taka postać fantastyczna, świetna.</td>
+    </tr>
+    <tr id="t1231">
+        <td><a href="#t1231">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1231">1231s</a></td>
+        <td>A Astaroth?</td>
+    </tr>
+    <tr id="t1233">
+        <td><a href="#t1233">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1233">1233s</a></td>
+        <td>Nie, nie jestem Astarothem, nie, nie.</td>
+    </tr>
+    <tr id="t1235">
+        <td><a href="#t1235">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1235">1235s</a></td>
+        <td>A to strasznie podobnie, wiesz, brzmiał do ciebie.</td>
+    </tr>
+    <tr id="t1238">
+        <td><a href="#t1238">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1238">1238s</a></td>
+        <td>Rzeczywiście zrezygnowano zupełnie z tych przekładów.</td>
+    </tr>
+    <tr id="t1247">
+        <td><a href="#t1247">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1247">1247s</a></td>
+        <td>generatywnych, takich wiesz, losowych nazw przedmiotów, które... Nie, nie, nie, wszystkie są praktycznie przedmioty, są... oprócz unikalnych, są losowe.</td>
+    </tr>
+    <tr id="t1256">
+        <td><a href="#t1256">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1256">1256s</a></td>
+        <td>A, no właśnie, no właśnie, bo to brzmiało dziwnie.</td>
+    </tr>
+    <tr id="t1258">
+        <td><a href="#t1258">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1258">1258s</a></td>
+        <td>Ja sobie przełożę ekran troszkę, żeby mógł się na wprost patrzeć, o. Dobra, dobra.</td>
+    </tr>
+    <tr id="t1263">
+        <td><a href="#t1263">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1263">1263s</a></td>
+        <td>I czata sobie wziąłem z boku.</td>
+    </tr>
+    <tr id="t1266">
+        <td><a href="#t1266">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1266">1266s</a></td>
+        <td>Dorysław na pewno prędzej czy później powie czaty, świeże mięso.</td>
+    </tr>
+    <tr id="t1270">
+        <td><a href="#t1270">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1270">1270s</a></td>
+        <td>Nie, wszyscy mnie na to proszą.</td>
+    </tr>
+    <tr id="t1272">
+        <td><a href="#t1272">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1272">1272s</a></td>
+        <td>Mierzę mięso.</td>
+    </tr>
+    <tr id="t1281">
+        <td><a href="#t1281">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1281">1281s</a></td>
+        <td>To byłem ja.</td>
+    </tr>
+    <tr id="t1282">
+        <td><a href="#t1282">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1282">1282s</a></td>
+        <td>Filip się teraz wcielił w sklepową w PRL-u albo w... O nie, ja wiem co to jest.</td>
+    </tr>
+    <tr id="t1287">
+        <td><a href="#t1287">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1287">1287s</a></td>
+        <td>O nie, to rzadko się zdarzało, żeby tak powiedzieć.</td>
+    </tr>
+    <tr id="t1291">
+        <td><a href="#t1291">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1291">1291s</a></td>
+        <td>Tylko w piątki.</td>
+    </tr>
+    <tr id="t1293">
+        <td><a href="#t1293">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1293">1293s</a></td>
+        <td>Masaż erotyczny mianowicie.</td>
+    </tr>
+    <tr id="t1294">
+        <td><a href="#t1294">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1294">1294s</a></td>
+        <td>Ja to muszę pokazać, nie ma innej opcji.</td>
+    </tr>
+    <tr id="t1296">
+        <td><a href="#t1296">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1296">1296s</a></td>
+        <td>W sensie, że masaż... To sam na sobie zrobi masaż erotyczny teraz.</td>
+    </tr>
+    <tr id="t1301">
+        <td><a href="#t1301">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1301">1301s</a></td>
+        <td>Stop, stop, stop.</td>
+    </tr>
+    <tr id="t1301">
+        <td><a href="#t1301">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1301">1301s</a></td>
+        <td>Patrzcie.</td>
+    </tr>
+    <tr id="t1303">
+        <td><a href="#t1303">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1303">1303s</a></td>
+        <td>Musicie to zobaczyć i następnie Filip musi powiedzieć dokładnie tym głosem to, co powiedział.</td>
+    </tr>
+    <tr id="t1308">
+        <td><a href="#t1308">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1308">1308s</a></td>
+        <td>Bo to jest dokładnie to.</td>
+    </tr>
+    <tr id="t1309">
+        <td><a href="#t1309">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1309">1309s</a></td>
+        <td>Tylko ja muszę teraz się wklikać do rzeczy, do której starałem się wklikać.</td>
+    </tr>
+    <tr id="t1313">
+        <td><a href="#t1313">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1313">1313s</a></td>
+        <td>Nie jest to takie proste.</td>
+    </tr>
+    <tr id="t1315">
+        <td><a href="#t1315">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1315">1315s</a></td>
+        <td>Dobrze czaty, więc przygotujcie się.</td>
+    </tr>
+    <tr id="t1317">
+        <td><a href="#t1317">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1317">1317s</a></td>
+        <td>Proszę bardzo.</td>
+    </tr>
+    <tr id="t1318">
+        <td><a href="#t1318">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1318">1318s</a></td>
+        <td>To jest serwis Wielka Rzeczpospolita.net.</td>
+    </tr>
+    <tr id="t1320">
+        <td><a href="#t1320">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1320">1320s</a></td>
+        <td>I w serwisie Wielka Rzeczpospolita.net jest Buchomas.</td>
+    </tr>
+    <tr id="t1323">
+        <td><a href="#t1323">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1323">1323s</a></td>
+        <td>I w Buchomasie jest grafika, którą w tym momencie otwieram.</td>
+    </tr>
+    <tr id="t1327">
+        <td><a href="#t1327">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1327">1327s</a></td>
+        <td>Filip...</td>
+    </tr>
+    <tr id="t1329">
+        <td><a href="#t1329">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1329">1329s</a></td>
+        <td>Lecisz.</td>
+    </tr>
+    <tr id="t1331">
+        <td><a href="#t1331">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1331">1331s</a></td>
+        <td>Ale mam tylko powiedzieć to, co już mówiłem, czy to chodzi o... Tak, świeże mięso.</td>
+    </tr>
+    <tr id="t1334">
+        <td><a href="#t1334">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1334">1334s</a></td>
+        <td>Świeże mięso.</td>
+    </tr>
+    <tr id="t1336">
+        <td><a href="#t1336">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1336">1336s</a></td>
+        <td>Mówiłem, że będzie idealnie?</td>
+    </tr>
+    <tr id="t1337">
+        <td><a href="#t1337">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1337">1337s</a></td>
+        <td>Mówiłem, że będzie idealnie?</td>
+    </tr>
+    <tr id="t1340">
+        <td><a href="#t1340">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1340">1340s</a></td>
+        <td>Jest masza serotyczna.</td>
+    </tr>
+    <tr id="t1341">
+        <td><a href="#t1341">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1341">1341s</a></td>
+        <td>Po prostu ja potrzebowałem wam to pokazać od bardzo dawno.</td>
+    </tr>
+    <tr id="t1345">
+        <td><a href="#t1345">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1345">1345s</a></td>
+        <td>Nie wiecie, co to jest Wielka Rzeczpospolita?</td>
+    </tr>
+    <tr id="t1346">
+        <td><a href="#t1346">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1346">1346s</a></td>
+        <td>To jest najlepsza strona satyryczna ever.</td>
+    </tr>
+    <tr id="t1348">
+        <td><a href="#t1348">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1348">1348s</a></td>
+        <td>Przedstawia Polskę, która podbija cały świat.</td>
+    </tr>
+    <tr id="t1350">
+        <td><a href="#t1350">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1350">1350s</a></td>
+        <td>Są na przykład hipermarkety z połem.</td>
+    </tr>
+    <tr id="t1352">
+        <td><a href="#t1352">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1352">1352s</a></td>
+        <td>Wysyłałeś mi to kiedyś, pamiętam.</td>
+    </tr>
+    <tr id="t1354">
+        <td><a href="#t1354">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1354">1354s</a></td>
+        <td>Pamiętam jak się nie śmiałem.</td>
+    </tr>
+    <tr id="t1356">
+        <td><a href="#t1356">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1356">1356s</a></td>
+        <td>Małe wielkie imperium, w sensie... Małe wielkie imperium.</td>
+    </tr>
+    <tr id="t1360">
+        <td><a href="#t1360">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1360">1360s</a></td>
+        <td>Są też zakłady produkcji czołgów Fiat, znaczy Fiat to jest akurat włoski, ale no wiadomo, czyli Polonez byłby po naszemu, o, tak.</td>
+    </tr>
+    <tr id="t1369">
+        <td><a href="#t1369">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1369">1369s</a></td>
+        <td>Zawsze myliłem przy lata z Polonezem.</td>
+    </tr>
+    <tr id="t1370">
+        <td><a href="#t1370">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1370">1370s</a></td>
+        <td>Wielka rzecz, posłuchaj to jakie to jest stare.</td>
+    </tr>
+    <tr id="t1373">
+        <td><a href="#t1373">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1373">1373s</a></td>
+        <td>Mega mi się podoba, że Rysław jest tak naprawdę opiekunem na koloniach.</td>
+    </tr>
+    <tr id="t1379">
+        <td><a href="#t1379">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1379">1379s</a></td>
+        <td>Pojechał i patrzy jak dzieciaki na basenie się bawią.</td>
+    </tr>
+    <tr id="t1383">
+        <td><a href="#t1383">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1383">1383s</a></td>
+        <td>Od czasu do czasu tam kogoś zabije, no ale to wiecie... Gdybym chodził i czyścił wam, to byście nie mieli żadnej frajdy z tego.</td>
+    </tr>
+    <tr id="t1390">
+        <td><a href="#t1390">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1390">1390s</a></td>
+        <td>Jak któryś z nas się zacznie topić, to Rysa podchodzi, wyciąga rękę i po prostu wyciąga za czuprynę z wody.</td>
+    </tr>
+    <tr id="t1395">
+        <td><a href="#t1395">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1395">1395s</a></td>
+        <td>Nie no, bo póki sobie dobrze radzicie, to jakbym ja tu jej chodził i czyć, patrzcie jaki ja jestem super, to byście nie mieli żadnej z tego frajdy, no co to za frajda jest.</td>
+    </tr>
+    <tr id="t1402">
+        <td><a href="#t1402">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1402">1402s</a></td>
+        <td>To jest sprawność człowieka godnego.</td>
+    </tr>
+    <tr id="t1403">
+        <td><a href="#t1403">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1403">1403s</a></td>
+        <td>My sobie fundamentalnie radzimy, ale w ogóle chciałem zwrócić uprzejmie uwagę, że film ma niższy poziom niż kusa po kusa.</td>
+    </tr>
+    <tr id="t1411">
+        <td><a href="#t1411">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1411">1411s</a></td>
+        <td>Widzę, że peregnący krwi kapitan szkieletów, on ma wampiryzm i z nim możecie mieć pewne problemy, bo on sobie od... Dobra, no to ja go ten.</td>
+    </tr>
+    <tr id="t1420">
+        <td><a href="#t1420">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1420">1420s</a></td>
+        <td>Musi go.</td>
+    </tr>
+    <tr id="t1421">
+        <td><a href="#t1421">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1421">1421s</a></td>
+        <td>Nawet Rysław potrzebował dwóch uderzeń.</td>
+    </tr>
+    <tr id="t1424">
+        <td><a href="#t1424">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1424">1424s</a></td>
+        <td>Nonsensopedia miała kiedyś planetę Mołdawię.</td>
+    </tr>
+    <tr id="t1426">
+        <td><a href="#t1426">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1426">1426s</a></td>
+        <td>Nonsensopedia też była super, też to jest stara rzecz.</td>
+    </tr>
+    <tr id="t1430">
+        <td><a href="#t1430">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1430">1430s</a></td>
+        <td>Fiat produkował czołgi?</td>
+    </tr>
+    <tr id="t1431">
+        <td><a href="#t1431">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1431">1431s</a></td>
+        <td>Naprawdę?</td>
+    </tr>
+    <tr id="t1432">
+        <td><a href="#t1432">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1432">1432s</a></td>
+        <td>Nie wiedziałem.</td>
+    </tr>
+    <tr id="t1434">
+        <td><a href="#t1434">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1434">1434s</a></td>
+        <td>Za czasów Mussoliniego chyba produkował.</td>
+    </tr>
+    <tr id="t1438">
+        <td><a href="#t1438">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1438">1438s</a></td>
+        <td>Wszyscy by myśleli, że to oni zabijają, a nie Rysław, prawda?</td>
+    </tr>
+    <tr id="t1442">
+        <td><a href="#t1442">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1442">1442s</a></td>
+        <td>Niepotrzebnie zdekonspirowaliśmy się.</td>
+    </tr>
+    <tr id="t1444">
+        <td><a href="#t1444">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1444">1444s</a></td>
+        <td>Trzeba było tak zrobić.</td>
+    </tr>
+    <tr id="t1445">
+        <td><a href="#t1445">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1445">1445s</a></td>
+        <td>Zobacz, ja sobie nawet tak człapię.</td>
+    </tr>
+    <tr id="t1448">
+        <td><a href="#t1448">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1448">1448s</a></td>
+        <td>Powolutku.</td>
+    </tr>
+    <tr id="t1449">
+        <td><a href="#t1449">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1449">1449s</a></td>
+        <td>Idę sobie.</td>
+    </tr>
+    <tr id="t1450">
+        <td><a href="#t1450">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1450">1450s</a></td>
+        <td>Ja jestem szybki, bo kusa po kusa się teleportuje.</td>
+    </tr>
+    <tr id="t1452">
+        <td><a href="#t1452">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1452">1452s</a></td>
+        <td>To my bądźmy w awangardzie, Krzysztof.</td>
+    </tr>
+    <tr id="t1454">
+        <td><a href="#t1454">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1454">1454s</a></td>
+        <td>No wy idźcie.</td>
+    </tr>
+    <tr id="t1455">
+        <td><a href="#t1455">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1455">1455s</a></td>
+        <td>Ładnie się komponujemy.</td>
+    </tr>
+    <tr id="t1456">
+        <td><a href="#t1456">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1456">1456s</a></td>
+        <td>Absolutnie.</td>
+    </tr>
+    <tr id="t1457">
+        <td><a href="#t1457">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1457">1457s</a></td>
+        <td>Kusa po kusa rusza szybko, ponieważ ona musi odnajdywać nowe cele swoich erotycznych podbojów, dlatego ma teleportację.</td>
+    </tr>
+    <tr id="t1464">
+        <td><a href="#t1464">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1464">1464s</a></td>
+        <td>A ja będę sobie tak ochodził.</td>
+    </tr>
+    <tr id="t1465">
+        <td><a href="#t1465">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1465">1465s</a></td>
+        <td>Widzicie, o.</td>
+    </tr>
+    <tr id="t1468">
+        <td><a href="#t1468">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1468">1468s</a></td>
+        <td>Proszę bardzo, takie mamy, moi drodzy, tutaj rzeczy</td>
+    </tr>
+    <tr id="t1482">
+        <td><a href="#t1482">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1482">1482s</a></td>
+        <td>U nas zwykle właśnie tak jest, kochani.</td>
+    </tr>
+    <tr id="t1484">
+        <td><a href="#t1484">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1484">1484s</a></td>
+        <td>Pokutny rycerz.</td>
+    </tr>
+    <tr id="t1485">
+        <td><a href="#t1485">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1485">1485s</a></td>
+        <td>Ale dostałem bąk.</td>
+    </tr>
+    <tr id="t1488">
+        <td><a href="#t1488">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1488">1488s</a></td>
+        <td>Dostałeś bąk?</td>
+    </tr>
+    <tr id="t1488">
+        <td><a href="#t1488">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1488">1488s</a></td>
+        <td>Dostałem bąk, tak.</td>
+    </tr>
+    <tr id="t1490">
+        <td><a href="#t1490">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1490">1490s</a></td>
+        <td>Takie ciężkie bąk.</td>
+    </tr>
+    <tr id="t1492">
+        <td><a href="#t1492">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1492">1492s</a></td>
+        <td>Znowu dostałeś bąk.</td>
+    </tr>
+    <tr id="t1494">
+        <td><a href="#t1494">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1494">1494s</a></td>
+        <td>Znowu dostałem bąk.</td>
+    </tr>
+    <tr id="t1497">
+        <td><a href="#t1497">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1497">1497s</a></td>
+        <td>Dobrze sobie radzicie.</td>
+    </tr>
+    <tr id="t1499">
+        <td><a href="#t1499">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1499">1499s</a></td>
+        <td>Super.</td>
+    </tr>
+    <tr id="t1500">
+        <td><a href="#t1500">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1500">1500s</a></td>
+        <td>Nikt mnie nie słuchał.</td>
+    </tr>
+    <tr id="t1501">
+        <td><a href="#t1501">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1501">1501s</a></td>
+        <td>To dobrze, to dobrze.</td>
+    </tr>
+    <tr id="t1503">
+        <td><a href="#t1503">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1503">1503s</a></td>
+        <td>Ja tutaj sobie przywołam hydry w kąciku.</td>
+    </tr>
+    <tr id="t1506">
+        <td><a href="#t1506">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1506">1506s</a></td>
+        <td>Ale to ja, jeżeli ja mogę powiedzieć jedną rzecz a propos resocjalizacji więziennictwa, to naprawdę chwali się, że jest ktoś, kto chce się tym zajmować, ponieważ jest to bardzo, bardzo poważne w Polsce.</td>
+    </tr>
+    <tr id="t1519">
+        <td><a href="#t1519">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1519">1519s</a></td>
+        <td>Jest to niewdzięczne, ale...</td>
+    </tr>
+    <tr id="t1521">
+        <td><a href="#t1521">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1521">1521s</a></td>
+        <td>Jeżeli po coś idzie się siedzieć, to nie tylko po to, żeby to była sankcja za uczynki, ale też po to, żeby znaleźć możliwość dania drugiej szansy, no bo inaczej...</td>
+    </tr>
+    <tr id="t1535">
+        <td><a href="#t1535">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1535">1535s</a></td>
+        <td>Inaczej, kto wyjdzie z więzienia, tak?</td>
+    </tr>
+    <tr id="t1537">
+        <td><a href="#t1537">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1537">1537s</a></td>
+        <td>O, to tutaj macie trzech bossów.</td>
+    </tr>
+    <tr id="t1539">
+        <td><a href="#t1539">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1539">1539s</a></td>
+        <td>Wielki Inkwizytor.</td>
+    </tr>
+    <tr id="t1541">
+        <td><a href="#t1541">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1541">1541s</a></td>
+        <td>Pobawcie się troszkę z nimi.</td>
+    </tr>
+    <tr id="t1543">
+        <td><a href="#t1543">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1543">1543s</a></td>
+        <td>Pobawcie się troszkę.</td>
+    </tr>
+    <tr id="t1544">
+        <td><a href="#t1544">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1544">1544s</a></td>
+        <td>Mmm, kusa pokuso.</td>
+    </tr>
+    <tr id="t1546">
+        <td><a href="#t1546">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1546">1546s</a></td>
+        <td>Mergalu, pobawcie się z Wielkim Inkwizytorem.</td>
+    </tr>
+    <tr id="t1548">
+        <td><a href="#t1548">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1548">1548s</a></td>
+        <td>Ja obserwuję wasze paski zdrowia po prostu i tyle.</td>
+    </tr>
+    <tr id="t1550">
+        <td><a href="#t1550">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1550">1550s</a></td>
+        <td>W rejeczek wejdę do akcji, no bo wiecie, no musicie mieć trochę frajdy z tego.</td>
+    </tr>
+    <tr id="t1553">
+        <td><a href="#t1553">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1553">1553s</a></td>
+        <td>Pewnie, walka z bossem to nie ma żartów, moi drodzy.</td>
+    </tr>
+    <tr id="t1557">
+        <td><a href="#t1557">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1557">1557s</a></td>
+        <td>Nie ma żartów.</td>
+    </tr>
+    <tr id="t1559">
+        <td><a href="#t1559">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1559">1559s</a></td>
+        <td>Urodziłaś się gotowa.</td>
+    </tr>
+    <tr id="t1561">
+        <td><a href="#t1561">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1561">1561s</a></td>
+        <td>Nie rób mi wstydu przed Filipem Mirysławem.</td>
+    </tr>
+    <tr id="t1563">
+        <td><a href="#t1563">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1563">1563s</a></td>
+        <td>Kusa po kusa porusza się zwinnie.</td>
+    </tr>
+    <tr id="t1565">
+        <td><a href="#t1565">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1565">1565s</a></td>
+        <td>Oczywiście czaty, że tak jest.</td>
+    </tr>
+    <tr id="t1567">
+        <td><a href="#t1567">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1567">1567s</a></td>
+        <td>Bardzo dobrze sobie radzicie.</td>
+    </tr>
+    <tr id="t1568">
+        <td><a href="#t1568">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1568">1568s</a></td>
+        <td>U złego czarownika też się udało.</td>
+    </tr>
+    <tr id="t1570">
+        <td><a href="#t1570">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1570">1570s</a></td>
+        <td>Byłem zaskoczony pytaniami.</td>
+    </tr>
+    <tr id="t1571">
+        <td><a href="#t1571">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1571">1571s</a></td>
+        <td>No u mnie, moi drodzy, też były dzisiaj obrony.</td>
+    </tr>
+    <tr id="t1574">
+        <td><a href="#t1574">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1574">1574s</a></td>
+        <td>Dwóch studentów z wyróżnieniem obroniło.</td>
+    </tr>
+    <tr id="t1578">
+        <td><a href="#t1578">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1578">1578s</a></td>
+        <td>Znaczy, dwoje studentów.</td>
+    </tr>
+    <tr id="t1580">
+        <td><a href="#t1580">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1580">1580s</a></td>
+        <td>A jedna studentka obroniłaby z wyróżnieniem, gdyby nie pukciki!</td>
+    </tr>
+    <tr id="t1584">
+        <td><a href="#t1584">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1584">1584s</a></td>
+        <td>Ponieważ trzech profesorów i jeden doktor to jest za mało, żeby podjąć tak trudną decyzję jak to, czy ktoś nasługuje na wyróżnienie.</td>
+    </tr>
+    <tr id="t1592">
+        <td><a href="#t1592">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1592">1592s</a></td>
+        <td>Trzeba do tego algorytmów.</td>
+    </tr>
+    <tr id="t1593">
+        <td><a href="#t1593">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1593">1593s</a></td>
+        <td>O. Może bym kogoś wam tutaj ściągnął.</td>
+    </tr>
+    <tr id="t1599">
+        <td><a href="#t1599">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1599">1599s</a></td>
+        <td>To może którego?</td>
+    </tr>
+    <tr id="t1600">
+        <td><a href="#t1600">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1600">1600s</a></td>
+        <td>Głównego.</td>
+    </tr>
+    <tr id="t1603">
+        <td><a href="#t1603">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1603">1603s</a></td>
+        <td>Wielki Inquisitor zaraz padnie.</td>
+    </tr>
+    <tr id="t1604">
+        <td><a href="#t1604">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1604">1604s</a></td>
+        <td>Lord Commander pada na razie.</td>
+    </tr>
+    <tr id="t1606">
+        <td><a href="#t1606">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1606">1606s</a></td>
+        <td>Wybaczcie, ale długo trwało.</td>
+    </tr>
+    <tr id="t1610">
+        <td><a href="#t1610">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1610">1610s</a></td>
+        <td>Czy wyróżnienia dają hajs?</td>
+    </tr>
+    <tr id="t1612">
+        <td><a href="#t1612">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1612">1612s</a></td>
+        <td>Skąd wyróżnienie?</td>
+    </tr>
+    <tr id="t1613">
+        <td><a href="#t1613">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1613">1613s</a></td>
+        <td>To jest dokładnie to samo co paseczek w szkółce.</td>
+    </tr>
+    <tr id="t1617">
+        <td><a href="#t1617">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1617">1617s</a></td>
+        <td>Nic wam to nie daje, poza honorem.</td>
+    </tr>
+    <tr id="t1619">
+        <td><a href="#t1619">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1619">1619s</a></td>
+        <td>Drogi Nergalu, ja widzę, że ty jesteś na granicy.</td>
+    </tr>
+    <tr id="t1622">
+        <td><a href="#t1622">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1622">1622s</a></td>
+        <td>Spokojnie, tu jest dużo flaszek, które sobie leżą.</td>
+    </tr>
+    <tr id="t1625">
+        <td><a href="#t1625">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1625">1625s</a></td>
+        <td>Ale wiecie, dla mnie wyróżnienie to jest sposób na uhonorowanie po prostu, że ktoś napisał pracę, która na przykład, jak ja napisałem w swoich recenzjach, jest raczej pracą magisterską niż licencjacką.</td>
+    </tr>
+    <tr id="t1637">
+        <td><a href="#t1637">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1637">1637s</a></td>
+        <td>Więc uważam, że w takich sytuacjach wyróżnienie właśnie powinno być przyznawane, kiedy recenzenci powiedzą, że praca jest porządnie napisana.</td>
+    </tr>
+    <tr id="t1648">
+        <td><a href="#t1648">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1648">1648s</a></td>
+        <td>Rysław pisał pracę z Tolkiena, dobrze pamiętam Rysław?</td>
+    </tr>
+    <tr id="t1654">
+        <td><a href="#t1654">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1654">1654s</a></td>
+        <td>Tak, tak, tak.</td>
+    </tr>
+    <tr id="t1656">
+        <td><a href="#t1656">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1656">1656s</a></td>
+        <td>Tak się nazywał.</td>
+    </tr>
+    <tr id="t1657">
+        <td><a href="#t1657">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1657">1657s</a></td>
+        <td>Proszę bardzo.</td>
+    </tr>
+    <tr id="t1660">
+        <td><a href="#t1660">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1660">1660s</a></td>
+        <td>Filip, z czego ty pisałeś pracę?</td>
+    </tr>
+    <tr id="t1661">
+        <td><a href="#t1661">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1661">1661s</a></td>
+        <td>Ja w sumie nie wiem.</td>
+    </tr>
+    <tr id="t1663">
+        <td><a href="#t1663">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1663">1663s</a></td>
+        <td>Po kolei wszystkie, lecisz.</td>
+    </tr>
+    <tr id="t1666">
+        <td><a href="#t1666">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1666">1666s</a></td>
+        <td>Dobra, licencjacka to była na dziennikarstwie i komunikacji społecznej nowe techniki marketingu i PR w branży gier wideo i pisałem o Wiedźminie 2, o tym, że Triss się pojawiła w Playboyu między innymi, o Call of Duty Modern Warfare i o Fallout 3, gdzie kampania marketingowa na przykład obejmowała waszyngtońskie stacje metra, gdzie faktycznie dzieje się akcja gry i wisiały tam plakaty z produktami, które są produktami z gry Fallout, z uniwersum Fallouta.</td>
+    </tr>
+    <tr id="t1694">
+        <td><a href="#t1694">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1694">1694s</a></td>
+        <td>Czyli jakby ze świata przedstawionego, co było naprawdę nowatorskie i niezwykłe.</td>
+    </tr>
+    <tr id="t1699">
+        <td><a href="#t1699">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1699">1699s</a></td>
+        <td>Drugi licencja, który pisałem równolegle na stosunkach międzynarodowych, to było ocieplanie wizerunku Mułamara Kaddafiego przez zachodnich polityków w latach takich a takich, czyli w jaki sposób ze względu na kwestie geopolityczne ocieplano wizerunek zbrodniarza, kim był Mułamar Kaddafi.</td>
+    </tr>
+    <tr id="t1719">
+        <td><a href="#t1719">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1719">1719s</a></td>
+        <td>Ciekawostka, kiedy skończyłem pisać tę pracę, to tego samego dnia został zabity Mułamar Kaddafi.</td>
+    </tr>
+    <tr id="t1725">
+        <td><a href="#t1725">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1725">1725s</a></td>
+        <td>Zresztą była relacja... Proszę, nie pisz nigdy o mnie pracy.</td>
+    </tr>
+    <tr id="t1732">
+        <td><a href="#t1732">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1732">1732s</a></td>
+        <td>To było dobre, to było udane.</td>
+    </tr>
+    <tr id="t1736">
+        <td><a href="#t1736">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1736">1736s</a></td>
+        <td>A już magisterka, no to było zastosowanie crowdfundingu, znaczy nie, to już było crowdfundingu i potem doktora, to stosowanie crowdfundingu w branży gier wideo.</td>
+    </tr>
+    <tr id="t1745">
+        <td><a href="#t1745">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1745">1745s</a></td>
+        <td>Jak będziecie w teleport teraz, to będziecie w takiej bibliotece, w relikwiarzu będziecie.</td>
+    </tr>
+    <tr id="t1751">
+        <td><a href="#t1751">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1751">1751s</a></td>
+        <td>No i tu niestety jest głupie zadanie, bo trzeba wszystko wyczyścić, a na końcu czeka na was Kustosz.</td>
+    </tr>
+    <tr id="t1756">
+        <td><a href="#t1756">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1756">1756s</a></td>
+        <td>I Kustosz jest trudnym przeciwnikiem, możliwe, że tam będę musiał wejść do akcji.</td>
+    </tr>
+    <tr id="t1759">
+        <td><a href="#t1759">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1759">1759s</a></td>
+        <td>Na razie sobie po prostu stoję.</td>
+    </tr>
+    <tr id="t1761">
+        <td><a href="#t1761">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1761">1761s</a></td>
+        <td>Ojoj!</td>
+    </tr>
+    <tr id="t1761">
+        <td><a href="#t1761">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1761">1761s</a></td>
+        <td>Teraz już mocno nieaktualna.</td>
+    </tr>
+    <tr id="t1790">
+        <td><a href="#t1790">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1790">1790s</a></td>
+        <td>Faktycznie.</td>
+    </tr>
+    <tr id="t1792">
+        <td><a href="#t1792">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1792">1792s</a></td>
+        <td>Odzwyczailo mnie ich z kolei o motywie ukrywania płci w przebraniu w fabule filmów.</td>
+    </tr>
+    <tr id="t1796">
+        <td><a href="#t1796">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1796">1796s</a></td>
+        <td>Jak na obronie wspomniałem, że Materna przebierał się za kobietę w telewizji, dopiero raz pierwszy widziałem, żeby mój promotor się tak śmiał.</td>
+    </tr>
+    <tr id="t1803">
+        <td><a href="#t1803">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1803">1803s</a></td>
+        <td>Nawet nie pamiętałem, że Krzysztof Materna robił takie rzeczy, proszę proszę.</td>
+    </tr>
+    <tr id="t1806">
+        <td><a href="#t1806">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1806">1806s</a></td>
+        <td>Zaznaczę, że Man do Materny, Materna do Mana, MDM był jednym z najwybitniejszych programów.</td>
+    </tr>
+    <tr id="t1812">
+        <td><a href="#t1812">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1812">1812s</a></td>
+        <td>komediowych w telewizji, przynajmniej ja tak go zapamiętałem.</td>
+    </tr>
+    <tr id="t1816">
+        <td><a href="#t1816">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1816">1816s</a></td>
+        <td>I są skecze z Man do Materny, Materna do Mana wciąż dostępne na YouTubie i są absolutnie wybitne.</td>
+    </tr>
+    <tr id="t1822">
+        <td><a href="#t1822">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1822">1822s</a></td>
+        <td>Polecam szczególnie ten, w którym Man opowiada o dobrych technikach wychowania dziecka.</td>
+    </tr>
+    <tr id="t1828">
+        <td><a href="#t1828">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1828">1828s</a></td>
+        <td>Ja prognozę pogody kojarzę tylko.</td>
+    </tr>
+    <tr id="t1831">
+        <td><a href="#t1831">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1831">1831s</a></td>
+        <td>Generalnie wszystkie ich stylizowane występy w studio telewizyjnym są absolutnie wspaniałe.</td>
+    </tr>
+    <tr id="t1840">
+        <td><a href="#t1840">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1840">1840s</a></td>
+        <td>To było coś pięknego.</td>
+    </tr>
+    <tr id="t1841">
+        <td><a href="#t1841">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1841">1841s</a></td>
+        <td>O, mamy pytanie od Słonia, jak się poznaliśmy.</td>
+    </tr>
+    <tr id="t1843">
+        <td><a href="#t1843">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1843">1843s</a></td>
+        <td>Haha, wszyscy, we trójkę.</td>
+    </tr>
+    <tr id="t1845">
+        <td><a href="#t1845">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1845">1845s</a></td>
+        <td>To jest bardzo spotykowane.</td>
+    </tr>
+    <tr id="t1847">
+        <td><a href="#t1847">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1847">1847s</a></td>
+        <td>W Diablo.</td>
+    </tr>
+    <tr id="t1847">
+        <td><a href="#t1847">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1847">1847s</a></td>
+        <td>W Diablo, tak, oczywiście.</td>
+    </tr>
+    <tr id="t1848">
+        <td><a href="#t1848">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1848">1848s</a></td>
+        <td>Na żywo się zobaczyliśmy, znaczy ja z Filipem najpierw na pikselu, a później się widzieliśmy wszyscy razem na Dniach Fantastyki.</td>
+    </tr>
+    <tr id="t1855">
+        <td><a href="#t1855">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1855">1855s</a></td>
+        <td>Tak, tak.</td>
+    </tr>
+    <tr id="t1857">
+        <td><a href="#t1857">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1857">1857s</a></td>
+        <td>I poszliśmy na Steka.</td>
+    </tr>
+    <tr id="t1859">
+        <td><a href="#t1859">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1859">1859s</a></td>
+        <td>I to był pyszny stek.</td>
+    </tr>
+    <tr id="t1860">
+        <td><a href="#t1860">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1860">1860s</a></td>
+        <td>Było legendarnie.</td>
+    </tr>
+    <tr id="t1863">
+        <td><a href="#t1863">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1863">1863s</a></td>
+        <td>Bo ja Rysława poznałem, ale wcześniej tak, że Rysław nie wiedział o moim istnieniu.</td>
+    </tr>
+    <tr id="t1869">
+        <td><a href="#t1869">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1869">1869s</a></td>
+        <td>To znaczy byłem na festiwalu muzyki z gier wideo, gdzie Rysław był konferancierem.</td>
+    </tr>
+    <tr id="t1875">
+        <td><a href="#t1875">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1875">1875s</a></td>
+        <td>Byłem tam z moim przyjacielem, który miał meltdown fanowski i powiedział, że Krzysztof, ja muszę zrobić sobie zdjęcie z Rysławem.</td>
+    </tr>
+    <tr id="t1881">
+        <td><a href="#t1881">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1881">1881s</a></td>
+        <td>Muszę.</td>
+    </tr>
+    <tr id="t1882">
+        <td><a href="#t1882">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1882">1882s</a></td>
+        <td>Ale ja też miałem meltdown fanowski, jak poznałem Rysława.</td>
+    </tr>
+    <tr id="t1885">
+        <td><a href="#t1885">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1885">1885s</a></td>
+        <td>Tak.</td>
+    </tr>
+    <tr id="t1887">
+        <td><a href="#t1887">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1887">1887s</a></td>
+        <td>Ja też miałem, bo ja siedziałem wtedy z Marcinem, przyjacielem i kolegą także Rysława, no i Marcin powiedział, chodź, to poznam cię z Rysławem, no ja powiedziałem, no dobra, i myślałem, a, I'm gonna play it cool, podchodzę, mówię, no Rysław, Jezu, słucham cię tak długo, kurde, tak bardzo cię lubię, Jezu, nawet nie masz pojęcia.</td>
+    </tr>
+    <tr id="t1904">
+        <td><a href="#t1904">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1904">1904s</a></td>
+        <td>No, to było coś takiego.</td>
+    </tr>
+    <tr id="t1906">
+        <td><a href="#t1906">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1906">1906s</a></td>
+        <td>Dziękuję bardzo.</td>
+    </tr>
+    <tr id="t1907">
+        <td><a href="#t1907">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1907">1907s</a></td>
+        <td>Przy okazji, osoby zainteresowane, zachęcam do wzięcia udziału w koncercie muzyki z gier Final Fantasy z szóstki, siódemki i dziesiątki 14 października tegoż roku, 2023, w Narodowym Forum Muzyki w przepięknej sali</td>
+    </tr>
+    <tr id="t1923">
+        <td><a href="#t1923">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1923">1923s</a></td>
+        <td>Koncept organizowany przez Game Music Festival oraz przez Square Enix.</td>
+    </tr>
+    <tr id="t1927">
+        <td><a href="#t1927">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1927">1927s</a></td>
+        <td>To jest współpraca, więc możecie liczyć na wyjątkowe wrażenia muzyczne.</td>
+    </tr>
+    <tr id="t1933">
+        <td><a href="#t1933">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1933">1933s</a></td>
+        <td>A to jest też we Wrocławiu?</td>
+    </tr>
+    <tr id="t1935">
+        <td><a href="#t1935">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1935">1935s</a></td>
+        <td>To jest we Wrocławiu.</td>
+    </tr>
+    <tr id="t1936">
+        <td><a href="#t1936">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1936">1936s</a></td>
+        <td>Kto tu zginął?</td>
+    </tr>
+    <tr id="t1937">
+        <td><a href="#t1937">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1937">1937s</a></td>
+        <td>Ja zginąłem, ale to dlatego, że się zapatrzyłem, bo Machakos napisał bardzo mądrą rzecz.</td>
+    </tr>
+    <tr id="t1942">
+        <td><a href="#t1942">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1942">1942s</a></td>
+        <td>Poprawił mnie.</td>
+    </tr>
+    <tr id="t1943">
+        <td><a href="#t1943">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1943">1943s</a></td>
+        <td>To nie był do materny, materna do mana, tylko to było za chwilę dalszy ciąg programu.</td>
+    </tr>
+    <tr id="t1948">
+        <td><a href="#t1948">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1948">1948s</a></td>
+        <td>A nie, to był komiczny odcinek cykliczny?</td>
+    </tr>
+    <tr id="t1950">
+        <td><a href="#t1950">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1950">1950s</a></td>
+        <td>Koc?</td>
+    </tr>
+    <tr id="t1952">
+        <td><a href="#t1952">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1952">1952s</a></td>
+        <td>Nie, to było coś innego.</td>
+    </tr>
+    <tr id="t1953">
+        <td><a href="#t1953">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1953">1953s</a></td>
+        <td>Koc to był inny program.</td>
+    </tr>
+    <tr id="t1955">
+        <td><a href="#t1955">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1955">1955s</a></td>
+        <td>Tam chyba byli traperzy z Nadwisły czy coś.</td>
+    </tr>
+    <tr id="t1957">
+        <td><a href="#t1957">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1957">1957s</a></td>
+        <td>No tak, ale tam też byli koledzy.</td>
+    </tr>
+    <tr id="t1959">
+        <td><a href="#t1959">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1959">1959s</a></td>
+        <td>Bo oni się przyjaźnili, oni tam gościnnie się pojawiali.</td>
+    </tr>
+    <tr id="t1962">
+        <td><a href="#t1962">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1962">1962s</a></td>
+        <td>Natomiast absolutnie, Machakos, dziękuję ci za poprawienie mnie.</td>
+    </tr>
+    <tr id="t1966">
+        <td><a href="#t1966">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1966">1966s</a></td>
+        <td>Najpierw zanim był Materna do Mana, Man do Materny, to był właśnie za chwilę dalszy ciąg programu, czyli ZDCP.</td>
+    </tr>
+    <tr id="t1971">
+        <td><a href="#t1971">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1971">1971s</a></td>
+        <td>Wyborne, po prostu wyborne.</td>
+    </tr>
+    <tr id="t1973">
+        <td><a href="#t1973">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1973">1973s</a></td>
+        <td>Polecam wam sprawdzić na YouTubie.</td>
+    </tr>
+    <tr id="t1977">
+        <td><a href="#t1977">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1977">1977s</a></td>
+        <td>Black Cat pyta, czy ktoś pamięta koc komiczny odcinek Cygnidżana, to tak, to jest to, to jest to tak.</td>
+    </tr>
+    <tr id="t1981">
+        <td><a href="#t1981">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1981">1981s</a></td>
+        <td>Właśnie przed chwilką powie... Tak.</td>
+    </tr>
+    <tr id="t1982">
+        <td><a href="#t1982">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1982">1982s</a></td>
+        <td>Teraz to zauważyłem.</td>
+    </tr>
+    <tr id="t1984">
+        <td><a href="#t1984">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1984">1984s</a></td>
+        <td>Dobra, że zrobię małe... Jestem zrozumiał, że ja pójdę.</td>
+    </tr>
+    <tr id="t1986">
+        <td><a href="#t1986">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1986">1986s</a></td>
+        <td>Wiesz co, warto pójść Galaktyczny Jaguarze na ten koncert.</td>
+    </tr>
+    <tr id="t1989">
+        <td><a href="#t1989">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1989">1989s</a></td>
+        <td>Ja byłem dwa razy na tych koncertach z muzyki filmowej i one są najlepsze aranżacyjnie.</td>
+    </tr>
+    <tr id="t1996">
+        <td><a href="#t1996">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=1996">1996s</a></td>
+        <td>Bo właśnie cały problem polega na tym, że jak idzie się na jakiś koncert czy festiwal muzyki z gier wideo, to w większości przypadków nie ma partytur i orkiestra sama sobie radzi.</td>
+    </tr>
+    <tr id="t2005">
+        <td><a href="#t2005">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2005">2005s</a></td>
+        <td>I wtedy od jakości orkiestry i tego, w jaki sposób jest prowadzona przez dyrygenta, zależy to, jaka będzie jakość muzyki.</td>
+    </tr>
+    <tr id="t2011">
+        <td><a href="#t2011">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2011">2011s</a></td>
+        <td>Niestety, w stu procentach.</td>
+    </tr>
+    <tr id="t2014">
+        <td><a href="#t2014">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2014">2014s</a></td>
+        <td>To już nie jest kwestia tylko interpretacji, tak jak w wypadku utworów, które mają ustalone partytury.</td>
+    </tr>
+    <tr id="t2017">
+        <td><a href="#t2017">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2017">2017s</a></td>
+        <td>Więc oni chyba coś takiego tam mają.</td>
+    </tr>
+    <tr id="t2020">
+        <td><a href="#t2020">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2020">2020s</a></td>
+        <td>Albo mają bezpośredni kontakt ze studiami i dostają dobre partytury, albo robią wybitne aranżacje.</td>
+    </tr>
+    <tr id="t2025">
+        <td><a href="#t2025">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2025">2025s</a></td>
+        <td>Robią wybitne aranżacje.</td>
+    </tr>
+    <tr id="t2027">
+        <td><a href="#t2027">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2027">2027s</a></td>
+        <td>Paweł Serwicz, dzięki za trybut.</td>
+    </tr>
+    <tr id="t2028">
+        <td><a href="#t2028">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2028">2028s</a></td>
+        <td>Lepsze cross-versum niż Marvel i DC razem wzięte, jak miło.</td>
+    </tr>
+    <tr id="t2032">
+        <td><a href="#t2032">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2032">2032s</a></td>
+        <td>Dziękujemy serdecznie.</td>
+    </tr>
+    <tr id="t2034">
+        <td><a href="#t2034">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2034">2034s</a></td>
+        <td>Udaj się do komnaty kuratora.</td>
+    </tr>
+    <tr id="t2035">
+        <td><a href="#t2035">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2035">2035s</a></td>
+        <td>Wybiliśmy wszystkich, to teraz do kuratora.</td>
+    </tr>
+    <tr id="t2038">
+        <td><a href="#t2038">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2038">2038s</a></td>
+        <td>Ja nawet nie zorientowałem się kiedy, bo ja teraz jestem nieprzyzwyczajony.</td>
+    </tr>
+    <tr id="t2042">
+        <td><a href="#t2042">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2042">2042s</a></td>
+        <td>Troszkę wam pomogłem, przepraszam.</td>
+    </tr>
+    <tr id="t2045">
+        <td><a href="#t2045">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2045">2045s</a></td>
+        <td>Ja jestem nieprzyzwyczajony do takiego szybkiego zabijania.</td>
+    </tr>
+    <tr id="t2047">
+        <td><a href="#t2047">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2047">2047s</a></td>
+        <td>Chodźcie za mną.</td>
+    </tr>
+    <tr id="t2048">
+        <td><a href="#t2048">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2048">2048s</a></td>
+        <td>Kurczę, jakbyś został kuso po kuso chwilę ze mną, to byś zobaczył jak wskrzeszam szkielety.</td>
+    </tr>
+    <tr id="t2053">
+        <td><a href="#t2053">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2053">2053s</a></td>
+        <td>Lepsza rzecz jaką mogę mieć, żeby cię poderwać.</td>
+    </tr>
+    <tr id="t2056">
+        <td><a href="#t2056">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2056">2056s</a></td>
+        <td>Tak, that's what he said.</td>
+    </tr>
+    <tr id="t2059">
+        <td><a href="#t2059">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2059">2059s</a></td>
+        <td>Dobra, i tutaj jest kurator i powiem wam, że normalnie na waszym poziomie ja tutaj ginąłem.</td>
+    </tr>
+    <tr id="t2064">
+        <td><a href="#t2064">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2064">2064s</a></td>
+        <td>To jest kurator oświaty.</td>
+    </tr>
+    <tr id="t2066">
+        <td><a href="#t2066">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2066">2066s</a></td>
+        <td>Tak, to jest kurator oświaty.</td>
+    </tr>
+    <tr id="t2068">
+        <td><a href="#t2068">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2068">2068s</a></td>
+        <td>Kurator oświaty.</td>
+    </tr>
+    <tr id="t2069">
+        <td><a href="#t2069">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2069">2069s</a></td>
+        <td>To nie jest łatwy przeciwnik, naprawdę.</td>
+    </tr>
+    <tr id="t2072">
+        <td><a href="#t2072">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2072">2072s</a></td>
+        <td>Dla was może... Dlatego stanę sobie z boku i popatrzę prawie czego go pyknę.</td>
+    </tr>
+    <tr id="t2075">
+        <td><a href="#t2075">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2075">2075s</a></td>
+        <td>Dobra, jedziemy Krzysztof, jedziemy.</td>
+    </tr>
+    <tr id="t2077">
+        <td><a href="#t2077">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2077">2077s</a></td>
+        <td>Z odwagą.</td>
+    </tr>
+    <tr id="t2079">
+        <td><a href="#t2079">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2079">2079s</a></td>
+        <td>Proszę bardzo, jeden milimetr na sekundę.</td>
+    </tr>
+    <tr id="t2083">
+        <td><a href="#t2083">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2083">2083s</a></td>
+        <td>Jest, jest moc, jest potęga.</td>
+    </tr>
+    <tr id="t2086">
+        <td><a href="#t2086">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2086">2086s</a></td>
+        <td>Nie, spokojnie, spokojnie.</td>
+    </tr>
+    <tr id="t2088">
+        <td><a href="#t2088">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2088">2088s</a></td>
+        <td>Moje hydry i te suche trupy Filipa to jest bez żadnego problemu.</td>
+    </tr>
+    <tr id="t2095">
+        <td><a href="#t2095">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2095">2095s</a></td>
+        <td>Proszę bardzo, centymetr już zszedł.</td>
+    </tr>
+    <tr id="t2098">
+        <td><a href="#t2098">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2098">2098s</a></td>
+        <td>Moi drodzy.</td>
+    </tr>
+    <tr id="t2100">
+        <td><a href="#t2100">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2100">2100s</a></td>
+        <td>Jak tam stoicie z miksurkami?</td>
+    </tr>
+    <tr id="t2104">
+        <td><a href="#t2104">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2104">2104s</a></td>
+        <td>U mnie max, u mnie full.</td>
+    </tr>
+    <tr id="t2106">
+        <td><a href="#t2106">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2106">2106s</a></td>
+        <td>Ja w ogóle nie używam leczenia.</td>
+    </tr>
+    <tr id="t2107">
+        <td><a href="#t2107">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2107">2107s</a></td>
+        <td>Pili podawał, że wszystko gra i powiedział, dobrze.</td>
+    </tr>
+    <tr id="t2111">
+        <td><a href="#t2111">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2111">2111s</a></td>
+        <td>Jest jeden problem, który mam z czarodziejką i mam go od samego początku jak gram, to znaczy jest zbyt wysoki cooldown na Inferno i strasznie mi to irytuje.</td>
+    </tr>
+    <tr id="t2120">
+        <td><a href="#t2120">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2120">2120s</a></td>
+        <td>Tu sobie chodzę wokół niego i zapraszam go do... ...do eszkołego.</td>
+    </tr>
+    <tr id="t2125">
+        <td><a href="#t2125">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2125">2125s</a></td>
+        <td>Mam wrażenie, że nie zadaję mu żadnych obrażeń w tej chwili.</td>
+    </tr>
+    <tr id="t2129">
+        <td><a href="#t2129">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2129">2129s</a></td>
+        <td>Aha, bo Hydry celują z jakiegoś względu w szkielety.</td>
+    </tr>
+    <tr id="t2132">
+        <td><a href="#t2132">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2132">2132s</a></td>
+        <td>Zginąłem!</td>
+    </tr>
+    <tr id="t2133">
+        <td><a href="#t2133">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2133">2133s</a></td>
+        <td>No właśnie, ja cię wskrzeszę, spokojnie.</td>
+    </tr>
+    <tr id="t2136">
+        <td><a href="#t2136">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2136">2136s</a></td>
+        <td>Proszę bardzo.</td>
+    </tr>
+    <tr id="t2137">
+        <td><a href="#t2137">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2137">2137s</a></td>
+        <td>Proszę bardzo.</td>
+    </tr>
+    <tr id="t2138">
+        <td><a href="#t2138">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2138">2138s</a></td>
+        <td>Wstrzesiłeś mnie, faktycznie, dziękuję!</td>
+    </tr>
+    <tr id="t2140">
+        <td><a href="#t2140">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2140">2140s</a></td>
+        <td>No tak, proszę ci... Jak wiecie, na tym polega multiplayer, prawda?</td>
+    </tr>
+    <tr id="t2143">
+        <td><a href="#t2143">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2143">2143s</a></td>
+        <td>Filip i jego wapniaki!</td>
+    </tr>
+    <tr id="t2145">
+        <td><a href="#t2145">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2145">2145s</a></td>
+        <td>To są wapniaki!</td>
+    </tr>
+    <tr id="t2147">
+        <td><a href="#t2147">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2147">2147s</a></td>
+        <td>Jest to prawda!</td>
+    </tr>
+    <tr id="t2148">
+        <td><a href="#t2148">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2148">2148s</a></td>
+        <td>Dobra, panowie, potrzebuję więcej ciał.</td>
+    </tr>
+    <tr id="t2150">
+        <td><a href="#t2150">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2150">2150s</a></td>
+        <td>Nie sądziłem, że kiedykolwiek wam to powiem, ale tak jest.</td>
+    </tr>
+    <tr id="t2153">
+        <td><a href="#t2153">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2153">2153s</a></td>
+        <td>Znowu zginąłem!</td>
+    </tr>
+    <tr id="t2154">
+        <td><a href="#t2154">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2154">2154s</a></td>
+        <td>Potrzebuję więcej ciał!</td>
+    </tr>
+    <tr id="t2157">
+        <td><a href="#t2157">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2157">2157s</a></td>
+        <td>Potrzebuję więcej ciał, po czym zginął.</td>
+    </tr>
+    <tr id="t2159">
+        <td><a href="#t2159">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2159">2159s</a></td>
+        <td>Ja cię wskrzeszę, spokojnie.</td>
+    </tr>
+    <tr id="t2161">
+        <td><a href="#t2161">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2161">2161s</a></td>
+        <td>Ja tu jestem od wskrzeszania człowiek.</td>
+    </tr>
+    <tr id="t2162">
+        <td><a href="#t2162">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2162">2162s</a></td>
+        <td>Dziękuję.</td>
+    </tr>
+    <tr id="t2163">
+        <td><a href="#t2163">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2163">2163s</a></td>
+        <td>Proszę bardzo.</td>
+    </tr>
+    <tr id="t2164">
+        <td><a href="#t2164">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2164">2164s</a></td>
+        <td>Chyba bym zaraz znowu cię wskrzeszył, bo masz znowu mało.</td>
+    </tr>
+    <tr id="t2167">
+        <td><a href="#t2167">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2167">2167s</a></td>
+        <td>Jaki domasz oni zadają.</td>
+    </tr>
+    <tr id="t2171">
+        <td><a href="#t2171">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2171">2171s</a></td>
+        <td>Trzymać na dystans i czekać aż ultimate mi się będzie ładował.</td>
+    </tr>
+    <tr id="t2174">
+        <td><a href="#t2174">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2174">2174s</a></td>
+        <td>No widzicie, tak że mówię, ta walka jest... Oczywiście można skonfigurować sobie postać pod tę walkę nekromantą i pokonać go nawet na niższym poziomie, natomiast to wymaga...</td>
+    </tr>
+    <tr id="t2187">
+        <td><a href="#t2187">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2187">2187s</a></td>
+        <td>Wyżyna mi szkielety bardzo szybko, a ja muszę się trzymać na dystans cały czas.</td>
+    </tr>
+    <tr id="t2193">
+        <td><a href="#t2193">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2193">2193s</a></td>
+        <td>Filip i Krzysztof walczą o życie, Rysław na luzaku w kącie popija drinki.</td>
+    </tr>
+    <tr id="t2198">
+        <td><a href="#t2198">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2198">2198s</a></td>
+        <td>I raz na jakiś czas skrzesza mnie.</td>
+    </tr>
+    <tr id="t2200">
+        <td><a href="#t2200">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2200">2200s</a></td>
+        <td>Powiedzcie jak znudzi się to ja go pyknę, to nie jest problem.</td>
+    </tr>
+    <tr id="t2204">
+        <td><a href="#t2204">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2204">2204s</a></td>
+        <td>Powiedzcie mi tylko jedną rzecz, bardzo ważną.</td>
+    </tr>
+    <tr id="t2208">
+        <td><a href="#t2208">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2208">2208s</a></td>
+        <td>Mianowicie pytanie od Xarduneka jest.</td>
+    </tr>
+    <tr id="t2210">
+        <td><a href="#t2210">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2210">2210s</a></td>
+        <td>Rysław czy ubiłeś już uberlilif?</td>
+    </tr>
+    <tr id="t2212">
+        <td><a href="#t2212">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2212">2212s</a></td>
+        <td>Nie, nie, nie.</td>
+    </tr>
+    <tr id="t2213">
+        <td><a href="#t2213">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2213">2213s</a></td>
+        <td>To muszę wejść na setny poziom.</td>
+    </tr>
+    <tr id="t2216">
+        <td><a href="#t2216">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2216">2216s</a></td>
+        <td>Na razie uber Lilith zabijają tylko nekromanci.</td>
+    </tr>
+    <tr id="t2218">
+        <td><a href="#t2218">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2218">2218s</a></td>
+        <td>Jest specyficzna konfiguracja postaci pod zabijanie Lilith.</td>
+    </tr>
+    <tr id="t2223">
+        <td><a href="#t2223">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2223">2223s</a></td>
+        <td>Na razie trzy osoby zabiły ją też na hardkorze.</td>
+    </tr>
+    <tr id="t2227">
+        <td><a href="#t2227">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2227">2227s</a></td>
+        <td>Paręnaście osób zabiło ją chyba, czy paręset może, na cały świat zabiło ją w grze.</td>
+    </tr>
+    <tr id="t2232">
+        <td><a href="#t2232">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2232">2232s</a></td>
+        <td>To jest bardzo trudny przeciwnik.</td>
+    </tr>
+    <tr id="t2235">
+        <td><a href="#t2235">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2235">2235s</a></td>
+        <td>Ogólnie uber elite wygląda tak, że wchodzisz, jak nie jesteś przygotowany, to od razu giniesz.</td>
+    </tr>
+    <tr id="t2239">
+        <td><a href="#t2239">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2239">2239s</a></td>
+        <td>Od razu.</td>
+    </tr>
+    <tr id="t2239">
+        <td><a href="#t2239">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2239">2239s</a></td>
+        <td>W pierwszym strzałku.</td>
+    </tr>
+    <tr id="t2241">
+        <td><a href="#t2241">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2241">2241s</a></td>
+        <td>Bo ona zadaje nam... Na początek zadaje około...</td>
+    </tr>
+    <tr id="t2245">
+        <td><a href="#t2245">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2245">2245s</a></td>
+        <td>Jak nie masz przygotowania komiliona obrażeń, coś takiego.</td>
+    </tr>
+    <tr id="t2248">
+        <td><a href="#t2248">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2248">2248s</a></td>
+        <td>Jezus, czyli Mistrzowski mu nikt nic nie daje.</td>
+    </tr>
+    <tr id="t2252">
+        <td><a href="#t2252">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2252">2252s</a></td>
+        <td>I ma bodajże miliard punktów życia.</td>
+    </tr>
+    <tr id="t2254">
+        <td><a href="#t2254">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2254">2254s</a></td>
+        <td>Aha.</td>
+    </tr>
+    <tr id="t2255">
+        <td><a href="#t2255">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2255">2255s</a></td>
+        <td>Ale to jest coś, czego ja strasznie nie lubię, że jest DPS check i gąbka na kulę.</td>
+    </tr>
+    <tr id="t2260">
+        <td><a href="#t2260">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2260">2260s</a></td>
+        <td>Wolę zdecydowanie, i nie rozumiem, dlaczego tak nie jest, nie wiem, czy się ze mną zgodzicie, jeżeli trudność przeciwnika jest wyznaczana taktyką, jaką trzeba przybrać.</td>
+    </tr>
+    <tr id="t2269">
+        <td><a href="#t2269">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2269">2269s</a></td>
+        <td>Już cię wstrzeszam.</td>
+    </tr>
+    <tr id="t2271">
+        <td><a href="#t2271">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2271">2271s</a></td>
+        <td>Gdzie ty jesteś?</td>
+    </tr>
+    <tr id="t2271">
+        <td><a href="#t2271">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2271">2271s</a></td>
+        <td>Już cię wstrzeszam.</td>
+    </tr>
+    <tr id="t2274">
+        <td><a href="#t2274">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2274">2274s</a></td>
+        <td>I nie lubię jak nie jest to taktycznie wielki sposób.</td>
+    </tr>
+    <tr id="t2277">
+        <td><a href="#t2277">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2277">2277s</a></td>
+        <td>Musisz to rozegrać taktycznie, musisz wcześniej przygotować postać, pod tym względem skonfigurować sobie postać, przygotować sobie odpowiednie mikstury.</td>
+    </tr>
+    <tr id="t2287">
+        <td><a href="#t2287">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2287">2287s</a></td>
+        <td>O nawet troszkę życia straciłem.</td>
+    </tr>
+    <tr id="t2290">
+        <td><a href="#t2290">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2290">2290s</a></td>
+        <td>Nie, to ja mówię o innej sytuacji.</td>
+    </tr>
+    <tr id="t2292">
+        <td><a href="#t2292">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2292">2292s</a></td>
+        <td>Mówię o sytuacji takiej, w której mamy... Nie, nie, walczymy dalej.</td>
+    </tr>
+    <tr id="t2294">
+        <td><a href="#t2294">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2294">2294s</a></td>
+        <td>Walczcie.</td>
+    </tr>
+    <tr id="t2295">
+        <td><a href="#t2295">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2295">2295s</a></td>
+        <td>Jeszcze chwila.</td>
+    </tr>
+    <tr id="t2296">
+        <td><a href="#t2296">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2296">2296s</a></td>
+        <td>Dobra, dobra, spoko.</td>
+    </tr>
+    <tr id="t2297">
+        <td><a href="#t2297">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2297">2297s</a></td>
+        <td>Wolno, dość.</td>
+    </tr>
+    <tr id="t2299">
+        <td><a href="#t2299">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2299">2299s</a></td>
+        <td>Po prostu powiedzcie mi, o co będzie... Musimy balisty zniszczyć.</td>
+    </tr>
+    <tr id="t2302">
+        <td><a href="#t2302">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2302">2302s</a></td>
+        <td>Ja mówię o sytuacji takiej, w której jak przeciwnik jest trudniejszy, to on stosuje inne taktyki.</td>
+    </tr>
+    <tr id="t2307">
+        <td><a href="#t2307">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2307">2307s</a></td>
+        <td>O to mi chodzi.</td>
+    </tr>
+    <tr id="t2308">
+        <td><a href="#t2308">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2308">2308s</a></td>
+        <td>Nie, nie, tutaj chyba jest po prostu... Wiesz, ja do Lilit podszedłem raz i wyszedłem od razu, bo od razu zaginałem.</td>
+    </tr>
+    <tr id="t2314">
+        <td><a href="#t2314">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2314">2314s</a></td>
+        <td>Jezus Maria.</td>
+    </tr>
+    <tr id="t2314">
+        <td><a href="#t2314">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2314">2314s</a></td>
+        <td>I gdzieś później poczytałem o tych wartościach punktowych.</td>
+    </tr>
+    <tr id="t2320">
+        <td><a href="#t2320">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2320">2320s</a></td>
+        <td>Więc... Dobra, ale Szkieleta sobie zabiję, bo mi przeszkadza.</td>
+    </tr>
+    <tr id="t2323">
+        <td><a href="#t2323">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2323">2323s</a></td>
+        <td>Dobra, za moment będzie pierwszy... Tylko nie mojego, Rysław.</td>
+    </tr>
+    <tr id="t2328">
+        <td><a href="#t2328">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2328">2328s</a></td>
+        <td>Nie, jakiegoś tam ucznicza.</td>
+    </tr>
+    <tr id="t2329">
+        <td><a href="#t2329">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2329">2329s</a></td>
+        <td>Szkieleta sobie zabije i wybił mi armię.</td>
+    </tr>
+    <tr id="t2333">
+        <td><a href="#t2333">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2333">2333s</a></td>
+        <td>W zasadzie ja ci w ten sposób daję ciała.</td>
+    </tr>
+    <tr id="t2336">
+        <td><a href="#t2336">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2336">2336s</a></td>
+        <td>Tak, tak, tak.</td>
+    </tr>
+    <tr id="t2337">
+        <td><a href="#t2337">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2337">2337s</a></td>
+        <td>To mi bardzo pomaga.</td>
+    </tr>
+    <tr id="t2338">
+        <td><a href="#t2338">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2338">2338s</a></td>
+        <td>Naprawdę bardzo pomaga.</td>
+    </tr>
+    <tr id="t2339">
+        <td><a href="#t2339">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2339">2339s</a></td>
+        <td>Dawać ciała to ma drugie też znaczenie, Filip.</td>
+    </tr>
+    <tr id="t2343">
+        <td><a href="#t2343">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2343">2343s</a></td>
+        <td>Szukam jakiegoś kletu, który mógłbym zabić.</td>
+    </tr>
+    <tr id="t2345">
+        <td><a href="#t2345">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2345">2345s</a></td>
+        <td>O, tutaj.</td>
+    </tr>
+    <tr id="t2345">
+        <td><a href="#t2345">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2345">2345s</a></td>
+        <td>Dobra, już zabiłem.</td>
+    </tr>
+    <tr id="t2347">
+        <td><a href="#t2347">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2347">2347s</a></td>
+        <td>Jak tylko się pojawią, to ja będę zabijał.</td>
+    </tr>
+    <tr id="t2349">
+        <td><a href="#t2349">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2349">2349s</a></td>
+        <td>Dlaczego, Krzysztof, my się zawsze najbardziej śmiejemy z własnych żartów?</td>
+    </tr>
+    <tr id="t2352">
+        <td><a href="#t2352">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2352">2352s</a></td>
+        <td>Ponieważ mamy poczucie humoru.</td>
+    </tr>
+    <tr id="t2357">
+        <td><a href="#t2357">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2357">2357s</a></td>
+        <td>Nie znalazłem żadnej innej odpowiedzi, która by nie była uwłaczająca dla nas.</td>
+    </tr>
+    <tr id="t2362">
+        <td><a href="#t2362">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2362">2362s</a></td>
+        <td>O rany, nie jest lekko, muszę powiedzieć.</td>
+    </tr>
+    <tr id="t2364">
+        <td><a href="#t2364">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2364">2364s</a></td>
+        <td>Mówię, to nie jest łatwe.</td>
+    </tr>
+    <tr id="t2368">
+        <td><a href="#t2368">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2368">2368s</a></td>
+        <td>O, a tutaj Matix napisał, szef naszej giny napisał, jeśli mogę się wtrącić, każda klasa ubija uberlilit najłatwiej ma czarodziej.</td>
+    </tr>
+    <tr id="t2375">
+        <td><a href="#t2375">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2375">2375s</a></td>
+        <td>Tak?</td>
+    </tr>
+    <tr id="t2376">
+        <td><a href="#t2376">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2376">2376s</a></td>
+        <td>Tak.</td>
+    </tr>
+    <tr id="t2378">
+        <td><a href="#t2378">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2378">2378s</a></td>
+        <td>Krzysztof, nie zawiesz.</td>
+    </tr>
+    <tr id="t2378">
+        <td><a href="#t2378">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2378">2378s</a></td>
+        <td>Niech zgadnę.</td>
+    </tr>
+    <tr id="t2379">
+        <td><a href="#t2379">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2379">2379s</a></td>
+        <td>Ale drogi Matixie, dzięki, że oglądasz i w ogóle, bo wydaje mi się, że chyba tylko nekromanta ubił lilit na tym, na hardkorze.</td>
+    </tr>
+    <tr id="t2389">
+        <td><a href="#t2389">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2389">2389s</a></td>
+        <td>Niech zgadnę.</td>
+    </tr>
+    <tr id="t2390">
+        <td><a href="#t2390">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2390">2390s</a></td>
+        <td>Prawdopodobnie będzie trzeba grać zgodnie z metą.</td>
+    </tr>
+    <tr id="t2395">
+        <td><a href="#t2395">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2395">2395s</a></td>
+        <td>Meta się bardzo zmienia w tej grze.</td>
+    </tr>
+    <tr id="t2397">
+        <td><a href="#t2397">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2397">2397s</a></td>
+        <td>Bardzo się zmienia.</td>
+    </tr>
+    <tr id="t2399">
+        <td><a href="#t2399">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2399">2399s</a></td>
+        <td>Każda aktualizacja zmienia.</td>
+    </tr>
+    <tr id="t2401">
+        <td><a href="#t2401">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2401">2401s</a></td>
+        <td>Jest wiele konfiguracji.</td>
+    </tr>
+    <tr id="t2406">
+        <td><a href="#t2406">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2406">2406s</a></td>
+        <td>Tak, sezon 20 lipca startuje.</td>
+    </tr>
+    <tr id="t2408">
+        <td><a href="#t2408">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2408">2408s</a></td>
+        <td>Jest dużo zmian.</td>
+    </tr>
+    <tr id="t2410">
+        <td><a href="#t2410">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2410">2410s</a></td>
+        <td>Wiele konfiguracji postaci będzie nowych.</td>
+    </tr>
+    <tr id="t2413">
+        <td><a href="#t2413">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2413">2413s</a></td>
+        <td>Tak naprawdę tutaj</td>
+    </tr>
+    <tr id="t2416">
+        <td><a href="#t2416">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2416">2416s</a></td>
+        <td>Uwaga, Matix pisze Barbarzyńca, Nekromanta oraz Rogal ubili na hardkorze.</td>
+    </tr>
+    <tr id="t2422">
+        <td><a href="#t2422">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2422">2422s</a></td>
+        <td>Czyli to jest ten tryb, w którym nie można zginąć.</td>
+    </tr>
+    <tr id="t2424">
+        <td><a href="#t2424">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2424">2424s</a></td>
+        <td>Tam ci pojedynczo masz.</td>
+    </tr>
+    <tr id="t2426">
+        <td><a href="#t2426">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2426">2426s</a></td>
+        <td>Okej.</td>
+    </tr>
+    <tr id="t2432">
+        <td><a href="#t2432">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2432">2432s</a></td>
+        <td>Trzeba wyeliminować, słuchajcie, te nieszczęsne szkieletowe balisty.</td>
+    </tr>
+    <tr id="t2435">
+        <td><a href="#t2435">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2435">2435s</a></td>
+        <td>Dobra, ja je wam wyeliminuję.</td>
+    </tr>
+    <tr id="t2437">
+        <td><a href="#t2437">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2437">2437s</a></td>
+        <td>Bo one są bardzo niebezpieczne, wbrew pozorom.</td>
+    </tr>
+    <tr id="t2440">
+        <td><a href="#t2440">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2440">2440s</a></td>
+        <td>Znaczy, co wam wyeliminować?</td>
+    </tr>
+    <tr id="t2441">
+        <td><a href="#t2441">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2441">2441s</a></td>
+        <td>Szkieletowe balisty?</td>
+    </tr>
+    <tr id="t2442">
+        <td><a href="#t2442">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2442">2442s</a></td>
+        <td>Szkieletowe balisty, nie?</td>
+    </tr>
+    <tr id="t2443">
+        <td><a href="#t2443">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2443">2443s</a></td>
+        <td>Bo one... A balisty, dobra.</td>
+    </tr>
+    <tr id="t2444">
+        <td><a href="#t2444">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2444">2444s</a></td>
+        <td>Jak raz strzeli, to ja ginę od razu.</td>
+    </tr>
+    <tr id="t2447">
+        <td><a href="#t2447">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2447">2447s</a></td>
+        <td>Straszne.</td>
+    </tr>
+    <tr id="t2448">
+        <td><a href="#t2448">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2448">2448s</a></td>
+        <td>Spoko, już ich nie mamy.</td>
+    </tr>
+    <tr id="t2451">
+        <td><a href="#t2451">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2451">2451s</a></td>
+        <td>A Kustosza, Kustosza musimy honorowo z Filipem ubić, bo przecież to będzie wstyd inaczej.</td>
+    </tr>
+    <tr id="t2455">
+        <td><a href="#t2455">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2455">2455s</a></td>
+        <td>Tak, tak, tak, tak, tak, tak.</td>
+    </tr>
+    <tr id="t2456">
+        <td><a href="#t2456">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2456">2456s</a></td>
+        <td>Ja nic nie robię, specjalnie nie przeszkadzam wam.</td>
+    </tr>
+    <tr id="t2458">
+        <td><a href="#t2458">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2458">2458s</a></td>
+        <td>I Matix mi napisał, że do ubicia potrzebowałem ponad 80 produktów.</td>
+    </tr>
+    <tr id="t2463">
+        <td><a href="#t2463">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2463">2463s</a></td>
+        <td>Lili właśnie, czy Kustosza?</td>
+    </tr>
+    <tr id="t2466">
+        <td><a href="#t2466">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2466">2466s</a></td>
+        <td>Lili.</td>
+    </tr>
+    <tr id="t2467">
+        <td><a href="#t2467">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2467">2467s</a></td>
+        <td>Okej.</td>
+    </tr>
+    <tr id="t2468">
+        <td><a href="#t2468">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2468">2468s</a></td>
+        <td>Nie, Kustosza nie, ale to też.</td>
+    </tr>
+    <tr id="t2471">
+        <td><a href="#t2471">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2471">2471s</a></td>
+        <td>Jak nazywa się gildia?</td>
+    </tr>
+    <tr id="t2472">
+        <td><a href="#t2472">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2472">2472s</a></td>
+        <td>My chyba nie stworzyliśmy żadnej gildii, to Rysław ma gildię.</td>
+    </tr>
+    <tr id="t2475">
+        <td><a href="#t2475">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2475">2475s</a></td>
+        <td>Moja gildia nazywa się Grysław i codziennie próbuję do niej dołączyć kilkadziesiąt osób.</td>
+    </tr>
+    <tr id="t2482">
+        <td><a href="#t2482">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2482">2482s</a></td>
+        <td>Wiesz co, ja się nie dziwię, Rysław, po tym, jak ty obrażenia zadajesz, też bym chciał dołączyć.</td>
+    </tr>
+    <tr id="t2487">
+        <td><a href="#t2487">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2487">2487s</a></td>
+        <td>Nie, nie, ja jestem średnim zawodnikiem u nas w gildii.</td>
+    </tr>
+    <tr id="t2489">
+        <td><a href="#t2489">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2489">2489s</a></td>
+        <td>U nas nasz szef gildii, Matix, pozdrawiam raz jeszcze, ma już chyba cztery postacie na następnym poziomie, albo trzy.</td>
+    </tr>
+    <tr id="t2495">
+        <td><a href="#t2495">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2495">2495s</a></td>
+        <td>Pan Boski.</td>
+    </tr>
+    <tr id="t2497">
+        <td><a href="#t2497">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2497">2497s</a></td>
+        <td>Nie bij Kustosza, pisze Olewka.</td>
+    </tr>
+    <tr id="t2499">
+        <td><a href="#t2499">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2499">2499s</a></td>
+        <td>O, przepraszam, niechcący go walnąłem.</td>
+    </tr>
+    <tr id="t2501">
+        <td><a href="#t2501">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2501">2501s</a></td>
+        <td>Sorki, niechcący go walnąłem.</td>
+    </tr>
+    <tr id="t2502">
+        <td><a href="#t2502">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2502">2502s</a></td>
+        <td>Niechcący go walnąłem.</td>
+    </tr>
+    <tr id="t2505">
+        <td><a href="#t2505">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2505">2505s</a></td>
+        <td>Pierwszy padek, tam połowa zeszła.</td>
+    </tr>
+    <tr id="t2508">
+        <td><a href="#t2508">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2508">2508s</a></td>
+        <td>Czyli ile my 17 minut ubijamy, to Rysław jednym uderzeniem.</td>
+    </tr>
+    <tr id="t2513">
+        <td><a href="#t2513">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2513">2513s</a></td>
+        <td>Tak to spoko.</td>
+    </tr>
+    <tr id="t2514">
+        <td><a href="#t2514">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2514">2514s</a></td>
+        <td>O nie.</td>
+    </tr>
+    <tr id="t2515">
+        <td><a href="#t2515">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2515">2515s</a></td>
+        <td>No tak.</td>
+    </tr>
+    <tr id="t2515">
+        <td><a href="#t2515">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2515">2515s</a></td>
+        <td>Co za porażka.</td>
+    </tr>
+    <tr id="t2516">
+        <td><a href="#t2516">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2516">2516s</a></td>
+        <td>No to daje się radę, daje się radę.</td>
+    </tr>
+    <tr id="t2521">
+        <td><a href="#t2521">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2521">2521s</a></td>
+        <td>No przyspieszył nam trochę robotę.</td>
+    </tr>
+    <tr id="t2522">
+        <td><a href="#t2522">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2522">2522s</a></td>
+        <td>Kończy mi się mana.</td>
+    </tr>
+    <tr id="t2525">
+        <td><a href="#t2525">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2525">2525s</a></td>
+        <td>Te cyklony mnie wykańczają.</td>
+    </tr>
+    <tr id="t2529">
+        <td><a href="#t2529">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2529">2529s</a></td>
+        <td>Bo nie jesteś gibki, nie jesteś zwinny i nie masz umiejętności, ale chłód jak kusa po kusa.</td>
+    </tr>
+    <tr id="t2534">
+        <td><a href="#t2534">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2534">2534s</a></td>
+        <td>Jestem gibki, jestem zwinny, po prostu muszę nie wbiegać w nie.</td>
+    </tr>
+    <tr id="t2538">
+        <td><a href="#t2538">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2538">2538s</a></td>
+        <td>Jest taki szkielet, którego chcę walnąć, ale boję się, że walnę w kustosza, no.</td>
+    </tr>
+    <tr id="t2543">
+        <td><a href="#t2543">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2543">2543s</a></td>
+        <td>A kustosza chce dla was oszczędzić.</td>
+    </tr>
+    <tr id="t2548">
+        <td><a href="#t2548">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2548">2548s</a></td>
+        <td>Odpalam protokół Oppenheimer.</td>
+    </tr>
+    <tr id="t2552">
+        <td><a href="#t2552">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2552">2552s</a></td>
+        <td>Gdzie, gdzie jest kustosz, kus...</td>
+    </tr>
+    <tr id="t2555">
+        <td><a href="#t2555">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2555">2555s</a></td>
+        <td>Czemu się on teleportował?</td>
+    </tr>
+    <tr id="t2557">
+        <td><a href="#t2557">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2557">2557s</a></td>
+        <td>Skandal!</td>
+    </tr>
+    <tr id="t2559">
+        <td><a href="#t2559">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2559">2559s</a></td>
+        <td>Jak śmiesz, masz mu meteoryt.</td>
+    </tr>
+    <tr id="t2561">
+        <td><a href="#t2561">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2561">2561s</a></td>
+        <td>Dobra, teraz pójdzie fala, która go wykończy.</td>
+    </tr>
+    <tr id="t2563">
+        <td><a href="#t2563">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2563">2563s</a></td>
+        <td>Uwaga.</td>
+    </tr>
+    <tr id="t2566">
+        <td><a href="#t2566">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2566">2566s</a></td>
+        <td>Jest!</td>
+    </tr>
+    <tr id="t2566">
+        <td><a href="#t2566">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2566">2566s</a></td>
+        <td>Brawo!</td>
+    </tr>
+    <tr id="t2567">
+        <td><a href="#t2567">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2567">2567s</a></td>
+        <td>Poszła moja fala i go załatwiła.</td>
+    </tr>
+    <tr id="t2570">
+        <td><a href="#t2570">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2570">2570s</a></td>
+        <td>Tak, to super, stanowczo.</td>
+    </tr>
+    <tr id="t2573">
+        <td><a href="#t2573">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2573">2573s</a></td>
+        <td>Doskonale, wypadły wam jakieś rzepty fajne?</td>
+    </tr>
+    <tr id="t2575">
+        <td><a href="#t2575">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2575">2575s</a></td>
+        <td>No znakomite, same gorsze od tych, które mam.</td>
+    </tr>
+    <tr id="t2579">
+        <td><a href="#t2579">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2579">2579s</a></td>
+        <td>Tak jest, to bardzo dobrze.</td>
+    </tr>
+    <tr id="t2581">
+        <td><a href="#t2581">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2581">2581s</a></td>
+        <td>Ej, ale jest dobra rzecz, legendarny amulet, który kiedy masz aktywną barierę, najwyższy rol wyszedł.</td>
+    </tr>
+    <tr id="t2587">
+        <td><a href="#t2587">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2587">2587s</a></td>
+        <td>Twoja szansa na szczęśliwy traf zwiększa się o 30%.</td>
+    </tr>
+    <tr id="t2589">
+        <td><a href="#t2589">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2589">2589s</a></td>
+        <td>To jest lepszy amulet niż ten, który mam.</td>
+    </tr>
+    <tr id="t2592">
+        <td><a href="#t2592">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2592">2592s</a></td>
+        <td>Biorę ten amulet, chcę ten amulet, podnieca mnie ten amulet.</td>
+    </tr>
+    <tr id="t2598">
+        <td><a href="#t2598">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2598">2598s</a></td>
+        <td>Biżuteria, odporność na wszystkie żywioły.</td>
+    </tr>
+    <tr id="t2600">
+        <td><a href="#t2600">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2600">2600s</a></td>
+        <td>Jaki klejnot najlepiej dawać, Rysław, do biżuterii?</td>
+    </tr>
+    <tr id="t2602">
+        <td><a href="#t2602">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2602">2602s</a></td>
+        <td>Tylko czaszki.</td>
+    </tr>
+    <tr id="t2607">
+        <td><a href="#t2607">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2607">2607s</a></td>
+        <td>Tylko czaszki.</td>
+    </tr>
+    <tr id="t2608">
+        <td><a href="#t2608">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2608">2608s</a></td>
+        <td>Cały czas, cały czas, jak gram w Diablo... Jak akurat tymi rzeczami można handlować, ja wam mogę dać po prostu czaszki.</td>
+    </tr>
+    <tr id="t2617">
+        <td><a href="#t2617">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2617">2617s</a></td>
+        <td>Wszyscy na czatach mi mówią, żeby dawać czaszki, a ja powiedziałem, że tego nie będę robił.</td>
+    </tr>
+    <tr id="t2622">
+        <td><a href="#t2622">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2622">2622s</a></td>
+        <td>A nie, naprawdę, obecnie poddaję pancerz, nie?</td>
+    </tr>
+    <tr id="t2624">
+        <td><a href="#t2624">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2624">2624s</a></td>
+        <td>Rysła, masz czaszunie, pożycz, pożycz czaszunie.</td>
+    </tr>
+    <tr id="t2629">
+        <td><a href="#t2629">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2629">2629s</a></td>
+        <td>Właśnie poszedłem wybrać jakieś czaszki tutaj.</td>
+    </tr>
+    <tr id="t2632">
+        <td><a href="#t2632">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2632">2632s</a></td>
+        <td>Filip, też chcesz czaszki?</td>
+    </tr>
+    <tr id="t2635">
+        <td><a href="#t2635">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2635">2635s</a></td>
+        <td>Aha, tepnąłeś się do kiewosadu.</td>
+    </tr>
+    <tr id="t2636">
+        <td><a href="#t2636">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2636">2636s</a></td>
+        <td>Ja noszę jedną na swojej twarzy.</td>
+    </tr>
+    <tr id="t2638">
+        <td><a href="#t2638">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2638">2638s</a></td>
+        <td>Jestem w kiewosadzie, tak.</td>
+    </tr>
+    <tr id="t2639">
+        <td><a href="#t2639">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2639">2639s</a></td>
+        <td>Ja autentycznie nie zebrałem żadnej czaszki, bo uważałem, że one są lamerskie.</td>
+    </tr>
+    <tr id="t2643">
+        <td><a href="#t2643">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2643">2643s</a></td>
+        <td>Nie, nie, nie.</td>
+    </tr>
+    <tr id="t2643">
+        <td><a href="#t2643">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2643">2643s</a></td>
+        <td>Czaszki dają pancerz, tak?</td>
+    </tr>
+    <tr id="t2645">
+        <td><a href="#t2645">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2645">2645s</a></td>
+        <td>A po co pancerz?</td>
+    </tr>
+    <tr id="t2650">
+        <td><a href="#t2650">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2650">2650s</a></td>
+        <td>Bo wiesz, bo... E, po nic, nie, to... Rysła, bo moje obrażenia są infinityzymalne i ja bym chciał zadawać więcej obrażeń.</td>
+    </tr>
+    <tr id="t2656">
+        <td><a href="#t2656">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2656">2656s</a></td>
+        <td>Dobra, chodź tutaj, kozo.</td>
+    </tr>
+    <tr id="t2656">
+        <td><a href="#t2656">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2656">2656s</a></td>
+        <td>Gdybyś mi powiedział, że czaszka zabija...</td>
+    </tr>
+    <tr id="t2659">
+        <td><a href="#t2659">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2659">2659s</a></td>
+        <td>Zaraz ci zaproś... Nie, nie, nie, zaraz, momencik.</td>
+    </tr>
+    <tr id="t2663">
+        <td><a href="#t2663">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2663">2663s</a></td>
+        <td>Zaproś przełatną kozę do handlu.</td>
+    </tr>
+    <tr id="t2666">
+        <td><a href="#t2666">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2666">2666s</a></td>
+        <td>Kierowniku, poratuj czaszunią, pisze Indian Le Delice.</td>
+    </tr>
+    <tr id="t2671">
+        <td><a href="#t2671">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2671">2671s</a></td>
+        <td>Nie mogę, nie mogę przyjąć.</td>
+    </tr>
+    <tr id="t2673">
+        <td><a href="#t2673">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2673">2673s</a></td>
+        <td>Mogę powiedzieć tak.</td>
+    </tr>
+    <tr id="t2674">
+        <td><a href="#t2674">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2674">2674s</a></td>
+        <td>O, kusa po kusa, dobra.</td>
+    </tr>
+    <tr id="t2676">
+        <td><a href="#t2676">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2676">2676s</a></td>
+        <td>Możesz teraz przyjąć.</td>
+    </tr>
+    <tr id="t2677">
+        <td><a href="#t2677">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2677">2677s</a></td>
+        <td>Uwaga.</td>
+    </tr>
+    <tr id="t2678">
+        <td><a href="#t2678">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2678">2678s</a></td>
+        <td>Wybierz złoto... Nie mogę ci czaszek dać.</td>
+    </tr>
+    <tr id="t2682">
+        <td><a href="#t2682">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2682">2682s</a></td>
+        <td>Nie możesz.</td>
+    </tr>
+    <tr id="t2683">
+        <td><a href="#t2683">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2683">2683s</a></td>
+        <td>Nie mogę ci czaszek dać.</td>
+    </tr>
+    <tr id="t2685">
+        <td><a href="#t2685">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2685">2685s</a></td>
+        <td>A jeżeli ja ci dam krwawe na pierśnik, to nic?</td>
+    </tr>
+    <tr id="t2687">
+        <td><a href="#t2687">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2687">2687s</a></td>
+        <td>A nie, mogę, poczekaj, mogę.</td>
+    </tr>
+    <tr id="t2689">
+        <td><a href="#t2689">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2689">2689s</a></td>
+        <td>Sam niewiele mam.</td>
+    </tr>
+    <tr id="t2690">
+        <td><a href="#t2690">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2690">2690s</a></td>
+        <td>Poczekaj, to ci dam przynajmniej, a nie legendarnych?</td>
+    </tr>
+    <tr id="t2693">
+        <td><a href="#t2693">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2693">2693s</a></td>
+        <td>Nie, nic mi nie dawaj, ty mi nic nie dawaj, weź sobie te czaszki.</td>
+    </tr>
+    <tr id="t2696">
+        <td><a href="#t2696">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2696">2696s</a></td>
+        <td>Tak ja to wyrzucę, przepraszam.</td>
+    </tr>
+    <tr id="t2702">
+        <td><a href="#t2702">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2702">2702s</a></td>
+        <td>Nie chcesz mojego... Nie chcesz mojego krwawego... Czekaj, ja ci... Ale dlaczego ja nie mogę przyjąć tego handlu?</td>
+    </tr>
+    <tr id="t2711">
+        <td><a href="#t2711">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2711">2711s</a></td>
+        <td>Możesz przyjąć?</td>
+    </tr>
+    <tr id="t2711">
+        <td><a href="#t2711">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2711">2711s</a></td>
+        <td>Mam zablokuj ofertę albo dodaj złoto.</td>
+    </tr>
+    <tr id="t2714">
+        <td><a href="#t2714">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2714">2714s</a></td>
+        <td>Dodałem dwie sztuki złota.</td>
+    </tr>
+    <tr id="t2717">
+        <td><a href="#t2717">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2717">2717s</a></td>
+        <td>Dobra, ja... Co prawda u mnie te czaszki wymagają 60% poziomu.</td>
+    </tr>
+    <tr id="t2721">
+        <td><a href="#t2721">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2721">2721s</a></td>
+        <td>Zaakceptuj transakcję.</td>
+    </tr>
+    <tr id="t2722">
+        <td><a href="#t2722">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2722">2722s</a></td>
+        <td>Potwierdzi transakcję.</td>
+    </tr>
+    <tr id="t2723">
+        <td><a href="#t2723">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2723">2723s</a></td>
+        <td>No, potwierdziłem.</td>
+    </tr>
+    <tr id="t2724">
+        <td><a href="#t2724">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2724">2724s</a></td>
+        <td>Wyceniłem czaszkę za jedną sztukę złota.</td>
+    </tr>
+    <tr id="t2727">
+        <td><a href="#t2727">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2727">2727s</a></td>
+        <td>Dziękuję Ci, Wiesław, za czaszkę.</td>
+    </tr>
+    <tr id="t2728">
+        <td><a href="#t2728">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2728">2728s</a></td>
+        <td>Niestety ta czaszka jest dla Ciebie... Nie możesz jej używać.</td>
+    </tr>
+    <tr id="t2731">
+        <td><a href="#t2731">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2731">2731s</a></td>
+        <td>Tak właśnie umiera kapitalizm.</td>
+    </tr>
+    <tr id="t2734">
+        <td><a href="#t2734">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2734">2734s</a></td>
+        <td>Dam Ci jakąś czaszkę, którą będziesz mógł użyć.</td>
+    </tr>
+    <tr id="t2737">
+        <td><a href="#t2737">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2737">2737s</a></td>
+        <td>Czekaj.</td>
+    </tr>
+    <tr id="t2738">
+        <td><a href="#t2738">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2738">2738s</a></td>
+        <td>O!</td>
+    </tr>
+    <tr id="t2738">
+        <td><a href="#t2738">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2738">2738s</a></td>
+        <td>Nieskazitelną czaszkę Ci dam.</td>
+    </tr>
+    <tr id="t2740">
+        <td><a href="#t2740">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2740">2740s</a></td>
+        <td>Dam Ci nieskazitelne czaszkę.</td>
+    </tr>
+    <tr id="t2742">
+        <td><a href="#t2742">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2742">2742s</a></td>
+        <td>Proszę, tu masz czaszkę, nie możesz jej użyć.</td>
+    </tr>
+    <tr id="t2747">
+        <td><a href="#t2747">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2747">2747s</a></td>
+        <td>Jedno James Cameron sprzedał scenariusz do pierwszego Terminatora za symbolicznego jednego dolara swojej przyszłej żonie, producentce, która pozwoliła mu nakręcić ten film.</td>
+    </tr>
+    <tr id="t2755">
+        <td><a href="#t2755">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2755">2755s</a></td>
+        <td>Dobra, kusa po kusu.</td>
+    </tr>
+    <tr id="t2758">
+        <td><a href="#t2758">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2758">2758s</a></td>
+        <td>Za mocna czaszka.</td>
+    </tr>
+    <tr id="t2759">
+        <td><a href="#t2759">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2759">2759s</a></td>
+        <td>Mam wrażenie, że dzieje się coś podobnego w tym momencie.</td>
+    </tr>
+    <tr id="t2761">
+        <td><a href="#t2761">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2761">2761s</a></td>
+        <td>Dam ci dziesięć nieskazitelnych czaszek, proszę bardzo.</td>
+    </tr>
+    <tr id="t2766">
+        <td><a href="#t2766">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2766">2766s</a></td>
+        <td>Dobrze.</td>
+    </tr>
+    <tr id="t2767">
+        <td><a href="#t2767">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2767">2767s</a></td>
+        <td>Zapłacę adekwatną... Nie musisz.</td>
+    </tr>
+    <tr id="t2769">
+        <td><a href="#t2769">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2769">2769s</a></td>
+        <td>Nic mi nie musisz wziąć.</td>
+    </tr>
+    <tr id="t2770">
+        <td><a href="#t2770">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2770">2770s</a></td>
+        <td>Ja jestem człowiekiem honorowym.</td>
+    </tr>
+    <tr id="t2771">
+        <td><a href="#t2771">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2771">2771s</a></td>
+        <td>69.</td>
+    </tr>
+    <tr id="t2771">
+        <td><a href="#t2771">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2771">2771s</a></td>
+        <td>Potwierdź tę transakcję.</td>
+    </tr>
+    <tr id="t2777">
+        <td><a href="#t2777">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2777">2777s</a></td>
+        <td>I te czaszki możesz wrzucić sobie do biżuterii.</td>
+    </tr>
+    <tr id="t2779">
+        <td><a href="#t2779">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2779">2779s</a></td>
+        <td>Złoty Rysław.</td>
+    </tr>
+    <tr id="t2781">
+        <td><a href="#t2781">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2781">2781s</a></td>
+        <td>Proszę bardzo.</td>
+    </tr>
+    <tr id="t2781">
+        <td><a href="#t2781">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2781">2781s</a></td>
+        <td>Jest czaszunia.</td>
+    </tr>
+    <tr id="t2782">
+        <td><a href="#t2782">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2782">2782s</a></td>
+        <td>Czy czaty są zadowolone i mam do pierścieni też dać?</td>
+    </tr>
+    <tr id="t2785">
+        <td><a href="#t2785">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2785">2785s</a></td>
+        <td>Bo ja miałem odpowiedzieć na wszystkie żywioły.</td>
+    </tr>
+    <tr id="t2787">
+        <td><a href="#t2787">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2787">2787s</a></td>
+        <td>Czaszki dajesz... Ogólnie tak.</td>
+    </tr>
+    <tr id="t2789">
+        <td><a href="#t2789">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2789">2789s</a></td>
+        <td>Konsensus jest taki, że do broni dajesz szmaragdy, do biżuterii dajesz czaszki, a do swojego pancerza dajesz rubiny, bo zwiększają życie, ewentualnie możesz dawać też ametysty.</td>
+    </tr>
+    <tr id="t2803">
+        <td><a href="#t2803">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2803">2803s</a></td>
+        <td>A diamenty nie, bo nam do generowania bariery dałem.</td>
+    </tr>
+    <tr id="t2806">
+        <td><a href="#t2806">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2806">2806s</a></td>
+        <td>Nie, nie.</td>
+    </tr>
+    <tr id="t2810">
+        <td><a href="#t2810">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2810">2810s</a></td>
+        <td>Dobrze, dobrze, czaty, cisza.</td>
+    </tr>
+    <tr id="t2816">
+        <td><a href="#t2816">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2816">2816s</a></td>
+        <td>cisza.</td>
+    </tr>
+    <tr id="t2817">
+        <td><a href="#t2817">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2817">2817s</a></td>
+        <td>Ja wiem, co powiecie.</td>
+    </tr>
+    <tr id="t2819">
+        <td><a href="#t2819">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2819">2819s</a></td>
+        <td>Usuń z gniazda.</td>
+    </tr>
+    <tr id="t2821">
+        <td><a href="#t2821">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2821">2821s</a></td>
+        <td>Dobrze.</td>
+    </tr>
+    <tr id="t2822">
+        <td><a href="#t2822">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2822">2822s</a></td>
+        <td>Usuń z gniazda.</td>
+    </tr>
+    <tr id="t2824">
+        <td><a href="#t2824">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2824">2824s</a></td>
+        <td>Usuń z gniazda.</td>
+    </tr>
+    <tr id="t2825">
+        <td><a href="#t2825">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2825">2825s</a></td>
+        <td>Usuń z gniazda.</td>
+    </tr>
+    <tr id="t2826">
+        <td><a href="#t2826">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2826">2826s</a></td>
+        <td>Wszystko źle.</td>
+    </tr>
+    <tr id="t2827">
+        <td><a href="#t2827">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2827">2827s</a></td>
+        <td>No przepraszam, nie wszystko źle, ponieważ w rytualnym przyciągającym sztylecie, jako i w wężowym kamieniu pożogi były.</td>
+    </tr>
+    <tr id="t2837">
+        <td><a href="#t2837">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2837">2837s</a></td>
+        <td>Były.</td>
+    </tr>
+    <tr id="t2837">
+        <td><a href="#t2837">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2837">2837s</a></td>
+        <td>Szmaragdy były, tak?</td>
+    </tr>
+    <tr id="t2838">
+        <td><a href="#t2838">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2838">2838s</a></td>
+        <td>Tak.</td>
+    </tr>
+    <tr id="t2840">
+        <td><a href="#t2840">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2840">2840s</a></td>
+        <td>Czy mogę ulepszyć Rubin?</td>
+    </tr>
+    <tr id="t2843">
+        <td><a href="#t2843">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2843">2843s</a></td>
+        <td>Jak chcesz, mogę dać ci rubiny.</td>
+    </tr>
+    <tr id="t2844">
+        <td><a href="#t2844">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2844">2844s</a></td>
+        <td>Jakie chcesz rubiny?</td>
+    </tr>
+    <tr id="t2845">
+        <td><a href="#t2845">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2845">2845s</a></td>
+        <td>Ale też nie będę musiał użyć.</td>
+    </tr>
+    <tr id="t2846">
+        <td><a href="#t2846">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2846">2846s</a></td>
+        <td>Ja mam wszystkie, ślipy te też mogę dać.</td>
+    </tr>
+    <tr id="t2847">
+        <td><a href="#t2847">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2847">2847s</a></td>
+        <td>Bo ja mam rubiny, ja mam normalne... A jakie masz najwyższe rubiny?</td>
+    </tr>
+    <tr id="t2851">
+        <td><a href="#t2851">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2851">2851s</a></td>
+        <td>Po prostu rubin.</td>
+    </tr>
+    <tr id="t2854">
+        <td><a href="#t2854">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2854">2854s</a></td>
+        <td>Tak się nazywa.</td>
+    </tr>
+    <tr id="t2855">
+        <td><a href="#t2855">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2855">2855s</a></td>
+        <td>To jest później nieskazitelne.</td>
+    </tr>
+    <tr id="t2856">
+        <td><a href="#t2856">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2856">2856s</a></td>
+        <td>To dam ci nieskazitelne.</td>
+    </tr>
+    <tr id="t2857">
+        <td><a href="#t2857">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2857">2857s</a></td>
+        <td>Ale ja nie będę go mógł użyć, wiesz?</td>
+    </tr>
+    <tr id="t2859">
+        <td><a href="#t2859">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2859">2859s</a></td>
+        <td>Będziesz mógł, bo 50 poziomu jest.</td>
+    </tr>
+    <tr id="t2861">
+        <td><a href="#t2861">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2861">2861s</a></td>
+        <td>Później są te królewskie.</td>
+    </tr>
+    <tr id="t2864">
+        <td><a href="#t2864">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2864">2864s</a></td>
+        <td>Też chcesz?</td>
+    </tr>
+    <tr id="t2865">
+        <td><a href="#t2865">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2865">2865s</a></td>
+        <td>One teraz zaczną wypadać dopiero.</td>
+    </tr>
+    <tr id="t2869">
+        <td><a href="#t2869">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2869">2869s</a></td>
+        <td>To jakbyś mi też dał szmaragdy.</td>
+    </tr>
+    <tr id="t2873">
+        <td><a href="#t2873">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2873">2873s</a></td>
+        <td>Ja zamierzam włożyć czaszkę do biżuterii.</td>
+    </tr>
+    <tr id="t2878">
+        <td><a href="#t2878">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2878">2878s</a></td>
+        <td>Czekajcie, czekajcie.</td>
+    </tr>
+    <tr id="t2878">
+        <td><a href="#t2878">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2878">2878s</a></td>
+        <td>Poczekaj, wezmę po... Jakie chcesz?</td>
+    </tr>
+    <tr id="t2880">
+        <td><a href="#t2880">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2880">2880s</a></td>
+        <td>Chcesz coś jeszcze?</td>
+    </tr>
+    <tr id="t2881">
+        <td><a href="#t2881">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2881">2881s</a></td>
+        <td>Chcesz ametysty, topazy?</td>
+    </tr>
+    <tr id="t2883">
+        <td><a href="#t2883">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2883">2883s</a></td>
+        <td>Bo ja mam tego tyle, że już nie zbijałem po prostu.</td>
+    </tr>
+    <tr id="t2885">
+        <td><a href="#t2885">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2885">2885s</a></td>
+        <td>Jesteś jak albański waluciarz, który się podwziął w jodzie samochodowej, odchylił płacz... Jakie chcecie panowie, jakie?</td>
+    </tr>
+    <tr id="t2892">
+        <td><a href="#t2892">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2892">2892s</a></td>
+        <td>Proszę, proszę.</td>
+    </tr>
+    <tr id="t2893">
+        <td><a href="#t2893">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2893">2893s</a></td>
+        <td>Ja chcę tylko... Hono tutaj, hono koza.</td>
+    </tr>
+    <tr id="t2896">
+        <td><a href="#t2896">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2896">2896s</a></td>
+        <td>Tak, tak.</td>
+    </tr>
+    <tr id="t2897">
+        <td><a href="#t2897">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2897">2897s</a></td>
+        <td>Dobra, a więc zaprosimy cię do handlu.</td>
+    </tr>
+    <tr id="t2900">
+        <td><a href="#t2900">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2900">2900s</a></td>
+        <td>Czy to są czaszki jamników?</td>
+    </tr>
+    <tr id="t2901">
+        <td><a href="#t2901">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2901">2901s</a></td>
+        <td>Nie!</td>
+    </tr>
+    <tr id="t2904">
+        <td><a href="#t2904">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2904">2904s</a></td>
+        <td>I tak rozdzielasz.</td>
+    </tr>
+    <tr id="t2906">
+        <td><a href="#t2906">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2906">2906s</a></td>
+        <td>Dostaniesz po 10 każdego po prostu.</td>
+    </tr>
+    <tr id="t2908">
+        <td><a href="#t2908">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2908">2908s</a></td>
+        <td>Bardzo dziękuję.</td>
+    </tr>
+    <tr id="t2911">
+        <td><a href="#t2911">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2911">2911s</a></td>
+        <td>Pierw ścień z czaszką.</td>
+    </tr>
+    <tr id="t2913">
+        <td><a href="#t2913">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2913">2913s</a></td>
+        <td>Dziwnie musi wyglądać, prawda?</td>
+    </tr>
+    <tr id="t2914">
+        <td><a href="#t2914">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2914">2914s</a></td>
+        <td>Właśnie muszę dodać czaszunię.</td>
+    </tr>
+    <tr id="t2915">
+        <td><a href="#t2915">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2915">2915s</a></td>
+        <td>Ja muszę przeczytać, co Józ napisał.</td>
+    </tr>
+    <tr id="t2917">
+        <td><a href="#t2917">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2917">2917s</a></td>
+        <td>Rysław zamiast wypłaty za tłumaczenie rąbnął im wszystkie ante-itemy.</td>
+    </tr>
+    <tr id="t2924">
+        <td><a href="#t2924">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2924">2924s</a></td>
+        <td>Komu?</td>
+    </tr>
+    <tr id="t2924">
+        <td><a href="#t2924">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2924">2924s</a></td>
+        <td>Komu miałbym rąbnąć?</td>
+    </tr>
+    <tr id="t2926">
+        <td><a href="#t2926">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2926">2926s</a></td>
+        <td>Blizzardowi.</td>
+    </tr>
+    <tr id="t2927">
+        <td><a href="#t2927">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2927">2927s</a></td>
+        <td>Haha, chciałbym.</td>
+    </tr>
+    <tr id="t2928">
+        <td><a href="#t2928">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2928">2928s</a></td>
+        <td>Jest sześć przedmiotów w grze w tej chwili, super unikalnych, których, jeśli wam wypadł, tak jakbyście zagrali w Totka, bo jest szansa tam jeden do kilkunastu milionów chyba.</td>
+    </tr>
+    <tr id="t2939">
+        <td><a href="#t2939">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2939">2939s</a></td>
+        <td>I ostatnio znaleziono ostatni szósty.</td>
+    </tr>
+    <tr id="t2943">
+        <td><a href="#t2943">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2943">2943s</a></td>
+        <td>Przyjmuj ofertę moją.</td>
+    </tr>
+    <tr id="t2944">
+        <td><a href="#t2944">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2944">2944s</a></td>
+        <td>Tak, tak, tak.</td>
+    </tr>
+    <tr id="t2948">
+        <td><a href="#t2948">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2948">2948s</a></td>
+        <td>Nie musisz mi dawać złota, ja mam 50 milionów, co mi z twoich sześciuset?</td>
+    </tr>
+    <tr id="t2953">
+        <td><a href="#t2953">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2953">2953s</a></td>
+        <td>Rysław nawet nie mówi o grze.</td>
+    </tr>
+    <tr id="t2956">
+        <td><a href="#t2956">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2956">2956s</a></td>
+        <td>Memiczne kwoty, Rysław.</td>
+    </tr>
+    <tr id="t2958">
+        <td><a href="#t2958">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2958">2958s</a></td>
+        <td>Więc moja oferta jest zablokowana.</td>
+    </tr>
+    <tr id="t2960">
+        <td><a href="#t2960">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2960">2960s</a></td>
+        <td>Tak jest.</td>
+    </tr>
+    <tr id="t2962">
+        <td><a href="#t2962">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2962">2962s</a></td>
+        <td>Nie możesz prze... Ekwipunek jest pełny.</td>
+    </tr>
+    <tr id="t2967">
+        <td><a href="#t2967">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2967">2967s</a></td>
+        <td>To jest niestety... Rany boskie, jakie to jest kretyńskie.</td>
+    </tr>
+    <tr id="t2971">
+        <td><a href="#t2971">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2971">2971s</a></td>
+        <td>To jest kretyńskie, to jest kretyńskie, ma być od drugiego sezonu specjalna kabza na te, na klejnoty.</td>
+    </tr>
+    <tr id="t2978">
+        <td><a href="#t2978">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2978">2978s</a></td>
+        <td>No przecież to jest UX-owa porażka, UI-owa, no bo UX-owa również, bo zauważcie, że tutaj jest też mniejszy ekwipunek niż w Diablo 3.</td>
+    </tr>
+    <tr id="t2988">
+        <td><a href="#t2988">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2988">2988s</a></td>
+        <td>Znaczy jest zupełnie inaczej jak w Ipuneku.</td>
+    </tr>
+    <tr id="t2990">
+        <td><a href="#t2990">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2990">2990s</a></td>
+        <td>Tak.</td>
+    </tr>
+    <tr id="t2991">
+        <td><a href="#t2991">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2991">2991s</a></td>
+        <td>Dobra, ale słabo, musimy od nowa, to niestety.</td>
+    </tr>
+    <tr id="t2993">
+        <td><a href="#t2993">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2993">2993s</a></td>
+        <td>No to nie jest problem żaden dla mnie.</td>
+    </tr>
+    <tr id="t2996">
+        <td><a href="#t2996">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2996">2996s</a></td>
+        <td>Proszę bardzo.</td>
+    </tr>
+    <tr id="t2997">
+        <td><a href="#t2997">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2997">2997s</a></td>
+        <td>Krzysztof ma tron z czaszek szlachetnych jamników.</td>
+    </tr>
+    <tr id="t2999">
+        <td><a href="#t2999">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=2999">2999s</a></td>
+        <td>Właśnie, czaszki na tron czaszek.</td>
+    </tr>
+    <tr id="t3002">
+        <td><a href="#t3002">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3002">3002s</a></td>
+        <td>Boże, ja rozumiem, że korn i w ogóle, ale z jamników czaszek?</td>
+    </tr>
+    <tr id="t3007">
+        <td><a href="#t3007">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3007">3007s</a></td>
+        <td>Co za barbarzyństwo jest.</td>
+    </tr>
+    <tr id="t3009">
+        <td><a href="#t3009">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3009">3009s</a></td>
+        <td>Co za barbarzyństwo, jak można z jamników czaszek?</td>
+    </tr>
+    <tr id="t3011">
+        <td><a href="#t3011">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3011">3011s</a></td>
+        <td>Pamiętaj, że ja miałem jamniki w domu przez wiele lat.</td>
+    </tr>
+    <tr id="t3015">
+        <td><a href="#t3015">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3015">3015s</a></td>
+        <td>U mnie jedyne psy to były jamniki.</td>
+    </tr>
+    <tr id="t3017">
+        <td><a href="#t3017">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3017">3017s</a></td>
+        <td>Czy ja mogę poprosić o jamniki dla Rysława, który miał jamniki na czacie?</td>
+    </tr>
+    <tr id="t3021">
+        <td><a href="#t3021">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3021">3021s</a></td>
+        <td>Przecież nie będzie lepszej okazji, wreszcie ktoś przyszedł z Rickczem na kanał.</td>
+    </tr>
+    <tr id="t3029">
+        <td><a href="#t3029">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3029">3029s</a></td>
+        <td>Twoje przymioty z transakcji są dziękuję.</td>
+    </tr>
+    <tr id="t3031">
+        <td><a href="#t3031">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3031">3031s</a></td>
+        <td>Moi drodzy, kusa po kusa będzie potężna.</td>
+    </tr>
+    <tr id="t3035">
+        <td><a href="#t3035">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3035">3035s</a></td>
+        <td>Nieskazitelny Rubin.</td>
+    </tr>
+    <tr id="t3040">
+        <td><a href="#t3040">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3040">3040s</a></td>
+        <td>Proszę bardzo, Rysław, jest dla Ciebie miliard jamników.</td>
+    </tr>
+    <tr id="t3042">
+        <td><a href="#t3042">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3042">3042s</a></td>
+        <td>Dziękuję serdecznie.</td>
+    </tr>
+    <tr id="t3043">
+        <td><a href="#t3043">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3043">3043s</a></td>
+        <td>Ludzie tutaj niesamowicie doceniają jamniki.</td>
+    </tr>
+    <tr id="t3048">
+        <td><a href="#t3048">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3048">3048s</a></td>
+        <td>Dobrze.</td>
+    </tr>
+    <tr id="t3048">
+        <td><a href="#t3048">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3048">3048s</a></td>
+        <td>Nie wiem, czy widziałeś taki mebel, ostatnio chciałem, nawet chciałem się na Twitterze oznaczyć.</td>
+    </tr>
+    <tr id="t3054">
+        <td><a href="#t3054">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3054">3054s</a></td>
+        <td>Widziałem.</td>
+    </tr>
+    <tr id="t3055">
+        <td><a href="#t3055">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3055">3055s</a></td>
+        <td>Mebel łóżkojamnikowe?</td>
+    </tr>
+    <tr id="t3057">
+        <td><a href="#t3057">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3057">3057s</a></td>
+        <td>Oczywiście.</td>
+    </tr>
+    <tr id="t3058">
+        <td><a href="#t3058">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3058">3058s</a></td>
+        <td>No tak.</td>
+    </tr>
+    <tr id="t3059">
+        <td><a href="#t3059">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3059">3059s</a></td>
+        <td>Oczywiście, że tak.</td>
+    </tr>
+    <tr id="t3060">
+        <td><a href="#t3060">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3060">3060s</a></td>
+        <td>Ja zaraz czatom pokażę na wszelki wypadek łóżkojamnik.</td>
+    </tr>
+    <tr id="t3065">
+        <td><a href="#t3065">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3065">3065s</a></td>
+        <td>Mam nadzieję, że będzie.</td>
+    </tr>
+    <tr id="t3067">
+        <td><a href="#t3067">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3067">3067s</a></td>
+        <td>Grafika.</td>
+    </tr>
+    <tr id="t3068">
+        <td><a href="#t3068">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3068">3068s</a></td>
+        <td>Oczywiście, że nie ma.</td>
+    </tr>
+    <tr id="t3070">
+        <td><a href="#t3070">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3070">3070s</a></td>
+        <td>Dalej jesteśmy w randze świata drugiej, wobec tego sugerowałbym teraz podejść... Przepraszam, ja muszę przyznać.</td>
+    </tr>
+    <tr id="t3076">
+        <td><a href="#t3076">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3076">3076s</a></td>
+        <td>Zobaczyłem, że ktoś rozrzucił nagle bardzo dużo przedmiotów.</td>
+    </tr>
+    <tr id="t3078">
+        <td><a href="#t3078">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3078">3078s</a></td>
+        <td>Ja je wszystko podniosę i...</td>
+    </tr>
+    <tr id="t3081">
+        <td><a href="#t3081">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3081">3081s</a></td>
+        <td>To są przedmioty Krzysztofa, które wyrzucił.</td>
+    </tr>
+    <tr id="t3083">
+        <td><a href="#t3083">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3083">3083s</a></td>
+        <td>Zbieram śmieci po Krzysztofie, no dobra.</td>
+    </tr>
+    <tr id="t3085">
+        <td><a href="#t3085">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3085">3085s</a></td>
+        <td>Nie ma nigdzie tego jamnika, oczywiście.</td>
+    </tr>
+    <tr id="t3087">
+        <td><a href="#t3087">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3087">3087s</a></td>
+        <td>What's new?</td>
+    </tr>
+    <tr id="t3088">
+        <td><a href="#t3088">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3088">3088s</a></td>
+        <td>Dramat.</td>
+    </tr>
+    <tr id="t3089">
+        <td><a href="#t3089">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3089">3089s</a></td>
+        <td>What's new?</td>
+    </tr>
+    <tr id="t3090">
+        <td><a href="#t3090">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3090">3090s</a></td>
+        <td>Gilnajman, dzięki za wsparcie od 20 miesięcy widzę bejty nadamskiego awatara dalej działają.</td>
+    </tr>
+    <tr id="t3094">
+        <td><a href="#t3094">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3094">3094s</a></td>
+        <td>Jakie bejty?</td>
+    </tr>
+    <tr id="t3095">
+        <td><a href="#t3095">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3095">3095s</a></td>
+        <td>Gdzie?</td>
+    </tr>
+    <tr id="t3095">
+        <td><a href="#t3095">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3095">3095s</a></td>
+        <td>Aaa, już rozumiem.</td>
+    </tr>
+    <tr id="t3097">
+        <td><a href="#t3097">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3097">3097s</a></td>
+        <td>Tak, oczywiście, dzięki temu dostałem przedmioty, naturalnie, że tak.</td>
+    </tr>
+    <tr id="t3102">
+        <td><a href="#t3102">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3102">3102s</a></td>
+        <td>Tylko i wyłącznie dzięki temu.</td>
+    </tr>
+    <tr id="t3105">
+        <td><a href="#t3105">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3105">3105s</a></td>
+        <td>O tak, po prostu gdyby nie to, że kusa po kusa jest tak kusząca, to ja po prostu jestem tak czuły na damskie wdzięki w grze.</td>
+    </tr>
+    <tr id="t3113">
+        <td><a href="#t3113">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3113">3113s</a></td>
+        <td>Przepraszam najmocniej, jeżeli ośmielicie się stwierdzić, że kusa po kusa, która w tym momencie obnaża swoje udko, nie jest dostatecznie kusa, to pogniewamy się.</td>
+    </tr>
+    <tr id="t3123">
+        <td><a href="#t3123">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3123">3123s</a></td>
+        <td>Czy ona jest kusa, w sensie, że ma kusą spódnicę, czy że jest kusząca?</td>
+    </tr>
+    <tr id="t3127">
+        <td><a href="#t3127">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3127">3127s</a></td>
+        <td>Bardzo się cieszę, że Nergal jest widowiskowo aseksualny.</td>
+    </tr>
+    <tr id="t3134">
+        <td><a href="#t3134">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3134">3134s</a></td>
+        <td>Ja jestem ekstremalnie maskulinistyczny, nie wiem tutaj...</td>
+    </tr>
+    <tr id="t3140">
+        <td><a href="#t3140">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3140">3140s</a></td>
+        <td>Jak widać po Bogdanie, to jest facet... Jakbym miał komuś wytłumaczyć jaka jest różnica między Death Metalem a Black Metalem, to powiedziałbym Bogdan to jest Death Metal.</td>
+    </tr>
+    <tr id="t3148">
+        <td><a href="#t3148">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3148">3148s</a></td>
+        <td>Tak, tak, tak, zdecydowanie.</td>
+    </tr>
+    <tr id="t3150">
+        <td><a href="#t3150">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3150">3150s</a></td>
+        <td>Ja wolę Death Metal, zdecydowanie.</td>
+    </tr>
+    <tr id="t3152">
+        <td><a href="#t3152">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3152">3152s</a></td>
+        <td>Ja też wolę Death Metal, ale akurat dzisiaj jestem Black Metalem, no.</td>
+    </tr>
+    <tr id="t3156">
+        <td><a href="#t3156">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3156">3156s</a></td>
+        <td>Akurat Black Metal to jest gatunek metalu, który mnie odrzuca.</td>
+    </tr>
+    <tr id="t3159">
+        <td><a href="#t3159">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3159">3159s</a></td>
+        <td>Z założenia takiego.</td>
+    </tr>
+    <tr id="t3160">
+        <td><a href="#t3160">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3160">3160s</a></td>
+        <td>A Death Metal bardzo lubię.</td>
+    </tr>
+    <tr id="t3162">
+        <td><a href="#t3162">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3162">3162s</a></td>
+        <td>Ja też.</td>
+    </tr>
+    <tr id="t3162">
+        <td><a href="#t3162">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3162">3162s</a></td>
+        <td>Lubię Doom Metal, My Dying Bride chociażby, Anatema pierwsza.</td>
+    </tr>
+    <tr id="t3167">
+        <td><a href="#t3167">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3167">3167s</a></td>
+        <td>Piękna.</td>
+    </tr>
+    <tr id="t3167">
+        <td><a href="#t3167">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3167">3167s</a></td>
+        <td>Ja nie chcę nic mówić, ale u nas w dalszym ciągu jest Dziekan Znamienia.</td>
+    </tr>
+    <tr id="t3171">
+        <td><a href="#t3171">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3171">3171s</a></td>
+        <td>I to jest nasza ulubiona broń na chatowa.</td>
+    </tr>
+    <tr id="t3175">
+        <td><a href="#t3175">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3175">3175s</a></td>
+        <td>Dziekan Znamienia.</td>
+    </tr>
+    <tr id="t3176">
+        <td><a href="#t3176">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3176">3176s</a></td>
+        <td>Przesto schowaj te... Dziekana Znamienia?</td>
+    </tr>
+    <tr id="t3179">
+        <td><a href="#t3179">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3179">3179s</a></td>
+        <td>Chowaj kenoty i idźcie do cokołu, tutaj musisz zmienić rangę świata na trzecią.</td>
+    </tr>
+    <tr id="t3184">
+        <td><a href="#t3184">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3184">3184s</a></td>
+        <td>Ja nic nie wysłał w tym... Ja jestem świeżo po Wiedźminie, a w przyszłym tygodniu robię znowu... I ty mi mówisz, że ja muszę znowu do jakichś menhirów chodzić.</td>
+    </tr>
+    <tr id="t3193">
+        <td><a href="#t3193">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3193">3193s</a></td>
+        <td>Tutaj.</td>
+    </tr>
+    <tr id="t3194">
+        <td><a href="#t3194">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3194">3194s</a></td>
+        <td>Mam zablokowane.</td>
+    </tr>
+    <tr id="t3195">
+        <td><a href="#t3195">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3195">3195s</a></td>
+        <td>Nie masz, za chwilę się odblokuje, to jest błąd, który za momencik zniknie.</td>
+    </tr>
+    <tr id="t3200">
+        <td><a href="#t3200">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3200">3200s</a></td>
+        <td>Powinieneś mieć poziom trzeci.</td>
+    </tr>
+    <tr id="t3202">
+        <td><a href="#t3202">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3202">3202s</a></td>
+        <td>Aha, mam trzeci poziom.</td>
+    </tr>
+    <tr id="t3204">
+        <td><a href="#t3204">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3204">3204s</a></td>
+        <td>Ale dalej ranga świata jest 2.</td>
+    </tr>
+    <tr id="t3207">
+        <td><a href="#t3207">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3207">3207s</a></td>
+        <td>U mnie podobnie.</td>
+    </tr>
+    <tr id="t3209">
+        <td><a href="#t3209">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3209">3209s</a></td>
+        <td>Nie można nic zrobić.</td>
+    </tr>
+    <tr id="t3210">
+        <td><a href="#t3210">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3210">3210s</a></td>
+        <td>Już jest koszmar, już jest koszmar.</td>
+    </tr>
+    <tr id="t3212">
+        <td><a href="#t3212">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3212">3212s</a></td>
+        <td>Ale to ty masz tylko, ja mam cały czas rangę świata 2.</td>
+    </tr>
+    <tr id="t3214">
+        <td><a href="#t3214">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3214">3214s</a></td>
+        <td>Ja patrzę na twój ekran teraz.</td>
+    </tr>
+    <tr id="t3216">
+        <td><a href="#t3216">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3216">3216s</a></td>
+        <td>Odblokowuje się po ukończeniu kampanii i katedry światła podziemi wieńczących w Kiewosadziek.</td>
+    </tr>
+    <tr id="t3220">
+        <td><a href="#t3220">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3220">3220s</a></td>
+        <td>Ranga świata druga weteran.</td>
+    </tr>
+    <tr id="t3222">
+        <td><a href="#t3222">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3222">3222s</a></td>
+        <td>Przeszliście to, właśnie przed chwilą.</td>
+    </tr>
+    <tr id="t3226">
+        <td><a href="#t3226">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3226">3226s</a></td>
+        <td>To jest dziwne, nie mogę tego wybrać.</td>
+    </tr>
+    <tr id="t3229">
+        <td><a href="#t3229">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3229">3229s</a></td>
+        <td>To może przeze mnie, bo ja nie ukończyłem kampanii.</td>
+    </tr>
+    <tr id="t3233">
+        <td><a href="#t3233">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3233">3233s</a></td>
+        <td>Ale nie, no to u Krzysztofa nie powinno mieć wpływu.</td>
+    </tr>
+    <tr id="t3235">
+        <td><a href="#t3235">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3235">3235s</a></td>
+        <td>Nie powinno mieć wpływu.</td>
+    </tr>
+    <tr id="t3236">
+        <td><a href="#t3236">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3236">3236s</a></td>
+        <td>Czekajcie, czy ja mogę?</td>
+    </tr>
+    <tr id="t3240">
+        <td><a href="#t3240">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3240">3240s</a></td>
+        <td>Ja też mam koszmar zablokowany.</td>
+    </tr>
+    <tr id="t3241">
+        <td><a href="#t3241">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3241">3241s</a></td>
+        <td>Członek twojej drużyny nie odblokował tej rangi świata, wszyscy muszą odblokować tę samą rangę, aby do niej dołączyć.</td>
+    </tr>
+    <tr id="t3246">
+        <td><a href="#t3246">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3246">3246s</a></td>
+        <td>Czyli to przeze mnie.</td>
+    </tr>
+    <tr id="t3247">
+        <td><a href="#t3247">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3247">3247s</a></td>
+        <td>To przez ciebie.</td>
+    </tr>
+    <tr id="t3249">
+        <td><a href="#t3249">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3249">3249s</a></td>
+        <td>No to ja do widzenia.</td>
+    </tr>
+    <tr id="t3251">
+        <td><a href="#t3251">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3251">3251s</a></td>
+        <td>Ale poczekaj, dużo ci brakuje w fabule do końca?</td>
+    </tr>
+    <tr id="t3255">
+        <td><a href="#t3255">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3255">3255s</a></td>
+        <td>No chyba tak, nie wiem.</td>
+    </tr>
+    <tr id="t3257">
+        <td><a href="#t3257">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3257">3257s</a></td>
+        <td>Jak masz 50 poziom to... To robimy razem babułę.</td>
+    </tr>
+    <tr id="t3261">
+        <td><a href="#t3261">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3261">3261s</a></td>
+        <td>Robimy end game.</td>
+    </tr>
+    <tr id="t3262">
+        <td><a href="#t3262">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3262">3262s</a></td>
+        <td>Jakby co to możemy teraz zrobić, wejść do świata Filipa i zrobić to rach ciach po wszystkim.</td>
+    </tr>
+    <tr id="t3268">
+        <td><a href="#t3268">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3268">3268s</a></td>
+        <td>Szasty prasty po wszystkim.</td>
+    </tr>
+    <tr id="t3270">
+        <td><a href="#t3270">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3270">3270s</a></td>
+        <td>Ale zaraz Rysławek, ty mi chcesz powiedzieć, że my nie możemy na tej randze drugiej</td>
+    </tr>
+    <tr id="t3276">
+        <td><a href="#t3276">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3276">3276s</a></td>
+        <td>Nic robić endgame'owego.</td>
+    </tr>
+    <tr id="t3278">
+        <td><a href="#t3278">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3278">3278s</a></td>
+        <td>Nie, nie, znaczy endgame'owego nie, nie, bo to nie jest endgame.</td>
+    </tr>
+    <tr id="t3280">
+        <td><a href="#t3280">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3280">3280s</a></td>
+        <td>Endgame to jest te cztery, te trzy to jest tylko przejściowe, znaczy mówię te trzy w sensie ranga, trzecia i ranga czwarta.</td>
+    </tr>
+    <tr id="t3287">
+        <td><a href="#t3287">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3287">3287s</a></td>
+        <td>Trzecia jest tylko przejściowa przez chwilę, tak podejrzewam przez dziesięć poziomów, a później wskakujesz na czwórkę i na nie lecisz do końca, więc no cóż.</td>
+    </tr>
+    <tr id="t3297">
+        <td><a href="#t3297">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3297">3297s</a></td>
+        <td>A Filip, gdzie ty jesteś w fabule, tak?</td>
+    </tr>
+    <tr id="t3299">
+        <td><a href="#t3299">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3299">3299s</a></td>
+        <td>Na którym akcie mniej więcej?</td>
+    </tr>
+    <tr id="t3303">
+        <td><a href="#t3303">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3303">3303s</a></td>
+        <td>A mogę to jakoś sprawdzić?</td>
+    </tr>
+    <tr id="t3305">
+        <td><a href="#t3305">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3305">3305s</a></td>
+        <td>No tak, musisz wyjść z gry.</td>
+    </tr>
+    <tr id="t3306">
+        <td><a href="#t3306">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3306">3306s</a></td>
+        <td>Wspominałem Astarota, trafiłem tam, powiem wam do jakiej krainy trafiłem, może tak będzie łatwiej.</td>
+    </tr>
+    <tr id="t3316">
+        <td><a href="#t3316">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3316">3316s</a></td>
+        <td>Tarsarac, ostatnio byłem chyba w Tarsaracu.</td>
+    </tr>
+    <tr id="t3319">
+        <td><a href="#t3319">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3319">3319s</a></td>
+        <td>No i to dużo jeszcze.</td>
+    </tr>
+    <tr id="t3321">
+        <td><a href="#t3321">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3321">3321s</a></td>
+        <td>Co to jest Tarsarac w ogóle?</td>
+    </tr>
+    <tr id="t3323">
+        <td><a href="#t3323">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3323">3323s</a></td>
+        <td>A Kedzystan tam?</td>
+    </tr>
+    <tr id="t3325">
+        <td><a href="#t3325">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3325">3325s</a></td>
+        <td>O Jezus, 8 godzin to jest.</td>
+    </tr>
+    <tr id="t3327">
+        <td><a href="#t3327">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3327">3327s</a></td>
+        <td>Zależy, nie, nie, no teraz... Zależy.</td>
+    </tr>
+    <tr id="t3331">
+        <td><a href="#t3331">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3331">3331s</a></td>
+        <td>Możemy to przyspieszyć, tylko czy Filip nie chciałby po prostu sam poprzeżywać, bo tam się ciekawe rzeczy dzieją.</td>
+    </tr>
+    <tr id="t3337">
+        <td><a href="#t3337">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3337">3337s</a></td>
+        <td>Jak my wejdziemy teraz, zrobimy mu turbo doładowanie, to...</td>
+    </tr>
+    <tr id="t3343">
+        <td><a href="#t3343">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3343">3343s</a></td>
+        <td>Ale wiecie, to jest dziwne, bo w Diablo zawsze polegało na tym, tak przynajmniej ja pamiętam, że można było sobie po prostu wbić i pograć wspólnie.</td>
+    </tr>
+    <tr id="t3351">
+        <td><a href="#t3351">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3351">3351s</a></td>
+        <td>Dziwne, nie?</td>
+    </tr>
+    <tr id="t3352">
+        <td><a href="#t3352">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3352">3352s</a></td>
+        <td>Nie, teraz też możemy grać wspólnie, tylko na tym poziomie.</td>
+    </tr>
+    <tr id="t3354">
+        <td><a href="#t3354">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3354">3354s</a></td>
+        <td>Wy będziecie zdobywać doświadczenia, a ja będę jak starszy brat, który pilnuje, żebyście sobie nie połamali rąk.</td>
+    </tr>
+    <tr id="t3360">
+        <td><a href="#t3360">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3360">3360s</a></td>
+        <td>To może i to jest jakieś rozwiązanie.</td>
+    </tr>
+    <tr id="t3363">
+        <td><a href="#t3363">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3363">3363s</a></td>
+        <td>Dając kłosza.</td>
+    </tr>
+    <tr id="t3364">
+        <td><a href="#t3364">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3364">3364s</a></td>
+        <td>Tylko pytanie, co można interesującego robić, bo ja generalnie nie mam tutaj pozwiedzanych tych wszystkich podziemi, które są.</td>
+    </tr>
+    <tr id="t3370">
+        <td><a href="#t3370">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3370">3370s</a></td>
+        <td>Moi drodzy, przede wszystkim możemy, tak, te podziemia to raz, możemy robić przysługi dla drzewa szeptów.</td>
+    </tr>
+    <tr id="t3378">
+        <td><a href="#t3378">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3378">3378s</a></td>
+        <td>Ok.</td>
+    </tr>
+    <tr id="t3378">
+        <td><a href="#t3378">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3378">3378s</a></td>
+        <td>Dokonywać akurat są w Hawesarze, jak widzę na mapie.</td>
+    </tr>
+    <tr id="t3381">
+        <td><a href="#t3381">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3381">3381s</a></td>
+        <td>I są także obok kiewosadu.</td>
+    </tr>
+    <tr id="t3384">
+        <td><a href="#t3384">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3384">3384s</a></td>
+        <td>Możemy... Co jeszcze możemy... Jak się pojawią przypływy, nie wiem czy przypływy się pojawiają na tym poziomie, czy wyżej.</td>
+    </tr>
+    <tr id="t3391">
+        <td><a href="#t3391">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3391">3391s</a></td>
+        <td>Może Matix jak będzie słyszał to... Są przypływy, są, bo ja to... Chyba tutaj.</td>
+    </tr>
+    <tr id="t3395">
+        <td><a href="#t3395">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3395">3395s</a></td>
+        <td>Bo to jak są przypływy to możemy porobić przypływy.</td>
+    </tr>
+    <tr id="t3397">
+        <td><a href="#t3397">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3397">3397s</a></td>
+        <td>Możemy bossa świata pyknąć jak będzie.</td>
+    </tr>
+    <tr id="t3400">
+        <td><a href="#t3400">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3400">3400s</a></td>
+        <td>Okej, nawet nie wiem gdzie jest boss świata.</td>
+    </tr>
+    <tr id="t3402">
+        <td><a href="#t3402">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3402">3402s</a></td>
+        <td>Mam jakieś pola nienawiści.</td>
+    </tr>
+    <tr id="t3405">
+        <td><a href="#t3405">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3405">3405s</a></td>
+        <td>Pola nienawiści, to są, to nie, to jest tam, to jest PvP.</td>
+    </tr>
+    <tr id="t3407">
+        <td><a href="#t3407">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3407">3407s</a></td>
+        <td>Aha, to pomyliłem w takim razie.</td>
+    </tr>
+    <tr id="t3409">
+        <td><a href="#t3409">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3409">3409s</a></td>
+        <td>Dobrze.</td>
+    </tr>
+    <tr id="t3410">
+        <td><a href="#t3410">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3410">3410s</a></td>
+        <td>To jest PvP.</td>
+    </tr>
+    <tr id="t3411">
+        <td><a href="#t3411">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3411">3411s</a></td>
+        <td>To wiecie co zróbmy?</td>
+    </tr>
+    <tr id="t3412">
+        <td><a href="#t3412">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3412">3412s</a></td>
+        <td>Odbijmy tutaj twierdza, jakaś jest twierdza.</td>
+    </tr>
+    <tr id="t3414">
+        <td><a href="#t3414">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3414">3414s</a></td>
+        <td>O, super, twierdzę możemy rozbić.</td>
+    </tr>
+    <tr id="t3416">
+        <td><a href="#t3416">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3416">3416s</a></td>
+        <td>Kordragan.</td>
+    </tr>
+    <tr id="t3417">
+        <td><a href="#t3417">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3417">3417s</a></td>
+        <td>Ja nie mam wszystkich twierdz odkrytych tutaj, więc, a to są ciekawe zawsze rzeczy.</td>
+    </tr>
+    <tr id="t3420">
+        <td><a href="#t3420">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3420">3420s</a></td>
+        <td>Post świata jest dopiero za 6,5 godziny, pisze mi Matix, więc na razie nie będziemy mieć.</td>
+    </tr>
+    <tr id="t3424">
+        <td><a href="#t3424">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3424">3424s</a></td>
+        <td>Ojej, Aśku pisze, jeju, jaki smutny Filip, Filip to nie twoja wina.</td>
+    </tr>
+    <tr id="t3429">
+        <td><a href="#t3429">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3429">3429s</a></td>
+        <td>A z drugiej strony Piotr Wawrzyniak, Filip jest nieprzygotowany.</td>
+    </tr>
+    <tr id="t3433">
+        <td><a href="#t3433">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3433">3433s</a></td>
+        <td>Otrzymujesz...</td>
+    </tr>
+    <tr id="t3435">
+        <td><a href="#t3435">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3435">3435s</a></td>
+        <td>Minus!</td>
+    </tr>
+    <tr id="t3438">
+        <td><a href="#t3438">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3438">3438s</a></td>
+        <td>Mighty Penguin pisze, że bossy świata od T3?</td>
+    </tr>
+    <tr id="t3441">
+        <td><a href="#t3441">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3441">3441s</a></td>
+        <td>Nie, bossy świata są nawet na T1.</td>
+    </tr>
+    <tr id="t3444">
+        <td><a href="#t3444">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3444">3444s</a></td>
+        <td>Tylko odpowiednio przeskalowane, więc teraz powiem tak, my teraz jak gramy na tej wysokiej randze i się spotka kilka osób, które wiedzą co robią, to bossowie, ci najgorsi, najmocniejsi bossowie padają, nasz rekord to jest 10 sekund, a ponoć szybciej.</td>
+    </tr>
+    <tr id="t3459">
+        <td><a href="#t3459">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3459">3459s</a></td>
+        <td>Rozumiem.</td>
+    </tr>
+    <tr id="t3461">
+        <td><a href="#t3461">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3461">3461s</a></td>
+        <td>Filip, pobieg... Filip, dlaczego ja mówię o Krzysztofie Filip?</td>
+    </tr>
+    <tr id="t3464">
+        <td><a href="#t3464">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3464">3464s</a></td>
+        <td>Boże.</td>
+    </tr>
+    <tr id="t3465">
+        <td><a href="#t3465">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3465">3465s</a></td>
+        <td>Krzysztof wybiegł sobie po prostu z miasta i pobiegł.</td>
+    </tr>
+    <tr id="t3468">
+        <td><a href="#t3468">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3468">3468s</a></td>
+        <td>Ja wybiegłem... Nie, to my się do niego przeniesiemy.</td>
+    </tr>
+    <tr id="t3470">
+        <td><a href="#t3470">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3470">3470s</a></td>
+        <td>My możemy się teleportem do niego przenieść.</td>
+    </tr>
+    <tr id="t3472">
+        <td><a href="#t3472">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3472">3472s</a></td>
+        <td>Po prostu niech nam powie, jak będzie koło tego Core Dragon.</td>
+    </tr>
+    <tr id="t3474">
+        <td><a href="#t3474">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3474">3474s</a></td>
+        <td>On szybko biega.</td>
+    </tr>
+    <tr id="t3476">
+        <td><a href="#t3476">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3476">3476s</a></td>
+        <td>Masz konika też, czy nie masz konika?</td>
+    </tr>
+    <tr id="t3477">
+        <td><a href="#t3477">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3477">3477s</a></td>
+        <td>Oczywiście, że jest.</td>
+    </tr>
+    <tr id="t3478">
+        <td><a href="#t3478">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3478">3478s</a></td>
+        <td>To jest malaria 2.0, ponieważ malaria 1.0 zginęła w Red Dead Redemption 2.</td>
+    </tr>
+    <tr id="t3486">
+        <td><a href="#t3486">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3486">3486s</a></td>
+        <td>Nawet nie ma gonika.</td>
+    </tr>
+    <tr id="t3487">
+        <td><a href="#t3487">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3487">3487s</a></td>
+        <td>Czy wybieram się na Retrosferę we wrześniu w Brzegu?</td>
+    </tr>
+    <tr id="t3489">
+        <td><a href="#t3489">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3489">3489s</a></td>
+        <td>Nie, a wy się wybieracie?</td>
+    </tr>
+    <tr id="t3490">
+        <td><a href="#t3490">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3490">3490s</a></td>
+        <td>No ja się wybieram, bo to moja impreza.</td>
+    </tr>
+    <tr id="t3492">
+        <td><a href="#t3492">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3492">3492s</a></td>
+        <td>Znaczy moja, w sensie ja tam będę pomagać przy tej imprezie.</td>
+    </tr>
+    <tr id="t3497">
+        <td><a href="#t3497">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3497">3497s</a></td>
+        <td>To wyjaśnia wiele.</td>
+    </tr>
+    <tr id="t3499">
+        <td><a href="#t3499">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3499">3499s</a></td>
+        <td>Teleportacja do kusa po kusa.</td>
+    </tr>
+    <tr id="t3503">
+        <td><a href="#t3503">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3503">3503s</a></td>
+        <td>Taka informacja dla osób, które grają w drużynie.</td>
+    </tr>
+    <tr id="t3506">
+        <td><a href="#t3506">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3506">3506s</a></td>
+        <td>Zawsze możecie się przeteleportować do dowolnego członka drużyny z jakiegoś dużego miasta.</td>
+    </tr>
+    <tr id="t3513">
+        <td><a href="#t3513">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3513">3513s</a></td>
+        <td>Jak widać, znaczy wy nie widzicie, ale u mnie, chyba że, poczekajcie, ja zrobię tak, że może będzie widać w małym okienku, pokażę wam.</td>
+    </tr>
+    <tr id="t3522">
+        <td><a href="#t3522">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3522">3522s</a></td>
+        <td>Wiem, ja skorzystałem z tego teleportu.</td>
+    </tr>
+    <tr id="t3524">
+        <td><a href="#t3524">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3524">3524s</a></td>
+        <td>Może pojawi się teleport, mamy zadanie.</td>
+    </tr>
+    <tr id="t3527">
+        <td><a href="#t3527">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3527">3527s</a></td>
+        <td>Zadanie, trzeba zniszczyć pająki, natychmiast zniszczcie pająki, mam arachnofobię.</td>
+    </tr>
+    <tr id="t3535">
+        <td><a href="#t3535">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3535">3535s</a></td>
+        <td>Dobrze, to ja się do ciebie przeniosę, ty jesteś teraz w turniach złych wichrów.</td>
+    </tr>
+    <tr id="t3542">
+        <td><a href="#t3542">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3542">3542s</a></td>
+        <td>A moje ulubione etapy to są tam, gdzie są pająki, bo one fantastycznie giną i można robić... Dobra.</td>
+    </tr>
+    <tr id="t3550">
+        <td><a href="#t3550">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3550">3550s</a></td>
+        <td>No tak, no tak.</td>
+    </tr>
+    <tr id="t3551">
+        <td><a href="#t3551">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3551">3551s</a></td>
+        <td>No oczywiście.</td>
+    </tr>
+    <tr id="t3553">
+        <td><a href="#t3553">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3553">3553s</a></td>
+        <td>No oczywiście, że tak.</td>
+    </tr>
+    <tr id="t3555">
+        <td><a href="#t3555">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3555">3555s</a></td>
+        <td>Dobra, troszkę muszę pograć, żeby tutaj... Jamnikowy Piechut, dziękuję za trybut, pisze, malaria nie zginęła, została perfidnie zamordowana.</td>
+    </tr>
+    <tr id="t3562">
+        <td><a href="#t3562">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3562">3562s</a></td>
+        <td>Jest to poniekąd prawda, to znaczy doprowadziłem do tego, że malaria spadła z klifu i nie dało się już jej wskrzesić, ale potem się okazało, że się jednak dają wskrzesić.</td>
+    </tr>
+    <tr id="t3571">
+        <td><a href="#t3571">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3571">3571s</a></td>
+        <td>O, ciekawie, właśnie ciekawie wygląda to skalowanie, bo tak naprawdę z moim poziomem ja powinienem zabijać tych, ja powinienem dotykać, a oni powinni ginąć, a to jednak muszę im coś zrobić.</td>
+    </tr>
+    <tr id="t3581">
+        <td><a href="#t3581">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3581">3581s</a></td>
+        <td>To nie jest takie proste.</td>
+    </tr>
+    <tr id="t3582">
+        <td><a href="#t3582">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3582">3582s</a></td>
+        <td>To dobrze, bo to są pająki.</td>
+    </tr>
+    <tr id="t3584">
+        <td><a href="#t3584">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3584">3584s</a></td>
+        <td>I jeszcze jest pytanie od Karola z Kropka.</td>
+    </tr>
+    <tr id="t3585">
+        <td><a href="#t3585">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3585">3585s</a></td>
+        <td>Rysław, jak oceniasz Diablo 4 w porównaniu do Diablo 3?</td>
+    </tr>
+    <tr id="t3588">
+        <td><a href="#t3588">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3588">3588s</a></td>
+        <td>Zdecydowanie lepsze.</td>
+    </tr>
+    <tr id="t3589">
+        <td><a href="#t3589">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3589">3589s</a></td>
+        <td>Chociaż ja bardzo lubiłem Diablo.</td>
+    </tr>
+    <tr id="t3590">
+        <td><a href="#t3590">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3590">3590s</a></td>
+        <td>Ja mam w Diablo 3 800 godzin.</td>
+    </tr>
+    <tr id="t3592">
+        <td><a href="#t3592">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3592">3592s</a></td>
+        <td>Tak nie więcej.</td>
+    </tr>
+    <tr id="t3593">
+        <td><a href="#t3593">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3593">3593s</a></td>
+        <td>Nie jestem jeszcze gotowy.</td>
+    </tr>
+    <tr id="t3595">
+        <td><a href="#t3595">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3595">3595s</a></td>
+        <td>Więc to... Zresztą w każdym Diablo mam bardzo dużo godzin.</td>
+    </tr>
+    <tr id="t3599">
+        <td><a href="#t3599">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3599">3599s</a></td>
+        <td>Oprócz Immortala.</td>
+    </tr>
+    <tr id="t3600">
+        <td><a href="#t3600">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3600">3600s</a></td>
+        <td>W Immortala... A dlaczego można sprawdzić tak dokładnie?</td>
+    </tr>
+    <tr id="t3603">
+        <td><a href="#t3603">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3603">3603s</a></td>
+        <td>Diablo 3 jest możliwość sprawdzenia ile masz godzin każdą postacią po prostu.</td>
+    </tr>
+    <tr id="t3607">
+        <td><a href="#t3607">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3607">3607s</a></td>
+        <td>Tak?</td>
+    </tr>
+    <tr id="t3607">
+        <td><a href="#t3607">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3607">3607s</a></td>
+        <td>Aaa.</td>
+    </tr>
+    <tr id="t3610">
+        <td><a href="#t3610">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3610">3610s</a></td>
+        <td>To mi umknęło.</td>
+    </tr>
+    <tr id="t3611">
+        <td><a href="#t3611">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3611">3611s</a></td>
+        <td>Chciałbym się tam zalogować, bo ja najwięcej gram.</td>
+    </tr>
+    <tr id="t3613">
+        <td><a href="#t3613">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3613">3613s</a></td>
+        <td>Oczywiście, czarodziejko, jakżeby inaczej.</td>
+    </tr>
+    <tr id="t3617">
+        <td><a href="#t3617">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3617">3617s</a></td>
+        <td>Ja najwięcej mam łowcą demonów, to jest moja bazowa postać.</td>
+    </tr>
+    <tr id="t3622">
+        <td><a href="#t3622">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3622">3622s</a></td>
+        <td>No bo to jest była bardzo silna też postać.</td>
+    </tr>
+    <tr id="t3624">
+        <td><a href="#t3624">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3624">3624s</a></td>
+        <td>Bigomeza pisze, że ostatnio mocno wzmocnił maga, ogień na atak, dalele wspomaganie błyskawicami i lodem.</td>
+    </tr>
+    <tr id="t3629">
+        <td><a href="#t3629">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3629">3629s</a></td>
+        <td>Proszę bardzo.</td>
+    </tr>
+    <tr id="t3630">
+        <td><a href="#t3630">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3630">3630s</a></td>
+        <td>Bardzo szanuję.</td>
+    </tr>
+    <tr id="t3632">
+        <td><a href="#t3632">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3632">3632s</a></td>
+        <td>To jest mroczny sztandar.</td>
+    </tr>
+    <tr id="t3636">
+        <td><a href="#t3636">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3636">3636s</a></td>
+        <td>To jest do twojego konia rzecz.</td>
+    </tr>
+    <tr id="t3639">
+        <td><a href="#t3639">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3639">3639s</a></td>
+        <td>Okej, zarządzasz elementami.</td>
+    </tr>
+    <tr id="t3641">
+        <td><a href="#t3641">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3641">3641s</a></td>
+        <td>Ja ci pokażę jak to u mnie wygląda na koniku, wezmę... O, u mnie konik jest taki.</td>
+    </tr>
+    <tr id="t3647">
+        <td><a href="#t3647">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3647">3647s</a></td>
+        <td>Jezus Maria, przecież to ja mam jakąś łysą habetę!</td>
+    </tr>
+    <tr id="t3652">
+        <td><a href="#t3652">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3652">3652s</a></td>
+        <td>Dlaczego?</td>
+    </tr>
+    <tr id="t3655">
+        <td><a href="#t3655">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3655">3655s</a></td>
+        <td>A Filip w ogóle nie ma konia?</td>
+    </tr>
+    <tr id="t3657">
+        <td><a href="#t3657">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3657">3657s</a></td>
+        <td>To ty jesteś jeszcze wcześniej, przecież koń jest w czym?</td>
+    </tr>
+    <tr id="t3662">
+        <td><a href="#t3662">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3662">3662s</a></td>
+        <td>W trzecim akcie.</td>
+    </tr>
+    <tr id="t3665">
+        <td><a href="#t3665">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3665">3665s</a></td>
+        <td>Chryste Jezu, na oleju.</td>
+    </tr>
+    <tr id="t3669">
+        <td><a href="#t3669">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3669">3669s</a></td>
+        <td>To ja już nic nie mówię.</td>
+    </tr>
+    <tr id="t3671">
+        <td><a href="#t3671">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3671">3671s</a></td>
+        <td>Nic nie mówmy.</td>
+    </tr>
+    <tr id="t3675">
+        <td><a href="#t3675">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3675">3675s</a></td>
+        <td>No tak, tak.</td>
+    </tr>
+    <tr id="t3676">
+        <td><a href="#t3676">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3676">3676s</a></td>
+        <td>Filip, Filip.</td>
+    </tr>
+    <tr id="t3677">
+        <td><a href="#t3677">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3677">3677s</a></td>
+        <td>Chłopaki, zagrajmy w endgame, a także Filip.</td>
+    </tr>
+    <tr id="t3680">
+        <td><a href="#t3680">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3680">3680s</a></td>
+        <td>Nie ma ukończonego game'a.</td>
+    </tr>
+    <tr id="t3683">
+        <td><a href="#t3683">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3683">3683s</a></td>
+        <td>Dołączam do podbijania Kordraga.</td>
+    </tr>
+    <tr id="t3685">
+        <td><a href="#t3685">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3685">3685s</a></td>
+        <td>I will not forgive you that.</td>
+    </tr>
+    <tr id="t3687">
+        <td><a href="#t3687">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3687">3687s</a></td>
+        <td>Dokładnie odwrotnie.</td>
+    </tr>
+    <tr id="t3689">
+        <td><a href="#t3689">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3689">3689s</a></td>
+        <td>Możemy czytać takie story.</td>
+    </tr>
+    <tr id="t3691">
+        <td><a href="#t3691">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3691">3691s</a></td>
+        <td>Ojej.</td>
+    </tr>
+    <tr id="t3693">
+        <td><a href="#t3693">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3693">3693s</a></td>
+        <td>Dobrze.</td>
+    </tr>
+    <tr id="t3693">
+        <td><a href="#t3693">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3693">3693s</a></td>
+        <td>Nie no, to prawda, to prawda.</td>
+    </tr>
+    <tr id="t3695">
+        <td><a href="#t3695">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3695">3695s</a></td>
+        <td>Jakby ktoś się szukał, to tutaj jest ołtarz Lilith, nie wiem czy go macie.</td>
+    </tr>
+    <tr id="t3698">
+        <td><a href="#t3698">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3698">3698s</a></td>
+        <td>Mam zebrany, jest zebrany.</td>
+    </tr>
+    <tr id="t3701">
+        <td><a href="#t3701">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3701">3701s</a></td>
+        <td>Jak ja widzę Lilith, to ja od razu się rzucam jej do stópek.</td>
+    </tr>
+    <tr id="t3707">
+        <td><a href="#t3707">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3707">3707s</a></td>
+        <td>Rysław i Krzysztof w schemacie, Filip bez schematu.</td>
+    </tr>
+    <tr id="t3710">
+        <td><a href="#t3710">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3710">3710s</a></td>
+        <td>Tak.</td>
+    </tr>
+    <tr id="t3713">
+        <td><a href="#t3713">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3713">3713s</a></td>
+        <td>I bez życia, pamiętajcie.</td>
+    </tr>
+    <tr id="t3715">
+        <td><a href="#t3715">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3715">3715s</a></td>
+        <td>O Boże, tak, tu są te wampiry.</td>
+    </tr>
+    <tr id="t3717">
+        <td><a href="#t3717">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3717">3717s</a></td>
+        <td>One mnie pokonały, nie byłem w stanie sobie z nimi poradzić.</td>
+    </tr>
+    <tr id="t3720">
+        <td><a href="#t3720">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3720">3720s</a></td>
+        <td>Zaraz je pykniemy, to jest taki moment.</td>
+    </tr>
+    <tr id="t3722">
+        <td><a href="#t3722">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3722">3722s</a></td>
+        <td>Tutaj jest straszna walka z bossem.</td>
+    </tr>
+    <tr id="t3724">
+        <td><a href="#t3724">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3724">3724s</a></td>
+        <td>Usiłowałem ją zrobić off-stream, ale bez wsparcia z chatów się nie dało.</td>
+    </tr>
+    <tr id="t3728">
+        <td><a href="#t3728">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3728">3728s</a></td>
+        <td>Krzysztof, czy polecasz Diablo 4 dla kogoś, kto nie grał w poprzedniej części?</td>
+    </tr>
+    <tr id="t3731">
+        <td><a href="#t3731">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3731">3731s</a></td>
+        <td>Właśnie wybitnie myślę, że warto sobie zagrać Diablo 4, jak się nie grało w poprzedniej części.</td>
+    </tr>
+    <tr id="t3735">
+        <td><a href="#t3735">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3735">3735s</a></td>
+        <td>O, wiecie co, dla mnie to są przeciwnicy na moim poziomie.</td>
+    </tr>
+    <tr id="t3737">
+        <td><a href="#t3737">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3737">3737s</a></td>
+        <td>98, 97...</td>
+    </tr>
+    <tr id="t3740">
+        <td><a href="#t3740">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3740">3740s</a></td>
+        <td>A to tobie się skaluje.</td>
+    </tr>
+    <tr id="t3741">
+        <td><a href="#t3741">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3741">3741s</a></td>
+        <td>Tak, tak, tak.</td>
+    </tr>
+    <tr id="t3742">
+        <td><a href="#t3742">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3742">3742s</a></td>
+        <td>Ja ich widzę normalnie na 97% Ale to musi się skalować, nie może być inaczej.</td>
+    </tr>
+    <tr id="t3746">
+        <td><a href="#t3746">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3746">3746s</a></td>
+        <td>Ale tak powinno być w całym świecie, a chyba się tylko skaluje tutaj.</td>
+    </tr>
+    <tr id="t3750">
+        <td><a href="#t3750">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3750">3750s</a></td>
+        <td>Tak, tak, znaczy w całym świecie się skaluje, natomiast w tych podziemiach wieńczących się nie skaluje.</td>
+    </tr>
+    <tr id="t3756">
+        <td><a href="#t3756">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3756">3756s</a></td>
+        <td>One są specjalnie zrobione po to, żeby były pod określony poziom.</td>
+    </tr>
+    <tr id="t3761">
+        <td><a href="#t3761">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3761">3761s</a></td>
+        <td>Więc tutaj nie będzie dla mnie tak super łatwo.</td>
+    </tr>
+    <tr id="t3764">
+        <td><a href="#t3764">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3764">3764s</a></td>
+        <td>Dobrze, bardzo dobrze.</td>
+    </tr>
+    <tr id="t3765">
+        <td><a href="#t3765">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3765">3765s</a></td>
+        <td>Jest wyzwanie, jest radość, czyli kusa po kusa może pomagać.</td>
+    </tr>
+    <tr id="t3768">
+        <td><a href="#t3768">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3768">3768s</a></td>
+        <td>Znaczy wyzwania nie ma, ale bym powiedział, że nie będzie super łatwo, tak?</td>
+    </tr>
+    <tr id="t3771">
+        <td><a href="#t3771">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3771">3771s</a></td>
+        <td>Kusa po kusa pomaga swoim zacieśniającym sploty wężem.</td>
+    </tr>
+    <tr id="t3777">
+        <td><a href="#t3777">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3777">3777s</a></td>
+        <td>Tak.</td>
+    </tr>
+    <tr id="t3780">
+        <td><a href="#t3780">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3780">3780s</a></td>
+        <td>W bossach lub innych inventach grubowych można wygrać jakieś ozdóbki dla konia, okej.</td>
+    </tr>
+    <tr id="t3784">
+        <td><a href="#t3784">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3784">3784s</a></td>
+        <td>Tak, tak, tak.</td>
+    </tr>
+    <tr id="t3786">
+        <td><a href="#t3786">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3786">3786s</a></td>
+        <td>Ja mam sporo tych ozdóbek.</td>
+    </tr>
+    <tr id="t3787">
+        <td><a href="#t3787">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3787">3787s</a></td>
+        <td>O zdóbki na choinkę wspominał mi o żenującym memie.</td>
+    </tr>
+    <tr id="t3790">
+        <td><a href="#t3790">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3790">3790s</a></td>
+        <td>Wiesz, Pingwy, trybutuję, za co dziękuję.</td>
+    </tr>
+    <tr id="t3792">
+        <td><a href="#t3792">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3792">3792s</a></td>
+        <td>Rysław, na Retrosferze poprowadzę turniej BI.</td>
+    </tr>
+    <tr id="t3794">
+        <td><a href="#t3794">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3794">3794s</a></td>
+        <td>Proszę.</td>
+    </tr>
+    <tr id="t3795">
+        <td><a href="#t3795">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3795">3795s</a></td>
+        <td>My się z Wieszczym Pingwem spotkaliśmy na Prykonie.</td>
+    </tr>
+    <tr id="t3799">
+        <td><a href="#t3799">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3799">3799s</a></td>
+        <td>O!</td>
+    </tr>
+    <tr id="t3799">
+        <td><a href="#t3799">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3799">3799s</a></td>
+        <td>Ty byłeś teraz na Pyrkonie?</td>
+    </tr>
+    <tr id="t3800">
+        <td><a href="#t3800">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3800">3800s</a></td>
+        <td>Byłem, tak!</td>
+    </tr>
+    <tr id="t3801">
+        <td><a href="#t3801">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3801">3801s</a></td>
+        <td>Bo jak myśmy się nie widzieli w ogóle?</td>
+    </tr>
+    <tr id="t3803">
+        <td><a href="#t3803">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3803">3803s</a></td>
+        <td>Bo ja się z nikim nie zobaczyłem, Rysław.</td>
+    </tr>
+    <tr id="t3805">
+        <td><a href="#t3805">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3805">3805s</a></td>
+        <td>Ja się zobaczyłem tylko z lekko licząc jakimiś sześciuset widzami na Prelce.</td>
+    </tr>
+    <tr id="t3811">
+        <td><a href="#t3811">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3811">3811s</a></td>
+        <td>To było niesamowite, absolutnie.</td>
+    </tr>
+    <tr id="t3812">
+        <td><a href="#t3812">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3812">3812s</a></td>
+        <td>A potem ludzie w ogonku się tłoczyli i dawali mi jamniki i to było piękne.</td>
+    </tr>
+    <tr id="t3818">
+        <td><a href="#t3818">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3818">3818s</a></td>
+        <td>A potem byłem tak zmęczony, że uciekłem do Krakowa.</td>
+    </tr>
+    <tr id="t3823">
+        <td><a href="#t3823">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3823">3823s</a></td>
+        <td>Okej.</td>
+    </tr>
+    <tr id="t3823">
+        <td><a href="#t3823">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3823">3823s</a></td>
+        <td>No bo jest męczony... Pyrkol może być bardzo męczący.</td>
+    </tr>
+    <tr id="t3826">
+        <td><a href="#t3826">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3826">3826s</a></td>
+        <td>Wiesz no, dla mnie, zupełnie serio mówiąc, takie imprezy są strasznie stresujące, bo wszystkie moje baterie introwertyczne się wyczerpują momentalnie.</td>
+    </tr>
+    <tr id="t3837">
+        <td><a href="#t3837">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3837">3837s</a></td>
+        <td>To kiedy ankieta?</td>
+    </tr>
+    <tr id="t3838">
+        <td><a href="#t3838">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3838">3838s</a></td>
+        <td>Bardzo prosta rzecz, Olu.</td>
+    </tr>
+    <tr id="t3840">
+        <td><a href="#t3840">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3840">3840s</a></td>
+        <td>Jak kusa po kusa będzie mieć 69% głosu.</td>
+    </tr>
+    <tr id="t3844">
+        <td><a href="#t3844">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3844">3844s</a></td>
+        <td>Oj, spadłem tutaj na ten.</td>
+    </tr>
+    <tr id="t3846">
+        <td><a href="#t3846">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3846">3846s</a></td>
+        <td>Dobra, pozabijam w innym miejscu.</td>
+    </tr>
+    <tr id="t3848">
+        <td><a href="#t3848">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3848">3848s</a></td>
+        <td>A tu trzeba wampiryczny inkubator zniszczyć, więc sam raz.</td>
+    </tr>
+    <tr id="t3854">
+        <td><a href="#t3854">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3854">3854s</a></td>
+        <td>Ale fajnie, bo ja dostałem tutaj jednak jakieś tam doświadczenie.</td>
+    </tr>
+    <tr id="t3858">
+        <td><a href="#t3858">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3858">3858s</a></td>
+        <td>Biedny Rysław.</td>
+    </tr>
+    <tr id="t3859">
+        <td><a href="#t3859">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3859">3859s</a></td>
+        <td>Przecież to był piątek, Rysław w sobotę, ciężko się spotkać.</td>
+    </tr>
+    <tr id="t3863">
+        <td><a href="#t3863">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3863">3863s</a></td>
+        <td>Ale nie no, można było, wiecie, tak niezależnie, off program.</td>
+    </tr>
+    <tr id="t3870">
+        <td><a href="#t3870">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3870">3870s</a></td>
+        <td>Ja też chciałem do Marcina Przybyłka podejść.</td>
+    </tr>
+    <tr id="t3872">
+        <td><a href="#t3872">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3872">3872s</a></td>
+        <td>Polowałem na niego i chciałem wziąć autograf.</td>
+    </tr>
+    <tr id="t3875">
+        <td><a href="#t3875">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3875">3875s</a></td>
+        <td>Nawet orgowie Pyrkonowi latali razem ze mną, żeby im pomóc.</td>
+    </tr>
+    <tr id="t3879">
+        <td><a href="#t3879">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3879">3879s</a></td>
+        <td>Nie udało nam się.</td>
+    </tr>
+    <tr id="t3881">
+        <td><a href="#t3881">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3881">3881s</a></td>
+        <td>Był też Robert Wegner.</td>
+    </tr>
+    <tr id="t3884">
+        <td><a href="#t3884">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3884">3884s</a></td>
+        <td>No właśnie.</td>
+    </tr>
+    <tr id="t3884">
+        <td><a href="#t3884">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3884">3884s</a></td>
+        <td>Oczywiście, że nie było źle na Pyrkonie.</td>
+    </tr>
+    <tr id="t3886">
+        <td><a href="#t3886">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3886">3886s</a></td>
+        <td>Pyrkon super.</td>
+    </tr>
+    <tr id="t3887">
+        <td><a href="#t3887">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3887">3887s</a></td>
+        <td>Będę wspominał to jako mój najukochańszy konwent, absolutnie.</td>
+    </tr>
+    <tr id="t3894">
+        <td><a href="#t3894">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3894">3894s</a></td>
+        <td>Pytanie Dorysława, czy robił film o Dungeons & Dragons?</td>
+    </tr>
+    <tr id="t3897">
+        <td><a href="#t3897">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3897">3897s</a></td>
+        <td>Honor Among Thieves.</td>
+    </tr>
+    <tr id="t3899">
+        <td><a href="#t3899">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3899">3899s</a></td>
+        <td>Czy ja robiłem film?</td>
+    </tr>
+    <tr id="t3900">
+        <td><a href="#t3900">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3900">3900s</a></td>
+        <td>Nie, nie, nie, nie.</td>
+    </tr>
+    <tr id="t3901">
+        <td><a href="#t3901">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3901">3901s</a></td>
+        <td>Znaczy, czy robiłeś o nim film, domyślam się.</td>
+    </tr>
+    <tr id="t3903">
+        <td><a href="#t3903">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3903">3903s</a></td>
+        <td>Nie, nie, nie, nie, nie.</td>
+    </tr>
+    <tr id="t3905">
+        <td><a href="#t3905">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3905">3905s</a></td>
+        <td>Znaczy, tak się domyślałem, w sensie, czy nagrywałem swoje wrażenia.</td>
+    </tr>
+    <tr id="t3908">
+        <td><a href="#t3908">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3908">3908s</a></td>
+        <td>Nie, nie.</td>
+    </tr>
+    <tr id="t3908">
+        <td><a href="#t3908">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3908">3908s</a></td>
+        <td>Znaczy, mówiłem o nim na tej, bardzo mi się podobał.</td>
+    </tr>
+    <tr id="t3910">
+        <td><a href="#t3910">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3910">3910s</a></td>
+        <td>Prawda?</td>
+    </tr>
+    <tr id="t3912">
+        <td><a href="#t3912">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3912">3912s</a></td>
+        <td>To jest najlepszy film fanbazy tego roku, o ile nie nawet paru lat ostatni.</td>
+    </tr>
+    <tr id="t3916">
+        <td><a href="#t3916">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3916">3916s</a></td>
+        <td>Naprawdę świetnie się bawiłem, natomiast strasznie płakałem.</td>
+    </tr>
+    <tr id="t3919">
+        <td><a href="#t3919">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3919">3919s</a></td>
+        <td>Znaczy, może nie płakałem, bo mało płaczę.</td>
+    </tr>
+    <tr id="t3923">
+        <td><a href="#t3923">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3923">3923s</a></td>
+        <td>Byłem wkurzony na Indiana Jonesie.</td>
+    </tr>
+    <tr id="t3925">
+        <td><a href="#t3925">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3925">3925s</a></td>
+        <td>Bardzo.</td>
+    </tr>
+    <tr id="t3925">
+        <td><a href="#t3925">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3925">3925s</a></td>
+        <td>O, to zaraz się pokłócimy, a tymczasem Universal pisze, że przez kolejkę na perelkę wpadł tutaj.</td>
+    </tr>
+    <tr id="t3931">
+        <td><a href="#t3931">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3931">3931s</a></td>
+        <td>Uznałem, że muszę się dowiedzieć, kto tak ludzi ściągnął.</td>
+    </tr>
+    <tr id="t3934">
+        <td><a href="#t3934">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3934">3934s</a></td>
+        <td>Ale mi miło.</td>
+    </tr>
+    <tr id="t3935">
+        <td><a href="#t3935">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3935">3935s</a></td>
+        <td>Czyli warto wbijać na konwenty jednak.</td>
+    </tr>
+    <tr id="t3937">
+        <td><a href="#t3937">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3937">3937s</a></td>
+        <td>Rysław, ja uważam, że Indiana Jones to jest po prostu kino nowej przygody.</td>
+    </tr>
+    <tr id="t3942">
+        <td><a href="#t3942">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3942">3942s</a></td>
+        <td>Bezprewencjonalne.</td>
+    </tr>
+    <tr id="t3943">
+        <td><a href="#t3943">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3943">3943s</a></td>
+        <td>Nie, to było kino nowej przygody.</td>
+    </tr>
+    <tr id="t3944">
+        <td><a href="#t3944">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3944">3944s</a></td>
+        <td>Jest tragiczne, jest upokarzające, jest niszczące dla postaci, jest plugawiące jego dziedzictwo.</td>
+    </tr>
+    <tr id="t3952">
+        <td><a href="#t3952">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3952">3952s</a></td>
+        <td>To jest tak, ja się czuję tak jak teraz oglądając Wiedźmi... Znaczy nie, tak jak przy serialu Wiedźmi.</td>
+    </tr>
+    <tr id="t3957">
+        <td><a href="#t3957">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3957">3957s</a></td>
+        <td>Mnie grającego.</td>
+    </tr>
+    <tr id="t3959">
+        <td><a href="#t3959">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3959">3959s</a></td>
+        <td>Nie, nie.</td>
+    </tr>
+    <tr id="t3961">
+        <td><a href="#t3961">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3961">3961s</a></td>
+        <td>To są ostre słowa.</td>
+    </tr>
+    <tr id="t3963">
+        <td><a href="#t3963">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3963">3963s</a></td>
+        <td>To są ostre słowa, które jestem w stanie podtrzymać.</td>
+    </tr>
+    <tr id="t3967">
+        <td><a href="#t3967">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3967">3967s</a></td>
+        <td>Przede wszystkim Indiana Jones to zawsze była seria, która napawała optymizmem, radością.</td>
+    </tr>
+    <tr id="t3973">
+        <td><a href="#t3973">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3973">3973s</a></td>
+        <td>Główny bohater cieszył się z tego.</td>
+    </tr>
+    <tr id="t3975">
+        <td><a href="#t3975">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3975">3975s</a></td>
+        <td>On teraz jest zmęczonym starym dziadem.</td>
+    </tr>
+    <tr id="t3976">
+        <td><a href="#t3976">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3976">3976s</a></td>
+        <td>To jest zrobiono z...</td>
+    </tr>
+    <tr id="t3982">
+        <td><a href="#t3982">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3982">3982s</a></td>
+        <td>Z Indiana Jonesem to samo co zrobiono z Luke'iem Skywokerem, splugawiono, rozbezczeszczono, zniszczono jego dziedzictwo i zastąpiło to awatar pani Kathleen Kennedy.</td>
+    </tr>
+    <tr id="t3993">
+        <td><a href="#t3993">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=3993">3993s</a></td>
+        <td>Chodzi plotka, czemu te wszystkie postacie kobiece, które wprowadza pani Kathleen Kennedy do filmów są Brytyjkami, bo ona ma kompleks jakiś, czemu są wszystkie ciemnowłose, bo pani Kathleen Kennedy jest ciemnowłosa i tak dalej.</td>
+    </tr>
+    <tr id="t4009">
+        <td><a href="#t4009">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4009">4009s</a></td>
+        <td>Kaplinka Lady nie jest normalna, to jest jasne, ale... To są jej awatary, to są jej awatary, ona wprowadza, czyli Rey była jej awatarem, teraz pani... Nie, ja myślę, że ona nie ma takiego wpływu kreatywnego na te rzeczy, ni stety albo stety.</td>
+    </tr>
+    <tr id="t4024">
+        <td><a href="#t4024">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4024">4024s</a></td>
+        <td>Ma wielki wpływ, ma gigantyczny wpływ.</td>
+    </tr>
+    <tr id="t4026">
+        <td><a href="#t4026">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4026">4026s</a></td>
+        <td>Znaczy wiesz, ja jestem zaskoczony, bo ja odebrałem tę babeczkę, która ona tam wpadła zupełnie jako sidekika totalnie.</td>
+    </tr>
+    <tr id="t4032">
+        <td><a href="#t4032">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4032">4032s</a></td>
+        <td>Nie miałem takiego wrażenia, że to jest... Indiana Jones był jej, moim zdaniem, pomocnikiem.</td>
+    </tr>
+    <tr id="t4038">
+        <td><a href="#t4038">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4038">4038s</a></td>
+        <td>Tak, tak.</td>
+    </tr>
+    <tr id="t4039">
+        <td><a href="#t4039">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4039">4039s</a></td>
+        <td>To był film o Helenie Shaw, która robiła różne rzeczy i przede wszystkim...</td>
+    </tr>
+    <tr id="t4048">
+        <td><a href="#t4048">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4048">4048s</a></td>
+        <td>To może być bardzo dobra... Słyszałem, że ta pani jest bardzo dobrą aktorką.</td>
+    </tr>
+    <tr id="t4051">
+        <td><a href="#t4051">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4051">4051s</a></td>
+        <td>Bardzo możliwe, że tak.</td>
+    </tr>
+    <tr id="t4053">
+        <td><a href="#t4053">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4053">4053s</a></td>
+        <td>Ze flibagu jest niesamowita.</td>
+    </tr>
+    <tr id="t4055">
+        <td><a href="#t4055">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4055">4055s</a></td>
+        <td>Natomiast ona tu ma tak antypatyczną, nieprzyjemną, wredną, zdradziecką wręcz postać, że trudno na jakąkolwiek sympatię do niej poczuć.</td>
+    </tr>
+    <tr id="t4065">
+        <td><a href="#t4065">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4065">4065s</a></td>
+        <td>No nie, ona pozytywna nie jest, bo to jest taki trochę antybohater, nie?</td>
+    </tr>
+    <tr id="t4069">
+        <td><a href="#t4069">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4069">4069s</a></td>
+        <td>Mam wrażenie.</td>
+    </tr>
+    <tr id="t4070">
+        <td><a href="#t4070">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4070">4070s</a></td>
+        <td>Jest antybohaterką, natomiast jest główną bohaterką Indiany.</td>
+    </tr>
+    <tr id="t4074">
+        <td><a href="#t4074">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4074">4074s</a></td>
+        <td>Że...</td>
+    </tr>
+    <tr id="t4075">
+        <td><a href="#t4075">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4075">4075s</a></td>
+        <td>A to jest ciekawe, bo tego tak w ogóle nie odebrałem, no proszę.</td>
+    </tr>
+    <tr id="t4078">
+        <td><a href="#t4078">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4078">4078s</a></td>
+        <td>Ale nie wiem, jak blisko jesteś związany z Indianą Jonesem, bo ja jestem bardzo blisko.</td>
+    </tr>
+    <tr id="t4083">
+        <td><a href="#t4083">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4083">4083s</a></td>
+        <td>Wiesz co, ja traktowałem zawsze Indianę Jonesa jako, wiesz, bardzo podobnie jak Bonda, to znaczy to jest po prostu postać, która jest centralna dla filmu, który jest przygodowy, niezobowiązujący, nie podchodzę chyba do tego tak emocjonalnie jak do fantasy.</td>
+    </tr>
+    <tr id="t4099">
+        <td><a href="#t4099">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4099">4099s</a></td>
+        <td>To ja bardzo emocjonalnie.</td>
+    </tr>
+    <tr id="t4101">
+        <td><a href="#t4101">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4101">4101s</a></td>
+        <td>Bo wiesz, bo tam nie ma jakiegoś innego świata stworzonego.</td>
+    </tr>
+    <tr id="t4104">
+        <td><a href="#t4104">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4104">4104s</a></td>
+        <td>Ja wtedy inaczej reaguję na tego rodzaju podmianki.</td>
+    </tr>
+    <tr id="t4106">
+        <td><a href="#t4106">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4106">4106s</a></td>
+        <td>Moi drodzy, tutaj jeszcze mamy oczyścić jedną rzecz i ja jestem sam.</td>
+    </tr>
+    <tr id="t4112">
+        <td><a href="#t4112">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4112">4112s</a></td>
+        <td>Więc może tutaj właśnie dlatego się różnimy w ocenie, bo mam o wiele więcej cierpliwości i wyrozumiałości do wizji artystycznych, które nie są światotwórcze.</td>
+    </tr>
+    <tr id="t4126">
+        <td><a href="#t4126">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4126">4126s</a></td>
+        <td>Heredzie, jedyna gorsza rzecz od wirwina nitwistowego to jest... ...brings up power, jest to prawda.</td>
+    </tr>
+    <tr id="t4131">
+        <td><a href="#t4131">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4131">4131s</a></td>
+        <td>Ja się zgadzam, just like you.</td>
+    </tr>
+    <tr id="t4135">
+        <td><a href="#t4135">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4135">4135s</a></td>
+        <td>Sądzę, że mamy teraz natłok takich słabych rzeczy.</td>
+    </tr>
+    <tr id="t4138">
+        <td><a href="#t4138">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4138">4138s</a></td>
+        <td>Ale są też fajne.</td>
+    </tr>
+    <tr id="t4140">
+        <td><a href="#t4140">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4140">4140s</a></td>
+        <td>Zacząłem teraz oglądać serial, który na razie się nieźle zapowiada, na Apple TV, czyli Silos.</td>
+    </tr>
+    <tr id="t4146">
+        <td><a href="#t4146">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4146">4146s</a></td>
+        <td>Dużo ludzi poleca Silos.</td>
+    </tr>
+    <tr id="t4149">
+        <td><a href="#t4149">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4149">4149s</a></td>
+        <td>Mam nadzieję, że będzie dalej.</td>
+    </tr>
+    <tr id="t4150">
+        <td><a href="#t4150">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4150">4150s</a></td>
+        <td>Mam trochę takie déjà vu z Zajdla, z Paradyzji, trochę całej prawdy o planety Ksi, czyli mamy odcięte społeczeństwo, które tak naprawdę nie wie, co się dzieje.</td>
+    </tr>
+    <tr id="t4161">
+        <td><a href="#t4161">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4161">4161s</a></td>
+        <td>To jest z kolei duża pochwała.</td>
+    </tr>
+    <tr id="t4163">
+        <td><a href="#t4163">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4163">4163s</a></td>
+        <td>No wiesz to jest na razie pierwszy odcinek, to jest plus to jest powiedzmy i tak oni mają tam jak pączki w maśle w porównaniu do tego co jest u Zyla w Paradyzji chociażby.</td>
+    </tr>
+    <tr id="t4174">
+        <td><a href="#t4174">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4174">4174s</a></td>
+        <td>Jak sobie przypomnimy jak ci ludzie żyją w Paradyzji, to tutaj w tym silosie jednak mają pełen luksus.</td>
+    </tr>
+    <tr id="t4182">
+        <td><a href="#t4182">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4182">4182s</a></td>
+        <td>Natomiast sam fakt tego, że ktoś nimi manipuluje i ktoś ich</td>
+    </tr>
+    <tr id="t4187">
+        <td><a href="#t4187">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4187">4187s</a></td>
+        <td>prawdopodobnie oszukuje i że ich historia została podmieniona i że jest ich wizja świata narzucona przez jakieś wydarzenia, które były albo nie były, albo może ktoś po prostu je tak skonstruował.</td>
+    </tr>
+    <tr id="t4203">
+        <td><a href="#t4203">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4203">4203s</a></td>
+        <td>To jest pięknie przedstawione w genialnej książce Zeidla, czyli cała prawda o planecie Xi.</td>
+    </tr>
+    <tr id="t4208">
+        <td><a href="#t4208">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4208">4208s</a></td>
+        <td>Jak mała grupa wywrotowców może</td>
+    </tr>
+    <tr id="t4213">
+        <td><a href="#t4213">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4213">4213s</a></td>
+        <td>zmienić postrzeganie świata dla całej grupy i zmienić świat.</td>
+    </tr>
+    <tr id="t4217">
+        <td><a href="#t4217">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4217">4217s</a></td>
+        <td>I zepsuć go.</td>
+    </tr>
+    <tr id="t4218">
+        <td><a href="#t4218">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4218">4218s</a></td>
+        <td>A czytałeś drugie spojrzenie na Planet Xii?</td>
+    </tr>
+    <tr id="t4220">
+        <td><a href="#t4220">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4220">4220s</a></td>
+        <td>Bo ja tak i mnie bardzo rozczarowało.</td>
+    </tr>
+    <tr id="t4221">
+        <td><a href="#t4221">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4221">4221s</a></td>
+        <td>Nie czytałem, to było pisane już przez... Kołodziejczaka chyba.</td>
+    </tr>
+    <tr id="t4225">
+        <td><a href="#t4225">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4225">4225s</a></td>
+        <td>Nie, Kołodziejczak nie pisał tego, Tomasz nie.</td>
+    </tr>
+    <tr id="t4227">
+        <td><a href="#t4227">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4227">4227s</a></td>
+        <td>Tomasz tego nie pisał.</td>
+    </tr>
+    <tr id="t4228">
+        <td><a href="#t4228">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4228">4228s</a></td>
+        <td>To pisał... Mam gdzieś na półce, muszę sprawdzić.</td>
+    </tr>
+    <tr id="t4230">
+        <td><a href="#t4230">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4230">4230s</a></td>
+        <td>Ja też właśnie miałem na półce, ale ktoś mi śpisnął, cholera jasna i nie wiem kto.</td>
+    </tr>
+    <tr id="t4234">
+        <td><a href="#t4234">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4234">4234s</a></td>
+        <td>Michał Grabysa zapadał fajny temat do rozmawiania dla Was.</td>
+    </tr>
+    <tr id="t4237">
+        <td><a href="#t4237">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4237">4237s</a></td>
+        <td>Dziękuję Ci Michale bardzo.</td>
+    </tr>
+    <tr id="t4239">
+        <td><a href="#t4239">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4239">4239s</a></td>
+        <td>Rysław, Krzysztof, pogadajcie trochę o Aliens i całym uniwersum.</td>
+    </tr>
+    <tr id="t4242">
+        <td><a href="#t4242">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4242">4242s</a></td>
+        <td>W sensie o obcym?</td>
+    </tr>
+    <tr id="t4244">
+        <td><a href="#t4244">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4244">4244s</a></td>
+        <td>Bardzo dobra gra wyszła teraz.</td>
+    </tr>
+    <tr id="t4245">
+        <td><a href="#t4245">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4245">4245s</a></td>
+        <td>Bardzo dobra gra wyszła.</td>
+    </tr>
+    <tr id="t4247">
+        <td><a href="#t4247">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4247">4247s</a></td>
+        <td>Jeden z moich absolutnie ukochanych franchise.</td>
+    </tr>
+    <tr id="t4251">
+        <td><a href="#t4251">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4251">4251s</a></td>
+        <td>Przy czym ja uważam, że Alien Covenant to jest właśnie mniej więcej dla mnie Alien Covenant był tym, czym dla Rysława był najnowszy Indiana Jones.</td>
+    </tr>
+    <tr id="t4261">
+        <td><a href="#t4261">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4261">4261s</a></td>
+        <td>Ale dokładnie dla mnie tym samym jest Obcy Przymierze, czym jest Singed Island.</td>
+    </tr>
+    <tr id="t4264">
+        <td><a href="#t4264">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4264">4264s</a></td>
+        <td>To jest skandal absolutny, co tam zrobili.</td>
+    </tr>
+    <tr id="t4267">
+        <td><a href="#t4267">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4267">4267s</a></td>
+        <td>To jest abominacją.</td>
+    </tr>
+    <tr id="t4268">
+        <td><a href="#t4268">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4268">4268s</a></td>
+        <td>I to Scott to zrobił, jak mógł w ogóle?</td>
+    </tr>
+    <tr id="t4271">
+        <td><a href="#t4271">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4271">4271s</a></td>
+        <td>Nie mam pojęcia, dlaczego przede wszystkim uczynił z tego idiotę androida postać, która stworzyła de facto Obcego, nie?</td>
+    </tr>
+    <tr id="t4280">
+        <td><a href="#t4280">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4280">4280s</a></td>
+        <td>No.</td>
+    </tr>
+    <tr id="t4280">
+        <td><a href="#t4280">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4280">4280s</a></td>
+        <td>Strasznie to jest dziwne.</td>
+    </tr>
+    <tr id="t4282">
+        <td><a href="#t4282">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4282">4282s</a></td>
+        <td>Drugie spojrzenie na Planet Xen dokończył Marcin Kowalczyk, dziękuję, tak.</td>
+    </tr>
+    <tr id="t4286">
+        <td><a href="#t4286">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4286">4286s</a></td>
+        <td>Ja kiedyś z nim rozmawiałem przy jakiejś okazji radiowej chyba?</td>
+    </tr>
+    <tr id="t4293">
+        <td><a href="#t4293">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4293">4293s</a></td>
+        <td>Sympatycznie, bo on generalnie się zajmował tak trochę popularnonaukowo science fiction i wygrał konkurs Nowej Fantastyki, ale nie pamiętałem, że to on... Gdzie jest ten trzeci wampiryczny korzeń czy coś?</td>
+    </tr>
+    <tr id="t4308">
+        <td><a href="#t4308">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4308">4308s</a></td>
+        <td>Chodź Maju, witamy!</td>
+    </tr>
+    <tr id="t4311">
+        <td><a href="#t4311">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4311">4311s</a></td>
+        <td>Coś się chyba zbugowało.</td>
+    </tr>
+    <tr id="t4314">
+        <td><a href="#t4314">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4314">4314s</a></td>
+        <td>Wydaje się zepsute, nie?</td>
+    </tr>
+    <tr id="t4316">
+        <td><a href="#t4316">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4316">4316s</a></td>
+        <td>Tak.</td>
+    </tr>
+    <tr id="t4317">
+        <td><a href="#t4317">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4317">4317s</a></td>
+        <td>Nie możemy w ogóle zdawać obrażeń temu.</td>
+    </tr>
+    <tr id="t4321">
+        <td><a href="#t4321">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4321">4321s</a></td>
+        <td>Nie, nie, nie, jest jeszcze jeden.</td>
+    </tr>
+    <tr id="t4323">
+        <td><a href="#t4323">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4323">4323s</a></td>
+        <td>A tutaj jest, mam go, zaraz go rozwalę.</td>
+    </tr>
+    <tr id="t4325">
+        <td><a href="#t4325">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4325">4325s</a></td>
+        <td>To już zrobione.</td>
+    </tr>
+    <tr id="t4326">
+        <td><a href="#t4326">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4326">4326s</a></td>
+        <td>Dobrze, chłopak, lecimy.</td>
+    </tr>
+    <tr id="t4333">
+        <td><a href="#t4333">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4333">4333s</a></td>
+        <td>Niszczyć inkubatory.</td>
+    </tr>
+    <tr id="t4334">
+        <td><a href="#t4334">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4334">4334s</a></td>
+        <td>Już, rozwalony już.</td>
+    </tr>
+    <tr id="t4335">
+        <td><a href="#t4335">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4335">4335s</a></td>
+        <td>Znakomicie.</td>
+    </tr>
+    <tr id="t4336">
+        <td><a href="#t4336">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4336">4336s</a></td>
+        <td>O, panie.</td>
+    </tr>
+    <tr id="t4338">
+        <td><a href="#t4338">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4338">4338s</a></td>
+        <td>Rzeźnik.</td>
+    </tr>
+    <tr id="t4339">
+        <td><a href="#t4339">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4339">4339s</a></td>
+        <td>Porucznik Herbert.</td>
+    </tr>
+    <tr id="t4340">
+        <td><a href="#t4340">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4340">4340s</a></td>
+        <td>Porucznik Herbert.</td>
+    </tr>
+    <tr id="t4342">
+        <td><a href="#t4342">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4342">4342s</a></td>
+        <td>O dobra, dobra, spokojnie.</td>
+    </tr>
+    <tr id="t4344">
+        <td><a href="#t4344">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4344">4344s</a></td>
+        <td>Prometeusz przede wszystkim wprowadził szkołę uciekania przed przedmiotami o kształcie obwarzanka w linii prostej.</td>
+    </tr>
+    <tr id="t4354">
+        <td><a href="#t4354">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4354">4354s</a></td>
+        <td>Porucznika już chyba nie ma, nie?</td>
+    </tr>
+    <tr id="t4356">
+        <td><a href="#t4356">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4356">4356s</a></td>
+        <td>Tak.</td>
+    </tr>
+    <tr id="t4356">
+        <td><a href="#t4356">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4356">4356s</a></td>
+        <td>Pamiętacie tę cudowną scenę, jak toczy się obwarzanek i ma naszą ksenobiolożkę, wybitną panią doktor, zmiażdżyć i ksenobiolożka robi coś takiego mniej więcej.</td>
+    </tr>
+    <tr id="t4367">
+        <td><a href="#t4367">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4367">4367s</a></td>
+        <td>Ja nie widziałem bardziej durnych bohaterów.</td>
+    </tr>
+    <tr id="t4370">
+        <td><a href="#t4370">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4370">4370s</a></td>
+        <td>Nie no, ja widziałem, w Covenancie są durniejsi.</td>
+    </tr>
+    <tr id="t4373">
+        <td><a href="#t4373">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4373">4373s</a></td>
+        <td>W Covenancie są jeszcze durniejsi.</td>
+    </tr>
+    <tr id="t4374">
+        <td><a href="#t4374">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4374">4374s</a></td>
+        <td>To bym się spierał, ale w Prometeuszu bohaterowie naprawdę byli... Znaczy to, ja wiem, że to nie jest komedia.</td>
+    </tr>
+    <tr id="t4381">
+        <td><a href="#t4381">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4381">4381s</a></td>
+        <td>Ludzkość nie wysłała swoich niech.</td>
+    </tr>
+    <tr id="t4383">
+        <td><a href="#t4383">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4383">4383s</a></td>
+        <td>Ale wyobraź sobie...</td>
+    </tr>
+    <tr id="t4385">
+        <td><a href="#t4385">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4385">4385s</a></td>
+        <td>Dokonajmy pewnej konwergencji światów.</td>
+    </tr>
+    <tr id="t4388">
+        <td><a href="#t4388">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4388">4388s</a></td>
+        <td>Załóżmy, uwaga, że obcy, że Prometeusz dzieje się w świecie idiokracji.</td>
+    </tr>
+    <tr id="t4394">
+        <td><a href="#t4394">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4394">4394s</a></td>
+        <td>I co?</td>
+    </tr>
+    <tr id="t4394">
+        <td><a href="#t4394">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4394">4394s</a></td>
+        <td>I od razu zmienia się postrzeganie.</td>
+    </tr>
+    <tr id="t4397">
+        <td><a href="#t4397">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4397">4397s</a></td>
+        <td>Rzeczywiście wysłali najbystrzejszych i to oni po prostu, no, niech poradzili sobie.</td>
+    </tr>
+    <tr id="t4403">
+        <td><a href="#t4403">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4403">4403s</a></td>
+        <td>No i tyle.</td>
+    </tr>
+    <tr id="t4405">
+        <td><a href="#t4405">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4405">4405s</a></td>
+        <td>Ja wiem, o czym Filip chce powiedzieć, bo tam jest ta scena, jak ksenobiolodzy właśnie wąchają jakieś obce formy życia, nie?</td>
+    </tr>
+    <tr id="t4411">
+        <td><a href="#t4411">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4411">4411s</a></td>
+        <td>Tak, to jest jedna z najgłupszych scen, jakie w ogóle widzimy.</td>
+    </tr>
+    <tr id="t4413">
+        <td><a href="#t4413">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4413">4413s</a></td>
+        <td>To jest cudowna scena, jak jeszcze zdejmuje sobie hełm, tak?</td>
+    </tr>
+    <tr id="t4417">
+        <td><a href="#t4417">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4417">4417s</a></td>
+        <td>Tak, tak.</td>
+    </tr>
+    <tr id="t4418">
+        <td><a href="#t4418">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4418">4418s</a></td>
+        <td>No przecież litości.</td>
+    </tr>
+    <tr id="t4419">
+        <td><a href="#t4419">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4419">4419s</a></td>
+        <td>I to naprawdę... Ludzie, którzy się dostają na taką misję, oni nie mogą...</td>
+    </tr>
+    <tr id="t4425">
+        <td><a href="#t4425">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4425">4425s</a></td>
+        <td>nie umieć na przykład znaleźć własnej dupy bez mapy.</td>
+    </tr>
+    <tr id="t4427">
+        <td><a href="#t4427">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4427">4427s</a></td>
+        <td>No nie mogą.</td>
+    </tr>
+    <tr id="t4428">
+        <td><a href="#t4428">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4428">4428s</a></td>
+        <td>Jest tam jeszcze jakaś taka scena, gdzie się obrażają na siebie i dwóch odchodzi, gdzieś tam sobie idzie i idą przez jaskinie.</td>
+    </tr>
+    <tr id="t4435">
+        <td><a href="#t4435">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4435">4435s</a></td>
+        <td>To jest po prostu... Alien Isolation jest świetną grą o obcym?</td>
+    </tr>
+    <tr id="t4441">
+        <td><a href="#t4441">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4441">4441s</a></td>
+        <td>Absolutnie się zgadzam, Piotrem.</td>
+    </tr>
+    <tr id="t4442">
+        <td><a href="#t4442">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4442">4442s</a></td>
+        <td>To znaczy, jak nie lubię horrorów, to oglądałem kiedyś nie dość, że live'y z tego, to na konferencji jeszcze słuchałem parę razy analiz ludzi znających się na horrorach i to robiło niesamowite wrażenie.</td>
+    </tr>
+    <tr id="t4456">
+        <td><a href="#t4456">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4456">4456s</a></td>
+        <td>I naprawdę polecam tę nową grę, która wyszła, czyli The Descent.</td>
+    </tr>
+    <tr id="t4461">
+        <td><a href="#t4461">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4461">4461s</a></td>
+        <td>A jaki to jest gatunek?</td>
+    </tr>
+    <tr id="t4463">
+        <td><a href="#t4463">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4463">4463s</a></td>
+        <td>To jest gra taktyczno-RPG, taktyczny RPG.</td>
+    </tr>
+    <tr id="t4469">
+        <td><a href="#t4469">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4469">4469s</a></td>
+        <td>Z tym, że jest akcja w czasie rzeczywistym, którą można spowalniać.</td>
+    </tr>
+    <tr id="t4473">
+        <td><a href="#t4473">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4473">4473s</a></td>
+        <td>Nazwałbym ją połączeniem XCOM-a Syndicate, jeśli chodzi o akcję, z...</td>
+    </tr>
+    <tr id="t4483">
+        <td><a href="#t4483">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4483">4483s</a></td>
+        <td>Z obcym, właśnie z uniwersum obcego.</td>
+    </tr>
+    <tr id="t4486">
+        <td><a href="#t4486">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4486">4486s</a></td>
+        <td>Ale Syndicate Assassina?</td>
+    </tr>
+    <tr id="t4489">
+        <td><a href="#t4489">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4489">4489s</a></td>
+        <td>Nie, Syndicate, ta stara gra od Bullfroga.</td>
+    </tr>
+    <tr id="t4491">
+        <td><a href="#t4491">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4491">4491s</a></td>
+        <td>A, okej, okej.</td>
+    </tr>
+    <tr id="t4492">
+        <td><a href="#t4492">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4492">4492s</a></td>
+        <td>Gdzie mieliśmy ekipę prowadzoną w mieście i musieliśmy tam różne misje... Chodzi o to, że jest w czasie rzeczywistym prowadzona.</td>
+    </tr>
+    <tr id="t4499">
+        <td><a href="#t4499">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4499">4499s</a></td>
+        <td>Mapsobie elementy, XCOM.</td>
+    </tr>
+    <tr id="t4501">
+        <td><a href="#t4501">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4501">4501s</a></td>
+        <td>Ma w sobie elementy Gears, jak się nazywa ta bardzo dobra gra Gears?</td>
+    </tr>
+    <tr id="t4507">
+        <td><a href="#t4507">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4507">4507s</a></td>
+        <td>Gears Tactics.</td>
+    </tr>
+    <tr id="t4508">
+        <td><a href="#t4508">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4508">4508s</a></td>
+        <td>Gears Tactics, tak.</td>
+    </tr>
+    <tr id="t4510">
+        <td><a href="#t4510">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4510">4510s</a></td>
+        <td>Tylko, że właśnie to novum to jest elementy grania w czasie rzeczywistym zamiast turowym.</td>
+    </tr>
+    <tr id="t4515">
+        <td><a href="#t4515">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4515">4515s</a></td>
+        <td>Tak jak też podobało mi się jak Desperado 3.</td>
+    </tr>
+    <tr id="t4518">
+        <td><a href="#t4518">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4518">4518s</a></td>
+        <td>Ooo.</td>
+    </tr>
+    <tr id="t4518">
+        <td><a href="#t4518">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4518">4518s</a></td>
+        <td>Desperados 3.</td>
+    </tr>
+    <tr id="t4521">
+        <td><a href="#t4521">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4521">4521s</a></td>
+        <td>które jest oparte jakby na mechanice typowej dla Commandos jeszcze pamiętnego, czy Robin Hooda, to wprowadziło to nową, czyli tak jakby spowalnianie czasu i egzekucję rozkazów.</td>
+    </tr>
+    <tr id="t4539">
+        <td><a href="#t4539">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4539">4539s</a></td>
+        <td>I wydaje mi się, że Aliens of Agnus też takie właśnie, tak się bawi tym czasem rzeczywistym, który zastępuje turowy.</td>
+    </tr>
+    <tr id="t4547">
+        <td><a href="#t4547">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4547">4547s</a></td>
+        <td>Żeby zwiększyć napięcie.</td>
+    </tr>
+    <tr id="t4549">
+        <td><a href="#t4549">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4549">4549s</a></td>
+        <td>Żeby było bardziej ekscytująco.</td>
+    </tr>
+    <tr id="t4551">
+        <td><a href="#t4551">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4551">4551s</a></td>
+        <td>Gin, Nilcar.</td>
+    </tr>
+    <tr id="t4552">
+        <td><a href="#t4552">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4552">4552s</a></td>
+        <td>Gin.</td>
+    </tr>
+    <tr id="t4553">
+        <td><a href="#t4553">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4553">4553s</a></td>
+        <td>Już koniec.</td>
+    </tr>
+    <tr id="t4554">
+        <td><a href="#t4554">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4554">4554s</a></td>
+        <td>Koniec tego.</td>
+    </tr>
+    <tr id="t4554">
+        <td><a href="#t4554">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4554">4554s</a></td>
+        <td>Ooo, na pierśnik!</td>
+    </tr>
+    <tr id="t4556">
+        <td><a href="#t4556">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4556">4556s</a></td>
+        <td>Teraz piersi kuse i pokusy będą osłonięte!</td>
+    </tr>
+    <tr id="t4560">
+        <td><a href="#t4560">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4560">4560s</a></td>
+        <td>Śmieszne jest to, że ja je zadawałem po np.</td>
+    </tr>
+    <tr id="t4562">
+        <td><a href="#t4562">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4562">4562s</a></td>
+        <td>200 tysięcy obrażeń.</td>
+    </tr>
+    <tr id="t4566">
+        <td><a href="#t4566">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4566">4566s</a></td>
+        <td>Oj, była twarda.</td>
+    </tr>
+    <tr id="t4567">
+        <td><a href="#t4567">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4567">4567s</a></td>
+        <td>Ten legendarny nabiuśnik jest beznadziejny.</td>
+    </tr>
+    <tr id="t4570">
+        <td><a href="#t4570">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4570">4570s</a></td>
+        <td>Teraz jeszcze trzeba rozpalić ogień.</td>
+    </tr>
+    <tr id="t4573">
+        <td><a href="#t4573">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4573">4573s</a></td>
+        <td>To to, co powiedziała.</td>
+    </tr>
+    <tr id="t4599">
+        <td><a href="#t4599">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4599">4599s</a></td>
+        <td>Czyli jeśli na piersi pyta galaktyczny Jaguar mamy na pierśnik, to czy na plecach mamy napletek?</td>
+    </tr>
+    <tr id="t4604">
+        <td><a href="#t4604">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4604">4604s</a></td>
+        <td>Tak właśnie jest.</td>
+    </tr>
+    <tr id="t4605">
+        <td><a href="#t4605">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4605">4605s</a></td>
+        <td>Na plecnik.</td>
+    </tr>
+    <tr id="t4608">
+        <td><a href="#t4608">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4608">4608s</a></td>
+        <td>Tak właśnie jest.</td>
+    </tr>
+    <tr id="t4610">
+        <td><a href="#t4610">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4610">4610s</a></td>
+        <td>Wszyscy...</td>
+    </tr>
+    <tr id="t4612">
+        <td><a href="#t4612">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4612">4612s</a></td>
+        <td>Twierdza zdobyta, Kordragan.</td>
+    </tr>
+    <tr id="t4614">
+        <td><a href="#t4614">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4614">4614s</a></td>
+        <td>Teraz już tutaj będziesz mógł się teleportować, będziesz mieć punkt swój, punkt nawigacyjny i będą różne rzeczy.</td>
+    </tr>
+    <tr id="t4620">
+        <td><a href="#t4620">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4620">4620s</a></td>
+        <td>Piękności.</td>
+    </tr>
+    <tr id="t4621">
+        <td><a href="#t4621">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4621">4621s</a></td>
+        <td>Nowe zadania i tak dalej.</td>
+    </tr>
+    <tr id="t4622">
+        <td><a href="#t4622">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4622">4622s</a></td>
+        <td>Nie żeby się pojawił ten punkt nawigacyjny, ale... Może tutaj się nie... Niestety.</td>
+    </tr>
+    <tr id="t4626">
+        <td><a href="#t4626">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4626">4626s</a></td>
+        <td>To przepraszam, to tutaj nie ma.</td>
+    </tr>
+    <tr id="t4627">
+        <td><a href="#t4627">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4627">4627s</a></td>
+        <td>Tutaj chyba masz coś innego.</td>
+    </tr>
+    <tr id="t4629">
+        <td><a href="#t4629">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4629">4629s</a></td>
+        <td>Ale są twierdze, gdzie masz punkt nawigacyjny.</td>
+    </tr>
+    <tr id="t4631">
+        <td><a href="#t4631">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4631">4631s</a></td>
+        <td>A są jeszcze jakieś, Rysław, twierdze, których nie ma tutaj na mapie, a które pamiętasz, gdzie mogą być?</td>
+    </tr>
+    <tr id="t4634">
+        <td><a href="#t4634">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4634">4634s</a></td>
+        <td>Ja nie wiem, co ty masz na mapie, bo ja widzę swoją mapę też.</td>
+    </tr>
+    <tr id="t4636">
+        <td><a href="#t4636">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4636">4636s</a></td>
+        <td>Aaa...</td>
+    </tr>
+    <tr id="t4637">
+        <td><a href="#t4637">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4637">4637s</a></td>
+        <td>Ja widzę całą swoją mapę i mam wszystko.</td>
+    </tr>
+    <tr id="t4641">
+        <td><a href="#t4641">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4641">4641s</a></td>
+        <td>Dlaczego ja się odwróciłem na 5 sekund?</td>
+    </tr>
+    <tr id="t4645">
+        <td><a href="#t4645">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4645">4645s</a></td>
+        <td>Coś się stało?</td>
+    </tr>
+    <tr id="t4646">
+        <td><a href="#t4646">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4646">4646s</a></td>
+        <td>A tak, a mnie dojeżdżali wszyscy, ze wszystkich stron.</td>
+    </tr>
+    <tr id="t4649">
+        <td><a href="#t4649">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4649">4649s</a></td>
+        <td>Dobra, już ma wyczyszczone.</td>
+    </tr>
+    <tr id="t4649">
+        <td><a href="#t4649">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4649">4649s</a></td>
+        <td>Na biedną kusą pokusę się zasadzili.</td>
+    </tr>
+    <tr id="t4652">
+        <td><a href="#t4652">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4652">4652s</a></td>
+        <td>No dobrze moi drodzy, to pojedziemy po prostu w rejony, gdzie ja... O!</td>
+    </tr>
+    <tr id="t4656">
+        <td><a href="#t4656">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4656">4656s</a></td>
+        <td>Ja prowadzę.</td>
+    </tr>
+    <tr id="t4657">
+        <td><a href="#t4657">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4657">4657s</a></td>
+        <td>To się na pewno źle skończy.</td>
+    </tr>
+    <tr id="t4660">
+        <td><a href="#t4660">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4660">4660s</a></td>
+        <td>To czekajcie... Tylko nie konno, wiesz.</td>
+    </tr>
+    <tr id="t4662">
+        <td><a href="#t4662">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4662">4662s</a></td>
+        <td>Nie, nie, nie.</td>
+    </tr>
+    <tr id="t4663">
+        <td><a href="#t4663">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4663">4663s</a></td>
+        <td>Wpierw do Kerigaru, a potem... Nie, nie do Kerigaru.</td>
+    </tr>
+    <tr id="t4666">
+        <td><a href="#t4666">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4666">4666s</a></td>
+        <td>Na północ do Brejsztajg.</td>
+    </tr>
+    <tr id="t4669">
+        <td><a href="#t4669">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4669">4669s</a></td>
+        <td>Michał Grabyca trybutuje, dziękuję ci za to serdecznie.</td>
+    </tr>
+    <tr id="t4671">
+        <td><a href="#t4671">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4671">4671s</a></td>
+        <td>Miałem na myśli Dark Descent, o nowym filmie Aliens i serialu podobno.</td>
+    </tr>
+    <tr id="t4674">
+        <td><a href="#t4674">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4674">4674s</a></td>
+        <td>Chciałem usłyszeć waszą opinię.</td>
+    </tr>
+    <tr id="t4676">
+        <td><a href="#t4676">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4676">4676s</a></td>
+        <td>Czy dostanę jamnika?</td>
+    </tr>
+    <tr id="t4678">
+        <td><a href="#t4678">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4678">4678s</a></td>
+        <td>Wiesz co, dostaniesz jamnika, który śpi.</td>
+    </tr>
+    <tr id="t4680">
+        <td><a href="#t4680">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4680">4680s</a></td>
+        <td>Jest taki jeden piękny jamnik, proszę bardzo, to jest śpiący jamnik, o. Wspaniały śpiący jamnik.</td>
+    </tr>
+    <tr id="t4687">
+        <td><a href="#t4687">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4687">4687s</a></td>
+        <td>Kogo znowu zabiłeś, Rysław?</td>
+    </tr>
+    <tr id="t4689">
+        <td><a href="#t4689">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4689">4689s</a></td>
+        <td>Była taka banda tych guli, ale nie zauważyliście jej po prostu.</td>
+    </tr>
+    <tr id="t4694">
+        <td><a href="#t4694">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4694">4694s</a></td>
+        <td>Bandy guli do tego służą, żeby być zabijane.</td>
+    </tr>
+    <tr id="t4698">
+        <td><a href="#t4698">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4698">4698s</a></td>
+        <td>Taka jest prawda.</td>
+    </tr>
+    <tr id="t4698">
+        <td><a href="#t4698">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4698">4698s</a></td>
+        <td>Nie idziesz w dobre miejsce chyba, wiesz?</td>
+    </tr>
+    <tr id="t4700">
+        <td><a href="#t4700">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4700">4700s</a></td>
+        <td>Nie, nie, nie kręcę, bo zastanawiam się, gdzie poszedł Krzysztof, ale... Krzysztof poszedł w złe miejsce.</td>
+    </tr>
+    <tr id="t4705">
+        <td><a href="#t4705">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4705">4705s</a></td>
+        <td>Jak to w złe miejsce?</td>
+    </tr>
+    <tr id="t4706">
+        <td><a href="#t4706">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4706">4706s</a></td>
+        <td>W bardzo dobre miejsce polazłem.</td>
+    </tr>
+    <tr id="t4707">
+        <td><a href="#t4707">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4707">4707s</a></td>
+        <td>Tam nic nie ma, o to chodzi.</td>
+    </tr>
+    <tr id="t4709">
+        <td><a href="#t4709">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4709">4709s</a></td>
+        <td>Ale nie, nie, bo chodzi mi... Aha, na północy nic nie ma, żadnych twierdz i tak dalej?</td>
+    </tr>
+    <tr id="t4713">
+        <td><a href="#t4713">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4713">4713s</a></td>
+        <td>Nie, nie.</td>
+    </tr>
+    <tr id="t4713">
+        <td><a href="#t4713">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4713">4713s</a></td>
+        <td>Chodzi o to, że tam wziął tą dziurę, której już została wyeksplorowana.</td>
+    </tr>
+    <tr id="t4718">
+        <td><a href="#t4718">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4718">4718s</a></td>
+        <td>Ale to dziura bez... To jest tak zwany kill the sack.</td>
+    </tr>
+    <tr id="t4722">
+        <td><a href="#t4722">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4722">4722s</a></td>
+        <td>Aha, rozumiem.</td>
+    </tr>
+    <tr id="t4723">
+        <td><a href="#t4723">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4723">4723s</a></td>
+        <td>Czyli tam fizycznie nic nie ma.</td>
+    </tr>
+    <tr id="t4725">
+        <td><a href="#t4725">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4725">4725s</a></td>
+        <td>To dobrze, to jeszcze w takim razie... Ślepa oliczka.</td>
+    </tr>
+    <tr id="t4728">
+        <td><a href="#t4728">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4728">4728s</a></td>
+        <td>Tutaj coś jest.</td>
+    </tr>
+    <tr id="t4730">
+        <td><a href="#t4730">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4730">4730s</a></td>
+        <td>Tutaj coś jest na środku, koło cat bardu.</td>
+    </tr>
+    <tr id="t4735">
+        <td><a href="#t4735">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4735">4735s</a></td>
+        <td>Musisz prowadzić, możesz się przedeleportować.</td>
+    </tr>
+    <tr id="t4737">
+        <td><a href="#t4737">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4737">4737s</a></td>
+        <td>Ale Krzysztof się przedeleportował w ogóle do Bresta, do Breslau.</td>
+    </tr>
+    <tr id="t4741">
+        <td><a href="#t4741">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4741">4741s</a></td>
+        <td>I on sobie sieć tam gada do siebie.</td>
+    </tr>
+    <tr id="t4744">
+        <td><a href="#t4744">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4744">4744s</a></td>
+        <td>Zarbin Z tam jest najwięcej niewyeksplorowanych rzeczy.</td>
+    </tr>
+    <tr id="t4746">
+        <td><a href="#t4746">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4746">4746s</a></td>
+        <td>Dobrze, idź do Zarbin Z, a my się zaraz za tobą przeteleportujemy.</td>
+    </tr>
+    <tr id="t4750">
+        <td><a href="#t4750">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4750">4750s</a></td>
+        <td>Czyli ja najpierw teleportuję się do Kiełbasaadu, a tu mam teleport do ciebie od razu do...</td>
+    </tr>
+    <tr id="t4754">
+        <td><a href="#t4754">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4754">4754s</a></td>
+        <td>Tak.</td>
+    </tr>
+    <tr id="t4755">
+        <td><a href="#t4755">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4755">4755s</a></td>
+        <td>Jeszcze podróż jest niedostępna, bo ty chyba masz ekran z czytywania albo się jeszcze nie pojawiłeś.</td>
+    </tr>
+    <tr id="t4758">
+        <td><a href="#t4758">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4758">4758s</a></td>
+        <td>Już się pojawiłem, miałem ekran z czytywania, zaiste tak było.</td>
+    </tr>
+    <tr id="t4761">
+        <td><a href="#t4761">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4761">4761s</a></td>
+        <td>Tak, miejsce zarbin z, już jestem u ciebie.</td>
+    </tr>
+    <tr id="t4764">
+        <td><a href="#t4764">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4764">4764s</a></td>
+        <td>A my możemy też questy poboczne robić razem, czy to jest zablokowane?</td>
+    </tr>
+    <tr id="t4767">
+        <td><a href="#t4767">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4767">4767s</a></td>
+        <td>Łuzik.</td>
+    </tr>
+    <tr id="t4767">
+        <td><a href="#t4767">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4767">4767s</a></td>
+        <td>Tak, znaczy ja mam pewnie odblokowane, więc także...</td>
+    </tr>
+    <tr id="t4771">
+        <td><a href="#t4771">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4771">4771s</a></td>
+        <td>To nie jest dla mnie problem.</td>
+    </tr>
+    <tr id="t4772">
+        <td><a href="#t4772">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4772">4772s</a></td>
+        <td>Ogólnie jesteśmy w twoim świecie, tak?</td>
+    </tr>
+    <tr id="t4774">
+        <td><a href="#t4774">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4774">4774s</a></td>
+        <td>Wszystko co robimy, robimy u ciebie.</td>
+    </tr>
+    <tr id="t4777">
+        <td><a href="#t4777">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4777">4777s</a></td>
+        <td>Rozumiem.</td>
+    </tr>
+    <tr id="t4778">
+        <td><a href="#t4778">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4778">4778s</a></td>
+        <td>I na twoim kanale.</td>
+    </tr>
+    <tr id="t4780">
+        <td><a href="#t4780">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4780">4780s</a></td>
+        <td>No dobrze.</td>
+    </tr>
+    <tr id="t4781">
+        <td><a href="#t4781">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4781">4781s</a></td>
+        <td>Mogę ci pomóc dostać się do szaleństwa Mogana, pisze Tomyris od szczątków wiary.</td>
+    </tr>
+    <tr id="t4786">
+        <td><a href="#t4786">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4786">4786s</a></td>
+        <td>Osiągnięto limit aktywnych zadań pobocznych.</td>
+    </tr>
+    <tr id="t4789">
+        <td><a href="#t4789">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4789">4789s</a></td>
+        <td>Aha.</td>
+    </tr>
+    <tr id="t4791">
+        <td><a href="#t4791">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4791">4791s</a></td>
+        <td>To zrobimy sobie zadanie poboczne.</td>
+    </tr>
+    <tr id="t4793">
+        <td><a href="#t4793">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4793">4793s</a></td>
+        <td>Dobrze, mamy zadanie poboczne na mrocznej ścieżce.</td>
+    </tr>
+    <tr id="t4798">
+        <td><a href="#t4798">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4798">4798s</a></td>
+        <td>Znajdź niszczające gospodarstwa, a po drodze mamy rzecz do odkrycia.</td>
+    </tr>
+    <tr id="t4801">
+        <td><a href="#t4801">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4801">4801s</a></td>
+        <td>Świetnie, za mną.</td>
+    </tr>
+    <tr id="t4803">
+        <td><a href="#t4803">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4803">4803s</a></td>
+        <td>Dobra, idziemy.</td>
+    </tr>
+    <tr id="t4808">
+        <td><a href="#t4808">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4808">4808s</a></td>
+        <td>Co to było?</td>
+    </tr>
+    <tr id="t4808">
+        <td><a href="#t4808">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4808">4808s</a></td>
+        <td>Mogła zniknęła.</td>
+    </tr>
+    <tr id="t4809">
+        <td><a href="#t4809">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4809">4809s</a></td>
+        <td>Mogła zniknęła.</td>
+    </tr>
+    <tr id="t4811">
+        <td><a href="#t4811">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4811">4811s</a></td>
+        <td>A wraz z nią rycerza.</td>
+    </tr>
+    <tr id="t4815">
+        <td><a href="#t4815">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4815">4815s</a></td>
+        <td>Elektrycerze, tak.</td>
+    </tr>
+    <tr id="t4817">
+        <td><a href="#t4817">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4817">4817s</a></td>
+        <td>Obok.</td>
+    </tr>
+    <tr id="t4818">
+        <td><a href="#t4818">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4818">4818s</a></td>
+        <td>Aha, tutaj podobno mogłem u masztalerza... Tak.</td>
+    </tr>
+    <tr id="t4821">
+        <td><a href="#t4821">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4821">4821s</a></td>
+        <td>...pustomizować konika.</td>
+    </tr>
+    <tr id="t4822">
+        <td><a href="#t4822">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4822">4822s</a></td>
+        <td>Trofeo.</td>
+    </tr>
+    <tr id="t4823">
+        <td><a href="#t4823">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4823">4823s</a></td>
+        <td>Możesz.</td>
+    </tr>
+    <tr id="t4823">
+        <td><a href="#t4823">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4823">4823s</a></td>
+        <td>A mam pancerz!</td>
+    </tr>
+    <tr id="t4825">
+        <td><a href="#t4825">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4825">4825s</a></td>
+        <td>Kropież wiary!</td>
+    </tr>
+    <tr id="t4827">
+        <td><a href="#t4827">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4827">4827s</a></td>
+        <td>Piekielna skorupa!</td>
+    </tr>
+    <tr id="t4829">
+        <td><a href="#t4829">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4829">4829s</a></td>
+        <td>Piekielna skorupa wygląda tak, jakby to była znowu malaria czaty.</td>
+    </tr>
+    <tr id="t4832">
+        <td><a href="#t4832">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4832">4832s</a></td>
+        <td>Bierzemy piekielną skorupę.</td>
+    </tr>
+    <tr id="t4834">
+        <td><a href="#t4834">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4834">4834s</a></td>
+        <td>Chyba ja mam piekielną skorupę teraz.</td>
+    </tr>
+    <tr id="t4836">
+        <td><a href="#t4836">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4836">4836s</a></td>
+        <td>Dobrze.</td>
+    </tr>
+    <tr id="t4838">
+        <td><a href="#t4838">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4838">4838s</a></td>
+        <td>Sprawdzę, czy tak wygląda piekielna skorupa.</td>
+    </tr>
+    <tr id="t4840">
+        <td><a href="#t4840">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4840">4840s</a></td>
+        <td>Wejdź na konia do zobaczenia.</td>
+    </tr>
+    <tr id="t4841">
+        <td><a href="#t4841">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4841">4841s</a></td>
+        <td>Porównamy swoje rumaki wierzchowce.</td>
+    </tr>
+    <tr id="t4844">
+        <td><a href="#t4844">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4844">4844s</a></td>
+        <td>O, to jest piekielna skorupa.</td>
+    </tr>
+    <tr id="t4846">
+        <td><a href="#t4846">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4846">4846s</a></td>
+        <td>To nie.</td>
+    </tr>
+    <tr id="t4846">
+        <td><a href="#t4846">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4846">4846s</a></td>
+        <td>To jest taka ubożuchna piekielna skorupa.</td>
+    </tr>
+    <tr id="t4848">
+        <td><a href="#t4848">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4848">4848s</a></td>
+        <td>Nie, ja już szedłem, nie chciałem, nie chciałem, żebyś był... Wy się w ogóle teleportowaliście gdzieś, gdzie ja się nie mogę jeszcze teleportować, także... Ojej.</td>
+    </tr>
+    <tr id="t4857">
+        <td><a href="#t4857">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4857">4857s</a></td>
+        <td>Musimy wrócić po Filipa, bo on nie odkrył jeszcze tego... Też uważam, że limit zadań pobocznych to jest kretynizm.</td>
+    </tr>
+    <tr id="t4863">
+        <td><a href="#t4863">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4863">4863s</a></td>
+        <td>Jest problem taki, że Filip nie może iść z nami, bo nie doszedł do tego momentu jeszcze w ogóle chyba w fabule.</td>
+    </tr>
+    <tr id="t4870">
+        <td><a href="#t4870">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4870">4870s</a></td>
+        <td>Tak.</td>
+    </tr>
+    <tr id="t4871">
+        <td><a href="#t4871">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4871">4871s</a></td>
+        <td>A że nie możesz tego zwiedzać nawet?</td>
+    </tr>
+    <tr id="t4874">
+        <td><a href="#t4874">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4874">4874s</a></td>
+        <td>Chyba tak.</td>
+    </tr>
+    <tr id="t4874">
+        <td><a href="#t4874">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4874">4874s</a></td>
+        <td>Nie, po prostu nie mogę się tam teleportować, no mogę dojść sobie do was, ale...</td>
+    </tr>
+    <tr id="t4880">
+        <td><a href="#t4880">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4880">4880s</a></td>
+        <td>A gdzie ty jesteś?</td>
+    </tr>
+    <tr id="t4882">
+        <td><a href="#t4882">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4882">4882s</a></td>
+        <td>To inaczej Filip, teleportuj się najbardziej na południe jak możesz i cię stamtąd przeprowadzimy.</td>
+    </tr>
+    <tr id="t4889">
+        <td><a href="#t4889">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4889">4889s</a></td>
+        <td>To już nie mówię, właśnie teleportowałem się.</td>
+    </tr>
+    <tr id="t4891">
+        <td><a href="#t4891">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4891">4891s</a></td>
+        <td>To w jakim miejscu jesteś?</td>
+    </tr>
+    <tr id="t4894">
+        <td><a href="#t4894">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4894">4894s</a></td>
+        <td>Jesteś w Cordragon?</td>
+    </tr>
+    <tr id="t4896">
+        <td><a href="#t4896">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4896">4896s</a></td>
+        <td>Nie, na razie się teleportujesz.</td>
+    </tr>
+    <tr id="t4898">
+        <td><a href="#t4898">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4898">4898s</a></td>
+        <td>Okej, teraz Filip zupełnie zniknął.</td>
+    </tr>
+    <tr id="t4901">
+        <td><a href="#t4901">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4901">4901s</a></td>
+        <td>Jest pytanie ciekawe w tak zwanym międzyczasie od Saga Wier.</td>
+    </tr>
+    <tr id="t4905">
+        <td><a href="#t4905">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4905">4905s</a></td>
+        <td>Otworzy się może dyskusja o wartości edukacyjnej popkultury w tym gier, tak żeby postawić kropkę nad i. Moja kropka nad i brzmi tak, że nie ma czegoś takiego jak popkultura, tylko jest po prostu kultura współczesna, a popkultura i kultura wysoka to jest arystokratyczny wynalazek klasistów, którzy... Hotkityr.</td>
+    </tr>
+    <tr id="t4918">
+        <td><a href="#t4918">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4918">4918s</a></td>
+        <td>Tak, o, hotkityr, bardzo ładne, którzy potrzebują poczuć się lepiej.</td>
+    </tr>
+    <tr id="t4923">
+        <td><a href="#t4923">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4923">4923s</a></td>
+        <td>Taka masz, Nergal się pojawi, dostępny, jeszcze jesteś niedostępny, drogi Nergalu przyjaciele.</td>
+    </tr>
+    <tr id="t4927">
+        <td><a href="#t4927">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4927">4927s</a></td>
+        <td>Ja tam noszę tylko Versace, nie będę w jakimś H&M je kupować, to jest to, nie?</td>
+    </tr>
+    <tr id="t4933">
+        <td><a href="#t4933">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4933">4933s</a></td>
+        <td>To jest dokładnie to samo, że ja wyłącznie chodzę tam.</td>
+    </tr>
+    <tr id="t4936">
+        <td><a href="#t4936">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4936">4936s</a></td>
+        <td>O jest, w Tarsaraku jesteś, dobra.</td>
+    </tr>
+    <tr id="t4937">
+        <td><a href="#t4937">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4937">4937s</a></td>
+        <td>Ja do ciebie idę teraz, Nergalu, drogi.</td>
+    </tr>
+    <tr id="t4940">
+        <td><a href="#t4940">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4940">4940s</a></td>
+        <td>Dobra, gdzie jest Filip?</td>
+    </tr>
+    <tr id="t4942">
+        <td><a href="#t4942">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4942">4942s</a></td>
+        <td>Jest w Tarsaraku, możesz się do niego teleportować z miasta.</td>
+    </tr>
+    <tr id="t4945">
+        <td><a href="#t4945">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4945">4945s</a></td>
+        <td>Więc idziemy do Filipa i Filip będzie kierował nami.</td>
+    </tr>
+    <tr id="t4948">
+        <td><a href="#t4948">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4948">4948s</a></td>
+        <td>A, widzę, tutaj.</td>
+    </tr>
+    <tr id="t4950">
+        <td><a href="#t4950">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4950">4950s</a></td>
+        <td>Więc sugeruję, żeby Filip kierował i my będziemy go eskortą.</td>
+    </tr>
+    <tr id="t4955">
+        <td><a href="#t4955">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4955">4955s</a></td>
+        <td>Obijamy tu jakaś tania podróba Wiedźmina.</td>
+    </tr>
+    <tr id="t4958">
+        <td><a href="#t4958">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4958">4958s</a></td>
+        <td>Fanem kupuję włącznie Yennefer, absolutnie.</td>
+    </tr>
+    <tr id="t4963">
+        <td><a href="#t4963">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4963">4963s</a></td>
+        <td>Dobrze.</td>
+    </tr>
+    <tr id="t4964">
+        <td><a href="#t4964">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4964">4964s</a></td>
+        <td>Znaczy Ciri też kupuję, ja tam...</td>
+    </tr>
+    <tr id="t4966">
+        <td><a href="#t4966">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4966">4966s</a></td>
+        <td>Ciri, NFR i jeszcze w ogóle ta Margrita, ja nie umiem jej nazwiska wymówić, ja jej nawet nie rozpoznałem, że ona jest osobą, więc... Czy ogólnie te czarodziejki... Przede wszystkim ja mam taki duży problem z czarodziejkami w Wiedźminie, jest, że one były piękne.</td>
+    </tr>
+    <tr id="t4985">
+        <td><a href="#t4985">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=4985">4985s</a></td>
+        <td>obiektywnie były piękne, tak w książkach, a one to są może przymiłe osoby, natomiast piękno jest, można ocenić w pewnym sensie i ja wiem, że nie to ładne co ładne, ale co się komu podoba, ale po to są konkursy piękności, żebyśmy mogli pewien... Ja myślę, że</td>
+    </tr>
+    <tr id="t5005">
+        <td><a href="#t5005">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5005">5005s</a></td>
+        <td>Sprawa jest w przypadku czarodziejek dość prosta, to znaczy czarodziejki same były nienaturalnie piękne, o tak bym powiedział, to znaczy wystarczyłoby wejść do top Instagramu każdego kraju, jeżeli już chcemy utrzymać różnorasowe castingi, to top Instagramu w każdym z krajów, jaki jesteśmy sobie w stanie wyobrazić i dokładnie to zrealizować w serialu.</td>
+    </tr>
+    <tr id="t5031">
+        <td><a href="#t5031">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5031">5031s</a></td>
+        <td>Onowie, to wyprowadźcie.</td>
+    </tr>
+    <tr id="t5034">
+        <td><a href="#t5034">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5034">5034s</a></td>
+        <td>To ty prowadź, bo my nie wiemy, których ty terenów nie masz.</td>
+    </tr>
+    <tr id="t5037">
+        <td><a href="#t5037">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5037">5037s</a></td>
+        <td>Prowadź przez te tereny, które masz puste i my będziemy ci czyścić ewentualnie tą mangę.</td>
+    </tr>
+    <tr id="t5041">
+        <td><a href="#t5041">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5041">5041s</a></td>
+        <td>No dobra.</td>
+    </tr>
+    <tr id="t5041">
+        <td><a href="#t5041">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5041">5041s</a></td>
+        <td>Ja tutaj przy okazji mam zadanie ze skorpionem, więc po prostu zwiedzam, zabijam skorpiony i zbieram.</td>
+    </tr>
+    <tr id="t5049">
+        <td><a href="#t5049">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5049">5049s</a></td>
+        <td>Więc kontynuując ten wątek, uważam, że pokazanie właśnie takiego nienaturalnego piękna byłoby dobre, bo wiesz, Rysław, wtedy unikamy takiej sytuacji, że no właśnie, wypowiadamy się na temat kwestii, które są niezależne od ludzi i równocześnie unikamy polemiki niepotrzebnej ze strony Netflixa, który mógłby wtedy wytoczyć ciężkie działa.</td>
+    </tr>
+    <tr id="t5073">
+        <td><a href="#t5073">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5073">5073s</a></td>
+        <td>Gdzieś uciekasz kusa po kusu.</td>
+    </tr>
+    <tr id="t5075">
+        <td><a href="#t5075">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5075">5075s</a></td>
+        <td>Tak.</td>
+    </tr>
+    <tr id="t5075">
+        <td><a href="#t5075">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5075">5075s</a></td>
+        <td>Cały czas realizuje zadanie poboczne.</td>
+    </tr>
+    <tr id="t5077">
+        <td><a href="#t5077">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5077">5077s</a></td>
+        <td>Przede wszystkim one miały ten glamire, tak, czy jak to się wymawia, miały ten swój, szczególnie Yennefer, nawet poczęstowała tym Ciri.</td>
+    </tr>
+    <tr id="t5085">
+        <td><a href="#t5085">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5085">5085s</a></td>
+        <td>Tak.</td>
+    </tr>
+    <tr id="t5086">
+        <td><a href="#t5086">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5086">5086s</a></td>
+        <td>Pamiętamy w scenie, kiedy tam wjeżdżają do miasta i idą do Krasnoluda zaciągnąć kredyt nieograniczony w banku.</td>
+    </tr>
+    <tr id="t5094">
+        <td><a href="#t5094">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5094">5094s</a></td>
+        <td>No i...</td>
+    </tr>
+    <tr id="t5096">
+        <td><a href="#t5096">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5096">5096s</a></td>
+        <td>No one po prostu absolutnie oszałamiały, tak?</td>
+    </tr>
+    <tr id="t5100">
+        <td><a href="#t5100">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5100">5100s</a></td>
+        <td>Żadna z tych dziewcząt, które widziałem w serialu, no to powiem tak, ja ładniejsze widzę na ulicy.</td>
+    </tr>
+    <tr id="t5108">
+        <td><a href="#t5108">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5108">5108s</a></td>
+        <td>Tyle, no.</td>
+    </tr>
+    <tr id="t5111">
+        <td><a href="#t5111">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5111">5111s</a></td>
+        <td>Po prostu.</td>
+    </tr>
+    <tr id="t5114">
+        <td><a href="#t5114">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5114">5114s</a></td>
+        <td>Przy czym jest to subiektywne.</td>
+    </tr>
+    <tr id="t5116">
+        <td><a href="#t5116">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5116">5116s</a></td>
+        <td>Jest to subiektywne, ale wydaje mi się, że to jest taka subiektywność, co do której możemy się zgodzić, że tu mogą być atrakcyjne osoby, natomiast zostały tak przedstawione, bo przecież dzięki technologii można by z nich zrobić buginię.</td>
+    </tr>
+    <tr id="t5131">
+        <td><a href="#t5131">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5131">5131s</a></td>
+        <td>O to chodzi.</td>
+    </tr>
+    <tr id="t5132">
+        <td><a href="#t5132">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5132">5132s</a></td>
+        <td>One mają być buginiami, one mają o niej śmialać.</td>
+    </tr>
+    <tr id="t5135">
+        <td><a href="#t5135">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5135">5135s</a></td>
+        <td>Dlatego mówię, Rysław, że musimy mieć jakiś quasi-obiektywny czy empiryczny wyznacznik, który pozwoli nam powiedzieć, że tak 80% populacji klika w ten profil na Insta, tak?</td>
+    </tr>
+    <tr id="t5147">
+        <td><a href="#t5147">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5147">5147s</a></td>
+        <td>No i z jakiegoś powodu to robi.</td>
+    </tr>
+    <tr id="t5149">
+        <td><a href="#t5149">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5149">5149s</a></td>
+        <td>I to nam pozwala wtedy rzeczywiście jakoś znaleźć taki kompromis między tymi dwiema wizjami.</td>
+    </tr>
+    <tr id="t5160">
+        <td><a href="#t5160">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5160">5160s</a></td>
+        <td>Tak, zgadzam się.</td>
+    </tr>
+    <tr id="t5161">
+        <td><a href="#t5161">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5161">5161s</a></td>
+        <td>Widziałem, że zrobili z Jaskra, zrobili mu taką fryzurę na jakiegoś, nie wiem.</td>
+    </tr>
+    <tr id="t5167">
+        <td><a href="#t5167">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5167">5167s</a></td>
+        <td>Jaskier jeszcze w pierwszym sezonie wyglądał znośnie.</td>
+    </tr>
+    <tr id="t5170">
+        <td><a href="#t5170">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5170">5170s</a></td>
+        <td>Teraz nie wiem, nie rozumiem po prostu tego.</td>
+    </tr>
+    <tr id="t5174">
+        <td><a href="#t5174">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5174">5174s</a></td>
+        <td>Cały czas ten serial ciągnie Henryczek.</td>
+    </tr>
+    <tr id="t5178">
+        <td><a href="#t5178">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5178">5178s</a></td>
+        <td>Jak on przestanie ciągnąć Henryczek, to już nie będzie.</td>
+    </tr>
+    <tr id="t5181">
+        <td><a href="#t5181">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5181">5181s</a></td>
+        <td>Ja czekam na jego film z czterdziestki, to jest też... Ja się bardzo boję.</td>
+    </tr>
+    <tr id="t5188">
+        <td><a href="#t5188">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5188">5188s</a></td>
+        <td>Tak, boję się tego z uwagi na to, że nie są zaangażowani w to na przykład tacy ludzie jak chociażby autora Starters Henry Cavill jest tylko albo aż aktorem Jest aktorem, ale wiesz, jest aktorem, który kocha Warhammera Nie tylko Warhammera, to jest gość, który po prostu wiesz, powiem tak, mało kto wzbudza, moim zdaniem taką drugą osobą jest chyba Keanu</td>
+    </tr>
+    <tr id="t5216">
+        <td><a href="#t5216">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5216">5216s</a></td>
+        <td>Ale kurczę Henryk Kawiel, nie znam osoby, przy której on by wzbudzał jakieś negatywne uczucia.</td>
+    </tr>
+    <tr id="t5223">
+        <td><a href="#t5223">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5223">5223s</a></td>
+        <td>Mimo, że ktoś może być zazdrosny o to, jaki on jest, powiedzmy, niesamowicie przystojny, dobrze zbudowany.</td>
+    </tr>
+    <tr id="t5228">
+        <td><a href="#t5228">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5228">5228s</a></td>
+        <td>To jest tak jednocześnie wydaje się, ja go nie znam, ale wydaje się tak po ziemi bardzo stąpający gość, tak sympatyczny, tak bezproblemowy.</td>
+    </tr>
+    <tr id="t5238">
+        <td><a href="#t5238">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5238">5238s</a></td>
+        <td>Że wzbudza tylko pozytywne odczucia, no i to jest w nim fantastyczne, no.</td>
+    </tr>
+    <tr id="t5244">
+        <td><a href="#t5244">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5244">5244s</a></td>
+        <td>I ja trzymam za niego kciuki, bo on jest wkręcony w tego Warhammera.</td>
+    </tr>
+    <tr id="t5248">
+        <td><a href="#t5248">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5248">5248s</a></td>
+        <td>I to widać bardzo.</td>
+    </tr>
+    <tr id="t5249">
+        <td><a href="#t5249">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5249">5249s</a></td>
+        <td>Jest bardzo, tak.</td>
+    </tr>
+    <tr id="t5250">
+        <td><a href="#t5250">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5250">5250s</a></td>
+        <td>No ale wiesz, to jest pytanie, które wezmą ark fabularny, prawda?</td>
+    </tr>
+    <tr id="t5254">
+        <td><a href="#t5254">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5254">5254s</a></td>
+        <td>Czy to będzie herezja Horusa?</td>
+    </tr>
+    <tr id="t5256">
+        <td><a href="#t5256">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5256">5256s</a></td>
+        <td>No ale jest tyle możliwości, wiesz, może być herezja Horusa, to wie, czyli tak naprawdę Warhammer 30 tysięcy, tak?</td>
+    </tr>
+    <tr id="t5263">
+        <td><a href="#t5263">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5263">5263s</a></td>
+        <td>Tak, tak, tak, naprawdę.</td>
+    </tr>
+    <tr id="t5265">
+        <td><a href="#t5265">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5265">5265s</a></td>
+        <td>Ale mogą też wziąć, nie wiem, Sandra Eisenhornie.</td>
+    </tr>
+    <tr id="t5270">
+        <td><a href="#t5270">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5270">5270s</a></td>
+        <td>O byłby piękny, on byłby fantastyczny, no.</td>
+    </tr>
+    <tr id="t5275">
+        <td><a href="#t5275">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5275">5275s</a></td>
+        <td>Jest dużo możliwości, naprawdę jest dużo możliwości.</td>
+    </tr>
+    <tr id="t5279">
+        <td><a href="#t5279">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5279">5279s</a></td>
+        <td>Byłeś w tym mieście Drogi Nergalów wcześniej, czy nie?</td>
+    </tr>
+    <tr id="t5281">
+        <td><a href="#t5281">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5281">5281s</a></td>
+        <td>Nie.</td>
+    </tr>
+    <tr id="t5282">
+        <td><a href="#t5282">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5282">5282s</a></td>
+        <td>No widzisz, to masz na wymiarze.</td>
+    </tr>
+    <tr id="t5283">
+        <td><a href="#t5283">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5283">5283s</a></td>
+        <td>Aurora też słusznie pisze jeszcze a propos czarodziejek, bo czaty też podnosiły, że charakteryzacja leży i Aurora pisze, że nie zadbali tam nawet o piękne kostiumy, my tu o wyglądzie czarodziejek, jak ciężko stworzyć jest udbiór, pokreślający potęgę i pewność ciebie z takim budżetem.</td>
+    </tr>
+    <tr id="t5296">
+        <td><a href="#t5296">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5296">5296s</a></td>
+        <td>Absolutnie się zgadzam.</td>
+    </tr>
+    <tr id="t5297">
+        <td><a href="#t5297">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5297">5297s</a></td>
+        <td>Zresztą bardzo dużo ludzi na przykład nie lubi urody.</td>
+    </tr>
+    <tr id="t5302">
+        <td><a href="#t5302">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5302">5302s</a></td>
+        <td>O Jezus, jak się nazywa ta aktorka, która grała z rodu Tyrell, Marguerite Tyrell.</td>
+    </tr>
+    <tr id="t5310">
+        <td><a href="#t5310">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5310">5310s</a></td>
+        <td>Dormer, Nathalie Dormer, przypomniałem sobie, więc dużo ludzi jej nie lubi z urody, natomiast ona była tak charakteryzowana i tak ubierana, że emanowała tą taką książęcą, arystokratyczną pewnością siebie i świetnie była wykastowana finalnie.</td>
+    </tr>
+    <tr id="t5326">
+        <td><a href="#t5326">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5326">5326s</a></td>
+        <td>To jest atrakcyjna dziewczyna, ale też to nie jest klasyczna piękność, prawda?</td>
+    </tr>
+    <tr id="t5330">
+        <td><a href="#t5330">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5330">5330s</a></td>
+        <td>Ale pamiętajmy też, że Sapkowski też nie opisywał Yennefer jako klasycznej piękności.</td>
+    </tr>
+    <tr id="t5334">
+        <td><a href="#t5334">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5334">5334s</a></td>
+        <td>To prawda, to prawda.</td>
+    </tr>
+    <tr id="t5335">
+        <td><a href="#t5335">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5335">5335s</a></td>
+        <td>Zresztą ten wątek upiększania czarodziejek właśnie przy okazji Yennefer był poruszony w serialu, dlatego to jest tak dziwne, że został porzucony całkowicie, no.</td>
+    </tr>
+    <tr id="t5344">
+        <td><a href="#t5344">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5344">5344s</a></td>
+        <td>Był poruszony, ale wydaje mi się, że byłby znacznie lepiej rozegrany w drugim na przykład sezonie, a nie na samym początku, żeby to było zaskoczenie.</td>
+    </tr>
+    <tr id="t5351">
+        <td><a href="#t5351">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5351">5351s</a></td>
+        <td>Ten serial za szybko odkrył karty i za szybko okazało się, że jest niestety robiony przez osoby, które nie mają w ogóle żadnego szacunku dla materiału źródłowego.</td>
+    </tr>
+    <tr id="t5365">
+        <td><a href="#t5365">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5365">5365s</a></td>
+        <td>A powiem tak, dla mnie taki moment już w pierwszym sezonie, ja się poczułem... No źle się poczułem, tak jakoś nieswojo, kiedy zobaczyłem Krasnoludy.</td>
+    </tr>
+    <tr id="t5374">
+        <td><a href="#t5374">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5374">5374s</a></td>
+        <td>O tak, absolutnie.</td>
+    </tr>
+    <tr id="t5375">
+        <td><a href="#t5375">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5375">5375s</a></td>
+        <td>Wybranie osób niskorosłych do Krasnoludów, to jest obraza dla tych osób.</td>
+    </tr>
+    <tr id="t5380">
+        <td><a href="#t5380">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5380">5380s</a></td>
+        <td>Też jest to dla mnie zastanawiające bardzo, że Netflix przy całej tej narracji, dlatego zawsze mówię ludziom, że to nie jest prawda, że to jest serial poprawny politycznie.</td>
+    </tr>
+    <tr id="t5387">
+        <td><a href="#t5387">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5387">5387s</a></td>
+        <td>On jest niepoprawny politycznie właśnie przez to, że dokonuje tego rodzaju wyborów castingowych.</td>
+    </tr>
+    <tr id="t5394">
+        <td><a href="#t5394">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5394">5394s</a></td>
+        <td>I drugi moment, w którym ja się skrzywiłem, to była ta cała scena z Dol Blathana.</td>
+    </tr>
+    <tr id="t5400">
+        <td><a href="#t5400">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5400">5400s</a></td>
+        <td>Bardzo źle na to zareagowałem.</td>
+    </tr>
+    <tr id="t5402">
+        <td><a href="#t5402">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5402">5402s</a></td>
+        <td>Z elfami, tak?</td>
+    </tr>
+    <tr id="t5403">
+        <td><a href="#t5403">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5403">5403s</a></td>
+        <td>Proszę?</td>
+    </tr>
+    <tr id="t5404">
+        <td><a href="#t5404">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5404">5404s</a></td>
+        <td>Z elfami, tak?</td>
+    </tr>
+    <tr id="t5405">
+        <td><a href="#t5405">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5405">5405s</a></td>
+        <td>Tak, z elfami.</td>
+    </tr>
+    <tr id="t5405">
+        <td><a href="#t5405">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5405">5405s</a></td>
+        <td>Pierwszy raz, jak nam pokazano je w ogóle, to było przy opowiadaniu... Nie granica możliwości, tylko tym obiesie.</td>
+    </tr>
+    <tr id="t5413">
+        <td><a href="#t5413">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5413">5413s</a></td>
+        <td>Koniec świata.</td>
+    </tr>
+    <tr id="t5414">
+        <td><a href="#t5414">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5414">5414s</a></td>
+        <td>Koniec świata, dziękuję.</td>
+    </tr>
+    <tr id="t5416">
+        <td><a href="#t5416">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5416">5416s</a></td>
+        <td>Filip zamilkł.</td>
+    </tr>
+    <tr id="t5417">
+        <td><a href="#t5417">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5417">5417s</a></td>
+        <td>Czy wszystko ok?</td>
+    </tr>
+    <tr id="t5417">
+        <td><a href="#t5417">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5417">5417s</a></td>
+        <td>Filipie.</td>
+    </tr>
+    <tr id="t5419">
+        <td><a href="#t5419">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5419">5419s</a></td>
+        <td>Tak, wszystko ok.</td>
+    </tr>
+    <tr id="t5420">
+        <td><a href="#t5420">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5420">5420s</a></td>
+        <td>Ja zastanawiałem się.</td>
+    </tr>
+    <tr id="t5421">
+        <td><a href="#t5421">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5421">5421s</a></td>
+        <td>Ja biegam za Nergalem po prostu.</td>
+    </tr>
+    <tr id="t5423">
+        <td><a href="#t5423">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5423">5423s</a></td>
+        <td>Ja widzę Nergala, biegnę za nim.</td>
+    </tr>
+    <tr id="t5425">
+        <td><a href="#t5425">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5425">5425s</a></td>
+        <td>A propos tego, co powiedzieliście, słuchałem nowego podcastu Michała, nie nowego, przepraszam, on już troszeczkę ma tygodni, Michała Oleszczyka ze Spoilermaster, a propos wieloryba, Darena Aranowskiego i tych komentarzy internetowego komentariatu, które...</td>
+    </tr>
+    <tr id="t5444">
+        <td><a href="#t5444">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5444">5444s</a></td>
+        <td>zarzucały Aronowskiemu oraz Brendanowi Frazierowi dwie rzeczy.</td>
+    </tr>
+    <tr id="t5450">
+        <td><a href="#t5450">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5450">5450s</a></td>
+        <td>Absurdalne, a oczywiście delikatniej to wyłożył Michał Oleszczyk, ale pięknie i chciałbym się pochłość na jego argumenty, że po pierwsze</td>
+    </tr>
+    <tr id="t5458">
+        <td><a href="#t5458">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5458">5458s</a></td>
+        <td>Rzekomo nie w porządku jest to, że aktor, który nie jest otyły, tak jak bohater filmu Wieloryb, gra właśnie tak otyłą osobę i że trzeba dawać mu specjalny kostium i charakteryzację, po raz, że aktor heteroseksualny gra osobę homoseksualną.</td>
+    </tr>
+    <tr id="t5474">
+        <td><a href="#t5474">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5474">5474s</a></td>
+        <td>No nie żartuj.</td>
+    </tr>
+    <tr id="t5476">
+        <td><a href="#t5476">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5476">5476s</a></td>
+        <td>Czy od tej pory tylko kosmitów mogą grać kosmici?</td>
+    </tr>
+    <tr id="t5479">
+        <td><a href="#t5479">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5479">5479s</a></td>
+        <td>No to może być problem.</td>
+    </tr>
+    <tr id="t5481">
+        <td><a href="#t5481">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5481">5481s</a></td>
+        <td>I właśnie pięknie zaczął to sprowadzać do absurdu Michał Oleszczyk.</td>
+    </tr>
+    <tr id="t5488">
+        <td><a href="#t5488">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5488">5488s</a></td>
+        <td>Po pierwsze powołując się na istotę aktorstwa, która obejmuje naprawdę dwa ważne pojęcia.</td>
+    </tr>
+    <tr id="t5493">
+        <td><a href="#t5493">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5493">5493s</a></td>
+        <td>Transformację i wcielenie.</td>
+    </tr>
+    <tr id="t5496">
+        <td><a href="#t5496">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5496">5496s</a></td>
+        <td>I on użył, zanim powiem wam o tych argumentach negatywnych, to użył argumentów pozytywnych.</td>
+    </tr>
+    <tr id="t5501">
+        <td><a href="#t5501">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5501">5501s</a></td>
+        <td>On powiedział, Darren Aronowski obsadził w tej roli Brendana Fraziera, ponieważ</td>
+    </tr>
+    <tr id="t5507">
+        <td><a href="#t5507">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5507">5507s</a></td>
+        <td>zrobił to dla jego oczu.</td>
+    </tr>
+    <tr id="t5508">
+        <td><a href="#t5508">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5508">5508s</a></td>
+        <td>Dosłownie.</td>
+    </tr>
+    <tr id="t5509">
+        <td><a href="#t5509">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5509">5509s</a></td>
+        <td>Znaczy, spojrzenie Brendona Frasiera przekazuje taką nieprawdopodobną niewinność, która kupuje nas w tej roli.</td>
+    </tr>
+    <tr id="t5517">
+        <td><a href="#t5517">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5517">5517s</a></td>
+        <td>A druga rzecz to jest to, że my znaliśmy tego aktora z innych ról i on wyglądał kompletnie inaczej.</td>
+    </tr>
+    <tr id="t5522">
+        <td><a href="#t5522">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5522">5522s</a></td>
+        <td>I to były zupełnie inne filmy jak George prosto z drzewa czy Mumia, a zatem ozyskiwał ten efekt, na którym zależy mu scenariuszowo, czyli widzimy postać, która przeszła jakąś przerażającą transformację w wyniku depresji.</td>
+    </tr>
+    <tr id="t5534">
+        <td><a href="#t5534">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5534">5534s</a></td>
+        <td>I doszła do punktu, w którym nie chce pokazywać się swoim studentom, z którymi ma zajęcia w sposób online i wyłącza kamerkę, będąc nimi nieszczerym, a jednocześnie oczekując od nich szczerości.</td>
+    </tr>
+    <tr id="t5544">
+        <td><a href="#t5544">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5544">5544s</a></td>
+        <td>Żyje w kłamstwie.</td>
+    </tr>
+    <tr id="t5546">
+        <td><a href="#t5546">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5546">5546s</a></td>
+        <td>Więc wydaje mi się, że bardzo się to dobrze udało uzyskać, ale Michał Leszczyk bardzo ciekawie powiedział...</td>
+    </tr>
+    <tr id="t5553">
+        <td><a href="#t5553">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5553">5553s</a></td>
+        <td>że doskonale rozumie ten argument sytuacji, które są źle reprezentowane w kinie.</td>
+    </tr>
+    <tr id="t5557">
+        <td><a href="#t5557">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5557">5557s</a></td>
+        <td>I tak na przykład osoby czarnoskóre, czazjaci, były reprezentowane w oparciu o stereotypy.</td>
+    </tr>
+    <tr id="t5561">
+        <td><a href="#t5561">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5561">5561s</a></td>
+        <td>I podaję przykład, nie wiem, widzimy Meryl Streep, która gra Polkę, albo Marion Cotillard.</td>
+    </tr>
+    <tr id="t5567">
+        <td><a href="#t5567">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5567">5567s</a></td>
+        <td>I możemy się uśmiechać pod nosem.</td>
+    </tr>
+    <tr id="t5568">
+        <td><a href="#t5568">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5568">5568s</a></td>
+        <td>Wyburzowi, tak?</td>
+    </tr>
+    <tr id="t5568">
+        <td><a href="#t5568">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5568">5568s</a></td>
+        <td>Wyburzowi.</td>
+    </tr>
+    <tr id="t5569">
+        <td><a href="#t5569">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5569">5569s</a></td>
+        <td>Tak, tak, wyburzowi.</td>
+    </tr>
+    <tr id="t5570">
+        <td><a href="#t5570">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5570">5570s</a></td>
+        <td>Wybitny film zresztą.</td>
+    </tr>
+    <tr id="t5572">
+        <td><a href="#t5572">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5572">5572s</a></td>
+        <td>I możemy się uśmiechać, kiedy słyszymy, jak kaleczy język polski.</td>
+    </tr>
+    <tr id="t5576">
+        <td><a href="#t5576">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5576">5576s</a></td>
+        <td>Ale na koniec dnia możemy sobie zapytać, czy my naprawdę chcielibyśmy, żeby jakaś Polka zagrała tam zamiast Meryl Streep?</td>
+    </tr>
+    <tr id="t5581">
+        <td><a href="#t5581">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5581">5581s</a></td>
+        <td>Hmm.</td>
+    </tr>
+    <tr id="t5583">
+        <td><a href="#t5583">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5583">5583s</a></td>
+        <td>Trudno powiedzieć.</td>
+    </tr>
+    <tr id="t5584">
+        <td><a href="#t5584">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5584">5584s</a></td>
+        <td>Meryl Streep chyba była nominowana albo nawet zdobyła Oscara za tę rolę i była to wybitna rola.</td>
+    </tr>
+    <tr id="t5588">
+        <td><a href="#t5588">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5588">5588s</a></td>
+        <td>Naprawdę wybitna, poruszająca historia.</td>
+    </tr>
+    <tr id="t5591">
+        <td><a href="#t5591">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5591">5591s</a></td>
+        <td>I można to sprowadzić do absurdu w następujący sposób.</td>
+    </tr>
+    <tr id="t5595">
+        <td><a href="#t5595">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5595">5595s</a></td>
+        <td>Jeżeli tylko i wyłącznie otyłe osoby mogły wygrać otyłe osoby, to co z tysiącami osób, które są charakteryzatorami?</td>
+    </tr>
+    <tr id="t5603">
+        <td><a href="#t5603">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5603">5603s</a></td>
+        <td>nagle mają stracić pracę?</td>
+    </tr>
+    <tr id="t5605">
+        <td><a href="#t5605">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5605">5605s</a></td>
+        <td>No właśnie.</td>
+    </tr>
+    <tr id="t5605">
+        <td><a href="#t5605">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5605">5605s</a></td>
+        <td>I podobnie, co z aktorami, którzy przez lata budowali swój wachlarz umiejętności, swój repertuar, doświadczenie?</td>
+    </tr>
+    <tr id="t5613">
+        <td><a href="#t5613">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5613">5613s</a></td>
+        <td>Co z filmami fantasy, co z horrorami?</td>
+    </tr>
+    <tr id="t5615">
+        <td><a href="#t5615">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5615">5615s</a></td>
+        <td>Czy tylko seryjny zabójca może zagrać seryjnego zabójca?</td>
+    </tr>
+    <tr id="t5618">
+        <td><a href="#t5618">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5618">5618s</a></td>
+        <td>Nie będą mieli dostępu do tego, nie będą mieli dostępu, ponieważ... I to jest chyba argument ostatni, który chciałem powiedzieć, który jest najpotężniejszy.</td>
+    </tr>
+    <tr id="t5627">
+        <td><a href="#t5627">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5627">5627s</a></td>
+        <td>Michał Leszczyk pięknie powiedział, jak bardzo okrawające prace aktora i jego dorobek jest wprowadzanie wyłącznie do aspektu fizycznego tego, co robi w roli.</td>
+    </tr>
+    <tr id="t5638">
+        <td><a href="#t5638">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5638">5638s</a></td>
+        <td>Zapomina się o wszystkim, o czym myślą reżyserowie castingowi.</td>
+    </tr>
+    <tr id="t5642">
+        <td><a href="#t5642">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5642">5642s</a></td>
+        <td>Zapomina się o tym, jak on interpretuje tę postać, jak on ją rozumie, jak on ją przekazuje.</td>
+    </tr>
+    <tr id="t5647">
+        <td><a href="#t5647">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5647">5647s</a></td>
+        <td>Kinestetyka, tembr głosu, spojrzenie.</td>
+    </tr>
+    <tr id="t5652">
+        <td><a href="#t5652">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5652">5652s</a></td>
+        <td>I nagle musi spełnić takie cechy.</td>
+    </tr>
+    <tr id="t5654">
+        <td><a href="#t5654">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5654">5654s</a></td>
+        <td>Mieć na przykład tyle, a tyle wzrostu.</td>
+    </tr>
+    <tr id="t5656">
+        <td><a href="#t5656">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5656">5656s</a></td>
+        <td>Albo taki kolor skóry, spoko.</td>
+    </tr>
+    <tr id="t5658">
+        <td><a href="#t5658">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5658">5658s</a></td>
+        <td>To jest dość trudne, tak?</td>
+    </tr>
+    <tr id="t5659">
+        <td><a href="#t5659">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5659">5659s</a></td>
+        <td>I tu wchodzimy na grząski grunt i tu absolutnie jestem zdania, że białe osoby nie powinny grać czarno, skórka czarna nie powinny grać białych.</td>
+    </tr>
+    <tr id="t5666">
+        <td><a href="#t5666">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5666">5666s</a></td>
+        <td>Ale Thunders... Przepraszam, Thunderstorm... No było to piękne, ale było to też fantastycznie uzasadnione, tak?</td>
+    </tr>
+    <tr id="t5672">
+        <td><a href="#t5672">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5672">5672s</a></td>
+        <td>Było to scenariuszowo uzasadnione.</td>
+    </tr>
+    <tr id="t5674">
+        <td><a href="#t5674">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5674">5674s</a></td>
+        <td>Tudzież wieja w tropikach, chyba że to jest właśnie to.</td>
+    </tr>
+    <tr id="t5676">
+        <td><a href="#t5676">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5676">5676s</a></td>
+        <td>Właśnie, to jest to, o czym nie mówimy.</td>
+    </tr>
+    <tr id="t5678">
+        <td><a href="#t5678">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5678">5678s</a></td>
+        <td>Tropic Thunder, dokładnie tak.</td>
+    </tr>
+    <tr id="t5679">
+        <td><a href="#t5679">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5679">5679s</a></td>
+        <td>Tropic Thunder, Tropic Thunder.</td>
+    </tr>
+    <tr id="t5681">
+        <td><a href="#t5681">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5681">5681s</a></td>
+        <td>Super film.</td>
+    </tr>
+    <tr id="t5681">
+        <td><a href="#t5681">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5681">5681s</a></td>
+        <td>Słuchajcie, muszę nadrobić czat.</td>
+    </tr>
+    <tr id="t5683">
+        <td><a href="#t5683">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5683">5683s</a></td>
+        <td>Oskar pisze, dobry wieczór i dziękuję Ci za trybut.</td>
+    </tr>
+    <tr id="t5686">
+        <td><a href="#t5686">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5686">5686s</a></td>
+        <td>Szanownym, growym weteranom Krzysztof, ja Ci build ułożę, mi czarodziejkę obrażasz.</td>
+    </tr>
+    <tr id="t5689">
+        <td><a href="#t5689">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5689">5689s</a></td>
+        <td>Nie!</td>
+    </tr>
+    <tr id="t5690">
+        <td><a href="#t5690">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5690">5690s</a></td>
+        <td>Pomóżcie Filipowi odblokować ten obszar fabularów, kto ma nieodblokowany miłego.</td>
+    </tr>
+    <tr id="t5694">
+        <td><a href="#t5694">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5694">5694s</a></td>
+        <td>Pomagamy bardzo.</td>
+    </tr>
+    <tr id="t5694">
+        <td><a href="#t5694">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5694">5694s</a></td>
+        <td>I jeszcze Jerz z Erlenwaldu pisał, dokąd nocą tupta Jerz.</td>
+    </tr>
+    <tr id="t5698">
+        <td><a href="#t5698">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5698">5698s</a></td>
+        <td>Witaj Jerzu i dziękuję Ci serdecznie za wsparcie od, od, od siedmiu miesięcy już.</td>
+    </tr>
+    <tr id="t5703">
+        <td><a href="#t5703">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5703">5703s</a></td>
+        <td>Bardzo Ci dziękuję.</td>
+    </tr>
+    <tr id="t5705">
+        <td><a href="#t5705">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5705">5705s</a></td>
+        <td>Jakiś syfon tutaj jest.</td>
+    </tr>
+    <tr id="t5707">
+        <td><a href="#t5707">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5707">5707s</a></td>
+        <td>Bardzo się cieszę, że Filip podjął ten wątek.</td>
+    </tr>
+    <tr id="t5709">
+        <td><a href="#t5709">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5709">5709s</a></td>
+        <td>Ja jeszcze bym dorzucił jedną rzecz, że mam wrażenie, że w, myślę, wciąż słusznej tendencji do tego, żeby przełamywać nadreprezentację białych, heteroseksualnych mężczyzn jako bohaterów kina, prawda?</td>
+    </tr>
+    <tr id="t5726">
+        <td><a href="#t5726">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5726">5726s</a></td>
+        <td>Bo była taka nadreprezentacja, zwłaszcza w Hollywoodzie lat 50., 60., 70.</td>
+    </tr>
+    <tr id="t5731">
+        <td><a href="#t5731">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5731">5731s</a></td>
+        <td>zapuścili się zdecydowanie za daleko filmowcy i także niektórzy widzowie, którzy uważają, że na przykład właśnie, no chociażby do zagrania postaci homoseksualnej musi być aktor homoseksualny.</td>
+    </tr>
+    <tr id="t5743">
+        <td><a href="#t5743">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5743">5743s</a></td>
+        <td>Jest to abstrakcja kompletna, zwłaszcza, że nie wszyscy aktorzy muszą mieć potrzebę mówienia o swojej seksualności.</td>
+    </tr>
+    <tr id="t5751">
+        <td><a href="#t5751">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5751">5751s</a></td>
+        <td>i uważam to za oburzające, żeby w ogóle ludzi do tego zmuszać, bo to jest właśnie jednym z elementów lewicowej wrażliwości jest to, żeby nie zmuszać ludzi do tego, żeby mówili o tym, o czym nie chcą mówić, prawda?</td>
+    </tr>
+    <tr id="t5763">
+        <td><a href="#t5763">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5763">5763s</a></td>
+        <td>Moim zdaniem, przepraszam, będzie przerwy Krzysztofie,</td>
+    </tr>
+    <tr id="t5766">
+        <td><a href="#t5766">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5766">5766s</a></td>
+        <td>To jest prawicowa wrażliwość, bo prawicowcom w ogóle nie obchodzi twoja seksualność.</td>
+    </tr>
+    <tr id="t5773">
+        <td><a href="#t5773">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5773">5773s</a></td>
+        <td>Masz to w nosie, mnie interesuje.</td>
+    </tr>
+    <tr id="t5774">
+        <td><a href="#t5774">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5774">5774s</a></td>
+        <td>Ważne jest to, co wnosisz dla dobra małego, wielkiego imperium, a nie tam, co robisz w sypialni.</td>
+    </tr>
+    <tr id="t5781">
+        <td><a href="#t5781">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5781">5781s</a></td>
+        <td>Mądra prawicowca i mądra prawicowca się zgadzają.</td>
+    </tr>
+    <tr id="t5785">
+        <td><a href="#t5785">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5785">5785s</a></td>
+        <td>Proszę?</td>
+    </tr>
+    <tr id="t5786">
+        <td><a href="#t5786">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5786">5786s</a></td>
+        <td>Chciałem się odnieść do tego, co napisał Alternatywka z sąsiedztwa.</td>
+    </tr>
+    <tr id="t5788">
+        <td><a href="#t5788">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5788">5788s</a></td>
+        <td>A co do Wieloryba, to też nie każda historia musi być opowiedziana, bo ta samo w sobie była krzywdząca i depersonalizująca, w moim odczuciu zaznacza Alternatywka.</td>
+    </tr>
+    <tr id="t5798">
+        <td><a href="#t5798">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5798">5798s</a></td>
+        <td>I ja odebrałem ten film dość podobnie, ale chciałbym go obronić, ponieważ przed filmem była sztuka autorstwa Samuela D. Huntera, która ukazała się w 2011 roku.</td>
+    </tr>
+    <tr id="t5809">
+        <td><a href="#t5809">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5809">5809s</a></td>
+        <td>I to jest naprawdę potężna opowieść, jakkolwiek by nie fetyszyzować tego aspektu otyłości, co zrobił faktycznie Darren Aronofsky.</td>
+    </tr>
+    <tr id="t5817">
+        <td><a href="#t5817">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5817">5817s</a></td>
+        <td>To jest bardzo poruszająca opowieść o popadaniu w depresję, która ma swoją manifestację w postaci naszej cielesności i jest czynnikiem, jak to się mówi, egzogennym, wpływającym na to, jak wyglądamy.</td>
+    </tr>
+    <tr id="t5834">
+        <td><a href="#t5834">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5834">5834s</a></td>
+        <td>I historia tego bohatera przedstawiona właśnie na deskach teatru była bardzo poruszająca dla wielu, bo nie koncentrowała się aż tak silnie na tym aspekcie otyłości oczywiście, ale bardzo silnie na aspekcie otyłości i życiu w niezgodzie ze sobą i trochę w kłamstwie, bo tam bardzo ważna jest relacja z jego córką, ale także to, że on jako nauczyciel akademicki zawsze oczekuje od swoich uczniów, żeby byli szczerzy i autentyczni, ale sam nie jest w stanie im tego zaoferować, bo on zawsze wyłącza kamerkę, kiedy jest z nimi na zajęcie.</td>
+    </tr>
+    <tr id="t5865">
+        <td><a href="#t5865">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5865">5865s</a></td>
+        <td>I cała ta historia sprowadza się do nauczenia się życia w prawdzie, bo w ten sposób pokazuje szacunek sobie i osobom, które kocha najbardziej, tak jak jego córka, którą niestety porzucił ze względu na miłość innego mężczyzny, który już nie żyje.</td>
+    </tr>
+    <tr id="t5879">
+        <td><a href="#t5879">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5879">5879s</a></td>
+        <td>Więc ja, mimo że krytyczny jestem wobec tego filmu, to jednak bardzo będę bronił tej historii i szczególnie osoby, które mogły w jakiś sposób cierpieć na depresję, albo miały też problemy z otyłością, to nawet jeżeli ten film trochę to fetyszyzuje, uważam, że jest ważny.</td>
+    </tr>
+    <tr id="t5896">
+        <td><a href="#t5896">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5896">5896s</a></td>
+        <td>Ja na przykład miałem problem z otyłością.</td>
+    </tr>
+    <tr id="t5898">
+        <td><a href="#t5898">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5898">5898s</a></td>
+        <td>Ja jestem osobą, która miała problem z otyłością, bo byłem przez...</td>
+    </tr>
+    <tr id="t5904">
+        <td><a href="#t5904">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5904">5904s</a></td>
+        <td>Zapuściłem się straszliwie od 28 do 38 roku życia, straszliwie się zapuściłem, byłem w stanie takim, w którym gdybym utrzymał ten stan, to pewnie już by mnie tutaj nie było.</td>
+    </tr>
+    <tr id="t5916">
+        <td><a href="#t5916">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5916">5916s</a></td>
+        <td>I dlatego</td>
+    </tr>
+    <tr id="t5919">
+        <td><a href="#t5919">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5919">5919s</a></td>
+        <td>Czasami dziwię się sytuacją, w której jest bronione to, jak niektórzy patrzą na osoby otyłe, które</td>
+    </tr>
+    <tr id="t5939">
+        <td><a href="#t5939">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5939">5939s</a></td>
+        <td>powinny coś z tym zrobić.</td>
+    </tr>
+    <tr id="t5940">
+        <td><a href="#t5940">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5940">5940s</a></td>
+        <td>No po prostu powinny coś z tym zrobić, bo skracają swoje życie.</td>
+    </tr>
+    <tr id="t5943">
+        <td><a href="#t5943">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5943">5943s</a></td>
+        <td>To jest choroba po prostu.</td>
+    </tr>
+    <tr id="t5946">
+        <td><a href="#t5946">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5946">5946s</a></td>
+        <td>To jest choroba, którą trzeba walczyć i starać się ją zniweczyć, a nie cieszyć się z tego, że jest się w tyłku.</td>
+    </tr>
+    <tr id="t5955">
+        <td><a href="#t5955">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5955">5955s</a></td>
+        <td>Jeżeli mogę tutaj ad vocem jedną rzecz dorzucić, bo ja w dużej mierze się zgadzam.</td>
+    </tr>
+    <tr id="t5959">
+        <td><a href="#t5959">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5959">5959s</a></td>
+        <td>Ja powiedziałbym,</td>
+    </tr>
+    <tr id="t5961">
+        <td><a href="#t5961">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5961">5961s</a></td>
+        <td>Normalizowanie otyłości w popkulturze i mediach masowych jest równie szkodliwe, co stygmatyzowanie otyłości.</td>
+    </tr>
+    <tr id="t5968">
+        <td><a href="#t5968">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5968">5968s</a></td>
+        <td>Otyłości nie należy stygmatyzować, jest to choroba, czynniki, które na nią wpływają, również mogą być genetyczne.</td>
+    </tr>
+    <tr id="t5974">
+        <td><a href="#t5974">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5974">5974s</a></td>
+        <td>Znam osoby, które nie chcą być otyłe i robią wszystko, żeby nie być, ale mają ciężej niż my.</td>
+    </tr>
+    <tr id="t5980">
+        <td><a href="#t5980">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5980">5980s</a></td>
+        <td>Mają ciężej, oczywiście, niektóre osoby mają ciężej.</td>
+    </tr>
+    <tr id="t5982">
+        <td><a href="#t5982">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5982">5982s</a></td>
+        <td>Tak, to ja się zgadzam z tobą całkiem.</td>
+    </tr>
+    <tr id="t5984">
+        <td><a href="#t5984">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5984">5984s</a></td>
+        <td>Natomiast...</td>
+    </tr>
+    <tr id="t5988">
+        <td><a href="#t5988">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5988">5988s</a></td>
+        <td>Wlazłeś chyba do podziemi teraz, tak?</td>
+    </tr>
+    <tr id="t5990">
+        <td><a href="#t5990">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5990">5990s</a></td>
+        <td>Tak, bo pomyślałem, że może tu coś wyciśnięć.</td>
+    </tr>
+    <tr id="t5992">
+        <td><a href="#t5992">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5992">5992s</a></td>
+        <td>No dobra, to idę za tobą.</td>
+    </tr>
+    <tr id="t5996">
+        <td><a href="#t5996">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5996">5996s</a></td>
+        <td>Ale rzeczywiście... Tak mi zniknęłeś nagle.</td>
+    </tr>
+    <tr id="t5998">
+        <td><a href="#t5998">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5998">5998s</a></td>
+        <td>Co się stało?</td>
+    </tr>
+    <tr id="t5999">
+        <td><a href="#t5999">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=5999">5999s</a></td>
+        <td>Tak, kliknąłem.</td>
+    </tr>
+    <tr id="t6001">
+        <td><a href="#t6001">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6001">6001s</a></td>
+        <td>To budzone cele.</td>
+    </tr>
+    <tr id="t6005">
+        <td><a href="#t6005">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6005">6005s</a></td>
+        <td>O, wszyscy jesteśmy we trójkę tutaj.</td>
+    </tr>
+    <tr id="t6008">
+        <td><a href="#t6008">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6008">6008s</a></td>
+        <td>Nie zostawimy cię wokoła.</td>
+    </tr>
+    <tr id="t6010">
+        <td><a href="#t6010">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6010">6010s</a></td>
+        <td>Ale ja chciałbym, żebyśmy poszli do jakiegoś naprawdę ultra trudnego miejsca, tak jak zrobiliśmy przedtem, jak był ten boss.</td>
+    </tr>
+    <tr id="t6015">
+        <td><a href="#t6015">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6015">6015s</a></td>
+        <td>Tutaj nie ma, tutaj nie ma.</td>
+    </tr>
+    <tr id="t6016">
+        <td><a href="#t6016">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6016">6016s</a></td>
+        <td>No to zaprowadź się gdzieś, no.</td>
+    </tr>
+    <tr id="t6018">
+        <td><a href="#t6018">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6018">6018s</a></td>
+        <td>Dlaczego macie na mnie?</td>
+    </tr>
+    <tr id="t6018">
+        <td><a href="#t6018">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6018">6018s</a></td>
+        <td>Nie możemy, bo nie zmyczyłeś fabuły, no.</td>
+    </tr>
+    <tr id="t6020">
+        <td><a href="#t6020">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6020">6020s</a></td>
+        <td>Ale nie ma już żadnych innych miejsc, do których moglibyśmy pójść razem?</td>
+    </tr>
+    <tr id="t6023">
+        <td><a href="#t6023">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6023">6023s</a></td>
+        <td>Nie, póki nie zmyczysz fabuły, to nie.</td>
+    </tr>
+    <tr id="t6026">
+        <td><a href="#t6026">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6026">6026s</a></td>
+        <td>Kurde.</td>
+    </tr>
+    <tr id="t6028">
+        <td><a href="#t6028">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6028">6028s</a></td>
+        <td>To niestety.</td>
+    </tr>
+    <tr id="t6028">
+        <td><a href="#t6028">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6028">6028s</a></td>
+        <td>Musimy to przegadać wcześniej.</td>
+    </tr>
+    <tr id="t6030">
+        <td><a href="#t6030">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6030">6030s</a></td>
+        <td>Nie, byłem przekonany, że akurat fabułę skończyłeś, wiesz?</td>
+    </tr>
+    <tr id="t6033">
+        <td><a href="#t6033">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6033">6033s</a></td>
+        <td>Nie, nie, nie, nie, nie.</td>
+    </tr>
+    <tr id="t6034">
+        <td><a href="#t6034">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6034">6034s</a></td>
+        <td>Możemy być tylko w drugim świecie, nie?</td>
+    </tr>
+    <tr id="t6036">
+        <td><a href="#t6036">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6036">6036s</a></td>
+        <td>To jest... To nam trochę ogranicza.</td>
+    </tr>
+    <tr id="t6038">
+        <td><a href="#t6038">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6038">6038s</a></td>
+        <td>Znaczy, wiesz, to nie jest tak, że jest super... Znaczy...</td>
+    </tr>
+    <tr id="t6041">
+        <td><a href="#t6041">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6041">6041s</a></td>
+        <td>Ja tutaj nie zginę, natomiast nie zabijam od jednego strzału, bo jest to skalowanie, tak?</td>
+    </tr>
+    <tr id="t6045">
+        <td><a href="#t6045">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6045">6045s</a></td>
+        <td>Nic mnie nie jest tutaj w stanie zabić, bo mam dużo żyć.</td>
+    </tr>
+    <tr id="t6048">
+        <td><a href="#t6048">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6048">6048s</a></td>
+        <td>Ja mam 10 tysięcy pancerza, 13 tysięcy zdrowia, nie?</td>
+    </tr>
+    <tr id="t6052">
+        <td><a href="#t6052">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6052">6052s</a></td>
+        <td>Krzysztof tymczasem mówił różne rzeczy i nie był słyszalny, ponieważ zapomniałem, że miałem wyciszony mikrofon, bo pisałem na czacie.</td>
+    </tr>
+    <tr id="t6058">
+        <td><a href="#t6058">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6058">6058s</a></td>
+        <td>Tak to się kończy.</td>
+    </tr>
+    <tr id="t6059">
+        <td><a href="#t6059">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6059">6059s</a></td>
+        <td>A miałem ważną rzecz do powiedzenia.</td>
+    </tr>
+    <tr id="t6061">
+        <td><a href="#t6061">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6061">6061s</a></td>
+        <td>W tym temacie to znaczy, że ja miałem na sobie 97 kilo.</td>
+    </tr>
+    <tr id="t6069">
+        <td><a href="#t6069">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6069">6069s</a></td>
+        <td>I mogę jednemu tylko rzecz powiedzieć, to znaczy bardzo mi brakowało w pewnym momencie życia, jak poprosiłem o pomoc, żeby ktoś mi powiedział, co mam ze sobą zrobić i mi doradzić.</td>
+    </tr>
+    <tr id="t6079">
+        <td><a href="#t6079">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6079">6079s</a></td>
+        <td>Natomiast bardzo było dużo ludzi, którzy zawsze umieli dopieprzyć.</td>
+    </tr>
+    <tr id="t6087">
+        <td><a href="#t6087">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6087">6087s</a></td>
+        <td>O Krzysztofie, to jeśli mogę, bo jesteśmy podobnego wzrostu, tak?</td>
+    </tr>
+    <tr id="t6090">
+        <td><a href="#t6090">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6090">6090s</a></td>
+        <td>Ja miałem 125 kg na sobie.</td>
+    </tr>
+    <tr id="t6094">
+        <td><a href="#t6094">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6094">6094s</a></td>
+        <td>125 kilo.</td>
+    </tr>
+    <tr id="t6095">
+        <td><a href="#t6095">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6095">6095s</a></td>
+        <td>Ale wiesz, jak dużo też trzeba wysiłku w to włożyć, żeby z tym skończyć, prawda?</td>
+    </tr>
+    <tr id="t6102">
+        <td><a href="#t6102">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6102">6102s</a></td>
+        <td>I najgorsze było to, że ja nie słyszałem w ogóle od nikogo słów takich, że jest z tobą źle, zrób coś z tobą, wręcz przeciwnie, wszystko jest z tobą okej.</td>
+    </tr>
+    <tr id="t6111">
+        <td><a href="#t6111">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6111">6111s</a></td>
+        <td>A to nie, to ja bardzo dużo słyszałem cierpich słów.</td>
+    </tr>
+    <tr id="t6113">
+        <td><a href="#t6113">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6113">6113s</a></td>
+        <td>Ja właśnie słyszałem, że jest wszystko z tobą okej i w zasadzie dobrze wyglądasz i tak zdrowo i... No wiesz to, miałeś szczęście w nieszczęściu, ponieważ prawda jest taka, że bardzo dużo, wiesz, jest i instytucji i sytuacji społecznych takich, w których właśnie dostajesz nie konkretne rady, czy dietetyczne, czy profesjonalne, tylko dostajesz po prostu po dupie od ludzi, którzy nie są empatyczni.</td>
+    </tr>
+    <tr id="t6135">
+        <td><a href="#t6135">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6135">6135s</a></td>
+        <td>Ja bym wolał dostać po dupie.</td>
+    </tr>
+    <tr id="t6137">
+        <td><a href="#t6137">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6137">6137s</a></td>
+        <td>Wolałbym, wolałbym, wolałbym, wolałbym, ja, ja, żebym ktoś powiedział, słuchaj, grubasie wstrętny, weź się za siebie.</td>
+    </tr>
+    <tr id="t6145">
+        <td><a href="#t6145">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6145">6145s</a></td>
+        <td>Wolałbym, żebym ktoś tak powiedział.</td>
+    </tr>
+    <tr id="t6147">
+        <td><a href="#t6147">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6147">6147s</a></td>
+        <td>Ja.</td>
+    </tr>
+    <tr id="t6147">
+        <td><a href="#t6147">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6147">6147s</a></td>
+        <td>Rozumiem, że dla kogoś mogłoby to być bardzo...</td>
+    </tr>
+    <tr id="t6151">
+        <td><a href="#t6151">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6151">6151s</a></td>
+        <td>ciężkim doznaniem.</td>
+    </tr>
+    <tr id="t6152">
+        <td><a href="#t6152">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6152">6152s</a></td>
+        <td>No tak, ale problem polegałby na tym tylko wtedy, gdybyś nie był w stanie nic z tym zrobić, prawda?</td>
+    </tr>
+    <tr id="t6159">
+        <td><a href="#t6159">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6159">6159s</a></td>
+        <td>Bo to jest możliwe.</td>
+    </tr>
+    <tr id="t6161">
+        <td><a href="#t6161">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6161">6161s</a></td>
+        <td>I wtedy jest kłopot, ponieważ ktoś ci coś takiego powie i ty masz przerąbane już w tym momencie przez pół życia.</td>
+    </tr>
+    <tr id="t6168">
+        <td><a href="#t6168">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6168">6168s</a></td>
+        <td>Nie wiem, czy jestem w stanie teraz przyznać rację z tym, że zawsze jesteś w stanie.</td>
+    </tr>
+    <tr id="t6175">
+        <td><a href="#t6175">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6175">6175s</a></td>
+        <td>Jakieś promile, promila, promila nie są w stanie coś z tym zrobić.</td>
+    </tr>
+    <tr id="t6178">
+        <td><a href="#t6178">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6178">6178s</a></td>
+        <td>Większość osób jest w stanie z tym zrobić.</td>
+    </tr>
+    <tr id="t6181">
+        <td><a href="#t6181">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6181">6181s</a></td>
+        <td>Zdecydowana większość jest w stanie z tym zrobić i to nie jest, to wymaga po prostu samozaparcia, ćwiczenia, cardio, dźwigania i przede wszystkim mniej jedzenia.</td>
+    </tr>
+    <tr id="t6195">
+        <td><a href="#t6195">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6195">6195s</a></td>
+        <td>Dieta na pierwszym miejscu.</td>
+    </tr>
+    <tr id="t6197">
+        <td><a href="#t6197">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6197">6197s</a></td>
+        <td>Ja zawsze mówię, dlatego mówię, przede wszystkim mniej jedzenia.</td>
+    </tr>
+    <tr id="t6200">
+        <td><a href="#t6200">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6200">6200s</a></td>
+        <td>Że w tych tematach po prostu powinien się wypowiadać dietetyk i drażni mnie, że ludzie po prostu nieproszeni</td>
+    </tr>
+    <tr id="t6207">
+        <td><a href="#t6207">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6207">6207s</a></td>
+        <td>wygłaszają do kogoś uwagę jakąś, prawda, bo jeżeli rzeczywiście jesteśmy w jakimś gronie bliskich, znajomych czy coś, to wiecie, to spoko, ale w sytuacji, gdy ludzie potrafią, a potrafią, takie rzeczy zrobić na uczelni, w szkole, w miejscu publicznym, to jest skandal i w ogóle coś takiego nie ma prawa istnieć, bo właśnie tak, pisze Joanne, nie każdy jest w stanie znieść tego rodzaju obelgi, czy nie każdy ma dystans do siebie, nie każdy...</td>
+    </tr>
+    <tr id="t6231">
+        <td><a href="#t6231">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6231">6231s</a></td>
+        <td>Ogólnie to lepiej działa przy chłopakach, dlatego w życiu bym nie powiedział do żadnej dziewczyny niczego takiego, bo wiem jak to może działać na dziewczęta.</td>
+    </tr>
+    <tr id="t6243">
+        <td><a href="#t6243">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6243">6243s</a></td>
+        <td>Natomiast wiem z chłopakami, że...</td>
+    </tr>
+    <tr id="t6245">
+        <td><a href="#t6245">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6245">6245s</a></td>
+        <td>przynajmniej z moimi kumplami, my sobie możemy powiedzieć wszystko i to nie ma na nas wpływu, wręcz przeciwnie.</td>
+    </tr>
+    <tr id="t6251">
+        <td><a href="#t6251">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6251">6251s</a></td>
+        <td>Myślę, że to nawet nie zależy w tym momencie od ludzi, to jest kwestia tego, że po prostu się znacie i ufacie sobie, w związku z powyższym wiecie, że sobie możecie pozwolić po prostu na określone uwagi.</td>
+    </tr>
+    <tr id="t6262">
+        <td><a href="#t6262">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6262">6262s</a></td>
+        <td>Moim zdaniem, tutaj się nie zgodzę, bo pewnych rzeczy nawet dziewczynom, które znam, bym miał opory pewne powiedzieć, wiesz?</td>
+    </tr>
+    <tr id="t6269">
+        <td><a href="#t6269">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6269">6269s</a></td>
+        <td>Miałbym opory powiedzieć, bo</td>
+    </tr>
+    <tr id="t6272">
+        <td><a href="#t6272">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6272">6272s</a></td>
+        <td>Kurczę, no to jest ciężko.</td>
+    </tr>
+    <tr id="t6276">
+        <td><a href="#t6276">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6276">6276s</a></td>
+        <td>Czasami pewne rzeczy trudno jest przejąć i jeśli znam kogoś dobrze... O, to jest w ogóle trudna sprawa.</td>
+    </tr>
+    <tr id="t6283">
+        <td><a href="#t6283">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6283">6283s</a></td>
+        <td>Dobrze by pogadać o tym jakby mniej... znaczy bardziej takim...</td>
+    </tr>
+    <tr id="t6291">
+        <td><a href="#t6291">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6291">6291s</a></td>
+        <td>To jest główny problem tego filmu.</td>
+    </tr>
+    <tr id="t6322">
+        <td><a href="#t6322">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6322">6322s</a></td>
+        <td>No czy nawet tym tytułowym wielorybem nie jest główny bohater w rozumieniu fizycznym, jego fizyczność.</td>
+    </tr>
+    <tr id="t6330">
+        <td><a href="#t6330">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6330">6330s</a></td>
+        <td>Tytułowym wielorybem jest wieloryb z Moby-Dyka, który pojawia się w tym filmie, a zatem symbol unienia czegoś.</td>
+    </tr>
+    <tr id="t6338">
+        <td><a href="#t6338">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6338">6338s</a></td>
+        <td>Symbol gonienia czegoś, czego nie można uchwycić i złapać.</td>
+    </tr>
+    <tr id="t6341">
+        <td><a href="#t6341">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6341">6341s</a></td>
+        <td>Dlaczego?</td>
+    </tr>
+    <tr id="t6341">
+        <td><a href="#t6341">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6341">6341s</a></td>
+        <td>I tu uzupełnię tę waszą dyskusję, która naprawdę jest bardzo ciekawa i wartościowa, o czynnik, który za mało się pojawiał.</td>
+    </tr>
+    <tr id="t6348">
+        <td><a href="#t6348">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6348">6348s</a></td>
+        <td>Nierzadko otyłość pojawia się jednocześnie z problemami psychicznymi, najczęściej w postaci depresji.</td>
+    </tr>
+    <tr id="t6355">
+        <td><a href="#t6355">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6355">6355s</a></td>
+        <td>I główny bohater cierpi na depresję i szczególnie trudne i ja trochę wyznaję, w sensie ja mam taką mentalność jak Rysła, w sensie na mnie działają rzeczy, jeżeli ktoś mi powie, weź się za siebie stary, bo nie jest dobrze.</td>
+    </tr>
+    <tr id="t6370">
+        <td><a href="#t6370">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6370">6370s</a></td>
+        <td>I tak to na mnie działa, ale też wiem czym jest depresja.</td>
+    </tr>
+    <tr id="t6374">
+        <td><a href="#t6374">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6374">6374s</a></td>
+        <td>I pamiętam, jak pracowałem z osobami, które cierpiały na fazy depresyjne i ja po prostu nie rozumiałem, dlaczego one się nie pojawiają, czemu oni nie odpisują i miałem do nich pretensje.</td>
+    </tr>
+    <tr id="t6384">
+        <td><a href="#t6384">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6384">6384s</a></td>
+        <td>Ale te pretensje tylko i wyłącznie bardziej zamykały je w kokonie depresji.</td>
+    </tr>
+    <tr id="t6388">
+        <td><a href="#t6388">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6388">6388s</a></td>
+        <td>Tylko i wyłącznie bardziej sprawiały, że czuły się ze sobą źle.</td>
+    </tr>
+    <tr id="t6391">
+        <td><a href="#t6391">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6391">6391s</a></td>
+        <td>I ja też pamiętam, kiedy przestawałem chodzić na uczelnie, bo myślałem, że już jest tak źle, że jedyne, co można zrobić, żeby było lepiej, to zostawić to.</td>
+    </tr>
+    <tr id="t6399">
+        <td><a href="#t6399">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6399">6399s</a></td>
+        <td>I jestem w stanie sobie poprawić sytuację, kiedy jestem otyły, cierpię na depresję i czuję, że co ja z tym mogę zrobić?</td>
+    </tr>
+    <tr id="t6405">
+        <td><a href="#t6405">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6405">6405s</a></td>
+        <td>Po prostu puszczam ręce z kierownicy i to bardziej jest potrzebne wsparcie psychologa albo psychoterapeuty.</td>
+    </tr>
+    <tr id="t6410">
+        <td><a href="#t6410">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6410">6410s</a></td>
+        <td>Absolutnie tak.</td>
+    </tr>
+    <tr id="t6411">
+        <td><a href="#t6411">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6411">6411s</a></td>
+        <td>Zdecydowanie się zgodzę z tobą.</td>
+    </tr>
+    <tr id="t6413">
+        <td><a href="#t6413">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6413">6413s</a></td>
+        <td>Tutaj, drogi Krzysztofie, powiem ci tak.</td>
+    </tr>
+    <tr id="t6417">
+        <td><a href="#t6417">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6417">6417s</a></td>
+        <td>Mam wątpliwości.</td>
+    </tr>
+    <tr id="t6422">
+        <td><a href="#t6422">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6422">6422s</a></td>
+        <td>Bo ja spotkałem... Wielu dietetyków działa na autopilocie i mówi... No nie, to większość ludzi działa na autopilocie z tego powodu, że nie leczy człowieka, tylko jest uczona teścikami, o czym bardzo często zresztą też mówimy, bo mamy sporo studentów medycyny, którzy tutaj wpadają i są absolutnie przerażeni.</td>
+    </tr>
+    <tr id="t6442">
+        <td><a href="#t6442">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6442">6442s</a></td>
+        <td>Chyba go zabiłem, przepraszam.</td>
+    </tr>
+    <tr id="t6444">
+        <td><a href="#t6444">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6444">6444s</a></td>
+        <td>Nie ma sprawy.</td>
+    </tr>
+    <tr id="t6445">
+        <td><a href="#t6445">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6445">6445s</a></td>
+        <td>Nie uczą się leczyć pacjenta, tylko leczyć chorobę i to jest problem, moi drodzy.</td>
+    </tr>
+    <tr id="t6450">
+        <td><a href="#t6450">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6450">6450s</a></td>
+        <td>Ja telefonu nie zdążyłem wyjąć, żeby zrobić zdjęcie.</td>
+    </tr>
+    <tr id="t6453">
+        <td><a href="#t6453">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6453">6453s</a></td>
+        <td>Jedyna opcja jest taka, bo to jest ważna rzecz, że jeżeli ktoś się nadzieje na złego lekarza, to po prostu trzeba iść do drugiego lekarza.</td>
+    </tr>
+    <tr id="t6460">
+        <td><a href="#t6460">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6460">6460s</a></td>
+        <td>Jeżeli nadzieje się na drugiego złego lekarza, to niestety trzeba iść do trzeciego złego lekarza.</td>
+    </tr>
+    <tr id="t6465">
+        <td><a href="#t6465">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6465">6465s</a></td>
+        <td>No ja teraz od dwóch miesięcy chodzę po lekarzach, więc wiecie, no.</td>
+    </tr>
+    <tr id="t6468">
+        <td><a href="#t6468">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6468">6468s</a></td>
+        <td>Słusznie, słusznie, Rysławek.</td>
+    </tr>
+    <tr id="t6470">
+        <td><a href="#t6470">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6470">6470s</a></td>
+        <td>Sorry, kurde, nie wiem, co ja bym powiedział.</td>
+    </tr>
+    <tr id="t6471">
+        <td><a href="#t6471">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6471">6471s</a></td>
+        <td>Przepraszam.</td>
+    </tr>
+    <tr id="t6472">
+        <td><a href="#t6472">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6472">6472s</a></td>
+        <td>Przetkałem naszą ważną dyskusję elementów... Przepraszam, ale to tak, wiesz, z rozpędu.</td>
+    </tr>
+    <tr id="t6477">
+        <td><a href="#t6477">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6477">6477s</a></td>
+        <td>Był dzisiaj jeden moment, kiedy poczułem się naprawdę dobrze.</td>
+    </tr>
+    <tr id="t6479">
+        <td><a href="#t6479">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6479">6479s</a></td>
+        <td>To znaczy, to nie jest tak, że ja tutaj dąsam się czy coś, przepraszam was, trochę jestem zmęczony po tym tygodniu, ale był taki moment, kiedy poczułem się wspaniale.</td>
+    </tr>
+    <tr id="t6487">
+        <td><a href="#t6487">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6487">6487s</a></td>
+        <td>I wyciąłem siedemnastu wrogów za jednym ciosem.</td>
+    </tr>
+    <tr id="t6489">
+        <td><a href="#t6489">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6489">6489s</a></td>
+        <td>Myślałem, wreszcie!</td>
+    </tr>
+    <tr id="t6491">
+        <td><a href="#t6491">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6491">6491s</a></td>
+        <td>I okazało się, że zanąstał Rysław.</td>
+    </tr>
+    <tr id="t6493">
+        <td><a href="#t6493">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6493">6493s</a></td>
+        <td>Dobrze, mamy jeszcze niezłomne koszary, moi drodzy, niedaleko.</td>
+    </tr>
+    <tr id="t6496">
+        <td><a href="#t6496">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6496">6496s</a></td>
+        <td>Przepraszam, no sorry.</td>
+    </tr>
+    <tr id="t6497">
+        <td><a href="#t6497">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6497">6497s</a></td>
+        <td>Jakoś tak się poniosło mnie, no poniosło mnie.</td>
+    </tr>
+    <tr id="t6500">
+        <td><a href="#t6500">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6500">6500s</a></td>
+        <td>Spokojnie, są niezłomne koszary.</td>
+    </tr>
+    <tr id="t6503">
+        <td><a href="#t6503">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6503">6503s</a></td>
+        <td>Idźcie za mną do niezłomnych koszarów.</td>
+    </tr>
+    <tr id="t6504">
+        <td><a href="#t6504">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6504">6504s</a></td>
+        <td>Wiecie, że tutaj jest posąg Lilith?</td>
+    </tr>
+    <tr id="t6506">
+        <td><a href="#t6506">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6506">6506s</a></td>
+        <td>Chcecie posąg Lilith?</td>
+    </tr>
+    <tr id="t6508">
+        <td><a href="#t6508">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6508">6508s</a></td>
+        <td>Gdzie masz posąg Lilith?</td>
+    </tr>
+    <tr id="t6509">
+        <td><a href="#t6509">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6509">6509s</a></td>
+        <td>No to chodźcie ze mną.</td>
+    </tr>
+    <tr id="t6511">
+        <td><a href="#t6511">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6511">6511s</a></td>
+        <td>Ojej, ja go nie mam.</td>
+    </tr>
+    <tr id="t6512">
+        <td><a href="#t6512">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6512">6512s</a></td>
+        <td>Tak, Anonimso, Rysław bezwładnie przetoczył się po bosie.</td>
+    </tr>
+    <tr id="t6515">
+        <td><a href="#t6515">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6515">6515s</a></td>
+        <td>Tak, to prawda.</td>
+    </tr>
+    <tr id="t6517">
+        <td><a href="#t6517">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6517">6517s</a></td>
+        <td>Nie każdy ma na to pieniądze, żeby biegać przeciwko lekarzom i wybierać sobie najlepszego.</td>
+    </tr>
+    <tr id="t6520">
+        <td><a href="#t6520">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6520">6520s</a></td>
+        <td>Niestety to jest prawda, moi drodzy.</td>
+    </tr>
+    <tr id="t6522">
+        <td><a href="#t6522">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6522">6522s</a></td>
+        <td>Dlatego właśnie potrzebujemy medycyny, która nie będzie polegała na teścikach, tylko będzie polegała na praktykach, okej?</td>
+    </tr>
+    <tr id="t6528">
+        <td><a href="#t6528">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6528">6528s</a></td>
+        <td>Właśnie dlatego, żeby nie musieć biegać po 30 lekarzach.</td>
+    </tr>
+    <tr id="t6531">
+        <td><a href="#t6531">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6531">6531s</a></td>
+        <td>Nie wiem, ty coś tam pijesz.</td>
+    </tr>
+    <tr id="t6535">
+        <td><a href="#t6535">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6535">6535s</a></td>
+        <td>Gdzie ty jesteś?</td>
+    </tr>
+    <tr id="t6536">
+        <td><a href="#t6536">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6536">6536s</a></td>
+        <td>Nie jesteś.</td>
+    </tr>
+    <tr id="t6537">
+        <td><a href="#t6537">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6537">6537s</a></td>
+        <td>Gdzie ty jesteś?</td>
+    </tr>
+    <tr id="t6538">
+        <td><a href="#t6538">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6538">6538s</a></td>
+        <td>Nie, nie, idę do tej pokusy, bo teraz dopiero... Ja miałem loading, więc dopiero teraz pojawiły mi się...</td>
+    </tr>
+    <tr id="t6546">
+        <td><a href="#t6546">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6546">6546s</a></td>
+        <td>My tutaj czekamy sobie na ciebie przy Lilith.</td>
+    </tr>
+    <tr id="t6550">
+        <td><a href="#t6550">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6550">6550s</a></td>
+        <td>Arysław, a ty zabingowałeś Eliasza, bo Axleben twierdzi, że tak.</td>
+    </tr>
+    <tr id="t6553">
+        <td><a href="#t6553">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6553">6553s</a></td>
+        <td>Nie, nie, nie, nie, taki dobry to ja nie jestem.</td>
+    </tr>
+    <tr id="t6557">
+        <td><a href="#t6557">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6557">6557s</a></td>
+        <td>Ja dostałem poboczną rolę poboczną, tak to mówię.</td>
+    </tr>
+    <tr id="t6562">
+        <td><a href="#t6562">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6562">6562s</a></td>
+        <td>A może dwie role, może jestem dwoma postaciami.</td>
+    </tr>
+    <tr id="t6565">
+        <td><a href="#t6565">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6565">6565s</a></td>
+        <td>Sądzę, że będę więcej występować w drugim sezonie.</td>
+    </tr>
+    <tr id="t6569">
+        <td><a href="#t6569">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6569">6569s</a></td>
+        <td>O, o, a Sosyniarz pisze.</td>
+    </tr>
+    <tr id="t6571">
+        <td><a href="#t6571">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6571">6571s</a></td>
+        <td>W drugim, nie w pierwszym.</td>
+    </tr>
+    <tr id="t6572">
+        <td><a href="#t6572">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6572">6572s</a></td>
+        <td>Jeden z moich wykładowców mówił, że leczy się pacjenta, a nie wynik i nie chorobę.</td>
+    </tr>
+    <tr id="t6576">
+        <td><a href="#t6576">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6576">6576s</a></td>
+        <td>Tak jest.</td>
+    </tr>
+    <tr id="t6577">
+        <td><a href="#t6577">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6577">6577s</a></td>
+        <td>Absolutnie tak jest.</td>
+    </tr>
+    <tr id="t6578">
+        <td><a href="#t6578">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6578">6578s</a></td>
+        <td>Gdzie jest ten... Chodź, Galów.</td>
+    </tr>
+    <tr id="t6580">
+        <td><a href="#t6580">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6580">6580s</a></td>
+        <td>Chodźcie tutaj.</td>
+    </tr>
+    <tr id="t6581">
+        <td><a href="#t6581">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6581">6581s</a></td>
+        <td>Skaczecie za mną i idziemy tutaj.</td>
+    </tr>
+    <tr id="t6584">
+        <td><a href="#t6584">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6584">6584s</a></td>
+        <td>Popatrzcie.</td>
+    </tr>
+    <tr id="t6587">
+        <td><a href="#t6587">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6587">6587s</a></td>
+        <td>Aaa, co tam, dostaliście inteligencję, czy siłę woli, siłę?</td>
+    </tr>
+    <tr id="t6590">
+        <td><a href="#t6590">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6590">6590s</a></td>
+        <td>Co tam?</td>
+    </tr>
+    <tr id="t6591">
+        <td><a href="#t6591">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6591">6591s</a></td>
+        <td>Proszę bardzo.</td>
+    </tr>
+    <tr id="t6592">
+        <td><a href="#t6592">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6592">6592s</a></td>
+        <td>Inteligencji.</td>
+    </tr>
+    <tr id="t6593">
+        <td><a href="#t6593">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6593">6593s</a></td>
+        <td>Proszę bardzo.</td>
+    </tr>
+    <tr id="t6594">
+        <td><a href="#t6594">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6594">6594s</a></td>
+        <td>Nigdy za mało.</td>
+    </tr>
+    <tr id="t6595">
+        <td><a href="#t6595">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6595">6595s</a></td>
+        <td>Idę za tobą, Wiesławie.</td>
+    </tr>
+    <tr id="t6596">
+        <td><a href="#t6596">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6596">6596s</a></td>
+        <td>Dobrze.</td>
+    </tr>
+    <tr id="t6596">
+        <td><a href="#t6596">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6596">6596s</a></td>
+        <td>To i w takim razie ogarniamy te dwa podziemia, które tu są, bo jest ich sporo, a podziemia są sympatyczne do ogarniania wspólnego.</td>
+    </tr>
+    <tr id="t6601">
+        <td><a href="#t6601">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6601">6601s</a></td>
+        <td>To chodźmy do podziemi, spoko, to ja idę za tobą.</td>
+    </tr>
+    <tr id="t6604">
+        <td><a href="#t6604">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6604">6604s</a></td>
+        <td>Prowadź kusa po kusom.</td>
+    </tr>
+    <tr id="t6605">
+        <td><a href="#t6605">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6605">6605s</a></td>
+        <td>Maju, jeżeli pytasz, jak wyjść z odwrotnego problemu na lekcję niedożywienie, lekarz naprawdę...</td>
+    </tr>
+    <tr id="t6612">
+        <td><a href="#t6612">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6612">6612s</a></td>
+        <td>Naprawdę, nie ma co szukać odpowiedzi w internecie, nie musicie skonsultować ktoś, kto się na tym zna.</td>
+    </tr>
+    <tr id="t6621">
+        <td><a href="#t6621">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6621">6621s</a></td>
+        <td>Ja sobie też starałem się jakoś radzić, ale w którymś momencie musiał mnie poprowadzić ktoś, żebym właśnie sobie ogarnął to, zwłaszcza, że ja miałem bardzo duży problem, w drugą stronę miałem,</td>
+    </tr>
+    <tr id="t6631">
+        <td><a href="#t6631">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6631">6631s</a></td>
+        <td>Po pierwsze z zajadaniem, no ja wierzę, ja zajadałem bardzo stres i druga kwestia, ja nigdy nie ćwiczyłem, więc nawet nie wiedziałem jak to zrobić, więc musiałem spotkać sensownego trenera personalnego, który mi też w głowie poprzewracał i wytłumaczył, że należy ćwiczyć swoją drogą, właśnie też przy leczeniu anoreksji też się bardzo często zaleca to, żeby jednak nadbudować jakąś masę mięśniową, ale tak mówię, to są ogólne uwagi, wiesz, takie zdroworozsądkowe, których ja nie lubię,</td>
+    </tr>
+    <tr id="t6658">
+        <td><a href="#t6658">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6658">6658s</a></td>
+        <td>Dlatego też jedyne, co ci mogę doradzić, to to, żeby znaleźć po prostu specjalistę, który ci pomoże.</td>
+    </tr>
+    <tr id="t6664">
+        <td><a href="#t6664">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6664">6664s</a></td>
+        <td>O!</td>
+    </tr>
+    <tr id="t6664">
+        <td><a href="#t6664">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6664">6664s</a></td>
+        <td>Pytanie Dorysława, które nas strasznie, ale to strasznie męczyło.</td>
+    </tr>
+    <tr id="t6671">
+        <td><a href="#t6671">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6671">6671s</a></td>
+        <td>Dlaczego Lilith, a nie Lilith?</td>
+    </tr>
+    <tr id="t6675">
+        <td><a href="#t6675">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6675">6675s</a></td>
+        <td>Teraz ci nie odpowiem na to pytanie, bo nie pamiętam po prostu.</td>
+    </tr>
+    <tr id="t6679">
+        <td><a href="#t6679">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6679">6679s</a></td>
+        <td>W pewnym momencie zostało chyba, że pójdziemy za oficjalną</td>
+    </tr>
+    <tr id="t6686">
+        <td><a href="#t6686">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6686">6686s</a></td>
+        <td>Właśnie oficjalną, tak naprawdę są dwie oficjalne polskie pisownie.</td>
+    </tr>
+    <tr id="t6690">
+        <td><a href="#t6690">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6690">6690s</a></td>
+        <td>Jest i Lilit, a u Kopalińskiego jest Lilit.</td>
+    </tr>
+    <tr id="t6693">
+        <td><a href="#t6693">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6693">6693s</a></td>
+        <td>I teraz, teraz bym ci powiedział, że Lilit z przydechem.</td>
+    </tr>
+    <tr id="t6698">
+        <td><a href="#t6698">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6698">6698s</a></td>
+        <td>Ale w momencie, kiedy to było robione, wyszło, że Lilith... No i mam nadzieję, że to nie jest aż tak straszny problem.</td>
+    </tr>
+    <tr id="t6705">
+        <td><a href="#t6705">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6705">6705s</a></td>
+        <td>Zobaczę, czy... Bo nie tak, to jest tak często występująca kwestia, że... No, ale mamy tytuł Macbeth, a po polsku Macbeth.</td>
+    </tr>
+    <tr id="t6714">
+        <td><a href="#t6714">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6714">6714s</a></td>
+        <td>Tak, tak, z Lilith jest to samo.</td>
+    </tr>
+    <tr id="t6715">
+        <td><a href="#t6715">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6715">6715s</a></td>
+        <td>Dokładnie, to jest dokładnie ten sam pas... Jest tak samo, natomiast...</td>
+    </tr>
+    <tr id="t6720">
+        <td><a href="#t6720">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6720">6720s</a></td>
+        <td>Tutaj mam przykład, słownik mitów i tradycji kultury, podstawowa moja lektura ogólnie, jeśli ktoś nie ma tego dzieła to bardzo polecam.</td>
+    </tr>
+    <tr id="t6727">
+        <td><a href="#t6727">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6727">6727s</a></td>
+        <td>Bardzo dobra rzecz, przyłączam się do polecajki.</td>
+    </tr>
+    <tr id="t6730">
+        <td><a href="#t6730">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6730">6730s</a></td>
+        <td>To tam jest Lilith przez H, a pan Kopaliński był wielkim purystą.</td>
+    </tr>
+    <tr id="t6737">
+        <td><a href="#t6737">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6737">6737s</a></td>
+        <td>I teraz troszkę żałuję, że nie zerknąłem wcześniej do Kopalińskiego, który był moim, że tak powiem, wirtualnym mentorem przez lata.</td>
+    </tr>
+    <tr id="t6746">
+        <td><a href="#t6746">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6746">6746s</a></td>
+        <td>Przepraszam.</td>
+    </tr>
+    <tr id="t6747">
+        <td><a href="#t6747">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6747">6747s</a></td>
+        <td>Ja wiem, że niektórych może to radzić, tak jak Elbereth chociażby, prawda?</td>
+    </tr>
+    <tr id="t6751">
+        <td><a href="#t6751">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6751">6751s</a></td>
+        <td>Gdyby Elbereth byłoby, to byłoby trochę gorzej.</td>
+    </tr>
+    <tr id="t6755">
+        <td><a href="#t6755">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6755">6755s</a></td>
+        <td>No ale... Kopaliński doskonałe pisze Lucyferta.</td>
+    </tr>
+    <tr id="t6758">
+        <td><a href="#t6758">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6758">6758s</a></td>
+        <td>Ja też absolutnie podbijam.</td>
+    </tr>
+    <tr id="t6760">
+        <td><a href="#t6760">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6760">6760s</a></td>
+        <td>Jedna z moich ulubionych rzeczy.</td>
+    </tr>
+    <tr id="t6762">
+        <td><a href="#t6762">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6762">6762s</a></td>
+        <td>Ja lubiłem czytać Słownik Symbolii Juan Eduardo Cirlo i właśnie Kopalińskiego Słownik Mitów i Tradycji Kultury, coś absolutnie przewspaniałego.</td>
+    </tr>
+    <tr id="t6771">
+        <td><a href="#t6771">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6771">6771s</a></td>
+        <td>I Kopaliński też zrobił Słownik Symbolii.</td>
+    </tr>
+    <tr id="t6773">
+        <td><a href="#t6773">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6773">6773s</a></td>
+        <td>Mam tutaj na półce obok mnie Słownik Mitów i Tradycji Kultury oraz Słownik Symbolii.</td>
+    </tr>
+    <tr id="t6777">
+        <td><a href="#t6777">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6777">6777s</a></td>
+        <td>I to są rzeczy, czy których...</td>
+    </tr>
+    <tr id="t6782">
+        <td><a href="#t6782">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6782">6782s</a></td>
+        <td>Dostałem od rodziców słownik mitów i tradycji kultury chyba na 13 urodziny.</td>
+    </tr>
+    <tr id="t6786">
+        <td><a href="#t6786">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6786">6786s</a></td>
+        <td>To było dawno temu.</td>
+    </tr>
+    <tr id="t6788">
+        <td><a href="#t6788">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6788">6788s</a></td>
+        <td>Bardzo dawno temu.</td>
+    </tr>
+    <tr id="t6789">
+        <td><a href="#t6789">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6789">6789s</a></td>
+        <td>No i go sobie czytałem po prostu.</td>
+    </tr>
+    <tr id="t6792">
+        <td><a href="#t6792">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6792">6792s</a></td>
+        <td>I dzięki temu zebrałem całkiem sporą wiedzę z tematów, których 13-latek mógłby normalnie nie mieć.</td>
+    </tr>
+    <tr id="t6801">
+        <td><a href="#t6801">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6801">6801s</a></td>
+        <td>A jak to jest z kwestią wpływu samego Blizzard'a na tego rodzaju decyzje?</td>
+    </tr>
+    <tr id="t6806">
+        <td><a href="#t6806">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6806">6806s</a></td>
+        <td>Czy oni panoszą się i szalogęszą, czy też macie swobodę relatywną?</td>
+    </tr>
+    <tr id="t6813">
+        <td><a href="#t6813">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6813">6813s</a></td>
+        <td>Tutaj akurat, znaczy są sugestie zazwyczaj.</td>
+    </tr>
+    <tr id="t6816">
+        <td><a href="#t6816">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6816">6816s</a></td>
+        <td>W przypadku na przykład Diablo 3,</td>
+    </tr>
+    <tr id="t6819">
+        <td><a href="#t6819">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6819">6819s</a></td>
+        <td>i takiego dosyć luźnego tonu samej gry była taka sugestia, że w zasadzie możemy tworzyć legendarne przedmioty jak chcemy, ich opisy, tak?</td>
+    </tr>
+    <tr id="t6828">
+        <td><a href="#t6828">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6828">6828s</a></td>
+        <td>Dlatego jest dużo nawiązań do popkultury, znaczy popkultury, do kultury ogólnie.</td>
+    </tr>
+    <tr id="t6832">
+        <td><a href="#t6832">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6832">6832s</a></td>
+        <td>Jest i Mickiewicz, jest i Sapkowski.</td>
+    </tr>
+    <tr id="t6835">
+        <td><a href="#t6835">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6835">6835s</a></td>
+        <td>Jest dużo rzeczy, tak?</td>
+    </tr>
+    <tr id="t6837">
+        <td><a href="#t6837">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6837">6837s</a></td>
+        <td>Więc ja zrobiłem tam... Jest i Kaliber 44, więc...</td>
+    </tr>
+    <tr id="t6842">
+        <td><a href="#t6842">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6842">6842s</a></td>
+        <td>Jest dużo rzeczy wprowadzonych w przedmiotach legendarnych z trójki.</td>
+    </tr>
+    <tr id="t6847">
+        <td><a href="#t6847">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6847">6847s</a></td>
+        <td>Tutaj legendarne przedmioty są tzw.</td>
+    </tr>
+    <tr id="t6850">
+        <td><a href="#t6850">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6850">6850s</a></td>
+        <td>przedmiotami unikatami w czwórce.</td>
+    </tr>
+    <tr id="t6856">
+        <td><a href="#t6856">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6856">6856s</a></td>
+        <td>Sądzę, znaczy wtedy nam Blizzard pozwolił, dał nam w zasadzie taką wolną rękę, róbcie co chcecie.</td>
+    </tr>
+    <tr id="t6862">
+        <td><a href="#t6862">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6862">6862s</a></td>
+        <td>Tutaj była sugestia, żeby utrzymać mroczne klipy, tak, żeby nie pozwalać sobie na żarty, tak, nie ma mięsnych jeży, nie ma takich rzeczy właśnie jak, nie wiem, jak Amulet Geralta, nie ma takich rzeczy jak Katarzyna.</td>
+    </tr>
+    <tr id="t6877">
+        <td><a href="#t6877">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6877">6877s</a></td>
+        <td>Jak Kat Schrödingera, to jest mój ulubiony przedmiot, który, jak pisałem od początku do końca, to jest specjalny topor, który jak zabija, to nie wiesz, czy człowiek żyje, czy nie żyje.</td>
+    </tr>
+    <tr id="t6886">
+        <td><a href="#t6886">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6886">6886s</a></td>
+        <td>Więc byłem bardzo z Kata Schrödingera dumny.</td>
+    </tr>
+    <tr id="t6888">
+        <td><a href="#t6888">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6888">6888s</a></td>
+        <td>Ale właśnie, wiesz co, masz wrażenie, że to jest takie złe rozumienie mroku?</td>
+    </tr>
+    <tr id="t6893">
+        <td><a href="#t6893">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6893">6893s</a></td>
+        <td>Przecież nawet Terry Pratchett wielokrotnie pokazywał, że można zrobić mroczną narrację, odcierającą się o horror, a nie rezygnować z dowcipów.</td>
+    </tr>
+    <tr id="t6902">
+        <td><a href="#t6902">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6902">6902s</a></td>
+        <td>No, Überwald jest świetnym tego przejawem, prawda?</td>
+    </tr>
+    <tr id="t6905">
+        <td><a href="#t6905">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6905">6905s</a></td>
+        <td>Tak, ale wiesz, tutaj, kiedy mają tyle języków do ogarnięcia, ja im się nie dziwię, żeby uniknąć ewentualnych problemów.</td>
+    </tr>
+    <tr id="t6912">
+        <td><a href="#t6912">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6912">6912s</a></td>
+        <td>Rozumiem.</td>
+    </tr>
+    <tr id="t6913">
+        <td><a href="#t6913">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6913">6913s</a></td>
+        <td>Jest dużo języków do ogarnięcia, chcemy zachować spójność, więc dajemy znać osobom, które tłumaczą, żeby...</td>
+    </tr>
+    <tr id="t6922">
+        <td><a href="#t6922">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6922">6922s</a></td>
+        <td>Żeby nie szalały, tak?</td>
+    </tr>
+    <tr id="t6924">
+        <td><a href="#t6924">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6924">6924s</a></td>
+        <td>Żeby raczej nie szalały, żeby nie tworzyły własnych przedmiotów.</td>
+    </tr>
+    <tr id="t6928">
+        <td><a href="#t6928">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6928">6928s</a></td>
+        <td>Oczywiście te przedmioty, które były, są takie, które powracają od dwójki.</td>
+    </tr>
+    <tr id="t6932">
+        <td><a href="#t6932">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6932">6932s</a></td>
+        <td>Jest taki miecz, który się nazywa Dziadek.</td>
+    </tr>
+    <tr id="t6935">
+        <td><a href="#t6935">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6935">6935s</a></td>
+        <td>Grandfather.</td>
+    </tr>
+    <tr id="t6936">
+        <td><a href="#t6936">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6936">6936s</a></td>
+        <td>I ten miecz... Zresztą przełącz nas na grę, bo przełączyłeś nas na twarze.</td>
+    </tr>
+    <tr id="t6939">
+        <td><a href="#t6939">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6939">6939s</a></td>
+        <td>Ale to super!</td>
+    </tr>
+    <tr id="t6942">
+        <td><a href="#t6942">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6942">6942s</a></td>
+        <td>Pełne skupienie.</td>
+    </tr>
+    <tr id="t6944">
+        <td><a href="#t6944">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6944">6944s</a></td>
+        <td>Dobrze jest focus, focus, focus, focus, focus, focus.</td>
+    </tr>
+    <tr id="t6948">
+        <td><a href="#t6948">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6948">6948s</a></td>
+        <td>Jest miecz, który nazywa się Dziadek i on występuje od drugiej części i jest też w tej części.</td>
+    </tr>
+    <tr id="t6954">
+        <td><a href="#t6954">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6954">6954s</a></td>
+        <td>I...</td>
+    </tr>
+    <tr id="t6956">
+        <td><a href="#t6956">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6956">6956s</a></td>
+        <td>To jest jeden z tych sześciu unikalnych super przedmiotów, które trudno znaleźć, chociaż ktoś pisał na czacie, że wczoraj wystąpił błąd w grze i można było je znaleźć z większym prawdopodobieństwem.</td>
+    </tr>
+    <tr id="t6967">
+        <td><a href="#t6967">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6967">6967s</a></td>
+        <td>Jeśli ktoś znalazł to zazdroszczę, bo sam chętnie bym dziadka znalazł.</td>
+    </tr>
+    <tr id="t6973">
+        <td><a href="#t6973">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6973">6973s</a></td>
+        <td>Więc to jest bardzo, bardzo, bardzo rzadki miecz.</td>
+    </tr>
+    <tr id="t6976">
+        <td><a href="#t6976">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6976">6976s</a></td>
+        <td>Ja podnoszę ostatni krwawy kamień i niosę go do drzwi.</td>
+    </tr>
+    <tr id="t6980">
+        <td><a href="#t6980">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6980">6980s</a></td>
+        <td>Dostałem zły pokus dla czarodziejki, jestem zdenerwowany.</td>
+    </tr>
+    <tr id="t6985">
+        <td><a href="#t6985">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6985">6985s</a></td>
+        <td>Widzę, że Rysław znowu po prostu zarzucił głową, żeby poprawić fryzurę i zabił bossa.</td>
+    </tr>
+    <tr id="t6990">
+        <td><a href="#t6990">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6990">6990s</a></td>
+        <td>Zabiłem bossa jakiegoś?</td>
+    </tr>
+    <tr id="t6991">
+        <td><a href="#t6991">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6991">6991s</a></td>
+        <td>Mogłem nie zauważyć, wiesz?</td>
+    </tr>
+    <tr id="t6992">
+        <td><a href="#t6992">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6992">6992s</a></td>
+        <td>Nie, znaczy kogoś zabiłeś, bo wypadł legendarny item przed chwilą.</td>
+    </tr>
+    <tr id="t6996">
+        <td><a href="#t6996">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=6996">6996s</a></td>
+        <td>Powiem ci tak, gdybyśmy teraz na przykład spotkali w podziemiach tego rzeźnika,</td>
+    </tr>
+    <tr id="t7002">
+        <td><a href="#t7002">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7002">7002s</a></td>
+        <td>który normalnie jest trudnym przeciwnikiem, to powinien paść od jednego strzału.</td>
+    </tr>
+    <tr id="t7006">
+        <td><a href="#t7006">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7006">7006s</a></td>
+        <td>Ja z rzeźnikiem walczyłem robiąc okrążenie jak u trenera Gengisa w serii Niefortunnych Zdarzeń.</td>
+    </tr>
+    <tr id="t7013">
+        <td><a href="#t7013">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7013">7013s</a></td>
+        <td>Zrobiliśmy 30 okrążeń czaty, tak było chyba.</td>
+    </tr>
+    <tr id="t7017">
+        <td><a href="#t7017">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7017">7017s</a></td>
+        <td>Ja teraz mam rzeźnika, jak ostatnio walczyłem z rzeźnikiem, to rzeźnik miał 105 poziom i jest naprawdę dużym wyzwaniem.</td>
+    </tr>
+    <tr id="t7024">
+        <td><a href="#t7024">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7024">7024s</a></td>
+        <td>Udało mi się go pokonać, ale to było...</td>
+    </tr>
+    <tr id="t7029">
+        <td><a href="#t7029">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7029">7029s</a></td>
+        <td>Znaczy pamiętaj, gdybym grał na hardkorze, to bym się stresował, tak?</td>
+    </tr>
+    <tr id="t7031">
+        <td><a href="#t7031">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7031">7031s</a></td>
+        <td>Tutaj jednak, jak się gra na tym tak zwanym softkorze, to nie ma takiego... O, już wszyscy nie żyją?</td>
+    </tr>
+    <tr id="t7038">
+        <td><a href="#t7038">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7038">7038s</a></td>
+        <td>To nie ma takiego problemu, bo po prostu jak rzeźnik zginie, to kontynuujesz podziemię.</td>
+    </tr>
+    <tr id="t7043">
+        <td><a href="#t7043">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7043">7043s</a></td>
+        <td>Jak grasz na hardkorze, no to jak cię rzeźnik zabije, no to koniec gry, więc najczęściej jest tak, że widzisz rzeźnika i uciekasz po prostu.</td>
+    </tr>
+    <tr id="t7051">
+        <td><a href="#t7051">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7051">7051s</a></td>
+        <td>Bartoszu, jeszcze u mnie nie ma nowych świateł, na razie jest jeden Amaran kupiony, teraz jeszcze trzeba kupić drugi, załatwić firmę jakąś, która mi to zawiesi.</td>
+    </tr>
+    <tr id="t7060">
+        <td><a href="#t7060">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7060">7060s</a></td>
+        <td>Problemy są, więc na razie... Poczekajmy chwilę na Krzysztofa, bo... Krzysztof spokojnie... Moi drodzy, ja was teraz dosłownie na dwie minutki zostawię, udam się do toalety.</td>
+    </tr>
+    <tr id="t7069">
+        <td><a href="#t7069">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7069">7069s</a></td>
+        <td>Dobrze, dobrze.</td>
+    </tr>
+    <tr id="t7071">
+        <td><a href="#t7071">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7071">7071s</a></td>
+        <td>To nie szkoła.</td>
+    </tr>
+    <tr id="t7072">
+        <td><a href="#t7072">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7072">7072s</a></td>
+        <td>To nie szkoła, możesz iść do toalety.</td>
+    </tr>
+    <tr id="t7076">
+        <td><a href="#t7076">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7076">7076s</a></td>
+        <td>Tylko znowu musimy znaleźć zapieczętowane...</td>
+    </tr>
+    <tr id="t7080">
+        <td><a href="#t7080">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7080">7080s</a></td>
+        <td>Przepraszam, pieczęcie, żeby otworzyć... Ja wiem, chaty, że mam wyszarzony aspekt na focusie, ale ten focus, mimo że jest nowszy, jest kiepski.</td>
+    </tr>
+    <tr id="t7088">
+        <td><a href="#t7088">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7088">7088s</a></td>
+        <td>Denerwuje mnie to, bo powinniśmy dostawać lepsze przedmioty, więc nie ma sensu go nawet zmieniać w tym momencie, jeszcze nie daje nam obrażeń krytycznych.</td>
+    </tr>
+    <tr id="t7097">
+        <td><a href="#t7097">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7097">7097s</a></td>
+        <td>Bez sensu.</td>
+    </tr>
+    <tr id="t7101">
+        <td><a href="#t7101">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7101">7101s</a></td>
+        <td>Wysław wychodzi, wszyscy zginiemy, kłamstwo.</td>
+    </tr>
+    <tr id="t7103">
+        <td><a href="#t7103">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7103">7103s</a></td>
+        <td>Moi drodzy, jesteśmy potężni!</td>
+    </tr>
+    <tr id="t7107">
+        <td><a href="#t7107">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7107">7107s</a></td>
+        <td>Wcześniej kusa po kusa sama sobie radała dadę, tak.</td>
+    </tr>
+    <tr id="t7111">
+        <td><a href="#t7111">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7111">7111s</a></td>
+        <td>Dawała radę, a teraz jest Filip jeszcze.</td>
+    </tr>
+    <tr id="t7115">
+        <td><a href="#t7115">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7115">7115s</a></td>
+        <td>Jak Filip, gracie się w multiku?</td>
+    </tr>
+    <tr id="t7119">
+        <td><a href="#t7119">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7119">7119s</a></td>
+        <td>Czy jesteś... Czy jesteś zwolennikiem multiplayera?</td>
+    </tr>
+    <tr id="t7123">
+        <td><a href="#t7123">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7123">7123s</a></td>
+        <td>Nie no, oczywiście to nie jest pierwszy raz, kiedy grałem w multiku.</td>
+    </tr>
+    <tr id="t7127">
+        <td><a href="#t7127">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7127">7127s</a></td>
+        <td>Diablo 2 grałem, Diablo 3.</td>
+    </tr>
+    <tr id="t7129">
+        <td><a href="#t7129">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7129">7129s</a></td>
+        <td>Natomiast rzeczywiście szkoda, że nie jesteśmy na zbliżonych poziomach.</td>
+    </tr>
+    <tr id="t7135">
+        <td><a href="#t7135">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7135">7135s</a></td>
+        <td>Pod kątem tego, żeby mieć ten wyższy level świata plus, żebym ja na przykład miał... Miał swoją malarię, bądź inną cholerę.</td>
+    </tr>
+    <tr id="t7144">
+        <td><a href="#t7144">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7144">7144s</a></td>
+        <td>Co robi autofocus Rysła... Rysława?</td>
+    </tr>
+    <tr id="t7147">
+        <td><a href="#t7147">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7147">7147s</a></td>
+        <td>O, to jest dobra... To jest dobre pytanie.</td>
+    </tr>
+    <tr id="t7148">
+        <td><a href="#t7148">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7148">7148s</a></td>
+        <td>O!</td>
+    </tr>
+    <tr id="t7153">
+        <td><a href="#t7153">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7153">7153s</a></td>
+        <td>Monitor wysyła nam znaki!</td>
+    </tr>
+    <tr id="t7157">
+        <td><a href="#t7157">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7157">7157s</a></td>
+        <td>Wy nie wiecie kim on jest!</td>
+    </tr>
+    <tr id="t7159">
+        <td><a href="#t7159">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7159">7159s</a></td>
+        <td>Wy nie wiecie kim on jest!</td>
+    </tr>
+    <tr id="t7161">
+        <td><a href="#t7161">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7161">7161s</a></td>
+        <td>To jest ewidentnie jak z tego filmu... Filip, jak się nazywał ten film, gdzie Japończycy się strasznie bali telewizora?</td>
+    </tr>
+    <tr id="t7170">
+        <td><a href="#t7170">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7170">7170s</a></td>
+        <td>Ring.</td>
+    </tr>
+    <tr id="t7171">
+        <td><a href="#t7171">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7171">7171s</a></td>
+        <td>Właśnie.</td>
+    </tr>
+    <tr id="t7173">
+        <td><a href="#t7173">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7173">7173s</a></td>
+        <td>To jest to.</td>
+    </tr>
+    <tr id="t7174">
+        <td><a href="#t7174">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7174">7174s</a></td>
+        <td>To jest podstawa naszej przyjaźni.</td>
+    </tr>
+    <tr id="t7177">
+        <td><a href="#t7177">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7177">7177s</a></td>
+        <td>To jest fundament naszej przyjaźni.</td>
+    </tr>
+    <tr id="t7181">
+        <td><a href="#t7181">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7181">7181s</a></td>
+        <td>Ja wrzucam jedną rzecz i Filip już wie, o co chodzi, tak?</td>
+    </tr>
+    <tr id="t7184">
+        <td><a href="#t7184">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7184">7184s</a></td>
+        <td>Ja by nawet nie musiałem powiedzieć reżysera fabuły nic.</td>
+    </tr>
+    <tr id="t7188">
+        <td><a href="#t7188">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7188">7188s</a></td>
+        <td>Ale to jest w ogóle zabawne, że ludzie na całym świecie boją się guli, boją się wampirów, boją się strzyk, a Japończycy telewizory, lodówki, zamrażarki, tylko nie to.</td>
+    </tr>
+    <tr id="t7204">
+        <td><a href="#t7204">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7204">7204s</a></td>
+        <td>Nie, znaczy japończycy, japoński horror i myślę, że tu poprą mnie osoby, które mają pojęcie o mangze przede wszystkim japońskiej, a zresztą widziałem tutaj użytkownika bądź użytkowniczkę Uzamaki, zaznaczę Uzamaki, najwybitniejsza manga Shinji, Junji Itiego, przepraszam, Shinji Mikami, Shinji Mikami inny król horroru, czyli twórca Resident Evil, ale Junji Ito, no mistrz, mistrz po prostu horroru mangowego.</td>
+    </tr>
+    <tr id="t7231">
+        <td><a href="#t7231">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7231">7231s</a></td>
+        <td>to będą wiedzieli, że właśnie to, co jest sekretem horroru japońskiego, to jest to, że bierzesz coś bardzo znanego tobie i robisz z tym coś dziwnego.</td>
+    </tr>
+    <tr id="t7242">
+        <td><a href="#t7242">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7242">7242s</a></td>
+        <td>I sprawiasz, że znane nagle zaczyna być przerażające.</td>
+    </tr>
+    <tr id="t7244">
+        <td><a href="#t7244">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7244">7244s</a></td>
+        <td>Tak jak dzieci.</td>
+    </tr>
+    <tr id="t7246">
+        <td><a href="#t7246">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7246">7246s</a></td>
+        <td>Tak jak chociażby, wiesz, wzięcie małej dziewczynki i danie jej jeszcze jednego oka na środku głowy, czy coś takiego.</td>
+    </tr>
+    <tr id="t7253">
+        <td><a href="#t7253">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7253">7253s</a></td>
+        <td>Filip, cokolwiek mówisz, pamiętaj, że Rysław trzyma kota, ja dlatego też przełączyłem z Diablo w tym momencie, świadomie, bo jest kot.</td>
+    </tr>
+    <tr id="t7262">
+        <td><a href="#t7262">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7262">7262s</a></td>
+        <td>Ludzie nie są niczym innym zainteresowani w tym momencie, ponieważ jest zwierzę.</td>
+    </tr>
+    <tr id="t7269">
+        <td><a href="#t7269">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7269">7269s</a></td>
+        <td>To jest jeden z moich czterech kotów, to jest Lucjan.</td>
+    </tr>
+    <tr id="t7274">
+        <td><a href="#t7274">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7274">7274s</a></td>
+        <td>Jest jeszcze Jaskier, jest Gruby oraz Zelda.</td>
+    </tr>
+    <tr id="t7277">
+        <td><a href="#t7277">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7277">7277s</a></td>
+        <td>Proszę bardzo, Jaskier.</td>
+    </tr>
+    <tr id="t7279">
+        <td><a href="#t7279">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7279">7279s</a></td>
+        <td>Jak adekwatnie.</td>
+    </tr>
+    <tr id="t7280">
+        <td><a href="#t7280">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7280">7280s</a></td>
+        <td>I jestem przekonany, że twój kod Jaskier wygląda bardziej jak Jaskier niż ten letnik słowy Jaskier.</td>
+    </tr>
+    <tr id="t7287">
+        <td><a href="#t7287">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7287">7287s</a></td>
+        <td>Jaskier tak został nazwany dlatego, że najgłośniej miauczy.</td>
+    </tr>
+    <tr id="t7291">
+        <td><a href="#t7291">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7291">7291s</a></td>
+        <td>No tak, no tak.</td>
+    </tr>
+    <tr id="t7293">
+        <td><a href="#t7293">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7293">7293s</a></td>
+        <td>Czyli adekwatny, no to mój adekwatny casting.</td>
+    </tr>
+    <tr id="t7296">
+        <td><a href="#t7296">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7296">7296s</a></td>
+        <td>Jest czwórka rodzeństwa, pewnego dnia znajomy pan listonosz przyszedł, mówi, że jemu się okociły i że przyszedł, a u nas w domu był kot, który niestety uciekł, znaczy coś z nim się stało, zniknął.</td>
+    </tr>
+    <tr id="t7313">
+        <td><a href="#t7313">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7313">7313s</a></td>
+        <td>I postanowiliśmy wziąć koty, nawet dwa, ale przeniósł czwórkę, żebyśmy sobie dwójkę wybrali, no i kurczę, jak wybrać?</td>
+    </tr>
+    <tr id="t7323">
+        <td><a href="#t7323">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7323">7323s</a></td>
+        <td>z rodzeństwa.</td>
+    </tr>
+    <tr id="t7324">
+        <td><a href="#t7324">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7324">7324s</a></td>
+        <td>No nie można było, więc cała czwórka jest teraz w domu.</td>
+    </tr>
+    <tr id="t7327">
+        <td><a href="#t7327">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7327">7327s</a></td>
+        <td>Jest jeszcze jedno pytanie dla Ciebie, Rysław, złośliwe cokolwiek.</td>
+    </tr>
+    <tr id="t7331">
+        <td><a href="#t7331">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7331">7331s</a></td>
+        <td>My nigdy nie pokonamy tego Lorda swoją drogą, bo on ma wampiryzm.</td>
+    </tr>
+    <tr id="t7336">
+        <td><a href="#t7336">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7336">7336s</a></td>
+        <td>Nie, nie, pokonamy, spokojnie.</td>
+    </tr>
+    <tr id="t7337">
+        <td><a href="#t7337">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7337">7337s</a></td>
+        <td>Pokonamy.</td>
+    </tr>
+    <tr id="t7340">
+        <td><a href="#t7340">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7340">7340s</a></td>
+        <td>Wiesz, Ping w złośliwie pyta, dlaczego, dlaczego mianowicie szkieletowi łucznicy strzelają z kuszy?</td>
+    </tr>
+    <tr id="t7348">
+        <td><a href="#t7348">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7348">7348s</a></td>
+        <td>Nie mam zielonego pojęcia.</td>
+    </tr>
+    <tr id="t7350">
+        <td><a href="#t7350">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7350">7350s</a></td>
+        <td>Oni po angielsku nazywają ocios, więc...</td>
+    </tr>
+    <tr id="t7353">
+        <td><a href="#t7353">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7353">7353s</a></td>
+        <td>A proszę, czyli nie mieliście wyjścia.</td>
+    </tr>
+    <tr id="t7356">
+        <td><a href="#t7356">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7356">7356s</a></td>
+        <td>Powiem tak, ja grę zobaczyłem dopiero kiedy pojawiła się beta.</td>
+    </tr>
+    <tr id="t7361">
+        <td><a href="#t7361">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7361">7361s</a></td>
+        <td>Nie mieliśmy dostępu do gry w ogóle.</td>
+    </tr>
+    <tr id="t7362">
+        <td><a href="#t7362">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7362">7362s</a></td>
+        <td>To bardzo dziwne swoją drogą.</td>
+    </tr>
+    <tr id="t7364">
+        <td><a href="#t7364">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7364">7364s</a></td>
+        <td>Nie, to jest normalne.</td>
+    </tr>
+    <tr id="t7365">
+        <td><a href="#t7365">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7365">7365s</a></td>
+        <td>Tak?</td>
+    </tr>
+    <tr id="t7365">
+        <td><a href="#t7365">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7365">7365s</a></td>
+        <td>Mam go zabić?</td>
+    </tr>
+    <tr id="t7367">
+        <td><a href="#t7367">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7367">7367s</a></td>
+        <td>Zabij tego idiotę z wampiryzmem, przecież to jest jakiś dramat.</td>
+    </tr>
+    <tr id="t7370">
+        <td><a href="#t7370">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7370">7370s</a></td>
+        <td>Kogo mam słuchać?</td>
+    </tr>
+    <tr id="t7371">
+        <td><a href="#t7371">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7371">7371s</a></td>
+        <td>Ja tutaj się czuję po prostu skonfundowany.</td>
+    </tr>
+    <tr id="t7373">
+        <td><a href="#t7373">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7373">7373s</a></td>
+        <td>Oczywiście, że nie należy słuchać kusej pokusy, ponieważ jest maginią.</td>
+    </tr>
+    <tr id="t7379">
+        <td><a href="#t7379">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7379">7379s</a></td>
+        <td>Magini odpowiedzialna za taktykę, no.</td>
+    </tr>
+    <tr id="t7382">
+        <td><a href="#t7382">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7382">7382s</a></td>
+        <td>Przecież to jest jakaś chora umiejętność ten wampiryzm.</td>
+    </tr>
+    <tr id="t7386">
+        <td><a href="#t7386">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7386">7386s</a></td>
+        <td>Tak, to jest najgorsza umiejętność, to jest...</td>
+    </tr>
+    <tr id="t7389">
+        <td><a href="#t7389">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7389">7389s</a></td>
+        <td>To jest trudna umiejętność.</td>
+    </tr>
+    <tr id="t7391">
+        <td><a href="#t7391">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7391">7391s</a></td>
+        <td>Tak.</td>
+    </tr>
+    <tr id="t7391">
+        <td><a href="#t7391">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7391">7391s</a></td>
+        <td>Tak właśnie.</td>
+    </tr>
+    <tr id="t7393">
+        <td><a href="#t7393">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7393">7393s</a></td>
+        <td>Jeszcze mamy jednego wampirycznego władcy do uciupania, moi drodzy.</td>
+    </tr>
+    <tr id="t7397">
+        <td><a href="#t7397">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7397">7397s</a></td>
+        <td>No najpierw spróbujcie go pokonać, bo we dwie osoby dacie radę.</td>
+    </tr>
+    <tr id="t7400">
+        <td><a href="#t7400">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7400">7400s</a></td>
+        <td>Brail czego, jak nie dacie rady, to mnie zawałeś.</td>
+    </tr>
+    <tr id="t7402">
+        <td><a href="#t7402">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7402">7402s</a></td>
+        <td>Ale możemy spróbować.</td>
+    </tr>
+    <tr id="t7406">
+        <td><a href="#t7406">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7406">7406s</a></td>
+        <td>Dobrze.</td>
+    </tr>
+    <tr id="t7407">
+        <td><a href="#t7407">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7407">7407s</a></td>
+        <td>Filip.</td>
+    </tr>
+    <tr id="t7407">
+        <td><a href="#t7407">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7407">7407s</a></td>
+        <td>Filip.</td>
+    </tr>
+    <tr id="t7408">
+        <td><a href="#t7408">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7408">7408s</a></td>
+        <td>Filip.</td>
+    </tr>
+    <tr id="t7409">
+        <td><a href="#t7409">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7409">7409s</a></td>
+        <td>Filip.</td>
+    </tr>
+    <tr id="t7410">
+        <td><a href="#t7410">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7410">7410s</a></td>
+        <td>Filip.</td>
+    </tr>
+    <tr id="t7410">
+        <td><a href="#t7410">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7410">7410s</a></td>
+        <td>Filip.</td>
+    </tr>
+    <tr id="t7412">
+        <td><a href="#t7412">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7412">7412s</a></td>
+        <td>Biegne do ciebie.</td>
+    </tr>
+    <tr id="t7413">
+        <td><a href="#t7413">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7413">7413s</a></td>
+        <td>Za późno.</td>
+    </tr>
+    <tr id="t7415">
+        <td><a href="#t7415">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7415">7415s</a></td>
+        <td>Kusa pokusa prawie zginęła.</td>
+    </tr>
+    <tr id="t7417">
+        <td><a href="#t7417">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7417">7417s</a></td>
+        <td>Mówiłem.</td>
+    </tr>
+    <tr id="t7417">
+        <td><a href="#t7417">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7417">7417s</a></td>
+        <td>Patrz, Senergal prawie nie żyje, ale żyje.</td>
+    </tr>
+    <tr id="t7422">
+        <td><a href="#t7422">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7422">7422s</a></td>
+        <td>Kusa pokusa żyje.</td>
+    </tr>
+    <tr id="t7424">
+        <td><a href="#t7424">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7424">7424s</a></td>
+        <td>Kusa pokusa zawsze żyje.</td>
+    </tr>
+    <tr id="t7425">
+        <td><a href="#t7425">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7425">7425s</a></td>
+        <td>Bo ma też wampiryzm, tak?</td>
+    </tr>
+    <tr id="t7427">
+        <td><a href="#t7427">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7427">7427s</a></td>
+        <td>Tak.</td>
+    </tr>
+    <tr id="t7428">
+        <td><a href="#t7428">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7428">7428s</a></td>
+        <td>Kusa pokusa ani razu jeszcze nie zginęła podczas tego streamu, ale niestety zginęła podczas innych, ale nie jakoś dużo.</td>
+    </tr>
+    <tr id="t7436">
+        <td><a href="#t7436">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7436">7436s</a></td>
+        <td>Na początku było problematycznie.</td>
+    </tr>
+    <tr id="t7442">
+        <td><a href="#t7442">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7442">7442s</a></td>
+        <td>Wampiry są najlepsza i niedoceniona umiejętność, pisze wampirzak, nie znacie się.</td>
+    </tr>
+    <tr id="t7446">
+        <td><a href="#t7446">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7446">7446s</a></td>
+        <td>A znasz w wampirzach wiele gier dobrych o wampirach, bo tak, wszyscy teraz wrzasną w Vampire The Masquerade Bloodlines, ale ta gra ma więcej lat niż ja.</td>
+    </tr>
+    <tr id="t7456">
+        <td><a href="#t7456">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7456">7456s</a></td>
+        <td>Nie ma więcej lat niż ty.</td>
+    </tr>
+    <tr id="t7460">
+        <td><a href="#t7460">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7460">7460s</a></td>
+        <td>Nie ma, absolutnie.</td>
+    </tr>
+    <tr id="t7461">
+        <td><a href="#t7461">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7461">7461s</a></td>
+        <td>To jest w 2005.</td>
+    </tr>
+    <tr id="t7462">
+        <td><a href="#t7462">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7462">7462s</a></td>
+        <td>To jest w 2005.</td>
+    </tr>
+    <tr id="t7462">
+        <td><a href="#t7462">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7462">7462s</a></td>
+        <td>To jest i tak bardzo dużo.</td>
+    </tr>
+    <tr id="t7463">
+        <td><a href="#t7463">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7463">7463s</a></td>
+        <td>No tak, bo to jest gra na Source Engine, tak?</td>
+    </tr>
+    <tr id="t7465">
+        <td><a href="#t7465">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7465">7465s</a></td>
+        <td>Więc musiała powstać po Half-Life'ie dwójce, więc no.</td>
+    </tr>
+    <tr id="t7468">
+        <td><a href="#t7468">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7468">7468s</a></td>
+        <td>Obsidian.</td>
+    </tr>
+    <tr id="t7469">
+        <td><a href="#t7469">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7469">7469s</a></td>
+        <td>Nie, nie, o, Trojka, to jeszcze była Trojka.</td>
+    </tr>
+    <tr id="t7471">
+        <td><a href="#t7471">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7471">7471s</a></td>
+        <td>Trojka, to Trojka Games zrobiła.</td>
+    </tr>
+    <tr id="t7472">
+        <td><a href="#t7472">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7472">7472s</a></td>
+        <td>Przujecie mi moje hiperbole.</td>
+    </tr>
+    <tr id="t7475">
+        <td><a href="#t7475">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7475">7475s</a></td>
+        <td>Ja jestem jak Archimedes i mówię, że psujecie mi moje koła, więc psujecie mi moje hiperbole.</td>
+    </tr>
+    <tr id="t7481">
+        <td><a href="#t7481">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7481">7481s</a></td>
+        <td>To co, zabić go?</td>
+    </tr>
+    <tr id="t7483">
+        <td><a href="#t7483">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7483">7483s</a></td>
+        <td>Chyba sobie radzimy.</td>
+    </tr>
+    <tr id="t7485">
+        <td><a href="#t7485">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7485">7485s</a></td>
+        <td>Możesz patrzeć ładnie, a nasze hydry oraz wąpierze Nergala, znaczy nie wąpierze Nergala, a trupy Nergala będą skłonne dokonać działania.</td>
+    </tr>
+    <tr id="t7500">
+        <td><a href="#t7500">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7500">7500s</a></td>
+        <td>Jesteśmy już naprawdę blisko.</td>
+    </tr>
+    <tr id="t7502">
+        <td><a href="#t7502">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7502">7502s</a></td>
+        <td>Castlevania była moim zdaniem dobra jako serial, ale nie jako gra, nie byłem w stanie się przekonać do Castlevanii.</td>
+    </tr>
+    <tr id="t7509">
+        <td><a href="#t7509">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7509">7509s</a></td>
+        <td>Na odwrót, fantastyczna gra, szczególnie Symphony of the Night, bardzo średni serial.</td>
+    </tr>
+    <tr id="t7514">
+        <td><a href="#t7514">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7514">7514s</a></td>
+        <td>Uważnie?</td>
+    </tr>
+    <tr id="t7515">
+        <td><a href="#t7515">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7515">7515s</a></td>
+        <td>Tak, uważam, że ten serial jest... Ale to jest wiesz, bardzo chętnie bym porozmawiał o nim tak ogólnie, bo to jest ciekawy przypadek tego jak strasznie czarnego obrazowania</td>
+    </tr>
+    <tr id="t7531">
+        <td><a href="#t7531">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7531">7531s</a></td>
+        <td>duchowieństwa.</td>
+    </tr>
+    <tr id="t7532">
+        <td><a href="#t7532">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7532">7532s</a></td>
+        <td>Rozumiem, że ktoś może nie lubić duchowieństwa, spoko.</td>
+    </tr>
+    <tr id="t7534">
+        <td><a href="#t7534">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7534">7534s</a></td>
+        <td>Natomiast tutaj nie ma w ogóle żadnych odcieni.</td>
+    </tr>
+    <tr id="t7537">
+        <td><a href="#t7537">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7537">7537s</a></td>
+        <td>Jest zło tak przerażające, że wampiry przed nim są fajnymi gostkami.</td>
+    </tr>
+    <tr id="t7543">
+        <td><a href="#t7543">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7543">7543s</a></td>
+        <td>Ja potraktowałem to jako całkowicie... No bardziej inkwizycji, bo tam jest taka forma inkwizycji.</td>
+    </tr>
+    <tr id="t7549">
+        <td><a href="#t7549">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7549">7549s</a></td>
+        <td>Absolutnie nie miałem nic przeciwko z tego względu, że ja z kolei... Nikt nie spodziewał się hi szpańskiej inkwizycji.</td>
+    </tr>
+    <tr id="t7556">
+        <td><a href="#t7556">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7556">7556s</a></td>
+        <td>...był niedobór właśnie tego rodzaju opowieści.</td>
+    </tr>
+    <tr id="t7561">
+        <td><a href="#t7561">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7561">7561s</a></td>
+        <td>Czy ja wiem?</td>
+    </tr>
+    <tr id="t7561">
+        <td><a href="#t7561">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7561">7561s</a></td>
+        <td>Wydaje mi się, że teraz takich obieści jest dużo, ale... Jedziemy, Grzesztof.</td>
+    </tr>
+    <tr id="t7565">
+        <td><a href="#t7565">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7565">7565s</a></td>
+        <td>Ja tutaj.</td>
+    </tr>
+    <tr id="t7565">
+        <td><a href="#t7565">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7565">7565s</a></td>
+        <td>Krwawy biskup, masz.</td>
+    </tr>
+    <tr id="t7567">
+        <td><a href="#t7567">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7567">7567s</a></td>
+        <td>Krwawy biskup, no proszę.</td>
+    </tr>
+    <tr id="t7568">
+        <td><a href="#t7568">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7568">7568s</a></td>
+        <td>A propos!</td>
+    </tr>
+    <tr id="t7569">
+        <td><a href="#t7569">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7569">7569s</a></td>
+        <td>A propos!</td>
+    </tr>
+    <tr id="t7570">
+        <td><a href="#t7570">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7570">7570s</a></td>
+        <td>A propos!</td>
+    </tr>
+    <tr id="t7572">
+        <td><a href="#t7572">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7572">7572s</a></td>
+        <td>Tak jest.</td>
+    </tr>
+    <tr id="t7573">
+        <td><a href="#t7573">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7573">7573s</a></td>
+        <td>Czy czekamy na Oppenheimer?</td>
+    </tr>
+    <tr id="t7574">
+        <td><a href="#t7574">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7574">7574s</a></td>
+        <td>A czy pytasz dzika Pol Poliko, czy sra w lesie?</td>
+    </tr>
+    <tr id="t7576">
+        <td><a href="#t7576">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7576">7576s</a></td>
+        <td>Oczywiście, że tak.</td>
+    </tr>
+    <tr id="t7579">
+        <td><a href="#t7579">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7579">7579s</a></td>
+        <td>Ja każdy film Nolana.</td>
+    </tr>
+    <tr id="t7580">
+        <td><a href="#t7580">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7580">7580s</a></td>
+        <td>Oj, ktoś zginął.</td>
+    </tr>
+    <tr id="t7581">
+        <td><a href="#t7581">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7581">7581s</a></td>
+        <td>Ja zginąłem.</td>
+    </tr>
+    <tr id="t7582">
+        <td><a href="#t7582">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7582">7582s</a></td>
+        <td>Oglądamy z dużą przyjemnością.</td>
+    </tr>
+    <tr id="t7584">
+        <td><a href="#t7584">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7584">7584s</a></td>
+        <td>Filip, co się dzieje?</td>
+    </tr>
+    <tr id="t7586">
+        <td><a href="#t7586">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7586">7586s</a></td>
+        <td>Czy potrzebujesz pomocy?</td>
+    </tr>
+    <tr id="t7588">
+        <td><a href="#t7588">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7588">7588s</a></td>
+        <td>I co się dzieje?</td>
+    </tr>
+    <tr id="t7589">
+        <td><a href="#t7589">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7589">7589s</a></td>
+        <td>Zapytał Krzysztof martwego Filipa.</td>
+    </tr>
+    <tr id="t7592">
+        <td><a href="#t7592">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7592">7592s</a></td>
+        <td>Pokusa nie bądź taka do przodu, bo wiesz, nie życzę ci tego, ale możliwe, że ciebie też będę musiał wskrzeszać.</td>
+    </tr>
+    <tr id="t7599">
+        <td><a href="#t7599">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7599">7599s</a></td>
+        <td>To możliwe.</td>
+    </tr>
+    <tr id="t7600">
+        <td><a href="#t7600">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7600">7600s</a></td>
+        <td>Jakie piękne słowo.</td>
+    </tr>
+    <tr id="t7601">
+        <td><a href="#t7601">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7601">7601s</a></td>
+        <td>Wskrzeszać.</td>
+    </tr>
+    <tr id="t7602">
+        <td><a href="#t7602">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7602">7602s</a></td>
+        <td>Tak.</td>
+    </tr>
+    <tr id="t7604">
+        <td><a href="#t7604">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7604">7604s</a></td>
+        <td>Tak, na Tenet lana też poszedłem z radością do kina.</td>
+    </tr>
+    <tr id="t7609">
+        <td><a href="#t7609">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7609">7609s</a></td>
+        <td>A nie, przepraszam, Tenet oglądałem właśnie nie w kinie, bo był covid.</td>
+    </tr>
+    <tr id="t7614">
+        <td><a href="#t7614">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7614">7614s</a></td>
+        <td>I być może właśnie dlatego miałem taki problem, nie byłem w stanie dooglądać Teneta do końca.</td>
+    </tr>
+    <tr id="t7621">
+        <td><a href="#t7621">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7621">7621s</a></td>
+        <td>KarnevalMephisto ma ciekawostkę.</td>
+    </tr>
+    <tr id="t7623">
+        <td><a href="#t7623">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7623">7623s</a></td>
+        <td>Jaką ciekawostkę masz?</td>
+    </tr>
+    <tr id="t7626">
+        <td><a href="#t7626">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7626">7626s</a></td>
+        <td>W kwestii filmu Ring, chodzi o studnie w filmie, nie o telewizor.</td>
+    </tr>
+    <tr id="t7628">
+        <td><a href="#t7628">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7628">7628s</a></td>
+        <td>W japońskim studnia to ID, które zapisane znakiem dosłownie znaczy portal lub most do zaświatów.</td>
+    </tr>
+    <tr id="t7635">
+        <td><a href="#t7635">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7635">7635s</a></td>
+        <td>I stand corrected, to jest bardzo ciekawa rzecz.</td>
+    </tr>
+    <tr id="t7638">
+        <td><a href="#t7638">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7638">7638s</a></td>
+        <td>Warto było przeczesać czaty w porównaniu, w poszukiwaniu, w poszukiwaniu odpowiedzi Carnival Mephisto.</td>
+    </tr>
+    <tr id="t7646">
+        <td><a href="#t7646">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7646">7646s</a></td>
+        <td>No i to jest, i to jest przyjemna walka, moi drodzy.</td>
+    </tr>
+    <tr id="t7648">
+        <td><a href="#t7648">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7648">7648s</a></td>
+        <td>Teraz nie ma żadnego wampiryzmu.</td>
+    </tr>
+    <tr id="t7650">
+        <td><a href="#t7650">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7650">7650s</a></td>
+        <td>Nergala, Nergala wskrzeszam już, proszę bardzo, wracaj do walki.</td>
+    </tr>
+    <tr id="t7656">
+        <td><a href="#t7656">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7656">7656s</a></td>
+        <td>To jest to, co ona powiedziała.</td>
+    </tr>
+    <tr id="t7657">
+        <td><a href="#t7657">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7657">7657s</a></td>
+        <td>Uuu...</td>
+    </tr>
+    <tr id="t7677">
+        <td><a href="#t7677">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7677">7677s</a></td>
+        <td>Będę chciał pewnie pójść, mimo że to będzie kolejny film z Tomem Cruzem, który wygląda dokładnie tak samo jak każdy film z Tomem Cruzem, ale ja mam niesamowity szacunek do tego, że on robi cały czas sam kaskaderkę, nawet teraz, kiedy już naprawdę nie musi.</td>
+    </tr>
+    <tr id="t7688">
+        <td><a href="#t7688">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7688">7688s</a></td>
+        <td>Nie musi, ale jest mistrzem, po prostu ja jestem wielkim fanem umiejętności Toma Cruza.</td>
+    </tr>
+    <tr id="t7694">
+        <td><a href="#t7694">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7694">7694s</a></td>
+        <td>Trochę mu zazdroszczę, powiem szczerze.</td>
+    </tr>
+    <tr id="t7696">
+        <td><a href="#t7696">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7696">7696s</a></td>
+        <td>Tych wszystkich skoków na spodochronie i sprawności fizycznej.</td>
+    </tr>
+    <tr id="t7700">
+        <td><a href="#t7700">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7700">7700s</a></td>
+        <td>To jest dla mnie wzorzec.</td>
+    </tr>
+    <tr id="t7701">
+        <td><a href="#t7701">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7701">7701s</a></td>
+        <td>Ja patrzę na Toma Cruisa i Keanu Reevesa i wiem, że to są dla mnie wzorce dwa.</td>
+    </tr>
+    <tr id="t7706">
+        <td><a href="#t7706">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7706">7706s</a></td>
+        <td>Będę starał się dążyć.</td>
+    </tr>
+    <tr id="t7708">
+        <td><a href="#t7708">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7708">7708s</a></td>
+        <td>Jest to facet, który może przyjąć</td>
+    </tr>
+    <tr id="t7711">
+        <td><a href="#t7711">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7711">7711s</a></td>
+        <td>Jest rolę w filmie Mumia, który to film nie poradził sobie najlepiej.</td>
+    </tr>
+    <tr id="t7716">
+        <td><a href="#t7716">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7716">7716s</a></td>
+        <td>Tak.</td>
+    </tr>
+    <tr id="t7717">
+        <td><a href="#t7717">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7717">7717s</a></td>
+        <td>I będąc jednocześnie gwiazdą tego filmu, a naprawdę fajnie zagrał.</td>
+    </tr>
+    <tr id="t7720">
+        <td><a href="#t7720">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7720">7720s</a></td>
+        <td>To jest gościu, który potrafi, jak się postara, szczególnie kiedy nie gra postaci Ethana Hunta, to potrafi naprawdę fajnie zagrać.</td>
+    </tr>
+    <tr id="t7726">
+        <td><a href="#t7726">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7726">7726s</a></td>
+        <td>I on fajnie zidentyfikował tego bohatera.</td>
+    </tr>
+    <tr id="t7727">
+        <td><a href="#t7727">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7727">7727s</a></td>
+        <td>Widziałem, że pociśniesz pomyślnym pasem.</td>
+    </tr>
+    <tr id="t7730">
+        <td><a href="#t7730">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7730">7730s</a></td>
+        <td>Znaczy nie, ja bardzo lubię tę serię, tylko ja bardziej lubię talent Toma Cruza dramatyczny, którego nie używa w żaden sposób.</td>
+    </tr>
+    <tr id="t7736">
+        <td><a href="#t7736">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7736">7736s</a></td>
+        <td>Czy teraz nie używa?</td>
+    </tr>
+    <tr id="t7737">
+        <td><a href="#t7737">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7737">7737s</a></td>
+        <td>Bo widzisz, chyba brakuje mu...</td>
+    </tr>
+    <tr id="t7741">
+        <td><a href="#t7741">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7741">7741s</a></td>
+        <td>Te... Te czołgi masz...</td>
+    </tr>
+    <tr id="t7743">
+        <td><a href="#t7743">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7743">7743s</a></td>
+        <td>Mam takie wrażenie, że postawił się w roli osoby, która ratuje Hollywood, takie letnie Hollywood.</td>
+    </tr>
+    <tr id="t7750">
+        <td><a href="#t7750">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7750">7750s</a></td>
+        <td>Tworzy filmy, które podobają się, nie są filmami, które wymagają... Bardziej jest producentem, bardziej się sprawdza jako producent w tych filmach.</td>
+    </tr>
+    <tr id="t7759">
+        <td><a href="#t7759">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7759">7759s</a></td>
+        <td>Natomiast w tej mumii właśnie będąc tym, kim jest, postawił warunek i to widać, że w tym filmie zrealizuje swoje marzenie i będzie scena w nieważkości.</td>
+    </tr>
+    <tr id="t7770">
+        <td><a href="#t7770">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7770">7770s</a></td>
+        <td>Jest tam rzeczywiście scena w nieważkości, kiedy trwa samolot.</td>
+    </tr>
+    <tr id="t7773">
+        <td><a href="#t7773">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7773">7773s</a></td>
+        <td>On ma jeszcze ponoć w kolejnym myślnym postu był jednak polecieć w kosmos.</td>
+    </tr>
+    <tr id="t7777">
+        <td><a href="#t7777">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7777">7777s</a></td>
+        <td>Polecieć w kosmos przy okazji, tak.</td>
+    </tr>
+    <tr id="t7779">
+        <td><a href="#t7779">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7779">7779s</a></td>
+        <td>Była taka myśl.</td>
+    </tr>
+    <tr id="t7779">
+        <td><a href="#t7779">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7779">7779s</a></td>
+        <td>Tak sądzę, że skoro podzielili ten film na dwa, to to jest bardzo możliwe.</td>
+    </tr>
+    <tr id="t7783">
+        <td><a href="#t7783">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7783">7783s</a></td>
+        <td>Nadrabiam czat.</td>
+    </tr>
+    <tr id="t7785">
+        <td><a href="#t7785">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7785">7785s</a></td>
+        <td>Miałem ciekawą rzecz od 65Karol, że Oppenheimer, ten Oppenheimer, nie film oczywiście, chciał dać wykład chyba na Uniwersytecie w Utrechcie po holendersku, więc się nauczył holenderskiego w dwa tygodnie.</td>
+    </tr>
+    <tr id="t7797">
+        <td><a href="#t7797">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7797">7797s</a></td>
+        <td>No tak, tak można.</td>
+    </tr>
+    <tr id="t7799">
+        <td><a href="#t7799">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7799">7799s</a></td>
+        <td>Tak można.</td>
+    </tr>
+    <tr id="t7801">
+        <td><a href="#t7801">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7801">7801s</a></td>
+        <td>Jak się znał niemiecki i angielski, to może... Ale czy to jest prawda?</td>
+    </tr>
+    <tr id="t7811">
+        <td><a href="#t7811">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7811">7811s</a></td>
+        <td>Czy to nie jest taka legenda?</td>
+    </tr>
+    <tr id="t7812">
+        <td><a href="#t7812">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7812">7812s</a></td>
+        <td>Trochę to dla mnie brzmi... No może być tak, jedna z tych anegdotek o Einsteinie, nie?</td>
+    </tr>
+    <tr id="t7819">
+        <td><a href="#t7819">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7819">7819s</a></td>
+        <td>Bo Einstein jest sumą wszystkich naukowców, którzy kiedykolwiek cokolwiek sensownego powiedzieli.</td>
+    </tr>
+    <tr id="t7824">
+        <td><a href="#t7824">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7824">7824s</a></td>
+        <td>Ja tylko rozwalam te ciała, fragmenty ciała, które są.</td>
+    </tr>
+    <tr id="t7829">
+        <td><a href="#t7829">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7829">7829s</a></td>
+        <td>Mamy to.</td>
+    </tr>
+    <tr id="t7829">
+        <td><a href="#t7829">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7829">7829s</a></td>
+        <td>Proszę bardzo.</td>
+    </tr>
+    <tr id="t7830">
+        <td><a href="#t7830">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7830">7830s</a></td>
+        <td>Cześć, Salas, Wiktoria.</td>
+    </tr>
+    <tr id="t7831">
+        <td><a href="#t7831">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7831">7831s</a></td>
+        <td>Witamy wszystkich przybywających na czat.</td>
+    </tr>
+    <tr id="t7833">
+        <td><a href="#t7833">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7833">7833s</a></td>
+        <td>I jeszcze coś widziałem.</td>
+    </tr>
+    <tr id="t7835">
+        <td><a href="#t7835">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7835">7835s</a></td>
+        <td>O, ja jeszcze tych podziemi nie przyszedłem wcześniej, bo to są jakieś rzeczy dla czarodzieja, więc mnie nie roszały.</td>
+    </tr>
+    <tr id="t7839">
+        <td><a href="#t7839">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7839">7839s</a></td>
+        <td>Bardzo złośliwy człowiek, nasz moderator, pyta czy w sumie wypowiedzi narratora są narracją pozakadrową.</td>
+    </tr>
+    <tr id="t7844">
+        <td><a href="#t7844">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7844">7844s</a></td>
+        <td>To zależy gdzie, bo narracja pozakadrowa to jest termin filmowy, więc jeżeli masz narratora heterodiegetycznego, czyli takiego, kto jest poza opowieścią, czyli poza diegezis, to tak, to jest w ścisłym sensie narracja pozakadrowa.</td>
+    </tr>
+    <tr id="t7854">
+        <td><a href="#t7854">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7854">7854s</a></td>
+        <td>Takim narratorem heterodiegetycznym poza opowieścią jest Galadriela na początku Władcy Pierścieni, kiedy jest ta długa sekwencja z opowieścią o...</td>
+    </tr>
+    <tr id="t7863">
+        <td><a href="#t7863">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7863">7863s</a></td>
+        <td>w Bitwie Ostatniego Sojuszu, prawda?</td>
+    </tr>
+    <tr id="t7865">
+        <td><a href="#t7865">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7865">7865s</a></td>
+        <td>Teraz ja was przeproszę na minutkę.</td>
+    </tr>
+    <tr id="t7866">
+        <td><a href="#t7866">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7866">7866s</a></td>
+        <td>Przepięknie, sporo tego jest zrobione.</td>
+    </tr>
+    <tr id="t7869">
+        <td><a href="#t7869">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7869">7869s</a></td>
+        <td>I Cate Blanchet mówi tym swoim eterycznym, cudownym głosem wszystko.</td>
+    </tr>
+    <tr id="t7873">
+        <td><a href="#t7873">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7873">7873s</a></td>
+        <td>Ja bym mógł usłuchać cały film, no i wtedy byśmy mieli cały film narratora pozakadrowego, ale potem przejmują w teorii filmu zwykle, i też w filmach,</td>
+    </tr>
+    <tr id="t7882">
+        <td><a href="#t7882">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7882">7882s</a></td>
+        <td>fokalizatorzy, czyli bohaterowie za pośrednictwem, czy z perspektywy, z których poznajemy fabułę.</td>
+    </tr>
+    <tr id="t7886">
+        <td><a href="#t7886">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7886">7886s</a></td>
+        <td>Takim fokalizatorem oczywiście we Władcy Pierścieni jest Frodo, ale potem jak się rozsnuwają wątki, no to mamy innych fokalizatorów.</td>
+    </tr>
+    <tr id="t7894">
+        <td><a href="#t7894">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7894">7894s</a></td>
+        <td>We Władcy Pierścieni będzie to chociażby Pippin Mary w którymś momencie, prawda?</td>
+    </tr>
+    <tr id="t7898">
+        <td><a href="#t7898">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7898">7898s</a></td>
+        <td>No, więc na tym polega ta różnica, w dużym skrócie.</td>
+    </tr>
+    <tr id="t7902">
+        <td><a href="#t7902">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7902">7902s</a></td>
+        <td>Jest tak, jest też narrator homodiegetyczny.</td>
+    </tr>
+    <tr id="t7904">
+        <td><a href="#t7904">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7904">7904s</a></td>
+        <td>Homodiegetyczny to jest ten, kto jest wewnątrz opowieści.</td>
+    </tr>
+    <tr id="t7907">
+        <td><a href="#t7907">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7907">7907s</a></td>
+        <td>Ale ty wiesz, teraz jest true Galadriela.</td>
+    </tr>
+    <tr id="t7910">
+        <td><a href="#t7910">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7910">7910s</a></td>
+        <td>Co ty będziesz mi tu chłopie fikał?</td>
+    </tr>
+    <tr id="t7912">
+        <td><a href="#t7912">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7912">7912s</a></td>
+        <td>Ja jestem twarda sztuka.</td>
+    </tr>
+    <tr id="t7913">
+        <td><a href="#t7913">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7913">7913s</a></td>
+        <td>Nie będę tutaj słuchać żadnych facetów, bo ja jestem twarda babka.</td>
+    </tr>
+    <tr id="t7918">
+        <td><a href="#t7918">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7918">7918s</a></td>
+        <td>Nie ma żadnej innej Galadrieli.</td>
+    </tr>
+    <tr id="t7919">
+        <td><a href="#t7919">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7919">7919s</a></td>
+        <td>Nie istnieje.</td>
+    </tr>
+    <tr id="t7920">
+        <td><a href="#t7920">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7920">7920s</a></td>
+        <td>Ja jestem true Galadriela.</td>
+    </tr>
+    <tr id="t7922">
+        <td><a href="#t7922">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7922">7922s</a></td>
+        <td>Nikt mnie tu nie przemiela.</td>
+    </tr>
+    <tr id="t7925">
+        <td><a href="#t7925">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7925">7925s</a></td>
+        <td>Nie ma.</td>
+    </tr>
+    <tr id="t7926">
+        <td><a href="#t7926">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7926">7926s</a></td>
+        <td>Nie ma.</td>
+    </tr>
+    <tr id="t7926">
+        <td><a href="#t7926">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7926">7926s</a></td>
+        <td>Nie istnieje.</td>
+    </tr>
+    <tr id="t7927">
+        <td><a href="#t7927">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7927">7927s</a></td>
+        <td>Nie ma w moim headcanonie jej.</td>
+    </tr>
+    <tr id="t7929">
+        <td><a href="#t7929">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7929">7929s</a></td>
+        <td>Nie istnieje.</td>
+    </tr>
+    <tr id="t7930">
+        <td><a href="#t7930">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7930">7930s</a></td>
+        <td>Kropka.</td>
+    </tr>
+    <tr id="t7931">
+        <td><a href="#t7931">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7931">7931s</a></td>
+        <td>To jest dokładnie tak, jak ostatnie trzy filmy Disneya.</td>
+    </tr>
+    <tr id="t7936">
+        <td><a href="#t7936">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7936">7936s</a></td>
+        <td>Nie istnieją.</td>
+    </tr>
+    <tr id="t7938">
+        <td><a href="#t7938">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7938">7938s</a></td>
+        <td>Krzysztof ma zwieracze ze stali, każdy zrobił przerwę na siku, a nie Krzysztof nie.</td>
+    </tr>
+    <tr id="t7942">
+        <td><a href="#t7942">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7942">7942s</a></td>
+        <td>A wiesz dlaczego panika?</td>
+    </tr>
+    <tr id="t7943">
+        <td><a href="#t7943">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7943">7943s</a></td>
+        <td>Mam zwieracze ze stali?</td>
+    </tr>
+    <tr id="t7945">
+        <td><a href="#t7945">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7945">7945s</a></td>
+        <td>Bardzo chętnie opowiem tę historię.</td>
+    </tr>
+    <tr id="t7947">
+        <td><a href="#t7947">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7947">7947s</a></td>
+        <td>Jak działają zwieracze, jeżeli tu była przerwa na siku, a tu jest mowa o zwieraczach?</td>
+    </tr>
+    <tr id="t7951">
+        <td><a href="#t7951">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7951">7951s</a></td>
+        <td>To mnie zastanawia.</td>
+    </tr>
+    <tr id="t7954">
+        <td><a href="#t7954">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7954">7954s</a></td>
+        <td>Dlaczego Krzysztof ma zwieracze ze stali?</td>
+    </tr>
+    <tr id="t7956">
+        <td><a href="#t7956">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7956">7956s</a></td>
+        <td>A to jest smutna historia wbrew pozorom.</td>
+    </tr>
+    <tr id="t7959">
+        <td><a href="#t7959">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7959">7959s</a></td>
+        <td>Więc idźmy do następnych podziemi, a ja będę wam opowiadał smutną historię.</td>
+    </tr>
+    <tr id="t7962">
+        <td><a href="#t7962">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7962">7962s</a></td>
+        <td>Nie, to nie będzie o kupie.</td>
+    </tr>
+    <tr id="t7964">
+        <td><a href="#t7964">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7964">7964s</a></td>
+        <td>Mianowicie, ja miałem zawsze ten problem, że musiałem mieć sterylnie wszędzie, gdzie jestem.</td>
+    </tr>
+    <tr id="t7971">
+        <td><a href="#t7971">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7971">7971s</a></td>
+        <td>Zwłaszcza w toalecie.</td>
+    </tr>
+    <tr id="t7972">
+        <td><a href="#t7972">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7972">7972s</a></td>
+        <td>Ponieważ chodziłem jednak do polskiej szkoły, to toaleta wyglądała mniej więcej tak, jakby weszła tam dziewiąta kompania z filmu pod tytułem Diviatnia Rota i oddała kał, więc jednak będzie o kupie.</td>
+    </tr>
+    <tr id="t7984">
+        <td><a href="#t7984">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7984">7984s</a></td>
+        <td>Następnie wyrwała wszystkie umywalki,</td>
+    </tr>
+    <tr id="t7987">
+        <td><a href="#t7987">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7987">7987s</a></td>
+        <td>następnie jeszcze obsikała ściany i później, na wszelki wypadek jeszcze dla kurażu, napluli do dozowników na mydła i wzięli cały papier toaletowy.</td>
+    </tr>
+    <tr id="t7999">
+        <td><a href="#t7999">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=7999">7999s</a></td>
+        <td>Tak wygląda... Czyli ty zawsze musisz mówić o tym, jak pierwszy raz cię odwiedziłem w Krakowie.</td>
+    </tr>
+    <tr id="t8002">
+        <td><a href="#t8002">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8002">8002s</a></td>
+        <td>I generalnie, Jezus, i generalnie, jak pamiętacie sekwencję z Resident Evil czy Silent Heela, tak wyglądały toalety w mojej szkole.</td>
+    </tr>
+    <tr id="t8011">
+        <td><a href="#t8011">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8011">8011s</a></td>
+        <td>Bardzo serdecznie nie pozdrawiam szkoły podstawowej numer 34 imienia Obrońców Poczny Polskiej w Gdańsku, w której to nie mogło być toalet.</td>
+    </tr>
+    <tr id="t8020">
+        <td><a href="#t8020">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8020">8020s</a></td>
+        <td>W związku z tym Krzysztof nauczył się trzymać.</td>
+    </tr>
+    <tr id="t8022">
+        <td><a href="#t8022">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8022">8022s</a></td>
+        <td>A że lekcje szkolne to było 7-8 godzin, no to się nauczyłem trzymać tak, że już później nie potrafiłem się oduczyć i leczenie nefrologiczne i urologiczne trwa do dzisiaj.</td>
+    </tr>
+    <tr id="t8034">
+        <td><a href="#t8034">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8034">8034s</a></td>
+        <td>Ciekawe bardzo, no.</td>
+    </tr>
+    <tr id="t8036">
+        <td><a href="#t8036">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8036">8036s</a></td>
+        <td>Mówiłem, że smutna historia.</td>
+    </tr>
+    <tr id="t8039">
+        <td><a href="#t8039">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8039">8039s</a></td>
+        <td>Rysław najbardziej nieprzekonującym tonem.</td>
+    </tr>
+    <tr id="t8043">
+        <td><a href="#t8043">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8043">8043s</a></td>
+        <td>Ciekawa historia.</td>
+    </tr>
+    <tr id="t8045">
+        <td><a href="#t8045">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8045">8045s</a></td>
+        <td>Wow, what a story, Mark!</td>
+    </tr>
+    <tr id="t8047">
+        <td><a href="#t8047">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8047">8047s</a></td>
+        <td>That is just fascinating.</td>
+    </tr>
+    <tr id="t8049">
+        <td><a href="#t8049">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8049">8049s</a></td>
+        <td>Good story brought.</td>
+    </tr>
+    <tr id="t8052">
+        <td><a href="#t8052">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8052">8052s</a></td>
+        <td>Krzysztof nie jest z Gdańska, Krzysztof był w szkole obrońców Poczty Polskiej w Gdańsku, która jest w Krakowie, nie wiem dlaczego.</td>
+    </tr>
+    <tr id="t8060">
+        <td><a href="#t8060">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8060">8060s</a></td>
+        <td>I żeby było śmieszniej, to była szkoła równocześnie niesamowicie schizofreniczna, ponieważ jednocześnie odśpiewawaliśmy wszystkie roty i tak dalej, ale równocześnie salutowaliśmy do sztandaru Unii, śpiewaliśmy ode do radości.</td>
+    </tr>
+    <tr id="t8074">
+        <td><a href="#t8074">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8074">8074s</a></td>
+        <td>I później jeszcze, o Jezus, ona jeszcze później była wygrywana na fletach plastikowych, to było straszne.</td>
+    </tr>
+    <tr id="t8080">
+        <td><a href="#t8080">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8080">8080s</a></td>
+        <td>To brzmi jak trauma.</td>
+    </tr>
+    <tr id="t8082">
+        <td><a href="#t8082">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8082">8082s</a></td>
+        <td>To jest trauma, ja znienawidziłem Beethovena w dziewiątą syfonię od tego czasu.</td>
+    </tr>
+    <tr id="t8087">
+        <td><a href="#t8087">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8087">8087s</a></td>
+        <td>Nie chcę mówić, ale dzisiaj podczas tej rozgrywki to ja jestem tym gościem z plastikowym fletem.</td>
+    </tr>
+    <tr id="t8091">
+        <td><a href="#t8091">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8091">8091s</a></td>
+        <td>Nie przesadzaj, dobrze ci idzie, masz dużo szkieletów, masz dużo pomocników, oni cię wspierają.</td>
+    </tr>
+    <tr id="t8098">
+        <td><a href="#t8098">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8098">8098s</a></td>
+        <td>My cię wspieramy.</td>
+    </tr>
+    <tr id="t8099">
+        <td><a href="#t8099">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8099">8099s</a></td>
+        <td>Nie, ale to jest naprawdę niesamowite.</td>
+    </tr>
+    <tr id="t8101">
+        <td><a href="#t8101">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8101">8101s</a></td>
+        <td>Ja też muszę, bo to nie pierwszy raz zwracam uwagę na niezwykłą taką wielkoduszność i prawdziwe dobro Rysława, już pomijając kulturę osobistą.</td>
+    </tr>
+    <tr id="t8109">
+        <td><a href="#t8109">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8109">8109s</a></td>
+        <td>Naprawdę, jak był taki moment, kiedy już wyszło na to, że ja nawet konia nie mam, żeby z wami pojeździć, to Rysław naprawdę był kolegą i powiedział, to ja będę biegał obok ciebie i cię będę skortował gdziekolwiek nie pójdziesz.</td>
+    </tr>
+    <tr id="t8121">
+        <td><a href="#t8121">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8121">8121s</a></td>
+        <td>To prawda.</td>
+    </tr>
+    <tr id="t8122">
+        <td><a href="#t8122">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8122">8122s</a></td>
+        <td>Było naprawdę bardzo, bardzo piękne i miłe.</td>
+    </tr>
+    <tr id="t8124">
+        <td><a href="#t8124">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8124">8124s</a></td>
+        <td>Nie zmienia to faktu, że niesamowicie podoba mi się... To prawda, zabijasz wszystkich, do których się zbliżę, zanim ich dotknę.</td>
+    </tr>
+    <tr id="t8129">
+        <td><a href="#t8129">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8129">8129s</a></td>
+        <td>Przepraszam, no wiesz, powiedzmy, że nie mogę być aż tak uprzejmy.</td>
+    </tr>
+    <tr id="t8132">
+        <td><a href="#t8132">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8132">8132s</a></td>
+        <td>Nie mogę się powstrzymać od tych zdjęcia.</td>
+    </tr>
+    <tr id="t8134">
+        <td><a href="#t8134">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8134">8134s</a></td>
+        <td>Ale niezmiennie podoba mi się to, że Filip akurat użył metafory fletu, bo przypomina mi się od razu fletista z Hameln, tak?</td>
+    </tr>
+    <tr id="t8141">
+        <td><a href="#t8141">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8141">8141s</a></td>
+        <td>Za którym ciągnęły wszystek szczury.</td>
+    </tr>
+    <tr id="t8143">
+        <td><a href="#t8143">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8143">8143s</a></td>
+        <td>Dzieci.</td>
+    </tr>
+    <tr id="t8144">
+        <td><a href="#t8144">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8144">8144s</a></td>
+        <td>Tak, tak.</td>
+    </tr>
+    <tr id="t8144">
+        <td><a href="#t8144">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8144">8144s</a></td>
+        <td>Dzieci później.</td>
+    </tr>
+    <tr id="t8145">
+        <td><a href="#t8145">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8145">8145s</a></td>
+        <td>Dzieci, oczywiście.</td>
+    </tr>
+    <tr id="t8146">
+        <td><a href="#t8146">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8146">8146s</a></td>
+        <td>A miały ciągnąć szczury na początku, bo on był szczurołapem i został zatrudniony do tego, żeby szczury...</td>
+    </tr>
+    <tr id="t8152">
+        <td><a href="#t8152">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8152">8152s</a></td>
+        <td>Zostały wyprowadzone z miasta, zostały wyprowadzone z Hameln, ale rajcy miejscy mu nie zapłacili, więc flecista z Hameln się zemścił i wyprowadził wszystkie kaszojady z miasta.</td>
+    </tr>
+    <tr id="t8161">
+        <td><a href="#t8161">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8161">8161s</a></td>
+        <td>Ale ja sobie myślę, że Filip jest też takim flecistą z Hameln, bo za nim też latają szkielety, tylko że wiecie, to jest troszeczkę inny flet.</td>
+    </tr>
+    <tr id="t8172">
+        <td><a href="#t8172">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8172">8172s</a></td>
+        <td>To jest ten flet, pamiętacie z tego cudownego mema, prawda?</td>
+    </tr>
+    <tr id="t8177">
+        <td><a href="#t8177">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8177">8177s</a></td>
+        <td>Przy okazji polecę pierwszą płytę Pink Floyd's Pipe Pipe at the Gates of Dawn, kiedy jeszcze Syd Barrett grał.</td>
+    </tr>
+    <tr id="t8184">
+        <td><a href="#t8184">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8184">8184s</a></td>
+        <td>To nie jest łatwa muzyka, ale może młodsze, bo ja mam wrażenie, że u Ciebie Krzysztofie są też młodsi odbiorcy.</td>
+    </tr>
+    <tr id="t8191">
+        <td><a href="#t8191">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8191">8191s</a></td>
+        <td>Znaczy na pewno młodsi ode mnie, ale ogólnie młodsi, to może poznają troszkę klasyki.</td>
+    </tr>
+    <tr id="t8198">
+        <td><a href="#t8198">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8198">8198s</a></td>
+        <td>To ja chcę rzucić teraz temat i chciałbym, żebyś go podjął Rysławie, bo jedna z najciekawszych dyskusji, jakie do tej pory mieliśmy ja i Rysław, to były tematy muzyczne.</td>
+    </tr>
+    <tr id="t8206">
+        <td><a href="#t8206">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8206">8206s</a></td>
+        <td>A wtedy, jak siedzieliśmy w klotyce Cubsa... Tak, my chyba 3 godziny przegadaliśmy.</td>
+    </tr>
+    <tr id="t8210">
+        <td><a href="#t8210">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8210">8210s</a></td>
+        <td>A Krzysztof na nas patrzył, jakbyśmy byli kosmitami wtedy.</td>
+    </tr>
+    <tr id="t8213">
+        <td><a href="#t8213">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8213">8213s</a></td>
+        <td>Tak, ale wywołałeś temat starego Pink Floyd i rzuciłeś nazwisko jednej z najbardziej interesujących postaci w historii muzyki progresywno-rokowej.</td>
+    </tr>
+    <tr id="t8224">
+        <td><a href="#t8224">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8224">8224s</a></td>
+        <td>I tragicznej też.</td>
+    </tr>
+    <tr id="t8225">
+        <td><a href="#t8225">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8225">8225s</a></td>
+        <td>Bardzo tragicznej, a mówiliśmy też dzisiaj o problemach psychicznych.</td>
+    </tr>
+    <tr id="t8229">
+        <td><a href="#t8229">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8229">8229s</a></td>
+        <td>Mówię tu oczywiście o postaci Sid'a Barretta.</td>
+    </tr>
+    <tr id="t8232">
+        <td><a href="#t8232">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8232">8232s</a></td>
+        <td>Oczywiście.</td>
+    </tr>
+    <tr id="t8233">
+        <td><a href="#t8233">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8233">8233s</a></td>
+        <td>Który jest... On żyje, z tego co wiem, Sid Barretta.</td>
+    </tr>
+    <tr id="t8239">
+        <td><a href="#t8239">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8239">8239s</a></td>
+        <td>Nie, Sid Barretta umarł.</td>
+    </tr>
+    <tr id="t8240">
+        <td><a href="#t8240">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8240">8240s</a></td>
+        <td>Tak, umarł.</td>
+    </tr>
+    <tr id="t8241">
+        <td><a href="#t8241">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8241">8241s</a></td>
+        <td>Natomiast był... Domu wariatów skończył i tam chyba umarł.</td>
+    </tr>
+    <tr id="t8245">
+        <td><a href="#t8245">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8245">8245s</a></td>
+        <td>Jezus Maria.</td>
+    </tr>
+    <tr id="t8247">
+        <td><a href="#t8247">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8247">8247s</a></td>
+        <td>On się odmienił.</td>
+    </tr>
+    <tr id="t8248">
+        <td><a href="#t8248">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8248">8248s</a></td>
+        <td>Coś się z nim stało i zmienił się kompletnie jako człowiek.</td>
+    </tr>
+    <tr id="t8251">
+        <td><a href="#t8251">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8251">8251s</a></td>
+        <td>Zupełnie.</td>
+    </tr>
+    <tr id="t8252">
+        <td><a href="#t8252">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8252">8252s</a></td>
+        <td>On chyba cierpiał na schizofrenię w ogóle.</td>
+    </tr>
+    <tr id="t8255">
+        <td><a href="#t8255">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8255">8255s</a></td>
+        <td>Miał problemy psychiczne takie...</td>
+    </tr>
+    <tr id="t8258">
+        <td><a href="#t8258">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8258">8258s</a></td>
+        <td>Zaraz ten krawioł... Już nie ma krawiołowego bolisku, dobra.</td>
+    </tr>
+    <tr id="t8261">
+        <td><a href="#t8261">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8261">8261s</a></td>
+        <td>W każdym razie przede wszystkim piękną elegią dla Sid'a Barretta jest Shine On You Crazy Diamond.</td>
+    </tr>
+    <tr id="t8267">
+        <td><a href="#t8267">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8267">8267s</a></td>
+        <td>Shine On You Crazy Diamond, wspaniały.</td>
+    </tr>
+    <tr id="t8268">
+        <td><a href="#t8268">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8268">8268s</a></td>
+        <td>Jeden z najpiękniejszych utworów w historii muzyki, moim zdaniem.</td>
+    </tr>
+    <tr id="t8271">
+        <td><a href="#t8271">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8271">8271s</a></td>
+        <td>Początek, gitara rozbrzmiewająca, syntezatory, Ricka Wrighta.</td>
+    </tr>
+    <tr id="t8278">
+        <td><a href="#t8278">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8278">8278s</a></td>
+        <td>O, znalazłem coś dla siebie, eliksir zabijania ludzi.</td>
+    </tr>
+    <tr id="t8281">
+        <td><a href="#t8281">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8281">8281s</a></td>
+        <td>Sid napisał, że... Boże, Tobiasz napisał, że Sid zmarł w 2006.</td>
+    </tr>
+    <tr id="t8287">
+        <td><a href="#t8287">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8287">8287s</a></td>
+        <td>Jest taka historia, to chyba Roger Waters opowiadał, nie, Gilmour, przepraszam.</td>
+    </tr>
+    <tr id="t8295">
+        <td><a href="#t8295">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8295">8295s</a></td>
+        <td>Zostało ich trzech teraz, został Nick Mason, został chyba, Perkuś jeszcze żyje chyba, został niesławny nasz Roger, no i został sławny Gilmour.</td>
+    </tr>
+    <tr id="t8306">
+        <td><a href="#t8306">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8306">8306s</a></td>
+        <td>Tak.</td>
+    </tr>
+    <tr id="t8309">
+        <td><a href="#t8309">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8309">8309s</a></td>
+        <td>Jedyny Roger, którego pamiętam, to jest Roger Moore, mój ulubiony święty z serialu Święty.</td>
+    </tr>
+    <tr id="t8314">
+        <td><a href="#t8314">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8314">8314s</a></td>
+        <td>Och, Roger Moore, najlepszy Bond.</td>
+    </tr>
+    <tr id="t8316">
+        <td><a href="#t8316">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8316">8316s</a></td>
+        <td>Też uważałem przez lata całe, że jest super Bondem.</td>
+    </tr>
+    <tr id="t8319">
+        <td><a href="#t8319">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8319">8319s</a></td>
+        <td>Bardzo go lubiłem w roli Bonda.</td>
+    </tr>
+    <tr id="t8321">
+        <td><a href="#t8321">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8321">8321s</a></td>
+        <td>I Roger Ackroyd mnie też przypomniało z najlepszego kryminału, jaki istnieje, zabójstwo Rogera Ackroyda.</td>
+    </tr>
+    <tr id="t8329">
+        <td><a href="#t8329">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8329">8329s</a></td>
+        <td>To a propos pytania bardzo złośliwego człowieka, narratora pozakadrowego.</td>
+    </tr>
+    <tr id="t8334">
+        <td><a href="#t8334">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8334">8334s</a></td>
+        <td>O!</td>
+    </tr>
+    <tr id="t8334">
+        <td><a href="#t8334">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8334">8334s</a></td>
+        <td>Żeby, tylko bez spoilerów na czatach, bo jak się zaspoiluje zabójstwo Rogera Ackroyda, to nie ma sensu go czytać.</td>
+    </tr>
+    <tr id="t8342">
+        <td><a href="#t8342">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8342">8342s</a></td>
+        <td>Czy lubicie takiego aktora jak Jackie Chan?</td>
+    </tr>
+    <tr id="t8344">
+        <td><a href="#t8344">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8344">8344s</a></td>
+        <td>Oglądałem swego czasu sporo filmów z Jackie Chanem, ale potem obejrzałem Kill Billa i to już był film ostateczny, jeżeli chodzi o walki wszelakiego autoramentu.</td>
+    </tr>
+    <tr id="t8352">
+        <td><a href="#t8352">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8352">8352s</a></td>
+        <td>Moim zdaniem... Przepraszam, kontynuuj, bo wszedłem ci słowo.</td>
+    </tr>
+    <tr id="t8356">
+        <td><a href="#t8356">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8356">8356s</a></td>
+        <td>Nie, nie, po prostu potem już nie byłem w stanie potraktować bijatek na poważnie i przerzuciłem się na filmy, które traktowały je albo właśnie tak...</td>
+    </tr>
+    <tr id="t8366">
+        <td><a href="#t8366">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8366">8366s</a></td>
+        <td>Postmodernistycznie trochę jak Tarantino, albo wprost w sieci fanpazy i polubiłem bardzo Wuxie, Dom latających sztyletów, Hero i podobne.</td>
+    </tr>
+    <tr id="t8375">
+        <td><a href="#t8375">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8375">8375s</a></td>
+        <td>To jest piękne.</td>
+    </tr>
+    <tr id="t8376">
+        <td><a href="#t8376">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8376">8376s</a></td>
+        <td>Wzruszające filmy, absolutnie.</td>
+    </tr>
+    <tr id="t8378">
+        <td><a href="#t8378">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8378">8378s</a></td>
+        <td>Natomiast Jackie Chan moim zdaniem jest wybitnym perfekcjonistą w jednym z filmów,</td>
+    </tr>
+    <tr id="t8386">
+        <td><a href="#t8386">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8386">8386s</a></td>
+        <td>Przede wszystkim on kręci filmy tak, żeby były wiarygodne.</td>
+    </tr>
+    <tr id="t8393">
+        <td><a href="#t8393">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8393">8393s</a></td>
+        <td>Mimo, że robi cuda i jego współaktorzy robią cuda, to jest w stanie poświęcić setki godzin na to, żeby zrobić to jedno ujęcie, w którym coś jest.</td>
+    </tr>
+    <tr id="t8403">
+        <td><a href="#t8403">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8403">8403s</a></td>
+        <td>Nie stosuje cięć.</td>
+    </tr>
+    <tr id="t8404">
+        <td><a href="#t8404">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8404">8404s</a></td>
+        <td>które są moim zdaniem zmorą.</td>
+    </tr>
+    <tr id="t8406">
+        <td><a href="#t8406">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8406">8406s</a></td>
+        <td>To w ogóle jest typowe dla kina Hongkongu.</td>
+    </tr>
+    <tr id="t8409">
+        <td><a href="#t8409">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8409">8409s</a></td>
+        <td>Tak.</td>
+    </tr>
+    <tr id="t8410">
+        <td><a href="#t8410">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8410">8410s</a></td>
+        <td>Wszystko jest na jednym ujęciu.</td>
+    </tr>
+    <tr id="t8413">
+        <td><a href="#t8413">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8413">8413s</a></td>
+        <td>Jest film taki, w którym grają w piłkę.</td>
+    </tr>
+    <tr id="t8416">
+        <td><a href="#t8416">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8416">8416s</a></td>
+        <td>Oczywiście w piłkę kung fu.</td>
+    </tr>
+    <tr id="t8418">
+        <td><a href="#t8418">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8418">8418s</a></td>
+        <td>Tam się dzieją rzeczy.</td>
+    </tr>
+    <tr id="t8419">
+        <td><a href="#t8419">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8419">8419s</a></td>
+        <td>Ale chyba kilkaset ujęć było, a to jest długa scena, taka parominutowa.</td>
+    </tr>
+    <tr id="t8424">
+        <td><a href="#t8424">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8424">8424s</a></td>
+        <td>I robili kilkaset podejść pod to, żeby tę scenę zagrać.</td>
+    </tr>
+    <tr id="t8428">
+        <td><a href="#t8428">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8428">8428s</a></td>
+        <td>Nie pamiętam, w którym to filmie było.</td>
+    </tr>
+    <tr id="t8430">
+        <td><a href="#t8430">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8430">8430s</a></td>
+        <td>Są mnóstwo filmów.</td>
+    </tr>
+    <tr id="t8431">
+        <td><a href="#t8431">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8431">8431s</a></td>
+        <td>Natomiast ja mam wielki szacunek do jego</td>
+    </tr>
+    <tr id="t8433">
+        <td><a href="#t8433">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8433">8433s</a></td>
+        <td>Pracowitości, umiejętności też fizycznej, przecież to jest... Wielka rzecz, wielka rzecz, to co mówię.</td>
+    </tr>
+    <tr id="t8440">
+        <td><a href="#t8440">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8440">8440s</a></td>
+        <td>Wielka rzecz.</td>
+    </tr>
+    <tr id="t8442">
+        <td><a href="#t8442">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8442">8442s</a></td>
+        <td>Natomiast jeśli chodzi o kino Wuxia, to bym ci chciał polecić krzysztofie, mniej znany w Polsce, natomiast... Żelazna małpa.</td>
+    </tr>
+    <tr id="t8452">
+        <td><a href="#t8452">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8452">8452s</a></td>
+        <td>Iron Monkey.</td>
+    </tr>
+    <tr id="t8452">
+        <td><a href="#t8452">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8452">8452s</a></td>
+        <td>Znam, znam.</td>
+    </tr>
+    <tr id="t8454">
+        <td><a href="#t8454">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8454">8454s</a></td>
+        <td>Jezus, jakie to jest dobre.</td>
+    </tr>
+    <tr id="t8455">
+        <td><a href="#t8455">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8455">8455s</a></td>
+        <td>Jakie to jest dobre.</td>
+    </tr>
+    <tr id="t8456">
+        <td><a href="#t8456">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8456">8456s</a></td>
+        <td>Jakie to jest dobre.</td>
+    </tr>
+    <tr id="t8458">
+        <td><a href="#t8458">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8458">8458s</a></td>
+        <td>Ja swego czasu starałem się obejrzeć wszystko, co tylko można było.</td>
+    </tr>
+    <tr id="t8462">
+        <td><a href="#t8462">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8462">8462s</a></td>
+        <td>Nawet w którymś momencie obejrzałem, o dziwo na Netflixie był film, o Jezu, Ying Yang Masters bodajże.</td>
+    </tr>
+    <tr id="t8470">
+        <td><a href="#t8470">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8470">8470s</a></td>
+        <td>I to też było świetne.</td>
+    </tr>
+    <tr id="t8471">
+        <td><a href="#t8471">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8471">8471s</a></td>
+        <td>To nie znam w ogóle.</td>
+    </tr>
+    <tr id="t8473">
+        <td><a href="#t8473">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8473">8473s</a></td>
+        <td>Bardzo dobra, ale to jest świeże.</td>
+    </tr>
+    <tr id="t8475">
+        <td><a href="#t8475">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8475">8475s</a></td>
+        <td>I oglądało się to niesamowicie przyjemnie.</td>
+    </tr>
+    <tr id="t8479">
+        <td><a href="#t8479">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8479">8479s</a></td>
+        <td>Krzysztof Goin i The Raid.</td>
+    </tr>
+    <tr id="t8483">
+        <td><a href="#t8483">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8483">8483s</a></td>
+        <td>The Raid też nie znam.</td>
+    </tr>
+    <tr id="t8486">
+        <td><a href="#t8486">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8486">8486s</a></td>
+        <td>Nie znasz Raid?</td>
+    </tr>
+    <tr id="t8488">
+        <td><a href="#t8488">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8488">8488s</a></td>
+        <td>To koniecznie Raid, bo to jest akurat chyba tajwański film.</td>
+    </tr>
+    <tr id="t8493">
+        <td><a href="#t8493">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8493">8493s</a></td>
+        <td>Albo tajlandzki.</td>
+    </tr>
+    <tr id="t8496">
+        <td><a href="#t8496">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8496">8496s</a></td>
+        <td>Tajski film.</td>
+    </tr>
+    <tr id="t8497">
+        <td><a href="#t8497">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8497">8497s</a></td>
+        <td>Natomiast na podstawie Raida powstała moim zdaniem jedna z najlepszych wersji Sędziego Dredda.</td>
+    </tr>
+    <tr id="t8504">
+        <td><a href="#t8504">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8504">8504s</a></td>
+        <td>Judge Dredd z Carlem Urbanem.</td>
+    </tr>
+    <tr id="t8506">
+        <td><a href="#t8506">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8506">8506s</a></td>
+        <td>To jest wybitny film.</td>
+    </tr>
+    <tr id="t8510">
+        <td><a href="#t8510">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8510">8510s</a></td>
+        <td>Wybitna rzecz.</td>
+    </tr>
+    <tr id="t8511">
+        <td><a href="#t8511">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8511">8511s</a></td>
+        <td>Kocham ten film.</td>
+    </tr>
+    <tr id="t8511">
+        <td><a href="#t8511">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8511">8511s</a></td>
+        <td>Wybitny, genialny film.</td>
+    </tr>
+    <tr id="t8512">
+        <td><a href="#t8512">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8512">8512s</a></td>
+        <td>To jest prawdziwy klimat Sędziego Dredda.</td>
+    </tr>
+    <tr id="t8514">
+        <td><a href="#t8514">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8514">8514s</a></td>
+        <td>Tak jest.</td>
+    </tr>
+    <tr id="t8515">
+        <td><a href="#t8515">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8515">8515s</a></td>
+        <td>To, że się dzieje w jednym bloku, z którego ludzie często nigdy nie wychodzą i spędzają tam swoje życie.</td>
+    </tr>
+    <tr id="t8521">
+        <td><a href="#t8521">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8521">8521s</a></td>
+        <td>To, że są wojny tych bloków i sąsiadów.</td>
+    </tr>
+    <tr id="t8523">
+        <td><a href="#t8523">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8523">8523s</a></td>
+        <td>Cieszy mnie.</td>
+    </tr>
+    <tr id="t8524">
+        <td><a href="#t8524">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8524">8524s</a></td>
+        <td>Najdłuższy spad w transie narkotycznym w historii kina.</td>
+    </tr>
+    <tr id="t8528">
+        <td><a href="#t8528">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8528">8528s</a></td>
+        <td>W ogóle rewelacyjna też dystopia.</td>
+    </tr>
+    <tr id="t8531">
+        <td><a href="#t8531">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8531">8531s</a></td>
+        <td>Świetnie pokazany cyberpunk, nawiasem mówiąc, z tym rozwarstwieniem społecznym.</td>
+    </tr>
+    <tr id="t8535">
+        <td><a href="#t8535">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8535">8535s</a></td>
+        <td>jeden z moich ulubionych filmów cyberpunkowych czy dystopijnych postapokaliptycznych, bo to się w zasadzie wszystko tam łączy</td>
+    </tr>
+    <tr id="t8542">
+        <td><a href="#t8542">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8542">8542s</a></td>
+        <td>Coś wspaniałego.</td>
+    </tr>
+    <tr id="t8543">
+        <td><a href="#t8543">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8543">8543s</a></td>
+        <td>No ja bardzo polecam wam serial Warrior, który jest teraz, trzeci sezon się zaczął na HBO, zresztą ostatnio o tym Rysławie rozmawialiśmy.</td>
+    </tr>
+    <tr id="t8550">
+        <td><a href="#t8550">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8550">8550s</a></td>
+        <td>Oglądałem, oglądałem, dwa sezony oglądałem z polecenia Filipa i przyłączam się do polecajki, naprawdę dobra rzecz.</td>
+    </tr>
+    <tr id="t8556">
+        <td><a href="#t8556">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8556">8556s</a></td>
+        <td>Jak się komuś podobało Peaky Blinders, to to jest bardzo podobne, jeżeli chodzi o klimat.</td>
+    </tr>
+    <tr id="t8560">
+        <td><a href="#t8560">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8560">8560s</a></td>
+        <td>Rysławie, nie zabijaj wszystkich.</td>
+    </tr>
+    <tr id="t8562">
+        <td><a href="#t8562">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8562">8562s</a></td>
+        <td>Przepraszam, jak wszedłem w cuk.</td>
+    </tr>
+    <tr id="t8564">
+        <td><a href="#t8564">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8564">8564s</a></td>
+        <td>Szczwany Lis, dzięki za wsparcie od 4 miesięcy, pozdrowienia serdeczne od Szczwanego Lisa mamy wszyscy.</td>
+    </tr>
+    <tr id="t8570">
+        <td><a href="#t8570">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8570">8570s</a></td>
+        <td>Dopiero dotarłam, miłego, dziękujemy ci strasznie.</td>
+    </tr>
+    <tr id="t8573">
+        <td><a href="#t8573">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8573">8573s</a></td>
+        <td>Karol Blanc zagrał fenomenalnie w Sędzim Dredzie.</td>
+    </tr>
+    <tr id="t8576">
+        <td><a href="#t8576">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8576">8576s</a></td>
+        <td>W ogóle Karol Blanc jest świetnym aktorem.</td>
+    </tr>
+    <tr id="t8577">
+        <td><a href="#t8577">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8577">8577s</a></td>
+        <td>Piotr Juszkiewicz, dzięki za trybut.</td>
+    </tr>
+    <tr id="t8579">
+        <td><a href="#t8579">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8579">8579s</a></td>
+        <td>Co jest obecnie czytane, panowie?</td>
+    </tr>
+    <tr id="t8581">
+        <td><a href="#t8581">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8581">8581s</a></td>
+        <td>U mnie jest czytane cały czas Kelkade, drugi tom, przerwałem, bo teraz są obrony licencjatów i sesja, drugi tom Powiernika Mieczy.</td>
+    </tr>
+    <tr id="t8590">
+        <td><a href="#t8590">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8590">8590s</a></td>
+        <td>Co jest czytane Urysława?</td>
+    </tr>
+    <tr id="t8592">
+        <td><a href="#t8592">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8592">8592s</a></td>
+        <td>U mnie Abercrombie.</td>
+    </tr>
+    <tr id="t8595">
+        <td><a href="#t8595">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8595">8595s</a></td>
+        <td>Ta główna saga jego, czy może teraz?</td>
+    </tr>
+    <tr id="t8596">
+        <td><a href="#t8596">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8596">8596s</a></td>
+        <td>Ta główna saga, tak, ta główna saga i Pana Samochodzika.</td>
+    </tr>
+    <tr id="t8601">
+        <td><a href="#t8601">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8601">8601s</a></td>
+        <td>Ponownie Pana Samochodzika na pamięć.</td>
+    </tr>
+    <tr id="t8604">
+        <td><a href="#t8604">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8604">8604s</a></td>
+        <td>Teraz wychodzi, znaczy widziałem już niestety zwiastun tego Pana Samochodzika i Templariusza.</td>
+    </tr>
+    <tr id="t8612">
+        <td><a href="#t8612">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8612">8612s</a></td>
+        <td>I tak trochę mi przykro.</td>
+    </tr>
+    <tr id="t8615">
+        <td><a href="#t8615">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8615">8615s</a></td>
+        <td>A Filip, co u ciebie czytane?</td>
+    </tr>
+    <tr id="t8617">
+        <td><a href="#t8617">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8617">8617s</a></td>
+        <td>Książka Atomowe Nawyki.</td>
+    </tr>
+    <tr id="t8620">
+        <td><a href="#t8620">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8620">8620s</a></td>
+        <td>Atomic Habits.</td>
+    </tr>
+    <tr id="t8622">
+        <td><a href="#t8622">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8622">8622s</a></td>
+        <td>pas beletrystyki, piorun kulisty autorstwa Liu Cixina, czyli jednego z ulubionych pisarzy, autora Problemu Trzech Ciał i całej trylogii wspomnień o przeszłości Ziemi.</td>
+    </tr>
+    <tr id="t8638">
+        <td><a href="#t8638">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8638">8638s</a></td>
+        <td>za którą już tęsknię, chociaż czytałem ją jakieś dwa lata temu, to już chciałbym ją znowu przeczytać.</td>
+    </tr>
+    <tr id="t8643">
+        <td><a href="#t8643">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8643">8643s</a></td>
+        <td>No Filip będzie hype'ował ostro ten serial, coś czuję.</td>
+    </tr>
+    <tr id="t8646">
+        <td><a href="#t8646">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8646">8646s</a></td>
+        <td>Będę, myślę, że nawet będę dosłownie porównywał z książką, tak jak ty robiłeś Swings of Power, bo jestem, no jestem psychofanem tej, tej, tej trylogii.</td>
+    </tr>
+    <tr id="t8656">
+        <td><a href="#t8656">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8656">8656s</a></td>
+        <td>I ja jeszcze tylko, że tam czytam komiks Cartago, w polskiej wersji Mroczna Otłań, bardzo ciekawa opowieść,</td>
+    </tr>
+    <tr id="t8664">
+        <td><a href="#t8664">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8664">8664s</a></td>
+        <td>dziejące się w naszym świecie, w takiej wariancie naszego świata, w którym odkrywane są bestie przedpotopowe, megalodony itd.</td>
+    </tr>
+    <tr id="t8675">
+        <td><a href="#t8675">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8675">8675s</a></td>
+        <td>W głębinach odkrywane są podziemne, podwodne miasta stworzone przez zaginione cywilizacje.</td>
+    </tr>
+    <tr id="t8683">
+        <td><a href="#t8683">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8683">8683s</a></td>
+        <td>Fajna intryga, ciekawa opowieść.</td>
+    </tr>
+    <tr id="t8686">
+        <td><a href="#t8686">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8686">8686s</a></td>
+        <td>Ma to cztery tomy zintegrowane.</td>
+    </tr>
+    <tr id="t8691">
+        <td><a href="#t8691">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8691">8691s</a></td>
+        <td>Krzysztofie współczuję, że nie jest... Może spróbujesz.</td>
+    </tr>
+    <tr id="t8695">
+        <td><a href="#t8695">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8695">8695s</a></td>
+        <td>Nie, próbowałem wiele wieści, a próbowałem nawet z Sandmanem, a... Sandman nie jest prostym, może spróbuj zacząć od jakiegoś komiksu stricte obrazkowego.</td>
+    </tr>
+    <tr id="t8704">
+        <td><a href="#t8704">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8704">8704s</a></td>
+        <td>Może, może to jest rzeczywiście dobry pomysł, będę mieć wtedy... Nie będę mieć tego problemu, bo rozmawialiśmy przed live'em z Rysławem, że mam problem taki, że jednocześnie czytanie rozproszonego tekstu i przeglądanie kart komiksowych jest dla mnie bardzo męczące.</td>
+    </tr>
+    <tr id="t8719">
+        <td><a href="#t8719">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8719">8719s</a></td>
+        <td>Carl Urban w Xenie?</td>
+    </tr>
+    <tr id="t8721">
+        <td><a href="#t8721">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8721">8721s</a></td>
+        <td>W Xenie?</td>
+    </tr>
+    <tr id="t8722">
+        <td><a href="#t8722">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8722">8722s</a></td>
+        <td>Naprawdę?</td>
+    </tr>
+    <tr id="t8723">
+        <td><a href="#t8723">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8723">8723s</a></td>
+        <td>Był.</td>
+    </tr>
+    <tr id="t8723">
+        <td><a href="#t8723">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8723">8723s</a></td>
+        <td>Nie tylko on, był także Anthony Starr, ale Anthony Starr był... Obydwaj byli.</td>
+    </tr>
+    <tr id="t8728">
+        <td><a href="#t8728">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8728">8728s</a></td>
+        <td>Musieli być dzieciakami w tym.</td>
+    </tr>
+    <tr id="t8730">
+        <td><a href="#t8730">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8730">8730s</a></td>
+        <td>No tak, bo Anthony Starr też jest przecież w The Boys, tak samo jak Carl Urban.</td>
+    </tr>
+    <tr id="t8735">
+        <td><a href="#t8735">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8735">8735s</a></td>
+        <td>No właśnie.</td>
+    </tr>
+    <tr id="t8736">
+        <td><a href="#t8736">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8736">8736s</a></td>
+        <td>Ojczyzno sławem.</td>
+    </tr>
+    <tr id="t8738">
+        <td><a href="#t8738">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8738">8738s</a></td>
+        <td>Ojczyzno sławem, tak jest.</td>
+    </tr>
+    <tr id="t8740">
+        <td><a href="#t8740">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8740">8740s</a></td>
+        <td>Eł przedniojęzykowo-zębowym.</td>
+    </tr>
+    <tr id="t8743">
+        <td><a href="#t8743">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8743">8743s</a></td>
+        <td>Musi być.</td>
+    </tr>
+    <tr id="t8743">
+        <td><a href="#t8743">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8743">8743s</a></td>
+        <td>Ale Carl Urban wybitny jest w The Boys też.</td>
+    </tr>
+    <tr id="t8746">
+        <td><a href="#t8746">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8746">8746s</a></td>
+        <td>Jezus, coś cudownego.</td>
+    </tr>
+    <tr id="t8748">
+        <td><a href="#t8748">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8748">8748s</a></td>
+        <td>Krzysztof czytał berserka od lewej do prawej, dzień.</td>
+    </tr>
+    <tr id="t8749">
+        <td><a href="#t8749">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8749">8749s</a></td>
+        <td>Ja się nie mieczam do walki jakby co, poradzicie sobie sami.</td>
+    </tr>
+    <tr id="t8752">
+        <td><a href="#t8752">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8752">8752s</a></td>
+        <td>Zorym jest... Lugawę przywoływasz.</td>
+    </tr>
+    <tr id="t8755">
+        <td><a href="#t8755">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8755">8755s</a></td>
+        <td>Tak, jest martwy już, umówmy się.</td>
+    </tr>
+    <tr id="t8759">
+        <td><a href="#t8759">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8759">8759s</a></td>
+        <td>Bardzo dobrze, klucz do azylu.</td>
+    </tr>
+    <tr id="t8760">
+        <td><a href="#t8760">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8760">8760s</a></td>
+        <td>Klucz do azylu, proszę bardzo.</td>
+    </tr>
+    <tr id="t8761">
+        <td><a href="#t8761">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8761">8761s</a></td>
+        <td>Świetnie.</td>
+    </tr>
+    <tr id="t8762">
+        <td><a href="#t8762">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8762">8762s</a></td>
+        <td>Bardzo dobrze.</td>
+    </tr>
+    <tr id="t8765">
+        <td><a href="#t8765">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8765">8765s</a></td>
+        <td>Azyl przypomina mi o moim z kolei ulubionym filmie, ale się cieszę, że rozmawiamy o filmach, bo rzadko w sumie rozmawiamy tutaj na kanale o filmach, a uwielbiam absolutnie Sucker Punch i jestem w stanie się pokłócić z każdym, kto nie lubi tego filmu.</td>
+    </tr>
+    <tr id="t8779">
+        <td><a href="#t8779">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8779">8779s</a></td>
+        <td>Bardzo dobry film.</td>
+    </tr>
+    <tr id="t8780">
+        <td><a href="#t8780">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8780">8780s</a></td>
+        <td>Bardzo dobry film.</td>
+    </tr>
+    <tr id="t8780">
+        <td><a href="#t8780">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8780">8780s</a></td>
+        <td>To jest film o chorobie.</td>
+    </tr>
+    <tr id="t8781">
+        <td><a href="#t8781">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8781">8781s</a></td>
+        <td>To chyba Zacka Snydera, nie?</td>
+    </tr>
+    <tr id="t8782">
+        <td><a href="#t8782">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8782">8782s</a></td>
+        <td>Tak, to jest film dobry.</td>
+    </tr>
+    <tr id="t8783">
+        <td><a href="#t8783">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8783">8783s</a></td>
+        <td>To jest jedyny dobry film taki, wiesz, autorski Zacka Snydera, w którym nie przez Snyderzy.</td>
+    </tr>
+    <tr id="t8789">
+        <td><a href="#t8789">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8789">8789s</a></td>
+        <td>On jest chyba na podstawie komiksu, wydaje mi się.</td>
+    </tr>
+    <tr id="t8790">
+        <td><a href="#t8790">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8790">8790s</a></td>
+        <td>Tak, on jest na podstawie komiksu.</td>
+    </tr>
+    <tr id="t8792">
+        <td><a href="#t8792">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8792">8792s</a></td>
+        <td>To nie jest autorski film.</td>
+    </tr>
+    <tr id="t8793">
+        <td><a href="#t8793">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8793">8793s</a></td>
+        <td>Tak?</td>
+    </tr>
+    <tr id="t8793">
+        <td><a href="#t8793">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8793">8793s</a></td>
+        <td>A myślałem, że autorska.</td>
+    </tr>
+    <tr id="t8793">
+        <td><a href="#t8793">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8793">8793s</a></td>
+        <td>Proszę, to się wycofuje.</td>
+    </tr>
+    <tr id="t8794">
+        <td><a href="#t8794">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8794">8794s</a></td>
+        <td>To jest na podstawie komiksu.</td>
+    </tr>
+    <tr id="t8795">
+        <td><a href="#t8795">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8795">8795s</a></td>
+        <td>Zack Snyder jest fanem komiksów, robi filmy na podstawie komiksu.</td>
+    </tr>
+    <tr id="t8798">
+        <td><a href="#t8798">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8798">8798s</a></td>
+        <td>Zaraz, zaraz, zaraz.</td>
+    </tr>
+    <tr id="t8799">
+        <td><a href="#t8799">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8799">8799s</a></td>
+        <td>Tak, zrobił Watchmen, 300 i Sucker Punch i one były naprawdę blisko siebie te filmy.</td>
+    </tr>
+    <tr id="t8802">
+        <td><a href="#t8802">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8802">8802s</a></td>
+        <td>Tak, moim zdaniem 300 jest świetny film.</td>
+    </tr>
+    <tr id="t8804">
+        <td><a href="#t8804">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8804">8804s</a></td>
+        <td>W ogóle nie wiem czy wiecie, ale wspomniany wcześniej Henry Cavill grał w Immortals, czyli w tym drugim 300.</td>
+    </tr>
+    <tr id="t8812">
+        <td><a href="#t8812">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8812">8812s</a></td>
+        <td>I był jeszcze młody i szczuplutki, mniej napachowany.</td>
+    </tr>
+    <tr id="t8816">
+        <td><a href="#t8816">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8816">8816s</a></td>
+        <td>Z Bogowie i Herosi było coś takiego, tak.</td>
+    </tr>
+    <tr id="t8819">
+        <td><a href="#t8819">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8819">8819s</a></td>
+        <td>Jest pytanie od Tomeksa Dorysława.</td>
+    </tr>
+    <tr id="t8825">
+        <td><a href="#t8825">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8825">8825s</a></td>
+        <td>Dlaczego zawiesiłeś doktorady?</td>
+    </tr>
+    <tr id="t8826">
+        <td><a href="#t8826">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8826">8826s</a></td>
+        <td>Nawet nie wiedziałem, że były takie plany.</td>
+    </tr>
+    <tr id="t8829">
+        <td><a href="#t8829">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8829">8829s</a></td>
+        <td>Przewód miałem otwarty, doktorski.</td>
+    </tr>
+    <tr id="t8835">
+        <td><a href="#t8835">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8835">8835s</a></td>
+        <td>Nie na Uniwersytecie Wrocławskim, tylko miałem w Wyższej Szkole Filologicznej w Wrocławiu.</td>
+    </tr>
+    <tr id="t8841">
+        <td><a href="#t8841">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8841">8841s</a></td>
+        <td>I z powodów, że tak powiem, osobistych.</td>
+    </tr>
+    <tr id="t8845">
+        <td><a href="#t8845">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8845">8845s</a></td>
+        <td>Nie miałem czasu się tym zająć odpowiednio.</td>
+    </tr>
+    <tr id="t8851">
+        <td><a href="#t8851">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8851">8851s</a></td>
+        <td>Całe studia doktoranckie dwuletnie przeszedłem, natomiast nie napisałem do końca pracy.</td>
+    </tr>
+    <tr id="t8856">
+        <td><a href="#t8856">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8856">8856s</a></td>
+        <td>Więc sądzę, że ten przewód jest cały czas otwarty, bo niby, że tam były jakieś pomysły naszego ówczesnego pana od edukacji, nie wiem kto to był.</td>
+    </tr>
+    <tr id="t8867">
+        <td><a href="#t8867">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8867">8867s</a></td>
+        <td>Nieważne.</td>
+    </tr>
+    <tr id="t8869">
+        <td><a href="#t8869">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8869">8869s</a></td>
+        <td>W każdym razie udało się przejść studia, zapłacić za studia.</td>
+    </tr>
+    <tr id="t8877">
+        <td><a href="#t8877">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8877">8877s</a></td>
+        <td>Niestety nie napisałem z powodów rozmaitych, o których może kiedyś powiem.</td>
+    </tr>
+    <tr id="t8883">
+        <td><a href="#t8883">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8883">8883s</a></td>
+        <td>Absolutnie, nie czuj się zobligowany.</td>
+    </tr>
+    <tr id="t8885">
+        <td><a href="#t8885">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8885">8885s</a></td>
+        <td>Ja powiem od siebie, że gdyby każdy podejmował dojrzałą decyzję na zasadzie, że życie ważniejsze, a doktorat swoją, to byłoby lepiej na tym świecie.</td>
+    </tr>
+    <tr id="t8897">
+        <td><a href="#t8897">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8897">8897s</a></td>
+        <td>Natomiast może kiedyś do niego wrócę, bo temat był ciekawy, to były kulturowe aspekty lokalizacji gier.</td>
+    </tr>
+    <tr id="t8904">
+        <td><a href="#t8904">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8904">8904s</a></td>
+        <td>I chciałem tam mówić o rozmaitych rzeczach związanych z lokalizacją, przedstawiać za i przeciw, mówić o tłumaczeniu nazw własnych, co jest bardzo dużym problemem dla niektórych osób.</td>
+    </tr>
+    <tr id="t8918">
+        <td><a href="#t8918">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8918">8918s</a></td>
+        <td>Może budzi obiekcje u niektórych, a zadowolenie u innych osób jest takim kontrowersyjnym tematem.</td>
+    </tr>
+    <tr id="t8927">
+        <td><a href="#t8927">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8927">8927s</a></td>
+        <td>moim zdaniem powinno się jak najbardziej tłumaczyć na zły własny, ale chciałbym to też pokazać w tym materiale, ale prawdopodobnie będę od czasu do czasu poruszał</td>
+    </tr>
+    <tr id="t8938">
+        <td><a href="#t8938">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8938">8938s</a></td>
+        <td>te informacje w moich esejach, powiedzmy, gry słów.</td>
+    </tr>
+    <tr id="t8944">
+        <td><a href="#t8944">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8944">8944s</a></td>
+        <td>Robię gry słów, teraz będą gry słów o Final Fantasy i o nazwach wszystkich tych przywołańców, ikonów, skąd się wzięły w kulturze i może kiedyś poruszę temat też nazw własnych, czy powinno się je tłumaczyć, czy się nie powinno tłumaczyć, jaka jest historia</td>
+    </tr>
+    <tr id="t8961">
+        <td><a href="#t8961">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8961">8961s</a></td>
+        <td>To jest ciekawy temat.</td>
+    </tr>
+    <tr id="t8963">
+        <td><a href="#t8963">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8963">8963s</a></td>
+        <td>Po nazwie własnej kiedyś tłumaczono w zasadzie każde znaczące nazwiska i imiona także w języku polskim miały albo spolszczaną pisownię, albo miały całe znaczenie tłumaczone.</td>
+    </tr>
+    <tr id="t8976">
+        <td><a href="#t8976">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8976">8976s</a></td>
+        <td>Jak sobie popatrzymy na takie postacie jak Szekspir, tak?</td>
+    </tr>
+    <tr id="t8981">
+        <td><a href="#t8981">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8981">8981s</a></td>
+        <td>Nie mówimy William Shakespeare, mówimy Wilhelm Shakespeare i piszemy go przez sz.</td>
+    </tr>
+    <tr id="t8988">
+        <td><a href="#t8988">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8988">8988s</a></td>
+        <td>Nie mówimy George Washington, tylko mówimy Jerzy Washington.</td>
+    </tr>
+    <tr id="t8993">
+        <td><a href="#t8993">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8993">8993s</a></td>
+        <td>I jest takich przykładów więcej.</td>
+    </tr>
+    <tr id="t8994">
+        <td><a href="#t8994">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8994">8994s</a></td>
+        <td>Jest parę takich, które się przyjęło rzeczywiście.</td>
+    </tr>
+    <tr id="t8996">
+        <td><a href="#t8996">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=8996">8996s</a></td>
+        <td>Jest więcej takich przykładów, tak.</td>
+    </tr>
+    <tr id="t9000">
+        <td><a href="#t9000">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9000">9000s</a></td>
+        <td>Natomiast formy Wilhelm Szekspir nie słyszałem nigdy w życiu.</td>
+    </tr>
+    <tr id="t9002">
+        <td><a href="#t9002">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9002">9002s</a></td>
+        <td>Słyszałem William Szekspir, co dla mnie jest zawsze dziwne, ponieważ wtedy jest podwójne to trochę, prawda?</td>
+    </tr>
+    <tr id="t9008">
+        <td><a href="#t9008">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9008">9008s</a></td>
+        <td>Rysław zniecierpliwił się nami.</td>
+    </tr>
+    <tr id="t9010">
+        <td><a href="#t9010">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9010">9010s</a></td>
+        <td>Jezus, sorry, zabiłem go?</td>
+    </tr>
+    <tr id="t9012">
+        <td><a href="#t9012">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9012">9012s</a></td>
+        <td>O jabłkie, co?</td>
+    </tr>
+    <tr id="t9013">
+        <td><a href="#t9013">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9013">9013s</a></td>
+        <td>Przepraszam.</td>
+    </tr>
+    <tr id="t9015">
+        <td><a href="#t9015">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9015">9015s</a></td>
+        <td>Dobra, chłopaki.</td>
+    </tr>
+    <tr id="t9015">
+        <td><a href="#t9015">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9015">9015s</a></td>
+        <td>Pierwszy raz usłyszałem, żeby Rysło zabluźnił.</td>
+    </tr>
+    <tr id="t9018">
+        <td><a href="#t9018">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9018">9018s</a></td>
+        <td>Chłopaki, zbieramy się stąd, zamulacie.</td>
+    </tr>
+    <tr id="t9020">
+        <td><a href="#t9020">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9020">9020s</a></td>
+        <td>Zabluźniłem jeszcze, jej!</td>
+    </tr>
+    <tr id="t9023">
+        <td><a href="#t9023">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9023">9023s</a></td>
+        <td>Upadek całkowity.</td>
+    </tr>
+    <tr id="t9026">
+        <td><a href="#t9026">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9026">9026s</a></td>
+        <td>upadek.</td>
+    </tr>
+    <tr id="t9026">
+        <td><a href="#t9026">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9026">9026s</a></td>
+        <td>Kotku, chodź tutaj, chodź.</td>
+    </tr>
+    <tr id="t9028">
+        <td><a href="#t9028">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9028">9028s</a></td>
+        <td>O!</td>
+    </tr>
+    <tr id="t9029">
+        <td><a href="#t9029">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9029">9029s</a></td>
+        <td>Muszę wypuścić kotka, bo już jest znudzony.</td>
+    </tr>
+    <tr id="t9031">
+        <td><a href="#t9031">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9031">9031s</a></td>
+        <td>Momencik, sekundę.</td>
+    </tr>
+    <tr id="t9032">
+        <td><a href="#t9032">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9032">9032s</a></td>
+        <td>Tak.</td>
+    </tr>
+    <tr id="t9032">
+        <td><a href="#t9032">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9032">9032s</a></td>
+        <td>Kitku, oczywiście, ja wiem.</td>
+    </tr>
+    <tr id="t9035">
+        <td><a href="#t9035">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9035">9035s</a></td>
+        <td>Krzysztof, kiedy koop z Olgą Ary... Karczuk?</td>
+    </tr>
+    <tr id="t9037">
+        <td><a href="#t9037">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9037">9037s</a></td>
+        <td>Nigdy.</td>
+    </tr>
+    <tr id="t9038">
+        <td><a href="#t9038">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9038">9038s</a></td>
+        <td>Ale bardzo mnie bawi to teraz, jak znowu zaczyna trendować.</td>
+    </tr>
+    <tr id="t9041">
+        <td><a href="#t9041">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9041">9041s</a></td>
+        <td>Ja mam wrażenie, że Ola, Olga Tokarczuk jest jak ten, jak...</td>
+    </tr>
+    <tr id="t9046">
+        <td><a href="#t9046">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9046">9046s</a></td>
+        <td>Zbigniew Stonoga, nie?</td>
+    </tr>
+    <tr id="t9047">
+        <td><a href="#t9047">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9047">9047s</a></td>
+        <td>Że ona cały czas ma taki cykl od żenady do żenady i mieliśmy ostatnio na zeszłym festiwalu Góry Literatury żenadę w postaci wyzywania czytelników, teraz mamy żenadę w postaci filmy windykacyjnej, która wspiera wysiłek noblistki.</td>
+    </tr>
+    <tr id="t9060">
+        <td><a href="#t9060">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9060">9060s</a></td>
+        <td>Myślę, że na kolejnych Górach Literatury będziemy mieli jeszcze następną żenadę.</td>
+    </tr>
+    <tr id="t9063">
+        <td><a href="#t9063">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9063">9063s</a></td>
+        <td>Że co?</td>
+    </tr>
+    <tr id="t9063">
+        <td><a href="#t9063">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9063">9063s</a></td>
+        <td>Nie słyszałeś o tym?</td>
+    </tr>
+    <tr id="t9067">
+        <td><a href="#t9067">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9067">9067s</a></td>
+        <td>Firma windykacyjna Kruk jest sponsorem Gór Literatury, wybitnego festiwalu dla snobów, na którym się pojawi tysiąc osób, podczas gdy na Pyrkonie pojawiło się 70 w tym roku.</td>
+    </tr>
+    <tr id="t9077">
+        <td><a href="#t9077">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9077">9077s</a></td>
+        <td>Czy 66, nie pamiętam.</td>
+    </tr>
+    <tr id="t9079">
+        <td><a href="#t9079">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9079">9079s</a></td>
+        <td>Więc to jest piękne, nie?</td>
+    </tr>
+    <tr id="t9080">
+        <td><a href="#t9080">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9080">9080s</a></td>
+        <td>Ale wiesz, niesamowite jest to, że Szymborska...</td>
+    </tr>
+    <tr id="t9085">
+        <td><a href="#t9085">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9085">9085s</a></td>
+        <td>w ramach swoich pieniędzy ona ufundowała stypendium twórcze, fundację, która realnie wydaje książki, która organizuje festiwale z własnych pieniędzy.</td>
+    </tr>
+    <tr id="t9093">
+        <td><a href="#t9093">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9093">9093s</a></td>
+        <td>Paru moich znajomych pracowało.</td>
+    </tr>
+    <tr id="t9095">
+        <td><a href="#t9095">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9095">9095s</a></td>
+        <td>A babeczka ta, po dwóch latach od Nobla, już potrzebuje drenować sobie kasę od prywaciarzy i to jeszcze, wiesz, takich no, no nie oszukujmy się, to nie jest firma mleczarska na przykład, tak?</td>
+    </tr>
+    <tr id="t9108">
+        <td><a href="#t9108">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9108">9108s</a></td>
+        <td>To nie jest producent lamp i oświetlenia, to jest cholera, to jest ta firma wendykacyjna w tej tości.</td>
+    </tr>
+    <tr id="t9114">
+        <td><a href="#t9114">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9114">9114s</a></td>
+        <td>Może napisze jakieś głębokie, egzystencjalne opowiadanie o tym.</td>
+    </tr>
+    <tr id="t9119">
+        <td><a href="#t9119">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9119">9119s</a></td>
+        <td>Czy mówi indykator, on tak ludziom mówi.</td>
+    </tr>
+    <tr id="t9121">
+        <td><a href="#t9121">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9121">9121s</a></td>
+        <td>Nie no, ja bym nawiązał raczej do... Może zrobi trawestację poematu Edgara Alna Poe'a o kroku.</td>
+    </tr>
+    <tr id="t9130">
+        <td><a href="#t9130">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9130">9130s</a></td>
+        <td>To nie są rysła w te eszelony warsztatu literackiego, na które ta pisarka jest w stanie się wzbić.</td>
+    </tr>
+    <tr id="t9150">
+        <td><a href="#t9150">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9150">9150s</a></td>
+        <td>JP Morgan to był czuły windykator, to jest prawda.</td>
+    </tr>
+    <tr id="t9154">
+        <td><a href="#t9154">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9154">9154s</a></td>
+        <td>Ja przyzywałem Artura Morgana w Red Dead Redemption 2 JP Morganem.</td>
+    </tr>
+    <tr id="t9158">
+        <td><a href="#t9158">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9158">9158s</a></td>
+        <td>Prowadź swój pług przez kości dłużników.</td>
+    </tr>
+    <tr id="t9165">
+        <td><a href="#t9165">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9165">9165s</a></td>
+        <td>Piękne!</td>
+    </tr>
+    <tr id="t9167">
+        <td><a href="#t9167">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9167">9167s</a></td>
+        <td>Piękne!</td>
+    </tr>
+    <tr id="t9168">
+        <td><a href="#t9168">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9168">9168s</a></td>
+        <td>Piękne!</td>
+    </tr>
+    <tr id="t9170">
+        <td><a href="#t9170">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9170">9170s</a></td>
+        <td>O nie!</td>
+    </tr>
+    <tr id="t9172">
+        <td><a href="#t9172">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9172">9172s</a></td>
+        <td>Piękne!</td>
+    </tr>
+    <tr id="t9172">
+        <td><a href="#t9172">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9172">9172s</a></td>
+        <td>O nie!</td>
+    </tr>
+    <tr id="t9172">
+        <td><a href="#t9172">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9172">9172s</a></td>
+        <td>Dobra, ja idę do Filipa, który jest... nie, jest w Zawinzecie.</td>
+    </tr>
+    <tr id="t9176">
+        <td><a href="#t9176">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9176">9176s</a></td>
+        <td>Filip jest w Zawinzecie.</td>
+    </tr>
+    <tr id="t9177">
+        <td><a href="#t9177">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9177">9177s</a></td>
+        <td>Ja jestem... robię sobie upgrade'y.</td>
+    </tr>
+    <tr id="t9180">
+        <td><a href="#t9180">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9180">9180s</a></td>
+        <td>Ja czekam po prostu aż pokażecie kierunek, kogo mam mordować.</td>
+    </tr>
+    <tr id="t9184">
+        <td><a href="#t9184">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9184">9184s</a></td>
+        <td>Wszystko wybucha Filip i ja jestem sobie w Zawinzecie, ja sobie klejnoty szlifuję swoje, tak, rodowe i...</td>
+    </tr>
+    <tr id="t9193">
+        <td><a href="#t9193">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9193">9193s</a></td>
+        <td>No tam nie przeszkadzajcie.</td>
+    </tr>
+    <tr id="t9196">
+        <td><a href="#t9196">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9196">9196s</a></td>
+        <td>Byłem u Niziurskiego, taka kwestia, kocham Edmunda Niziurskiego.</td>
+    </tr>
+    <tr id="t9199">
+        <td><a href="#t9199">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9199">9199s</a></td>
+        <td>Niziurski jest boski.</td>
+    </tr>
+    <tr id="t9200">
+        <td><a href="#t9200">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9200">9200s</a></td>
+        <td>Klub Wojczykijów, Boże, jak ja to kocham.</td>
+    </tr>
+    <tr id="t9203">
+        <td><a href="#t9203">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9203">9203s</a></td>
+        <td>Winczysław Nieszczególny.</td>
+    </tr>
+    <tr id="t9204">
+        <td><a href="#t9204">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9204">9204s</a></td>
+        <td>Tak, Winczysław Nieszczególny właśnie był w Klubie Wojczykijów.</td>
+    </tr>
+    <tr id="t9208">
+        <td><a href="#t9208">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9208">9208s</a></td>
+        <td>Byli najlepsi złoczyńcy w ogóle w historii.</td>
+    </tr>
+    <tr id="t9211">
+        <td><a href="#t9211">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9211">9211s</a></td>
+        <td>I on mówił, Świerszczyku mój zawsze, więc ja sobie pomyślałem, że do Filipa tak dzisiaj trzeba powiedzieć.</td>
+    </tr>
+    <tr id="t9217">
+        <td><a href="#t9217">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9217">9217s</a></td>
+        <td>Nie przeszkadzaj sobie, Świerszczyku mój.</td>
+    </tr>
+    <tr id="t9219">
+        <td><a href="#t9219">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9219">9219s</a></td>
+        <td>Bądź sobie w tym, jak to się nazywa?</td>
+    </tr>
+    <tr id="t9222">
+        <td><a href="#t9222">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9222">9222s</a></td>
+        <td>Zawinzet?</td>
+    </tr>
+    <tr id="t9223">
+        <td><a href="#t9223">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9223">9223s</a></td>
+        <td>Nie, Zarbinzet.</td>
+    </tr>
+    <tr id="t9224">
+        <td><a href="#t9224">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9224">9224s</a></td>
+        <td>Zarubin Z, tak.</td>
+    </tr>
+    <tr id="t9225">
+        <td><a href="#t9225">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9225">9225s</a></td>
+        <td>Ja teraz czytam, znaczy akurat słucham sobie Wielkie Wtajemniczenie.</td>
+    </tr>
+    <tr id="t9230">
+        <td><a href="#t9230">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9230">9230s</a></td>
+        <td>O!</td>
+    </tr>
+    <tr id="t9231">
+        <td><a href="#t9231">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9231">9231s</a></td>
+        <td>Proszę.</td>
+    </tr>
+    <tr id="t9231">
+        <td><a href="#t9231">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9231">9231s</a></td>
+        <td>Siódme Wtajemniczenie przecież, Siódme Wtajemniczenie.</td>
+    </tr>
+    <tr id="t9232">
+        <td><a href="#t9232">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9232">9232s</a></td>
+        <td>Siódme Wtajemniczenie, ale to był ten, to też był Niziurski właśnie.</td>
+    </tr>
+    <tr id="t9236">
+        <td><a href="#t9236">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9236">9236s</a></td>
+        <td>Niziurski, tak, Niziurski, Niziurski.</td>
+    </tr>
+    <tr id="t9238">
+        <td><a href="#t9238">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9238">9238s</a></td>
+        <td>Ach, bo mi się pomieniło z Tajemnicą Siódmej Pieczęci Hanny Orzogowskiej.</td>
+    </tr>
+    <tr id="t9241">
+        <td><a href="#t9241">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9241">9241s</a></td>
+        <td>To też było fajne, swoją drogą.</td>
+    </tr>
+    <tr id="t9242">
+        <td><a href="#t9242">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9242">9242s</a></td>
+        <td>Też fajne.</td>
+    </tr>
+    <tr id="t9243">
+        <td><a href="#t9243">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9243">9243s</a></td>
+        <td>Natomiast Niziurski Mistrz, mistrz.</td>
+    </tr>
+    <tr id="t9245">
+        <td><a href="#t9245">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9245">9245s</a></td>
+        <td>Ja się wychowałem na Niziurskim.</td>
+    </tr>
+    <tr id="t9247">
+        <td><a href="#t9247">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9247">9247s</a></td>
+        <td>Jeszcze były wtedy też seriale w telewizji, były niesamowite przygody Marka Piegusa przecież były w telewizji.</td>
+    </tr>
+    <tr id="t9253">
+        <td><a href="#t9253">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9253">9253s</a></td>
+        <td>A masz rację, masz rację.</td>
+    </tr>
+    <tr id="t9255">
+        <td><a href="#t9255">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9255">9255s</a></td>
+        <td>Marek Piegus był dziwny, on już takim PRL-em wionął za bardzo, a ja jednak... Serial tak, książka mniej.</td>
+    </tr>
+    <tr id="t9262">
+        <td><a href="#t9262">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9262">9262s</a></td>
+        <td>Sposób Nalcybiadesa też nie był?</td>
+    </tr>
+    <tr id="t9264">
+        <td><a href="#t9264">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9264">9264s</a></td>
+        <td>Tak, też był, też był jak najbardziej.</td>
+    </tr>
+    <tr id="t9267">
+        <td><a href="#t9267">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9267">9267s</a></td>
+        <td>Sposób Nalcybiadesa też był Niziurski, tak.</td>
+    </tr>
+    <tr id="t9269">
+        <td><a href="#t9269">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9269">9269s</a></td>
+        <td>I to jest lektura chyba do tej pory.</td>
+    </tr>
+    <tr id="t9271">
+        <td><a href="#t9271">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9271">9271s</a></td>
+        <td>Nie, chyba już nie.</td>
+    </tr>
+    <tr id="t9273">
+        <td><a href="#t9273">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9273">9273s</a></td>
+        <td>Chaty, jak to jest ze sposobem Alcybiadesa?</td>
+    </tr>
+    <tr id="t9275">
+        <td><a href="#t9275">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9275">9275s</a></td>
+        <td>Lektura czy nie lektura?</td>
+    </tr>
+    <tr id="t9276">
+        <td><a href="#t9276">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9276">9276s</a></td>
+        <td>Bardzo lubię sposoby Alcybiadesa.</td>
+    </tr>
+    <tr id="t9279">
+        <td><a href="#t9279">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9279">9279s</a></td>
+        <td>Nie sądzę.</td>
+    </tr>
+    <tr id="t9280">
+        <td><a href="#t9280">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9280">9280s</a></td>
+        <td>Natomiast Niziorski był mistrzem tworzenia też takiego swoistego slangu, wewnętrznego języka postaci, ciało logiczne itp., które przechodziło z książek do...</td>
+    </tr>
+    <tr id="t9296">
+        <td><a href="#t9296">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9296">9296s</a></td>
+        <td>Do normalnego życia, myśmy też mówili.</td>
+    </tr>
+    <tr id="t9298">
+        <td><a href="#t9298">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9298">9298s</a></td>
+        <td>Po przeczytaniu niektórych dzieł Juryskiego już nie mówiło ciało pedagogiczne, tylko ciało gogiczne.</td>
+    </tr>
+    <tr id="t9305">
+        <td><a href="#t9305">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9305">9305s</a></td>
+        <td>Jak nauczycieli.</td>
+    </tr>
+    <tr id="t9308">
+        <td><a href="#t9308">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9308">9308s</a></td>
+        <td>Czaty piszą, że nieobowiązkowa i że była jeszcze rok temu.</td>
+    </tr>
+    <tr id="t9311">
+        <td><a href="#t9311">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9311">9311s</a></td>
+        <td>Sposób jest tylko fragment podstawówce.</td>
+    </tr>
+    <tr id="t9313">
+        <td><a href="#t9313">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9313">9313s</a></td>
+        <td>Idę do Trzęsawisko Niedoli.</td>
+    </tr>
+    <tr id="t9315">
+        <td><a href="#t9315">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9315">9315s</a></td>
+        <td>Za naszym drogim Filipem.</td>
+    </tr>
+    <tr id="t9317">
+        <td><a href="#t9317">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9317">9317s</a></td>
+        <td>Gdzie jest Trzęsawisko Niedoli?</td>
+    </tr>
+    <tr id="t9319">
+        <td><a href="#t9319">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9319">9319s</a></td>
+        <td>Tam, gdzie Filip.</td>
+    </tr>
+    <tr id="t9320">
+        <td><a href="#t9320">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9320">9320s</a></td>
+        <td>Jak to zabrzmiało.</td>
+    </tr>
+    <tr id="t9321">
+        <td><a href="#t9321">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9321">9321s</a></td>
+        <td>Ja też tu jestem.</td>
+    </tr>
+    <tr id="t9322">
+        <td><a href="#t9322">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9322">9322s</a></td>
+        <td>Jak to zabrzmiało.</td>
+    </tr>
+    <tr id="t9326">
+        <td><a href="#t9326">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9326">9326s</a></td>
+        <td>Idziemy do tego podziemia, które Ty wskazałeś Krzysztof?</td>
+    </tr>
+    <tr id="t9329">
+        <td><a href="#t9329">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9329">9329s</a></td>
+        <td>Tak, ale to za moment, ale wpierw trzęsawisko niedoli, czyli Łódź.</td>
+    </tr>
+    <tr id="t9335">
+        <td><a href="#t9335">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9335">9335s</a></td>
+        <td>Trzęsawisko niedoli jest w Łodzi, Piotrowska.</td>
+    </tr>
+    <tr id="t9340">
+        <td><a href="#t9340">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9340">9340s</a></td>
+        <td>Piotrowska jest reprezentacyjna.</td>
+    </tr>
+    <tr id="t9342">
+        <td><a href="#t9342">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9342">9342s</a></td>
+        <td>Jeszcze w Łodzi mi się podobało to miejsce, gdzie mnie Filip zawlógł, to też nie brzmiało zbyt dobrze, mianowicie taka stekarnia, która jest w ceglanym budynku.</td>
+    </tr>
+    <tr id="t9353">
+        <td><a href="#t9353">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9353">9353s</a></td>
+        <td>I Filip będzie wiedział, o czym mówię.</td>
+    </tr>
+    <tr id="t9355">
+        <td><a href="#t9355">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9355">9355s</a></td>
+        <td>Monopolis.</td>
+    </tr>
+    <tr id="t9357">
+        <td><a href="#t9357">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9357">9357s</a></td>
+        <td>Proszę bardzo.</td>
+    </tr>
+    <tr id="t9362">
+        <td><a href="#t9362">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9362">9362s</a></td>
+        <td>W edukacji obowiązkowej byłem, pisze, alternatywka w latach 2012 i nie był Alcybiadesa.</td>
+    </tr>
+    <tr id="t9371">
+        <td><a href="#t9371">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9371">9371s</a></td>
+        <td>Więc bardzo możliwe, że to jest tak, że jak jest na liście lektor nadobowiązkowych, to po prostu nauczyciel decyduje o tym i w większości przypadków po prostu tego nie ma.</td>
+    </tr>
+    <tr id="t9381">
+        <td><a href="#t9381">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9381">9381s</a></td>
+        <td>Do moich czasów, czyli w 1987 roku było.</td>
+    </tr>
+    <tr id="t9384">
+        <td><a href="#t9384">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9384">9384s</a></td>
+        <td>Ja wlazłem do dziwnego azylu w tej chwili.</td>
+    </tr>
+    <tr id="t9387">
+        <td><a href="#t9387">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9387">9387s</a></td>
+        <td>Od czego się powinno zaczynać?</td>
+    </tr>
+    <tr id="t9388">
+        <td><a href="#t9388">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9388">9388s</a></td>
+        <td>Zajdla?</td>
+    </tr>
+    <tr id="t9388">
+        <td><a href="#t9388">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9388">9388s</a></td>
+        <td>My tutaj jesteśmy z Nergalem i bijemy rzeczy.</td>
+    </tr>
+    <tr id="t9391">
+        <td><a href="#t9391">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9391">9391s</a></td>
+        <td>Zajdla moim zdaniem powinno się zaczynać od Paradyzji.</td>
+    </tr>
+    <tr id="t9393">
+        <td><a href="#t9393">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9393">9393s</a></td>
+        <td>Jakie jest wasze zdanie?</td>
+    </tr>
+    <tr id="t9395">
+        <td><a href="#t9395">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9395">9395s</a></td>
+        <td>Nie, absolutnie nie.</td>
+    </tr>
+    <tr id="t9396">
+        <td><a href="#t9396">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9396">9396s</a></td>
+        <td>Zajdal powinien, jeśli szukamy powieści młodzieżowej, wyjście z cienia, absolutnie.</td>
+    </tr>
+    <tr id="t9403">
+        <td><a href="#t9403">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9403">9403s</a></td>
+        <td>A, to młodzieżowej, ale wiesz, jeżeli po prostu tak chciałbyś komuś, kto... To też, wyjście z cienia jest taką najbardziej osobną, chociaż ma bardzo mroczny początek.</td>
+    </tr>
+    <tr id="t9411">
+        <td><a href="#t9411">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9411">9411s</a></td>
+        <td>No ma.</td>
+    </tr>
+    <tr id="t9415">
+        <td><a href="#t9415">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9415">9415s</a></td>
+        <td>Ja czytając Wyjście z Cienia, miałem wrażenie, że po raz pierwszy czytałem w 85 roku i tak wyglądały polskie ulice w zasadzie, jak były opisane.</td>
+    </tr>
+    <tr id="t9423">
+        <td><a href="#t9423">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9423">9423s</a></td>
+        <td>Patrole jakieś, było uderzające po prostu.</td>
+    </tr>
+    <tr id="t9427">
+        <td><a href="#t9427">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9427">9427s</a></td>
+        <td>Dokąd idzie ten tramwaj jeszcze jako dobre opowiadanie, czaty piszą.</td>
+    </tr>
+    <tr id="t9431">
+        <td><a href="#t9431">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9431">9431s</a></td>
+        <td>W ogóle opowiadania z relacji z pierwszej ręki, to jest też świetny zajdel.</td>
+    </tr>
+    <tr id="t9435">
+        <td><a href="#t9435">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9435">9435s</a></td>
+        <td>Ogon diabła też bardzo dobre jest.</td>
+    </tr>
+    <tr id="t9439">
+        <td><a href="#t9439">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9439">9439s</a></td>
+        <td>Ja bym ogólnie polecił całość, ale taka żelazna...</td>
+    </tr>
+    <tr id="t9446">
+        <td><a href="#t9446">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9446">9446s</a></td>
+        <td>Piątka, to jest tak.</td>
+    </tr>
+    <tr id="t9447">
+        <td><a href="#t9447">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9447">9447s</a></td>
+        <td>Paradyzjal i Messing Failure, wyjście z Cienia Cylinder, Vantrofa i cała prawda o Planie Cieksi.</td>
+    </tr>
+    <tr id="t9454">
+        <td><a href="#t9454">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9454">9454s</a></td>
+        <td>Nadciągające legiony.</td>
+    </tr>
+    <tr id="t9455">
+        <td><a href="#t9455">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9455">9455s</a></td>
+        <td>Początek za 4 minuty 40 sekund.</td>
+    </tr>
+    <tr id="t9458">
+        <td><a href="#t9458">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9458">9458s</a></td>
+        <td>Ale gdzie wy w ogóle jesteście?</td>
+    </tr>
+    <tr id="t9460">
+        <td><a href="#t9460">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9460">9460s</a></td>
+        <td>Ja jestem... Ale widzisz nas na mapie, my jesteśmy... O, chodź tutaj, pokarcz mi... Ja nie jestem na tej mapie, ja jestem w azylu.</td>
+    </tr>
+    <tr id="t9467">
+        <td><a href="#t9467">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9467">9467s</a></td>
+        <td>Wzlasłem do jakiejś schatki tutaj.</td>
+    </tr>
+    <tr id="t9470">
+        <td><a href="#t9470">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9470">9470s</a></td>
+        <td>Dobra, idę.</td>
+    </tr>
+    <tr id="t9471">
+        <td><a href="#t9471">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9471">9471s</a></td>
+        <td>Pokażę Ci ołtarz Lilith.</td>
+    </tr>
+    <tr id="t9472">
+        <td><a href="#t9472">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9472">9472s</a></td>
+        <td>Krzysztof nie dostanie ołtarza Lilith, bo go nie ma.</td>
+    </tr>
+    <tr id="t9476">
+        <td><a href="#t9476">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9476">9476s</a></td>
+        <td>50 wsparć? !</td>
+    </tr>
+    <tr id="t9486">
+        <td><a href="#t9486">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9486">9486s</a></td>
+        <td>To już będzie zwieść się przedwczoraj.</td>
+    </tr>
+    <tr id="t9489">
+        <td><a href="#t9489">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9489">9489s</a></td>
+        <td>I am Freedom66, FatDoomGuy, Velez, Człowiek Kultury, Sybin, Mateusz Motta, Bryszardo, Zofia Tyrek, Nanika, Kuboszka, Razor.pl, mogę używać jamników, Lwy, Tygrysy i Niedźwiedzie, Takosz, Łukasz, Henryk, Takosz, Jamniur również będzie mógł...</td>
+    </tr>
+    <tr id="t9506">
+        <td><a href="#t9506">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9506">9506s</a></td>
+        <td>Uratujemy Krzysztofa, bo on tam umiera pewnie.</td>
+    </tr>
+    <tr id="t9509">
+        <td><a href="#t9509">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9509">9509s</a></td>
+        <td>Uratowałeś się?</td>
+    </tr>
+    <tr id="t9510">
+        <td><a href="#t9510">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9510">9510s</a></td>
+        <td>Mamy Lucyfera i teraz Lucyfirka.</td>
+    </tr>
+    <tr id="t9533">
+        <td><a href="#t9533">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9533">9533s</a></td>
+        <td>Wiśniewski, szalony szkodnik, jamnikowy piechur też jest jamnikołajem i podarował 5 wsparć.</td>
+    </tr>
+    <tr id="t9538">
+        <td><a href="#t9538">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9538">9538s</a></td>
+        <td>Patryk Zdański, to się nie skończy.</td>
+    </tr>
+    <tr id="t9540">
+        <td><a href="#t9540">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9540">9540s</a></td>
+        <td>Random Bash, Julia Jarząb, Łukasz Pieńkowski, Estander, Jesa Żółw, YouTube, jak również osamotnienie, Drak Drake, mogą używać jamników.</td>
+    </tr>
+    <tr id="t9551">
+        <td><a href="#t9551">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9551">9551s</a></td>
+        <td>Czy to wszyscy?</td>
+    </tr>
+    <tr id="t9552">
+        <td><a href="#t9552">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9552">9552s</a></td>
+        <td>Nie.</td>
+    </tr>
+    <tr id="t9553">
+        <td><a href="#t9553">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9553">9553s</a></td>
+        <td>Dude F również może.</td>
+    </tr>
+    <tr id="t9554">
+        <td><a href="#t9554">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9554">9554s</a></td>
+        <td>Profesor Cruento, Robert Jancewicz, siedzę tutaj.</td>
+    </tr>
+    <tr id="t9559">
+        <td><a href="#t9559">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9559">9559s</a></td>
+        <td>3.</td>
+    </tr>
+    <tr id="t9559">
+        <td><a href="#t9559">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9559">9559s</a></td>
+        <td>Patryk Karp, Mateusz...</td>
+    </tr>
+    <tr id="t9562">
+        <td><a href="#t9562">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9562">9562s</a></td>
+        <td>Dobre jest Diablo, bo można równocześnie grać.</td>
+    </tr>
+    <tr id="t9564">
+        <td><a href="#t9564">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9564">9564s</a></td>
+        <td>Mateusz Gara, Maciej Hemlich.</td>
+    </tr>
+    <tr id="t9566">
+        <td><a href="#t9566">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9566">9566s</a></td>
+        <td>Ginę, ginę, ginę.</td>
+    </tr>
+    <tr id="t9567">
+        <td><a href="#t9567">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9567">9567s</a></td>
+        <td>Zuzao, Krum Joy.</td>
+    </tr>
+    <tr id="t9569">
+        <td><a href="#t9569">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9569">9569s</a></td>
+        <td>Zuzao stała we walczyni streamów.</td>
+    </tr>
+    <tr id="t9571">
+        <td><a href="#t9571">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9571">9571s</a></td>
+        <td>Pat Paul, Rina T.</td>
+    </tr>
+    <tr id="t9573">
+        <td><a href="#t9573">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9573">9573s</a></td>
+        <td>Ha!</td>
+    </tr>
+    <tr id="t9574">
+        <td><a href="#t9574">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9574">9574s</a></td>
+        <td>Zresztą jako niejedyna stała w walczyni z streamów, ale akurat ją wychwyciłem.</td>
+    </tr>
+    <tr id="t9578">
+        <td><a href="#t9578">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9578">9578s</a></td>
+        <td>Ha!</td>
+    </tr>
+    <tr id="t9579">
+        <td><a href="#t9579">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9579">9579s</a></td>
+        <td>Ha!</td>
+    </tr>
+    <tr id="t9579">
+        <td><a href="#t9579">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9579">9579s</a></td>
+        <td>Czy to tyle?</td>
+    </tr>
+    <tr id="t9580">
+        <td><a href="#t9580">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9580">9580s</a></td>
+        <td>Dziękuję jeszcze raz NightFlash, który jest szalonym jamnikołajem.</td>
+    </tr>
+    <tr id="t9585">
+        <td><a href="#t9585">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9585">9585s</a></td>
+        <td>Powinien mieć inny tytuł niż inni, jak również jamnikowy mimo piechurowi.</td>
+    </tr>
+    <tr id="t9589">
+        <td><a href="#t9589">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9589">9589s</a></td>
+        <td>Do tego, co oznacza, że ja muszę iść po niuchaczu.</td>
+    </tr>
+    <tr id="t9591">
+        <td><a href="#t9591">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9591">9591s</a></td>
+        <td>Przepraszam, niuchacz, niuchacz, niuchacz.</td>
+    </tr>
+    <tr id="t9595">
+        <td><a href="#t9595">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9595">9595s</a></td>
+        <td>Chodź, tu jest kolejna Lilith.</td>
+    </tr>
+    <tr id="t9596">
+        <td><a href="#t9596">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9596">9596s</a></td>
+        <td>To są poważne rzeczy, ponieważ niuchacz... Nie kieruj mnie dlatego, bo to są dla mnie nowe regiony w ogóle.</td>
+    </tr>
+    <tr id="t9606">
+        <td><a href="#t9606">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9606">9606s</a></td>
+        <td>Macie niuchacza.</td>
+    </tr>
+    <tr id="t9608">
+        <td><a href="#t9608">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9608">9608s</a></td>
+        <td>Nie wiem, dlaczego zacząłem śmiać, śpiewać Gladiatora, ale co tam?</td>
+    </tr>
+    <tr id="t9612">
+        <td><a href="#t9612">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9612">9612s</a></td>
+        <td>Dobrze, co tam było?</td>
+    </tr>
+    <tr id="t9613">
+        <td><a href="#t9613">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9613">9613s</a></td>
+        <td>Widzisz ją?</td>
+    </tr>
+    <tr id="t9615">
+        <td><a href="#t9615">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9615">9615s</a></td>
+        <td>Tutaj wiesz, ja pokazuję...</td>
+    </tr>
+    <tr id="t9618">
+        <td><a href="#t9618">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9618">9618s</a></td>
+        <td>Filipowin, oto ołtarze Lilith kolejne.</td>
+    </tr>
+    <tr id="t9621">
+        <td><a href="#t9621">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9621">9621s</a></td>
+        <td>Ale to ja tutaj nie mam ołtarza Lilith!</td>
+    </tr>
+    <tr id="t9623">
+        <td><a href="#t9623">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9623">9623s</a></td>
+        <td>No bo nie jesteś z nami, ty gdzieś tam biegasz, nie wiem jak w grze.</td>
+    </tr>
+    <tr id="t9625">
+        <td><a href="#t9625">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9625">9625s</a></td>
+        <td>Jesteście gnuśni, jak możecie?</td>
+    </tr>
+    <tr id="t9628">
+        <td><a href="#t9628">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9628">9628s</a></td>
+        <td>Chciałeś powiedzieć coś innego, chciałeś powiedzieć, że jesteśmy gnojami.</td>
+    </tr>
+    <tr id="t9633">
+        <td><a href="#t9633">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9633">9633s</a></td>
+        <td>Nie no, gnośny to jest lepsze słowo moi drodzy, piękniejsze.</td>
+    </tr>
+    <tr id="t9636">
+        <td><a href="#t9636">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9636">9636s</a></td>
+        <td>Bo gnośny to jest, ale tak się zawahałeś, bo gnoje, chciałeś tak powiedzieć, ale...</td>
+    </tr>
+    <tr id="t9642">
+        <td><a href="#t9642">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9642">9642s</a></td>
+        <td>Ale że jesteś człowiekiem kulturalnym, to ja, jako bezwzględny łajdek, mogę to powtórzyć zamiast ciebie.</td>
+    </tr>
+    <tr id="t9649">
+        <td><a href="#t9649">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9649">9649s</a></td>
+        <td>Ja się po prostu dobrze kryję.</td>
+    </tr>
+    <tr id="t9654">
+        <td><a href="#t9654">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9654">9654s</a></td>
+        <td>Podstawowa rzecz, moi drodzy, to mieć wtyki... O, rusz się do nas przenieść, wiesz o tym.</td>
+    </tr>
+    <tr id="t9657">
+        <td><a href="#t9657">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9657">9657s</a></td>
+        <td>Jestem już w zakonie ojców, ale ja nie wiem jak, w zakonie ojców pijarowców.</td>
+    </tr>
+    <tr id="t9660">
+        <td><a href="#t9660">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9660">9660s</a></td>
+        <td>Dobra, jesteś, przyniosłeś się.</td>
+    </tr>
+    <tr id="t9661">
+        <td><a href="#t9661">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9661">9661s</a></td>
+        <td>Chodź, to ci pokażę te... Lilit, chodź ze mną.</td>
+    </tr>
+    <tr id="t9664">
+        <td><a href="#t9664">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9664">9664s</a></td>
+        <td>Zakon ojców PR-owców jest ważny.</td>
+    </tr>
+    <tr id="t9667">
+        <td><a href="#t9667">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9667">9667s</a></td>
+        <td>Niejaka Olga Aryska-Karczuk również korzysta z ich usług, ale niestety nie miała dostatecznie dużo rikczu, a ojcowie PR-owcy pobierają opłatę za swoje usługi w rikczu.</td>
+    </tr>
+    <tr id="t9679">
+        <td><a href="#t9679">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9679">9679s</a></td>
+        <td>Faktycznie jest.</td>
+    </tr>
+    <tr id="t9681">
+        <td><a href="#t9681">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9681">9681s</a></td>
+        <td>Co to był za dźwięk?</td>
+    </tr>
+    <tr id="t9683">
+        <td><a href="#t9683">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9683">9683s</a></td>
+        <td>To jest jeden, chodź jeszcze pokażę ci kolejną, chodź.</td>
+    </tr>
+    <tr id="t9686">
+        <td><a href="#t9686">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9686">9686s</a></td>
+        <td>Kolejną?</td>
+    </tr>
+    <tr id="t9687">
+        <td><a href="#t9687">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9687">9687s</a></td>
+        <td>Tak, tu jest dużo, poczekaj.</td>
+    </tr>
+    <tr id="t9689">
+        <td><a href="#t9689">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9689">9689s</a></td>
+        <td>Skoro wiesz, kto jesteś, to pomóż starej kobiecie.</td>
+    </tr>
+    <tr id="t9693">
+        <td><a href="#t9693">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9693">9693s</a></td>
+        <td>Pomóż starej kobiecie.</td>
+    </tr>
+    <tr id="t9694">
+        <td><a href="#t9694">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9694">9694s</a></td>
+        <td>Ale co tu się w ogóle dzieje?</td>
+    </tr>
+    <tr id="t9696">
+        <td><a href="#t9696">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9696">9696s</a></td>
+        <td>Jaka stara kobieta?</td>
+    </tr>
+    <tr id="t9698">
+        <td><a href="#t9698">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9698">9698s</a></td>
+        <td>To ja poszedłem sobie odpalić quest.</td>
+    </tr>
+    <tr id="t9702">
+        <td><a href="#t9702">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9702">9702s</a></td>
+        <td>A, to dlaczego my słyszymy twój dźwięk z gry?</td>
+    </tr>
+    <tr id="t9704">
+        <td><a href="#t9704">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9704">9704s</a></td>
+        <td>Nie wiem.</td>
+    </tr>
+    <tr id="t9705">
+        <td><a href="#t9705">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9705">9705s</a></td>
+        <td>Może dlatego, że jesteśmy w jednym świecie.</td>
+    </tr>
+    <tr id="t9707">
+        <td><a href="#t9707">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9707">9707s</a></td>
+        <td>Nie, nie, nie, nie, to jest bardzo zdumiewające.</td>
+    </tr>
+    <tr id="t9712">
+        <td><a href="#t9712">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9712">9712s</a></td>
+        <td>Skoro gramy jakby razem, to wydaje mi się, że... Nie wiem, to jest jakiś taki system, żebyście wiedzieli... Nie wiem.</td>
+    </tr>
+    <tr id="t9720">
+        <td><a href="#t9720">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9720">9720s</a></td>
+        <td>Poddał się Filip.</td>
+    </tr>
+    <tr id="t9721">
+        <td><a href="#t9721">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9721">9721s</a></td>
+        <td>Dubbing jest tak dobry, że to jest, wiesz... Tam się reklamuje.</td>
+    </tr>
+    <tr id="t9727">
+        <td><a href="#t9727">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9727">9727s</a></td>
+        <td>Ale wiecie, tu jest coś jeszcze podziemia, które ominęliśmy.</td>
+    </tr>
+    <tr id="t9731">
+        <td><a href="#t9731">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9731">9731s</a></td>
+        <td>Przeprowadź staruszkę przez bagna.</td>
+    </tr>
+    <tr id="t9733">
+        <td><a href="#t9733">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9733">9733s</a></td>
+        <td>Nie staruszkę przez bagna, tylko... O, jaki przykro.</td>
+    </tr>
+    <tr id="t9739">
+        <td><a href="#t9739">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9739">9739s</a></td>
+        <td>To pokażę ci inny jak chcesz Ale tutaj, tu już byłem, ja nie byłem tylko na południowy wschód i południowy zachód stąd Dobra, czy masz ten posąg, który zaznaczyłem teraz?</td>
+    </tr>
+    <tr id="t9751">
+        <td><a href="#t9751">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9751">9751s</a></td>
+        <td>Uważ na mapę, albo ten?</td>
+    </tr>
+    <tr id="t9753">
+        <td><a href="#t9753">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9753">9753s</a></td>
+        <td>O</td>
+    </tr>
+    <tr id="t9754">
+        <td><a href="#t9754">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9754">9754s</a></td>
+        <td>Poczekaj Rysław, najpierw muszę cię zlokalizować, to nie jest proste.</td>
+    </tr>
+    <tr id="t9757">
+        <td><a href="#t9757">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9757">9757s</a></td>
+        <td>Ja stoję koło ciebie, tu, o. Tu jestem.</td>
+    </tr>
+    <tr id="t9762">
+        <td><a href="#t9762">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9762">9762s</a></td>
+        <td>Ja miałem otwartą mapę!</td>
+    </tr>
+    <tr id="t9764">
+        <td><a href="#t9764">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9764">9764s</a></td>
+        <td>Dobrze.</td>
+    </tr>
+    <tr id="t9765">
+        <td><a href="#t9765">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9765">9765s</a></td>
+        <td>Ale zaznaczyłem punkcikiem.</td>
+    </tr>
+    <tr id="t9769">
+        <td><a href="#t9769">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9769">9769s</a></td>
+        <td>A, tam masz znacznik gracza, ja teraz to dopiero zobaczyłem.</td>
+    </tr>
+    <tr id="t9772">
+        <td><a href="#t9772">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9772">9772s</a></td>
+        <td>Możesz tam pójść.</td>
+    </tr>
+    <tr id="t9773">
+        <td><a href="#t9773">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9773">9773s</a></td>
+        <td>Musisz pamiętać o tym, albo wiedzieć, że ja mam bardzo złą orientację w terenie.</td>
+    </tr>
+    <tr id="t9779">
+        <td><a href="#t9779">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9779">9779s</a></td>
+        <td>Ona jest już memiczna na chatach.</td>
+    </tr>
+    <tr id="t9783">
+        <td><a href="#t9783">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9783">9783s</a></td>
+        <td>Rozumiem.</td>
+    </tr>
+    <tr id="t9783">
+        <td><a href="#t9783">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9783">9783s</a></td>
+        <td>Masz, brawo.</td>
+    </tr>
+    <tr id="t9784">
+        <td><a href="#t9784">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9784">9784s</a></td>
+        <td>Proszę bardzo.</td>
+    </tr>
+    <tr id="t9808">
+        <td><a href="#t9808">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9808">9808s</a></td>
+        <td>A teraz biegniemy do Nergala, bo on sam... Ale czekajcie, skąd starożytny obelisk tu jest jakiś?</td>
+    </tr>
+    <tr id="t9813">
+        <td><a href="#t9813">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9813">9813s</a></td>
+        <td>Ugarnijmy starożytny obelisk.</td>
+    </tr>
+    <tr id="t9815">
+        <td><a href="#t9815">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9815">9815s</a></td>
+        <td>Ale tu mamy Nergala jeszcze, wiesz.</td>
+    </tr>
+    <tr id="t9816">
+        <td><a href="#t9816">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9816">9816s</a></td>
+        <td>Gdzie jest Nergala?</td>
+    </tr>
+    <tr id="t9818">
+        <td><a href="#t9818">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9818">9818s</a></td>
+        <td>Na żółta kropeczka.</td>
+    </tr>
+    <tr id="t9821">
+        <td><a href="#t9821">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9821">9821s</a></td>
+        <td>Przecież Filip jest tam, gdzie diabeł mówi dobranoc!</td>
+    </tr>
+    <tr id="t9824">
+        <td><a href="#t9824">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9824">9824s</a></td>
+        <td>No, ja biegnę do Filipa.</td>
+    </tr>
+    <tr id="t9826">
+        <td><a href="#t9826">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9826">9826s</a></td>
+        <td>Mieliśmy go wspierać, tak?</td>
+    </tr>
+    <tr id="t9828">
+        <td><a href="#t9828">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9828">9828s</a></td>
+        <td>Tak jest.</td>
+    </tr>
+    <tr id="t9829">
+        <td><a href="#t9829">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9829">9829s</a></td>
+        <td>Rinati się cieszy z prezentu i możliwości spamowania jamnikami.</td>
+    </tr>
+    <tr id="t9832">
+        <td><a href="#t9832">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9832">9832s</a></td>
+        <td>To gdzie spam jamnikami, Rinati?</td>
+    </tr>
+    <tr id="t9835">
+        <td><a href="#t9835">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9835">9835s</a></td>
+        <td>Zarządzam spontaniczne zajamniczenie czatów.</td>
+    </tr>
+    <tr id="t9840">
+        <td><a href="#t9840">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9840">9840s</a></td>
+        <td>Spontaniczne zajamniczenie czatów jest spontaniczne, co w tym miejscu oznacza wywołane przeze mnie.</td>
+    </tr>
+    <tr id="t9847">
+        <td><a href="#t9847">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9847">9847s</a></td>
+        <td>Najlepszy rodzaj spontaniczności, tyta na którą się ma kontrolę.</td>
+    </tr>
+    <tr id="t9853">
+        <td><a href="#t9853">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9853">9853s</a></td>
+        <td>No brawo, ale bardzo spontanicznie wyszło.</td>
+    </tr>
+    <tr id="t9855">
+        <td><a href="#t9855">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9855">9855s</a></td>
+        <td>Prawda?</td>
+    </tr>
+    <tr id="t9855">
+        <td><a href="#t9855">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9855">9855s</a></td>
+        <td>Niesamowicie.</td>
+    </tr>
+    <tr id="t9856">
+        <td><a href="#t9856">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9856">9856s</a></td>
+        <td>To jest wielka siła, wielka moc.</td>
+    </tr>
+    <tr id="t9859">
+        <td><a href="#t9859">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9859">9859s</a></td>
+        <td>Ale z wielką mocą wiąże się wielka odpowiedzialność.</td>
+    </tr>
+    <tr id="t9863">
+        <td><a href="#t9863">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9863">9863s</a></td>
+        <td>Moja była miała obsesję na punkcie spontaniczności, ale taką, że nie można było nic zaplanować, nie wolno.</td>
+    </tr>
+    <tr id="t9870">
+        <td><a href="#t9870">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9870">9870s</a></td>
+        <td>W związku z powyższym ja sobie otworzyłem kiedyś folder taki specjalny w Google Chrome pod tytułem rzeczy spontaniczne na najbliższe trzy miesiące.</td>
+    </tr>
+    <tr id="t9880">
+        <td><a href="#t9880">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9880">9880s</a></td>
+        <td>To jest moje podejście do takich sytuacji.</td>
+    </tr>
+    <tr id="t9883">
+        <td><a href="#t9883">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9883">9883s</a></td>
+        <td>Tak trzeba.</td>
+    </tr>
+    <tr id="t9887">
+        <td><a href="#t9887">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9887">9887s</a></td>
+        <td>Oczywiście jest prostsze również zadanie, to znaczy mądrze się dobierać w pary, ale to jest skomplikowana sprawa, moi drodzy.</td>
+    </tr>
+    <tr id="t9895">
+        <td><a href="#t9895">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9895">9895s</a></td>
+        <td>Tak.</td>
+    </tr>
+    <tr id="t9895">
+        <td><a href="#t9895">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9895">9895s</a></td>
+        <td>I to dopiero w życia wędrówce na jednej trzeciej czasu lub połowie czasu można dojść do takich szczęśliwych etapów.</td>
+    </tr>
+    <tr id="t9905">
+        <td><a href="#t9905">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9905">9905s</a></td>
+        <td>Ja jestem już z Nergalem, czyli z Filipem i... Nightflash dalej zjamniczy, o bogowie, Przemek Woźniak, Pięćdziesiąt, Indigo, Mutant, Krysia, Sikoreczka, Ola, Filip, Haczuk, Ciotka, Feksis...</td>
+    </tr>
+    <tr id="t9923">
+        <td><a href="#t9923">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9923">9923s</a></td>
+        <td>Idyczko, Rygiard, jak również Rej, Julia O., Aleksandra Włodek, Feyras, Alicja, Aleksander Nowakowski mogą jamniczyć na czatach.</td>
+    </tr>
+    <tr id="t9937">
+        <td><a href="#t9937">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9937">9937s</a></td>
+        <td>Marcin W., Adam Wołowiec R., Shira.</td>
+    </tr>
+    <tr id="t9942">
+        <td><a href="#t9942">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9942">9942s</a></td>
+        <td>Manek 1117, Kuba Pietro, Hefestion, Gabriela Sadaj, Nex, Pan Karmazyn, Smoczini, Falowana Blaszka, Shana Koyomi, Shantajma, Falfustra, Tarples, MD, Tymon Haremba, Maciek S,</td>
+    </tr>
+    <tr id="t9963">
+        <td><a href="#t9963">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9963">9963s</a></td>
+        <td>Pozostali przeze mnie niewyczytani.</td>
+    </tr>
+    <tr id="t9982">
+        <td><a href="#t9982">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=9982">9982s</a></td>
+        <td>Ale spokojnie, rób szaleństwa, my tutaj z Filipem czyścimy po prostu karawanę.</td>
+    </tr>
+    <tr id="t10006">
+        <td><a href="#t10006">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10006">10006s</a></td>
+        <td>Krzysztof, oddychaj, błagam.</td>
+    </tr>
+    <tr id="t10007">
+        <td><a href="#t10007">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10007">10007s</a></td>
+        <td>Teraz wszyscy na czacie są na zielono, jest to prawda.</td>
+    </tr>
+    <tr id="t10010">
+        <td><a href="#t10010">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10010">10010s</a></td>
+        <td>To już jest ten etap, bo ja nie wyczytałem stu osób, więc to jest ten etap, kiedy będą nowi ludzie przychodzić na czat i dostawać automatycznie wspieranie.</td>
+    </tr>
+    <tr id="t10017">
+        <td><a href="#t10017">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10017">10017s</a></td>
+        <td>Osiągnięto limit aktywnych zadań pobocznych.</td>
+    </tr>
+    <tr id="t10019">
+        <td><a href="#t10019">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10019">10019s</a></td>
+        <td>Jak bardzo jest to żenujące.</td>
+    </tr>
+    <tr id="t10021">
+        <td><a href="#t10021">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10021">10021s</a></td>
+        <td>Rugal Świętomarciński pyta, czy czytamy nową fantastykę.</td>
+    </tr>
+    <tr id="t10024">
+        <td><a href="#t10024">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10024">10024s</a></td>
+        <td>Jakie spółpanów?</td>
+    </tr>
+    <tr id="t10025">
+        <td><a href="#t10025">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10025">10025s</a></td>
+        <td>Ja nie czytam.</td>
+    </tr>
+    <tr id="t10027">
+        <td><a href="#t10027">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10027">10027s</a></td>
+        <td>Ja już nie czytam.</td>
+    </tr>
+    <tr id="t10028">
+        <td><a href="#t10028">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10028">10028s</a></td>
+        <td>Mam wszystkie fantastyki od 82 roku, kiedy zacząłem kolekcjonować.</td>
+    </tr>
+    <tr id="t10034">
+        <td><a href="#t10034">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10034">10034s</a></td>
+        <td>do 2005, to mam całość.</td>
+    </tr>
+    <tr id="t10038">
+        <td><a href="#t10038">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10038">10038s</a></td>
+        <td>A później przestałem, po prostu już nie nadążałem nad częstotliwością wychodzenia kolejnych numerów.</td>
+    </tr>
+    <tr id="t10044">
+        <td><a href="#t10044">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10044">10044s</a></td>
+        <td>Jeszcze pojawiło się pismo science fiction Roberta Schmidt'a, które też kupowałem.</td>
+    </tr>
+    <tr id="t10049">
+        <td><a href="#t10049">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10049">10049s</a></td>
+        <td>A było science fiction, fantasy and horror, tak?</td>
+    </tr>
+    <tr id="t10051">
+        <td><a href="#t10051">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10051">10051s</a></td>
+        <td>Było coś takiego.</td>
+    </tr>
+    <tr id="t10052">
+        <td><a href="#t10052">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10052">10052s</a></td>
+        <td>No i po prostu już nie nadążałem w tym wszystkim, więc odpuściłem kupowanie.</td>
+    </tr>
+    <tr id="t10056">
+        <td><a href="#t10056">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10056">10056s</a></td>
+        <td>Mam całą kolekcję, mam pierwszy numer fantastyki.</td>
+    </tr>
+    <tr id="t10059">
+        <td><a href="#t10059">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10059">10059s</a></td>
+        <td>W 1982 roku kupiony.</td>
+    </tr>
+    <tr id="t10062">
+        <td><a href="#t10062">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10062">10062s</a></td>
+        <td>Jamnikowy Piechur jest Jamnikołajem, o bogowie!</td>
+    </tr>
+    <tr id="t10067">
+        <td><a href="#t10067">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10067">10067s</a></td>
+        <td>Typowy agnostyk Michał Kowalewski, Tomira Magnagi, Natalia Kosteczko oraz Mateusz Wojtkowski otrzymali wsparcie.</td>
+    </tr>
+    <tr id="t10076">
+        <td><a href="#t10076">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10076">10076s</a></td>
+        <td>Dziękujemy przy serdecznie wszystkim Jamnikołajom.</td>
+    </tr>
+    <tr id="t10078">
+        <td><a href="#t10078">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10078">10078s</a></td>
+        <td>Smoczini, dziękuję za wsparcie od 13 miesięcy.</td>
+    </tr>
+    <tr id="t10080">
+        <td><a href="#t10080">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10080">10080s</a></td>
+        <td>Smoczini się ze mną droczy od jakiegoś czasu i robi mi na złość, polecając moją książkę, której nie należy czytać.</td>
+    </tr>
+    <tr id="t10086">
+        <td><a href="#t10086">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10086">10086s</a></td>
+        <td>I Zmoczini pisze, polecam wszystkim Allotopię.</td>
+    </tr>
+    <tr id="t10088">
+        <td><a href="#t10088">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10088">10088s</a></td>
+        <td>Proszę was, nie słuchajcie Zmocziniego.</td>
+    </tr>
+    <tr id="t10090">
+        <td><a href="#t10090">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10090">10090s</a></td>
+        <td>Nie należy czytać tej książki.</td>
+    </tr>
+    <tr id="t10091">
+        <td><a href="#t10091">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10091">10091s</a></td>
+        <td>Dlaczego Rysław jest w miejscu, do którego ja nie mogę dotrzeć?</td>
+    </tr>
+    <tr id="t10094">
+        <td><a href="#t10094">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10094">10094s</a></td>
+        <td>A czaty nie widzę, co się dzieje.</td>
+    </tr>
+    <tr id="t10096">
+        <td><a href="#t10096">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10096">10096s</a></td>
+        <td>Może nie masz tego miejsca, a po prostu na tym.</td>
+    </tr>
+    <tr id="t10097">
+        <td><a href="#t10097">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10097">10097s</a></td>
+        <td>Nie odkryłeś tego miejsca.</td>
+    </tr>
+    <tr id="t10099">
+        <td><a href="#t10099">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10099">10099s</a></td>
+        <td>Chodź, tutaj jest kolejna Lilit.</td>
+    </tr>
+    <tr id="t10101">
+        <td><a href="#t10101">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10101">10101s</a></td>
+        <td>Chodź, chodź, chodź.</td>
+    </tr>
+    <tr id="t10102">
+        <td><a href="#t10102">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10102">10102s</a></td>
+        <td>Ja nie wiem, pierwszy zaklinaczu, co się dzieje.</td>
+    </tr>
+    <tr id="t10104">
+        <td><a href="#t10104">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10104">10104s</a></td>
+        <td>To się dzieje już od środy.</td>
+    </tr>
+    <tr id="t10106">
+        <td><a href="#t10106">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10106">10106s</a></td>
+        <td>Gdzie jamniczy swing?</td>
+    </tr>
+    <tr id="t10107">
+        <td><a href="#t10107">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10107">10107s</a></td>
+        <td>Macie rację.</td>
+    </tr>
+    <tr id="t10108">
+        <td><a href="#t10108">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10108">10108s</a></td>
+        <td>Macie rację.</td>
+    </tr>
+    <tr id="t10108">
+        <td><a href="#t10108">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10108">10108s</a></td>
+        <td>Trudno będziecie słuchać, moi drodzy, jamniczego swingu.</td>
+    </tr>
+    <tr id="t10110">
+        <td><a href="#t10110">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10110">10110s</a></td>
+        <td>Gdzie to jest?</td>
+    </tr>
+    <tr id="t10110">
+        <td><a href="#t10110">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10110">10110s</a></td>
+        <td>Gdzie to jest?</td>
+    </tr>
+    <tr id="t10116">
+        <td><a href="#t10116">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10116">10116s</a></td>
+        <td>W sumie nie zakłócamy rozgrywki w ten sposób Rysławowi oraz Filipowi.</td>
+    </tr>
+    <tr id="t10121">
+        <td><a href="#t10121">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10121">10121s</a></td>
+        <td>Ja jestem, że tak powiem, eskortą Filipa, Filip sobie super radzi, ale ja czasami delikatnie interweniuję, głównie pokazując miejsca, dlatego... Mój drodzy, będę grał w Diablo jedną ręką, czyli się da!</td>
+    </tr>
+    <tr id="t10134">
+        <td><a href="#t10134">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10134">10134s</a></td>
+        <td>To jest dobra wiadomość dla wszystkich, aha!</td>
+    </tr>
+    <tr id="t10140">
+        <td><a href="#t10140">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10140">10140s</a></td>
+        <td>Bardzo mi się podoba to.</td>
+    </tr>
+    <tr id="t10159">
+        <td><a href="#t10159">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10159">10159s</a></td>
+        <td>Ktoś nie gra z Diablo jedną ręką!</td>
+    </tr>
+    <tr id="t10164">
+        <td><a href="#t10164">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10164">10164s</a></td>
+        <td>Jeszcze, zaraz, czy ty pokażesz co byliśmy?</td>
+    </tr>
+    <tr id="t10165">
+        <td><a href="#t10165">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10165">10165s</a></td>
+        <td>To czekaj.</td>
+    </tr>
+    <tr id="t10165">
+        <td><a href="#t10165">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10165">10165s</a></td>
+        <td>Jeszcze masz jakieś... Ja tu mam dużo, dużo, dużo tutaj, wiesz, więc... Czy widzisz?</td>
+    </tr>
+    <tr id="t10170">
+        <td><a href="#t10170">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10170">10170s</a></td>
+        <td>Zaznaczyłem na mapie ci.</td>
+    </tr>
+    <tr id="t10173">
+        <td><a href="#t10173">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10173">10173s</a></td>
+        <td>Posłuchaj, mafaj, zobacz, czy widzisz?</td>
+    </tr>
+    <tr id="t10174">
+        <td><a href="#t10174">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10174">10174s</a></td>
+        <td>Okej, widzę, widzę, idę, dzięki.</td>
+    </tr>
+    <tr id="t10175">
+        <td><a href="#t10175">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10175">10175s</a></td>
+        <td>I miałeś tam, czy nie?</td>
+    </tr>
+    <tr id="t10178">
+        <td><a href="#t10178">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10178">10178s</a></td>
+        <td>Eee... Ja, ja... Gdybyś miał, to ty byś wiedział.</td>
+    </tr>
+    <tr id="t10183">
+        <td><a href="#t10183">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10183">10183s</a></td>
+        <td>Popatrz, jak bezczelnie olaliśmy naszego gospodarza, my sobie tu gramy.</td>
+    </tr>
+    <tr id="t10188">
+        <td><a href="#t10188">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10188">10188s</a></td>
+        <td>Spokojnie!</td>
+    </tr>
+    <tr id="t10189">
+        <td><a href="#t10189">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10189">10189s</a></td>
+        <td>Ja gram jedną ręką!</td>
+    </tr>
+    <tr id="t10193">
+        <td><a href="#t10193">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10193">10193s</a></td>
+        <td>Jeszcze kawałeczek.</td>
+    </tr>
+    <tr id="t10194">
+        <td><a href="#t10194">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10194">10194s</a></td>
+        <td>Nie jest to proste!</td>
+    </tr>
+    <tr id="t10198">
+        <td><a href="#t10198">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10198">10198s</a></td>
+        <td>Że nie miałeś tego.</td>
+    </tr>
+    <tr id="t10200">
+        <td><a href="#t10200">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10200">10200s</a></td>
+        <td>Nie miałem.</td>
+    </tr>
+    <tr id="t10206">
+        <td><a href="#t10206">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10206">10206s</a></td>
+        <td>No proszę bardzo.</td>
+    </tr>
+    <tr id="t10206">
+        <td><a href="#t10206">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10206">10206s</a></td>
+        <td>Tu jest wydarzenie jakieś chyba.</td>
+    </tr>
+    <tr id="t10207">
+        <td><a href="#t10207">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10207">10207s</a></td>
+        <td>Chyba znowu karawan.</td>
+    </tr>
+    <tr id="t10208">
+        <td><a href="#t10208">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10208">10208s</a></td>
+        <td>Chodźmy do wydarzenia, tak!</td>
+    </tr>
+    <tr id="t10212">
+        <td><a href="#t10212">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10212">10212s</a></td>
+        <td>To jest ta sama karawana, przy której byliśmy.</td>
+    </tr>
+    <tr id="t10214">
+        <td><a href="#t10214">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10214">10214s</a></td>
+        <td>No, wiesz, często są problemy przy tą karawanach.</td>
+    </tr>
+    <tr id="t10217">
+        <td><a href="#t10217">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10217">10217s</a></td>
+        <td>To są, że tak powiem, wyłudzacze.</td>
+    </tr>
+    <tr id="t10218">
+        <td><a href="#t10218">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10218">10218s</a></td>
+        <td>Liczą na pomoc.</td>
+    </tr>
+    <tr id="t10219">
+        <td><a href="#t10219">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10219">10219s</a></td>
+        <td>To są takie osoby, które wyłudzają zasilki.</td>
+    </tr>
+    <tr id="t10224">
+        <td><a href="#t10224">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10224">10224s</a></td>
+        <td>O, pomóżcie, my biedni tacy, pomóżcie, to nas potwory atakują.</td>
+    </tr>
+    <tr id="t10227">
+        <td><a href="#t10227">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10227">10227s</a></td>
+        <td>My głupi pomagamy, a oni zbierają całą śmietankę.</td>
+    </tr>
+    <tr id="t10245">
+        <td><a href="#t10245">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10245">10245s</a></td>
+        <td>Nie słyszycie.</td>
+    </tr>
+    <tr id="t10246">
+        <td><a href="#t10246">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10246">10246s</a></td>
+        <td>Nie słyszymy, bo wyłączyłem chyba dźwięk przez chwilę.</td>
+    </tr>
+    <tr id="t10249">
+        <td><a href="#t10249">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10249">10249s</a></td>
+        <td>Tak, bo chatom włączyłem jamnik Swinga, czyli Swing, którego słuchamy, jak dzieją się dziwne rzeczy na kanale.</td>
+    </tr>
+    <tr id="t10257">
+        <td><a href="#t10257">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10257">10257s</a></td>
+        <td>Ja usiłowałem grać jedną ręką i równocześnie machać jamnikiem, więc informuję was niniejszym, że jeśli kiedykolwiek ktokolwiek słuchający nas zastanawiał się, czy można grać w Diablo jedną ręką, to można.</td>
+    </tr>
+    <tr id="t10272">
+        <td><a href="#t10272">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10272">10272s</a></td>
+        <td>Można, na padzie spokojnie.</td>
+    </tr>
+    <tr id="t10275">
+        <td><a href="#t10275">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10275">10275s</a></td>
+        <td>Nawet na klawiaturze można... Jeśli masz tutaj taka... Ja jestem bardzo zwolennikiem jakby jak największej dostępności gier dla ludzi i Microsoft ma taką... I od niedawna też PlayStation ma taką specjalną kontrolę, która pozwala osobom z różnymi niepełnosprawnościami grać.</td>
+    </tr>
+    <tr id="t10303">
+        <td><a href="#t10303">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10303">10303s</a></td>
+        <td>I to jest fantastyczne urządzenie, kiedyś je opisywałem troszkę w moim podcaście.</td>
+    </tr>
+    <tr id="t10308">
+        <td><a href="#t10308">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10308">10308s</a></td>
+        <td>I teraz w ogóle robię grę teraz.</td>
+    </tr>
+    <tr id="t10312">
+        <td><a href="#t10312">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10312">10312s</a></td>
+        <td>O!</td>
+    </tr>
+    <tr id="t10313">
+        <td><a href="#t10313">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10313">10313s</a></td>
+        <td>I ty mówisz o tym dopiero teraz?</td>
+    </tr>
+    <tr id="t10315">
+        <td><a href="#t10315">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10315">10315s</a></td>
+        <td>O, to wiesz, taki mały projekcik.</td>
+    </tr>
+    <tr id="t10317">
+        <td><a href="#t10317">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10317">10317s</a></td>
+        <td>To jest gra w VR-ze i chciałbym, żeby to była pierwsza gra w VR-ze, która jest dostępna dla osób niedowidzących.</td>
+    </tr>
+    <tr id="t10323">
+        <td><a href="#t10323">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10323">10323s</a></td>
+        <td>Okej, rozumiem.</td>
+    </tr>
+    <tr id="t10326">
+        <td><a href="#t10326">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10326">10326s</a></td>
+        <td>Ja bardzo szanuję też to, że się zaczęły pojawiać takie opcje dostępności, jak chociażby filtr przeciwarachnofobiczny albo wszelakiego rodzaju udogodnienia dla osób niesłyszących, niedowidzących.</td>
+    </tr>
+    <tr id="t10338">
+        <td><a href="#t10338">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10338">10338s</a></td>
+        <td>To są ekstremalnie ważne rzeczy, których zauważcie w innych mediach niż gry nie ma, co jest ciekawe.</td>
+    </tr>
+    <tr id="t10343">
+        <td><a href="#t10343">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10343">10343s</a></td>
+        <td>Mam znajomego, który jest niewidomy.</td>
+    </tr>
+    <tr id="t10345">
+        <td><a href="#t10345">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10345">10345s</a></td>
+        <td>Jest graczem.</td>
+    </tr>
+    <tr id="t10347">
+        <td><a href="#t10347">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10347">10347s</a></td>
+        <td>I to jest nieprawdopodobnie instruująca osoba.</td>
+    </tr>
+    <tr id="t10350">
+        <td><a href="#t10350">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10350">10350s</a></td>
+        <td>Nie miałem z nim rozmowy przypadkowo.</td>
+    </tr>
+    <tr id="t10352">
+        <td><a href="#t10352">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10352">10352s</a></td>
+        <td>Miałem, miałem.</td>
+    </tr>
+    <tr id="t10353">
+        <td><a href="#t10353">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10353">10353s</a></td>
+        <td>I chcę go też, że tak powiem, nie wykorzystać w moim ewentualnym projekcie growym, bo...</td>
+    </tr>
+    <tr id="t10359">
+        <td><a href="#t10359">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10359">10359s</a></td>
+        <td>To byłoby fantastyczne, gdyby osoby niewidzące lub niedowidzące, nie wiem, czy uda się tak zrobić z całkowicie niewidzącymi, ale chociażby niedowidzące mogły skorzystać z tego wirtualnego świata.</td>
+    </tr>
+    <tr id="t10375">
+        <td><a href="#t10375">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10375">10375s</a></td>
+        <td>To byłoby super rzecz.</td>
+    </tr>
+    <tr id="t10377">
+        <td><a href="#t10377">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10377">10377s</a></td>
+        <td>Jeśli chodzi o osoby niesłyszące, jest to łatwiej zrobić, bo jednak mamy mnóstwo wskazówek wizualnych, którymi możemy symulować impulsy, czy też wskazówki dźwiękowe.</td>
+    </tr>
+    <tr id="t10389">
+        <td><a href="#t10389">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10389">10389s</a></td>
+        <td>To samo jest na przykład zrobione w takiej grze Fortnite.</td>
+    </tr>
+    <tr id="t10392">
+        <td><a href="#t10392">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10392">10392s</a></td>
+        <td>I tam jest na przykład tryb dla osób niesłyszących i wszystkie praktycznie wskazówki dźwiękowe są zrobione na strzałkach rozmaitych, które się pokazują na obrzeżach ekranu.</td>
+    </tr>
+    <tr id="t10403">
+        <td><a href="#t10403">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10403">10403s</a></td>
+        <td>I...</td>
+    </tr>
+    <tr id="t10404">
+        <td><a href="#t10404">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10404">10404s</a></td>
+        <td>Więc jeśli chodzi o osoby niedosłyszące, jest to zrobić zdecydowanie łatwiej niż niewidzące, bo jednak gry są medium wizualnym, jakby nie było.</td>
+    </tr>
+    <tr id="t10414">
+        <td><a href="#t10414">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10414">10414s</a></td>
+        <td>I właśnie Nerga wszedł nam do podziemi, więc chodź do podziemi.</td>
+    </tr>
+    <tr id="t10419">
+        <td><a href="#t10419">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10419">10419s</a></td>
+        <td>Okej, no to idę w takim razie, ale potem idziemy na północ do twierdzy, bo tam jest nieodblokowana, a wtedy też Rysław będzie mieć wyzwanie.</td>
+    </tr>
+    <tr id="t10428">
+        <td><a href="#t10428">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10428">10428s</a></td>
+        <td>Nie słyszałem tego tylko.</td>
+    </tr>
+    <tr id="t10429">
+        <td><a href="#t10429">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10429">10429s</a></td>
+        <td>Wiesz, to brzmiało bardzo dwuznacznie.</td>
+    </tr>
+    <tr id="t10430">
+        <td><a href="#t10430">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10430">10430s</a></td>
+        <td>Ja mam czysty umysł.</td>
+    </tr>
+    <tr id="t10451">
+        <td><a href="#t10451">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10451">10451s</a></td>
+        <td>W ogóle ja sobie skojarzyłem parówkę, nie nic zdrożnego, nie nic sprośnego.</td>
+    </tr>
+    <tr id="t10457">
+        <td><a href="#t10457">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10457">10457s</a></td>
+        <td>Dopiero jak Filip powiedział, to pomyślałem sobie, o mój Boże, przecież mógł mówić o prawdziwej parówce.</td>
+    </tr>
+    <tr id="t10463">
+        <td><a href="#t10463">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10463">10463s</a></td>
+        <td>Filip po prostu został przeze mnie zdeprawowany, taka jest prawda.</td>
+    </tr>
+    <tr id="t10467">
+        <td><a href="#t10467">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10467">10467s</a></td>
+        <td>Jesteś wielkim deprawatorem.</td>
+    </tr>
+    <tr id="t10469">
+        <td><a href="#t10469">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10469">10469s</a></td>
+        <td>To brzmi jak taki finalny boss w Diablo 4.</td>
+    </tr>
+    <tr id="t10475">
+        <td><a href="#t10475">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10475">10475s</a></td>
+        <td>Wielki deprawator.</td>
+    </tr>
+    <tr id="t10476">
+        <td><a href="#t10476">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10476">10476s</a></td>
+        <td>Tak, w Diablo 4, który miał crossover z Akademią Pana Kleksa i zamiast Wielkiego Elektronika mam Wielkiego Deprawatora.</td>
+    </tr>
+    <tr id="t10483">
+        <td><a href="#t10483">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10483">10483s</a></td>
+        <td>Bardzo czekam na nowego Pana Kleksa.</td>
+    </tr>
+    <tr id="t10485">
+        <td><a href="#t10485">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10485">10485s</a></td>
+        <td>Naprawdę?</td>
+    </tr>
+    <tr id="t10486">
+        <td><a href="#t10486">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10486">10486s</a></td>
+        <td>Bardzo.</td>
+    </tr>
+    <tr id="t10487">
+        <td><a href="#t10487">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10487">10487s</a></td>
+        <td>Ja się boję, ja się boję polskich filmów generalnie.</td>
+    </tr>
+    <tr id="t10489">
+        <td><a href="#t10489">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10489">10489s</a></td>
+        <td>Ja się boję go bardzo, bo film pierwszy pana Gradowskiego był niezwykle ważnym dziełem w momencie mojego dorastania.</td>
+    </tr>
+    <tr id="t10497">
+        <td><a href="#t10497">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10497">10497s</a></td>
+        <td>Pamiętam jak były ogłoszenia na casting w świecie młodych, ja wtedy miałem 7 lat właśnie.</td>
+    </tr>
+    <tr id="t10502">
+        <td><a href="#t10502">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10502">10502s</a></td>
+        <td>To był 80 rok.</td>
+    </tr>
+    <tr id="t10504">
+        <td><a href="#t10504">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10504">10504s</a></td>
+        <td>I ja ten film widziałem na premierze w 81, tuż przed stanem wojennym.</td>
+    </tr>
+    <tr id="t10509">
+        <td><a href="#t10509">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10509">10509s</a></td>
+        <td>I wiecie, w ogóle ta wersja, która była w kinach, to jest inna wersja niż jest obecnie.</td>
+    </tr>
+    <tr id="t10514">
+        <td><a href="#t10514">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10514">10514s</a></td>
+        <td>Może?</td>
+    </tr>
+    <tr id="t10515">
+        <td><a href="#t10515">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10515">10515s</a></td>
+        <td>Dojmow!</td>
+    </tr>
+    <tr id="t10517">
+        <td><a href="#t10517">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10517">10517s</a></td>
+        <td>Tak powiem, wersja, która była w kinach, była mocno... Była bardzo bezpruderyjna.</td>
+    </tr>
+    <tr id="t10527">
+        <td><a href="#t10527">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10527">10527s</a></td>
+        <td>Byłem wtedy już zdziwiony, czemu tak wiele jest miejsc, w których występują nadze chłopcy.</td>
+    </tr>
+    <tr id="t10534">
+        <td><a href="#t10534">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10534">10534s</a></td>
+        <td>No, bo to jest Akademia Pana Kleksa, która jest bardzo dziwna.</td>
+    </tr>
+    <tr id="t10537">
+        <td><a href="#t10537">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10537">10537s</a></td>
+        <td>Nie no, ja wiem, ale okej, ale sam byłem bardzo zdziwiony, tam jest taka scena z drzewem, którym oni biorą kąpiel, wszyscy byli koli, tak?</td>
+    </tr>
+    <tr id="t10547">
+        <td><a href="#t10547">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10547">10547s</a></td>
+        <td>Tak, tak, tak.</td>
+    </tr>
+    <tr id="t10549">
+        <td><a href="#t10549">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10549">10549s</a></td>
+        <td>I były inne jeszcze sceny w tym stylu, natomiast ten film był...</td>
+    </tr>
+    <tr id="t10555">
+        <td><a href="#t10555">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10555">10555s</a></td>
+        <td>Ja go bardzo lubiłem, bo przede wszystkim bardzo lubiłem książkę i bardzo żałuję, że później pan Krzysztof Gradowski poszedł innym tropem i już podróże pana Kleksa były takie</td>
+    </tr>
+    <tr id="t10568">
+        <td><a href="#t10568">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10568">10568s</a></td>
+        <td>Jeszcze były znośne, natomiast to, co zrobił pan Koleś w Kosmosie, to było coś strasznego.</td>
+    </tr>
+    <tr id="t10573">
+        <td><a href="#t10573">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10573">10573s</a></td>
+        <td>To były dziwne rzeczy.</td>
+    </tr>
+    <tr id="t10575">
+        <td><a href="#t10575">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10575">10575s</a></td>
+        <td>Piotr Wawrzyniak, dzięki za wsparcie od dwóch miesięcy, pyta, czy mamy jakieś porady w kontekście newsów bez spamów i fejków?</td>
+    </tr>
+    <tr id="t10580">
+        <td><a href="#t10580">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10580">10580s</a></td>
+        <td>Ja czasem, boże, to się nazywa ORB, jeżeli chodzi o polskie newsy polityczne, śledzę oczywiście podcast Dwie Lewe Ręce, już tyle razy wam przywoływałem, zresztą Rysław też miał chyba...</td>
+    </tr>
+    <tr id="t10591">
+        <td><a href="#t10591">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10591">10591s</a></td>
+        <td>czterogodzinną w sumie rozmowę, albo ile nie dłuższe.</td>
+    </tr>
+    <tr id="t10594">
+        <td><a href="#t10594">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10594">10594s</a></td>
+        <td>Ja miałem wiele rozmów z Marcinem Piłzakiem.</td>
+    </tr>
+    <tr id="t10596">
+        <td><a href="#t10596">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10596">10596s</a></td>
+        <td>Tak, to jest człowiek wielkiej erudycji.</td>
+    </tr>
+    <tr id="t10598">
+        <td><a href="#t10598">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10598">10598s</a></td>
+        <td>Wielkiej erudycji, wielkiej wiedzy, bardzo szanuję, mimo że jakby poglądowo jesteśmy... Znaczy powiem tak, ja uwielbiam rozmawiać z Marcinem, bo mimo że różnimy się podejściem do wielu spraw,</td>
+    </tr>
+    <tr id="t10613">
+        <td><a href="#t10613">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10613">10613s</a></td>
+        <td>Ja wiem, że teraz część osób na czacie może się oburzyć, ale ja się tego nie wstydzę, ja jestem bardziej po tej prawej stronie.</td>
+    </tr>
+    <tr id="t10619">
+        <td><a href="#t10619">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10619">10619s</a></td>
+        <td>Natomiast lubię rozmawiać z osobami z różnej prowiencji, więc ja bardzo lubię rozmawiać z Marcinem, zawsze się czegoś uczę.</td>
+    </tr>
+    <tr id="t10631">
+        <td><a href="#t10631">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10631">10631s</a></td>
+        <td>I te wasze rozmowy też są cudowne, bo rozmawiacie między innymi o Disco Elysium, chyba najbardziej i najczęściej przywoływanej grze na czatach w kontekście Krzysztof, zagraj w grę Disco Elysium.</td>
+    </tr>
+    <tr id="t10644">
+        <td><a href="#t10644">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10644">10644s</a></td>
+        <td>Oj zagraj, zagraj, zagraj Krzysztof.</td>
+    </tr>
+    <tr id="t10646">
+        <td><a href="#t10646">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10646">10646s</a></td>
+        <td>Ale ja wiem, ale ja mam problem straszny z czytaniem, ja bardzo nie lubię czytać na streamie, chyba że jest to jakiś, wiesz, krótki fragment, który mogę memicznie ograć, ale ja przez to, że zawodowo zajmuję się czytaniem tekstów, no teraz, żeby dać wam kontekst,</td>
+    </tr>
+    <tr id="t10661">
+        <td><a href="#t10661">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10661">10661s</a></td>
+        <td>W ciągu ostatnich trzech miesięcy przeczytałem od czterech do pięciu tysięcy stron w sumie z uwagi na konieczność iteracyjnego czytania prac dyplomowych.</td>
+    </tr>
+    <tr id="t10669">
+        <td><a href="#t10669">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10669">10669s</a></td>
+        <td>Nie da się tego wytrzymać przy zdrowych zmysłach, a jeszcze do tego wszystkiego dochodzą standardowe książki, które człowiek chce czytać.</td>
+    </tr>
+    <tr id="t10678">
+        <td><a href="#t10678">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10678">10678s</a></td>
+        <td>Więc jak jeszcze mam czytać w grze, to ja już mam tak... Nie.</td>
+    </tr>
+    <tr id="t10681">
+        <td><a href="#t10681">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10681">10681s</a></td>
+        <td>Ale wiesz, w grze masz jednak dużo, w tej wersji pełnej masz teksty czytane.</td>
+    </tr>
+    <tr id="t10686">
+        <td><a href="#t10686">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10686">10686s</a></td>
+        <td>No chwała Bogu, nie?</td>
+    </tr>
+    <tr id="t10688">
+        <td><a href="#t10688">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10688">10688s</a></td>
+        <td>Ale ja też nie wyobrażam sobie robić streamów, w których czytałbym tyle dialogu, ile jest w tej grze.</td>
+    </tr>
+    <tr id="t10693">
+        <td><a href="#t10693">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10693">10693s</a></td>
+        <td>Nie wyobrażam sobie.</td>
+    </tr>
+    <tr id="t10694">
+        <td><a href="#t10694">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10694">10694s</a></td>
+        <td>To ja zrobiłem całość, całość gry na 25 transmisjach.</td>
+    </tr>
+    <tr id="t10697">
+        <td><a href="#t10697">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10697">10697s</a></td>
+        <td>Niesamowite.</td>
+    </tr>
+    <tr id="t10699">
+        <td><a href="#t10699">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10699">10699s</a></td>
+        <td>To szanuję.</td>
+    </tr>
+    <tr id="t10704">
+        <td><a href="#t10704">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10704">10704s</a></td>
+        <td>I tak, to było wspaniałe, wspaniałe doznanie.</td>
+    </tr>
+    <tr id="t10707">
+        <td><a href="#t10707">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10707">10707s</a></td>
+        <td>Bardzo się cieszę, że tę grę zagrałem właśnie w ten sposób.</td>
+    </tr>
+    <tr id="t10712">
+        <td><a href="#t10712">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10712">10712s</a></td>
+        <td>Ty zabiłeś tego gościa jednym cio... tak, dobra.</td>
+    </tr>
+    <tr id="t10714">
+        <td><a href="#t10714">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10714">10714s</a></td>
+        <td>Ojej, dobra, sorry.</td>
+    </tr>
+    <tr id="t10715">
+        <td><a href="#t10715">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10715">10715s</a></td>
+        <td>Ja ci jeszcze mam taki ważny wątek.</td>
+    </tr>
+    <tr id="t10716">
+        <td><a href="#t10716">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10716">10716s</a></td>
+        <td>Nie, nie, nie, dobrze.</td>
+    </tr>
+    <tr id="t10717">
+        <td><a href="#t10717">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10717">10717s</a></td>
+        <td>Dziękuję jeszcze raz, bo Nightflash to jest ten dobroczyńca i dobrodziej nasz, Jan Nikołajkowy.</td>
+    </tr>
+    <tr id="t10724">
+        <td><a href="#t10724">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10724">10724s</a></td>
+        <td>Mecenas.</td>
+    </tr>
+    <tr id="t10725">
+        <td><a href="#t10725">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10725">10725s</a></td>
+        <td>Tak, mecenas.</td>
+    </tr>
+    <tr id="t10727">
+        <td><a href="#t10727">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10727">10727s</a></td>
+        <td>I napisał, że chciałby...</td>
+    </tr>
+    <tr id="t10729">
+        <td><a href="#t10729">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10729">10729s</a></td>
+        <td>Chciała podziękować zwłaszcza za wsparcie dla osób zmagających się z dysforią płciową.</td>
+    </tr>
+    <tr id="t10735">
+        <td><a href="#t10735">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10735">10735s</a></td>
+        <td>Bardzo się cieszę, że mogłam pomóc na live dawnych.</td>
+    </tr>
+    <tr id="t10736">
+        <td><a href="#t10736">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10736">10736s</a></td>
+        <td>Dziękujemy Ci jeszcze raz serdecznie i ja tylko mogę się cieszyć, że się udało nagłośnić ważne sprawy przy okazji i pomóc.</td>
+    </tr>
+    <tr id="t10744">
+        <td><a href="#t10744">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10744">10744s</a></td>
+        <td>Jeśli tak chociaż mogłem zdalnie, to nie można piękniejszej rzeczy usłyszeć, więc się bardzo cieszę.</td>
+    </tr>
+    <tr id="t10751">
+        <td><a href="#t10751">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10751">10751s</a></td>
+        <td>Jeszcze raz bardzo Ci dziękuję za przechojne wsparcie.</td>
+    </tr>
+    <tr id="t10755">
+        <td><a href="#t10755">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10755">10755s</a></td>
+        <td>kanału i ludzi, bo właśnie to jest piękne w tych podarowanych wsparciach, że dzięki temu ludzie mogą używać jamników, a no dosłownie to jest ponad 200 osób, jeśli dobrze liczę z ostatniego streamu jeszcze, więc to jest przechojne wsparcie, bardzo dziękuję.</td>
+    </tr>
+    <tr id="t10772">
+        <td><a href="#t10772">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10772">10772s</a></td>
+        <td>Obiecuję, że nie przepierdolę na bzdury, zwłaszcza, że teraz jest w remoncie studio, tudzież wieża arcymagowska, więc będą rzeczy kupowane wcześniej niż myślałem.</td>
+    </tr>
+    <tr id="t10782">
+        <td><a href="#t10782">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10782">10782s</a></td>
+        <td>Było pytanie do mnie, czy oglądałem Sondę.</td>
+    </tr>
+    <tr id="t10784">
+        <td><a href="#t10784">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10784">10784s</a></td>
+        <td>Oczywiście oglądałem Sondę, tak.</td>
+    </tr>
+    <tr id="t10786">
+        <td><a href="#t10786">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10786">10786s</a></td>
+        <td>To był bardzo ważny dla mnie program.</td>
+    </tr>
+    <tr id="t10790">
+        <td><a href="#t10790">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10790">10790s</a></td>
+        <td>I pamiętam, chyba płakałem, jak się dowiedziałem w 89 roku, kiedy zginęli w wypadku samochodowym, albo 87.</td>
+    </tr>
+    <tr id="t10797">
+        <td><a href="#t10797">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10797">10797s</a></td>
+        <td>Jak panowie Kurek i Kamiński zginęli w wypadku samochodowym.</td>
+    </tr>
+    <tr id="t10801">
+        <td><a href="#t10801">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10801">10801s</a></td>
+        <td>To było dla mnie coś niewyobrażalnego.</td>
+    </tr>
+    <tr id="t10805">
+        <td><a href="#t10805">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10805">10805s</a></td>
+        <td>I Sonda to... Każdy czwartek, godzina 18, czarno-biały telewizor, na którym niewiele widać.</td>
+    </tr>
+    <tr id="t10814">
+        <td><a href="#t10814">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10814">10814s</a></td>
+        <td>i porcja informacji z innego świata, bo sonda też korzystała w bardzo dużej mierze z materiałów angielskiego programu,</td>
+    </tr>
+    <tr id="t10827">
+        <td><a href="#t10827">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10827">10827s</a></td>
+        <td>The World of Tomorrow tak się nazywa.</td>
+    </tr>
+    <tr id="t10829">
+        <td><a href="#t10829">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10829">10829s</a></td>
+        <td>I oni, nie wiem czy w ramach licencji, czy po prostu takiego, wiecie, wolnej amerykanki, przepraszam, wolnej sowiecianki sobie brali te materiały.</td>
+    </tr>
+    <tr id="t10846">
+        <td><a href="#t10846">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10846">10846s</a></td>
+        <td>Wolna sowiecianka, mój ty Boże.</td>
+    </tr>
+    <tr id="t10850">
+        <td><a href="#t10850">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10850">10850s</a></td>
+        <td>Amerykanka nie pasowała, bo to chyba sowiety, tak.</td>
+    </tr>
+    <tr id="t10854">
+        <td><a href="#t10854">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10854">10854s</a></td>
+        <td>Wiem słowotwórstwo, to jest najpiękniejsza rzecz, jaka spotkała ludzką cywilizację.</td>
+    </tr>
+    <tr id="t10858">
+        <td><a href="#t10858">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10858">10858s</a></td>
+        <td>Czy my tutaj wszystko już zrobiliśmy w tych podziemiach?</td>
+    </tr>
+    <tr id="t10860">
+        <td><a href="#t10860">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10860">10860s</a></td>
+        <td>Tak, chyba tak.</td>
+    </tr>
+    <tr id="t10860">
+        <td><a href="#t10860">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10860">10860s</a></td>
+        <td>Tak, możemy stąd wyjść.</td>
+    </tr>
+    <tr id="t10862">
+        <td><a href="#t10862">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10862">10862s</a></td>
+        <td>To teraz na północ do twierdzy, moi drodzy, a twierdza jest ważna.</td>
+    </tr>
+    <tr id="t10865">
+        <td><a href="#t10865">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10865">10865s</a></td>
+        <td>Wyjdźcie do twierdzy, ja na chwilkę znowu was zostawię, bo muszę coś załatwić.</td>
+    </tr>
+    <tr id="t10868">
+        <td><a href="#t10868">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10868">10868s</a></td>
+        <td>Za momencik wracam, może z innym kotem.</td>
+    </tr>
+    <tr id="t10871">
+        <td><a href="#t10871">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10871">10871s</a></td>
+        <td>Jesteś tak mocny.</td>
+    </tr>
+    <tr id="t10892">
+        <td><a href="#t10892">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10892">10892s</a></td>
+        <td>Musiałem.</td>
+    </tr>
+    <tr id="t10893">
+        <td><a href="#t10893">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10893">10893s</a></td>
+        <td>Musiałem.</td>
+    </tr>
+    <tr id="t10895">
+        <td><a href="#t10895">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10895">10895s</a></td>
+        <td>Dobra.</td>
+    </tr>
+    <tr id="t10895">
+        <td><a href="#t10895">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10895">10895s</a></td>
+        <td>Filip, to możemy iść powolutku na północ.</td>
+    </tr>
+    <tr id="t10899">
+        <td><a href="#t10899">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10899">10899s</a></td>
+        <td>Kontekst dla Filipa.</td>
+    </tr>
+    <tr id="t10900">
+        <td><a href="#t10900">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10900">10900s</a></td>
+        <td>Puściłem na streamdecku fragment z Gwiezdnych Wojen, jak Yoda mówi do Dartha Sidiousa, If so powerful you are, why leave?</td>
+    </tr>
+    <tr id="t10911">
+        <td><a href="#t10911">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10911">10911s</a></td>
+        <td>Pasowało idealnie.</td>
+    </tr>
+    <tr id="t10913">
+        <td><a href="#t10913">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10913">10913s</a></td>
+        <td>Krzysztof Niegrzeczny.</td>
+    </tr>
+    <tr id="t10914">
+        <td><a href="#t10914">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10914">10914s</a></td>
+        <td>Ja tam i tak patrzę na to, co się dzieje z obrazem Mirysława.</td>
+    </tr>
+    <tr id="t10918">
+        <td><a href="#t10918">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10918">10918s</a></td>
+        <td>Znaczy, kamerka szaleje, tak.</td>
+    </tr>
+    <tr id="t10919">
+        <td><a href="#t10919">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10919">10919s</a></td>
+        <td>Znaczy, to jest...</td>
+    </tr>
+    <tr id="t10922">
+        <td><a href="#t10922">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10922">10922s</a></td>
+        <td>To znaczy, wiecie, to byłoby dopiero dobre do jamniczego swingu.</td>
+    </tr>
+    <tr id="t10933">
+        <td><a href="#t10933">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10933">10933s</a></td>
+        <td>O Boże, cudowne.</td>
+    </tr>
+    <tr id="t10936">
+        <td><a href="#t10936">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10936">10936s</a></td>
+        <td>Ale Filip, powiem ci, że chwacko sobie poczynasz tym nekromantą, jak już wiesz.</td>
+    </tr>
+    <tr id="t10942">
+        <td><a href="#t10942">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10942">10942s</a></td>
+        <td>Jak już się rozkręciliśmy, to leci, to leci.</td>
+    </tr>
+    <tr id="t10944">
+        <td><a href="#t10944">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10944">10944s</a></td>
+        <td>Bardzo dobrze.</td>
+    </tr>
+    <tr id="t10945">
+        <td><a href="#t10945">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10945">10945s</a></td>
+        <td>Czemu nie mogę podnieść lalki?</td>
+    </tr>
+    <tr id="t10947">
+        <td><a href="#t10947">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10947">10947s</a></td>
+        <td>Osiągnie to limit aktywnych zadań pobocznych.</td>
+    </tr>
+    <tr id="t10949">
+        <td><a href="#t10949">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10949">10949s</a></td>
+        <td>No fantastycznie.</td>
+    </tr>
+    <tr id="t10950">
+        <td><a href="#t10950">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10950">10950s</a></td>
+        <td>Ale wiecie, co można teraz zrobić?</td>
+    </tr>
+    <tr id="t10951">
+        <td><a href="#t10951">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10951">10951s</a></td>
+        <td>Na przykład wydać dwa punkty.</td>
+    </tr>
+    <tr id="t10952">
+        <td><a href="#t10952">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10952">10952s</a></td>
+        <td>O, normalny węzeł.</td>
+    </tr>
+    <tr id="t10956">
+        <td><a href="#t10956">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10956">10956s</a></td>
+        <td>Za każde 5% punktów inteligencji zakupionych w zasięgu zyskujesz premier.</td>
+    </tr>
+    <tr id="t10959">
+        <td><a href="#t10959">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10959">10959s</a></td>
+        <td>Aha, czyli musimy w zasięgu kupować inteligencję.</td>
+    </tr>
+    <tr id="t10962">
+        <td><a href="#t10962">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10962">10962s</a></td>
+        <td>Świetnie, w zasięgu inteligencja.</td>
+    </tr>
+    <tr id="t10963">
+        <td><a href="#t10963">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10963">10963s</a></td>
+        <td>To chyba już nie jest w zasięgu.</td>
+    </tr>
+    <tr id="t10965">
+        <td><a href="#t10965">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10965">10965s</a></td>
+        <td>Chyba nie było w zasięgu.</td>
+    </tr>
+    <tr id="t10967">
+        <td><a href="#t10967">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10967">10967s</a></td>
+        <td>Kuźnia jest gotowa na wszystko.</td>
+    </tr>
+    <tr id="t10970">
+        <td><a href="#t10970">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10970">10970s</a></td>
+        <td>Jaka kuźnia?</td>
+    </tr>
+    <tr id="t10971">
+        <td><a href="#t10971">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10971">10971s</a></td>
+        <td>Co się dzieje?</td>
+    </tr>
+    <tr id="t10971">
+        <td><a href="#t10971">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10971">10971s</a></td>
+        <td>No widzisz, ty słyszysz moje dźwięki.</td>
+    </tr>
+    <tr id="t10974">
+        <td><a href="#t10974">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10974">10974s</a></td>
+        <td>Tak.</td>
+    </tr>
+    <tr id="t10974">
+        <td><a href="#t10974">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10974">10974s</a></td>
+        <td>Czemu tu nie ma nigdzie inteligencji?</td>
+    </tr>
+    <tr id="t10976">
+        <td><a href="#t10976">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10976">10976s</a></td>
+        <td>Przecież to jest jakaś... Co to znaczy, że w zasięgu jest inteligencja, jak nigdzie nie ma w zasięgu inteligencji?</td>
+    </tr>
+    <tr id="t10984">
+        <td><a href="#t10984">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10984">10984s</a></td>
+        <td>Co tu jest w zasięgu?</td>
+    </tr>
+    <tr id="t10986">
+        <td><a href="#t10986">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10986">10986s</a></td>
+        <td>Siła woli jest w zasięgu.</td>
+    </tr>
+    <tr id="t10989">
+        <td><a href="#t10989">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10989">10989s</a></td>
+        <td>I zręczność jest bardzo duża.</td>
+    </tr>
+    <tr id="t10991">
+        <td><a href="#t10991">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10991">10991s</a></td>
+        <td>A!</td>
+    </tr>
+    <tr id="t10993">
+        <td><a href="#t10993">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10993">10993s</a></td>
+        <td>Czyli by trzeba było mieć zręczność.</td>
+    </tr>
+    <tr id="t10995">
+        <td><a href="#t10995">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=10995">10995s</a></td>
+        <td>Zyskujesz premię do 6 do obrażeń krytycznych, to zróbmy to i idźmy w tę cholerną zręczność.</td>
+    </tr>
+    <tr id="t11001">
+        <td><a href="#t11001">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11001">11001s</a></td>
+        <td>Dzień dobry, przyszedłem z kotem, z Zeldą.</td>
+    </tr>
+    <tr id="t11005">
+        <td><a href="#t11005">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11005">11005s</a></td>
+        <td>Kitku.</td>
+    </tr>
+    <tr id="t11005">
+        <td><a href="#t11005">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11005">11005s</a></td>
+        <td>Co Zelda?</td>
+    </tr>
+    <tr id="t11008">
+        <td><a href="#t11008">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11008">11008s</a></td>
+        <td>Legend of Zelda Breath of the Wild.</td>
+    </tr>
+    <tr id="t11010">
+        <td><a href="#t11010">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11010">11010s</a></td>
+        <td>Wspaniała gra.</td>
+    </tr>
+    <tr id="t11012">
+        <td><a href="#t11012">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11012">11012s</a></td>
+        <td>Breath of the Wild Rysław.</td>
+    </tr>
+    <tr id="t11017">
+        <td><a href="#t11017">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11017">11017s</a></td>
+        <td>Teraz jak patrzę na nasz podgląd, to widzę, że jesteśmy ułożeni na takiej sytuacji, że Rysław ma najmniejszą głowę, potem jestem ja, a potem jest Filip.</td>
+    </tr>
+    <tr id="t11028">
+        <td><a href="#t11028">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11028">11028s</a></td>
+        <td>To jest po prostu miara intelektu, ja wcale się nie dziwię, że tak jest.</td>
+    </tr>
+    <tr id="t11033">
+        <td><a href="#t11033">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11033">11033s</a></td>
+        <td>To jest normalna sprawa.</td>
+    </tr>
+    <tr id="t11035">
+        <td><a href="#t11035">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11035">11035s</a></td>
+        <td>Ja sobie przybliżę ten obraz teraz z kamery.</td>
+    </tr>
+    <tr id="t11040">
+        <td><a href="#t11040">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11040">11040s</a></td>
+        <td>Ja jestem prostym chłopakiem.</td>
+    </tr>
+    <tr id="t11043">
+        <td><a href="#t11043">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11043">11043s</a></td>
+        <td>Cudowności.</td>
+    </tr>
+    <tr id="t11044">
+        <td><a href="#t11044">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11044">11044s</a></td>
+        <td>Nie mogę podnieść lalki tutaj moi drodzy, bo jest limit zadań pobocznych, przecież ja się rozindyczę zaraz.</td>
+    </tr>
+    <tr id="t11051">
+        <td><a href="#t11051">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11051">11051s</a></td>
+        <td>Nie straszcie mnie z Elgato nawet.</td>
+    </tr>
+    <tr id="t11053">
+        <td><a href="#t11053">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11053">11053s</a></td>
+        <td>Krzysztof, poleciałeś już gdzieś?</td>
+    </tr>
+    <tr id="t11055">
+        <td><a href="#t11055">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11055">11055s</a></td>
+        <td>No ja idę na północ do twierdzy.</td>
+    </tr>
+    <tr id="t11057">
+        <td><a href="#t11057">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11057">11057s</a></td>
+        <td>Poczekajcie panowie, bo ja dziękując wam za wspaniały czas wspólny, pomimo że pewnie byłoby lepiej jakbym... Nie, nie, ale wy zostańcie.</td>
+    </tr>
+    <tr id="t11069">
+        <td><a href="#t11069">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11069">11069s</a></td>
+        <td>Jakbyś mógł przebudować kamerki tak, żebyście byli, bo ja muszę po prostu lecieć.</td>
+    </tr>
+    <tr id="t11073">
+        <td><a href="#t11073">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11073">11073s</a></td>
+        <td>Przebuduję, przebuduję.</td>
+    </tr>
+    <tr id="t11076">
+        <td><a href="#t11076">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11076">11076s</a></td>
+        <td>Zostanę jeszcze chwilę z wami, żebyś mógł spokojnie przebudować kamereczki.</td>
+    </tr>
+    <tr id="t11080">
+        <td><a href="#t11080">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11080">11080s</a></td>
+        <td>Dobrze, to uczyń to Filip, bo my chyba rzeczywiście się rozgadaliśmy z Rysławem troszeczkę, ale nie będziemy już długo grać, bo tylko te twierdze podbijemy, więc jeżeli masz chwilkę Filip, to to jest ostatnia rzecz jaką robimy.</td>
+    </tr>
+    <tr id="t11093">
+        <td><a href="#t11093">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11093">11093s</a></td>
+        <td>Możemy pyknąć twierdzę.</td>
+    </tr>
+    <tr id="t11094">
+        <td><a href="#t11094">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11094">11094s</a></td>
+        <td>Nie panowie, ja muszę lecieć.</td>
+    </tr>
+    <tr id="t11096">
+        <td><a href="#t11096">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11096">11096s</a></td>
+        <td>Dobra, to w takim razie szybciutko robię aranżację.</td>
+    </tr>
+    <tr id="t11099">
+        <td><a href="#t11099">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11099">11099s</a></td>
+        <td>Przybuduj kamerki i... Filip asertywnie i bardzo słusznie.</td>
+    </tr>
+    <tr id="t11104">
+        <td><a href="#t11104">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11104">11104s</a></td>
+        <td>Dobrze, to ja teraz... Jak mam to zrobić?</td>
+    </tr>
+    <tr id="t11107">
+        <td><a href="#t11107">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11107">11107s</a></td>
+        <td>Dzięki Filipie w ogóle.</td>
+    </tr>
+    <tr id="t11108">
+        <td><a href="#t11108">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11108">11108s</a></td>
+        <td>Ale to mam sobie iść czy poczekać, aż przebudujesz kamerki?</td>
+    </tr>
+    <tr id="t11110">
+        <td><a href="#t11110">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11110">11110s</a></td>
+        <td>Nie no, ja mam nadzieję, że zostaniesz jeszcze.</td>
+    </tr>
+    <tr id="t11112">
+        <td><a href="#t11112">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11112">11112s</a></td>
+        <td>W ogóle inaczej zrobiłem.</td>
+    </tr>
+    <tr id="t11114">
+        <td><a href="#t11114">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11114">11114s</a></td>
+        <td>Mogę zostać jeszcze trzy minutki.</td>
+    </tr>
+    <tr id="t11116">
+        <td><a href="#t11116">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11116">11116s</a></td>
+        <td>Dobrze, to w takim razie zrobimy w ten sposób, że zrobimy pierwsze zakończenie przed ostatecznym zakończeniem i pożegnamy Filipa w takim razie i podziękujemy mu za wpadnięcie tutaj.</td>
+    </tr>
+    <tr id="t11127">
+        <td><a href="#t11127">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11127">11127s</a></td>
+        <td>Filip już drugi raz jest w wieży, więc zaznaczę tylko, żebyście śledzili Filipa, jeżeli odpowiada wam...</td>
+    </tr>
+    <tr id="t11136">
+        <td><a href="#t11136">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11136">11136s</a></td>
+        <td>Filipowa tendencja do anegdotek filmowych, do jego erudycja kulturalna, którą ja lubię nazwać kulturalną, i wiedza na temat filmów i rzeczy.</td>
+    </tr>
+    <tr id="t11145">
+        <td><a href="#t11145">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11145">11145s</a></td>
+        <td>Bezbectwo, jednym słowem.</td>
+    </tr>
+    <tr id="t11146">
+        <td><a href="#t11146">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11146">11146s</a></td>
+        <td>To też, ale wpierw chciałem polecić bez schematu.</td>
+    </tr>
+    <tr id="t11152">
+        <td><a href="#t11152">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11152">11152s</a></td>
+        <td>A bez życia miało 376 subskrybentów, małej prawie 2000.</td>
+    </tr>
+    <tr id="t11156">
+        <td><a href="#t11156">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11156">11156s</a></td>
+        <td>Jeżeli to Wam wszystko odpowiada, to polecam kanał Bez Schematu.</td>
+    </tr>
+    <tr id="t11162">
+        <td><a href="#t11162">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11162">11162s</a></td>
+        <td>A jeżeli odpowiada Wam Filip, który będzie znacznie głośniejszy niż podczas naszego dzisiejszego spotkania, gdzie po prostu zajmował się w ciszy własnego sumienia wyrzynaniem przeciwnych w naturze wrogów,</td>
+    </tr>
+    <tr id="t11175">
+        <td><a href="#t11175">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11175">11175s</a></td>
+        <td>to zajrzyjcie na kanał Filipowy, który się zowie Bez Życia i tutaj po pierwsze jest beznadziejna liczba subskrypcji, nie 1800, musicie coś z tym zrobić, żeby było 2000, to jest pierwsze moje zalecenie, drugie zalecenie jest takie, żeby wpaść sobie na streamy na przykład z takiego Wiedźmina Krwi i Winy, myśmy już przegrali w Wiedźmina, więc nie ma co, tudzież zajrzyjcie sobie na streamy z Final Fantasy XVI, a nie pytajcie mnie, Krzysztof,</td>
+    </tr>
+    <tr id="t11200">
+        <td><a href="#t11200">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11200">11200s</a></td>
+        <td>Najbardziej polecam montaże dygresywnego wilka, które tam widzicie właśnie na tych dziwnych okładkach, które są fantastyczne, naprawdę fantastyczne.</td>
+    </tr>
+    <tr id="t11210">
+        <td><a href="#t11210">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11210">11210s</a></td>
+        <td>Więc wpadajcie moi drodzy na kanał.</td>
+    </tr>
+    <tr id="t11212">
+        <td><a href="#t11212">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11212">11212s</a></td>
+        <td>Filip, dzięki Ci jeszcze raz serdeczne za wsparcie.</td>
+    </tr>
+    <tr id="t11214">
+        <td><a href="#t11214">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11214">11214s</a></td>
+        <td>Będziemy Cię jeszcze ściągać tutaj.</td>
+    </tr>
+    <tr id="t11217">
+        <td><a href="#t11217">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11217">11217s</a></td>
+        <td>Ja też pięknie dziękuję za towarzystwo i naprawdę jakby najniższy możliwy ukłon dla...</td>
+    </tr>
+    <tr id="t11224">
+        <td><a href="#t11224">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11224">11224s</a></td>
+        <td>Dla Nightflash, która wsparła ogromną kwotą i też jeszcze powiedziała dlaczego wspiera i za co dziękuję i ja też bardzo dziękuję z tego miejsca za taką hojność, bo uważam, że ten system rozdawania prezentów jest jedną z najsilniej konsolidujących społeczności rzeczy na YouTubie.</td>
+    </tr>
+    <tr id="t11240">
+        <td><a href="#t11240">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11240">11240s</a></td>
+        <td>To jest tak piękny sposób wspierania, nie po prostu twórcy, ale całej społeczności, budowanie doświadczenia kolektywnego, że naprawdę mnie to wzruszyło i też trochę jestem zmęczony, może nie byłem w stanie tego zawsze po sobie okazać, ale ja bawiłem się fantastycznie.</td>
+    </tr>
+    <tr id="t11255">
+        <td><a href="#t11255">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11255">11255s</a></td>
+        <td>Także dziękuję wam panowie bardzo serdecznie i dziękuję wszystkim, którzy do nas dzisiaj dołączyli.</td>
+    </tr>
+    <tr id="t11260">
+        <td><a href="#t11260">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11260">11260s</a></td>
+        <td>bo ja może czasem nawet za często patrzyłem na czaty i też żałuję, że nie do wszystkiego byliśmy w stanie się odnieść, a było sporo fajnych tematów i sporo fajnych pytań, do których może będziemy w stanie odnieść się kolejnym razem.</td>
+    </tr>
+    <tr id="t11273">
+        <td><a href="#t11273">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11273">11273s</a></td>
+        <td>To powiem wam tak, że po tak pięknym słowach Filipa, ja nie mam serca bez Filipa kontynuować naszych rozgrywek, więc pewnie...</td>
+    </tr>
+    <tr id="t11281">
+        <td><a href="#t11281">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11281">11281s</a></td>
+        <td>Będziemy już off stream z Rysławem jeszcze siec, a tymczasem chciałem też bardzo podziękować serdecznie, że dołączył do nas nie tylko Filip, ale także Rysław i co powiedziawszy moi drodzy, u Rysława też mamy zadanie do wykonania, bardzo ważne zadanie do wykonania, mianowicie teraz jak wpadam na kanał Rysława, który jak widzicie jest kopalnią anegdot gamingowych, zjadł zęby na tym,</td>
+    </tr>
+    <tr id="t11303">
+        <td><a href="#t11303">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11303">11303s</a></td>
+        <td>To równocześnie, mam te 29,8 tysięcy subskrypcji i wiecie, ja jestem człowiekiem, który lubi okrągłe liczby, bo nie umiem matematyki, nie umiem liczyć, więc ułatwcie mi troszeczkę zadanie, dobrze?</td>
+    </tr>
+    <tr id="t11314">
+        <td><a href="#t11314">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11314">11314s</a></td>
+        <td>To jest nic, tak?</td>
+    </tr>
+    <tr id="t11316">
+        <td><a href="#t11316">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11316">11316s</a></td>
+        <td>Wysław mówił, że to jest jakieś sto kilkanaście subskrypcji, więc zróbcie coś z tym, dobrze?</td>
+    </tr>
+    <tr id="t11320">
+        <td><a href="#t11320">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11320">11320s</a></td>
+        <td>Bo trzeba, bez zle... Nie.</td>
+    </tr>
+    <tr id="t11323">
+        <td><a href="#t11323">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11323">11323s</a></td>
+        <td>Nightflash.</td>
+    </tr>
+    <tr id="t11324">
+        <td><a href="#t11324">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11324">11324s</a></td>
+        <td>Nightflash, pięknie.</td>
+    </tr>
+    <tr id="t11329">
+        <td><a href="#t11329">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11329">11329s</a></td>
+        <td>Nightflash, dziękuję Ci jeszcze raz, że podarowałaś 50 wsparci, 150 wsparć dzisiejszego live'a.</td>
+    </tr>
+    <tr id="t11335">
+        <td><a href="#t11335">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11335">11335s</a></td>
+        <td>Ja nie wiem, w jaki sposób mam na to zareagować absolutnie.</td>
+    </tr>
+    <tr id="t11339">
+        <td><a href="#t11339">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11339">11339s</a></td>
+        <td>Więc w takiej sytuacji nie pozostaje nam, moi drodzy, nic innego, jak przebudować szybko scenę tak, żeby... O, Rysław teraz jest, więc ja będę przebudowywał scenę sobie szybciutko.</td>
+    </tr>
+    <tr id="t11351">
+        <td><a href="#t11351">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11351">11351s</a></td>
+        <td>I Rysław, czy ja mogę cię poprosić o to, żebyś czynił honory w trakcie, gdy ja będę przebudowywał scenę i żebyś odczytał ludzi, którzy... O mój Boże, to tak szybko przemija.</td>
+    </tr>
+    <tr id="t11360">
+        <td><a href="#t11360">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11360">11360s</a></td>
+        <td>No więc właśnie, przynajmniej częściowo, a ja potem cię wyręczę.</td>
+    </tr>
+    <tr id="t11364">
+        <td><a href="#t11364">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11364">11364s</a></td>
+        <td>Bo ty masz wolny czat, a ja nie mam.</td>
+    </tr>
+    <tr id="t11365">
+        <td><a href="#t11365">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11365">11365s</a></td>
+        <td>Nieinteresujący człowiek, Boże...</td>
+    </tr>
+    <tr id="t11368">
+        <td><a href="#t11368">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11368">11368s</a></td>
+        <td>Grzejnik, Pi, Gerwazy, Jorgen, Uniwersal, Fifol, Kacper.</td>
+    </tr>
+    <tr id="t11375">
+        <td><a href="#t11375">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11375">11375s</a></td>
+        <td>Przepraszam, bo ty masz wolny czat, masz spowolniony, a u mnie to tak znika od razu.</td>
+    </tr>
+    <tr id="t11381">
+        <td><a href="#t11381">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11381">11381s</a></td>
+        <td>Roflex Miedziowski, Ania Nowak, Kitku NK, Dominik Kujawa, Dawid Kamiński, Jakub Markowski, Monika Czech.</td>
+    </tr>
+    <tr id="t11392">
+        <td><a href="#t11392">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11392">11392s</a></td>
+        <td>Szymon Zajdel, Artur Szarek i teraz jeszcze Gunit darował 10 subskrypcji.</td>
+    </tr>
+    <tr id="t11397">
+        <td><a href="#t11397">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11397">11397s</a></td>
+        <td>Nieprawdopodobne rzeczy się dzieją.</td>
+    </tr>
+    <tr id="t11399">
+        <td><a href="#t11399">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11399">11399s</a></td>
+        <td>Anna Andziak i jeszcze DeBilek i Tomasz Tomasz, Jeźwik, Aquafona, przepraszam, jeśli jakąś ksywkę źle powiedziałem, Dziobak, to przepraszam bardzo, ale Linux.</td>
+    </tr>
+    <tr id="t11414">
+        <td><a href="#t11414">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11414">11414s</a></td>
+        <td>I Krzysztof K... Boże mój, ja już nie widzę, po prostu mi się mieni przed oczami.</td>
+    </tr>
+    <tr id="t11418">
+        <td><a href="#t11418">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11418">11418s</a></td>
+        <td>Rysław jest złotym człowiekiem, już jedna scena jest przebudowana.</td>
+    </tr>
+    <tr id="t11422">
+        <td><a href="#t11422">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11422">11422s</a></td>
+        <td>Jestem w trakcie przebudowy następnej gameplayowej i już będzie dobrze.</td>
+    </tr>
+    <tr id="t11427">
+        <td><a href="#t11427">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11427">11427s</a></td>
+        <td>Już będzie dobrze, bardzo kochani, dziękuję jeszcze raz w swoim imieniu.</td>
+    </tr>
+    <tr id="t11431">
+        <td><a href="#t11431">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11431">11431s</a></td>
+        <td>Jejku, tam było jeszcze chyba od Jamnika były wsparcia, pięć wsparć było jeszcze od Jamnika, więc musisz koniecznie podziękować.</td>
+    </tr>
+    <tr id="t11437">
+        <td><a href="#t11437">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11437">11437s</a></td>
+        <td>Dajcie spokój.</td>
+    </tr>
+    <tr id="t11439">
+        <td><a href="#t11439">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11439">11439s</a></td>
+        <td>Tu jeszcze masz chyba na górze te informacje, nie?</td>
+    </tr>
+    <tr id="t11442">
+        <td><a href="#t11442">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11442">11442s</a></td>
+        <td>Tak, tak, ja będę prawdopodobnie... Tu ty masz spowolniony czat, więc u ciebie to chyba troszkę wolniej szło, a u mnie tak, wiesz... Tak, spowolniony czat, Rysław, to jest złoto.</td>
+    </tr>
+    <tr id="t11452">
+        <td><a href="#t11452">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11452">11452s</a></td>
+        <td>Tak, to jest złoto naprawdę.</td>
+    </tr>
+    <tr id="t11454">
+        <td><a href="#t11454">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11454">11454s</a></td>
+        <td>Nie ma nic lepszego w takich sytuacjach niż spowolniony czat.</td>
+    </tr>
+    <tr id="t11458">
+        <td><a href="#t11458">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11458">11458s</a></td>
+        <td>U mnie nie ma tylu widzów, co u ciebie, wiesz?</td>
+    </tr>
+    <tr id="t11460">
+        <td><a href="#t11460">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11460">11460s</a></td>
+        <td>Dlatego ja jeszcze mogę sobie pozwolić na taki czat normalny.</td>
+    </tr>
+    <tr id="t11464">
+        <td><a href="#t11464">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11464">11464s</a></td>
+        <td>Raz było tak, dobrze.</td>
+    </tr>
+    <tr id="t11466">
+        <td><a href="#t11466">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11466">11466s</a></td>
+        <td>Mamy sceny moi drodzy, udało się.</td>
+    </tr>
+    <tr id="t11468">
+        <td><a href="#t11468">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11468">11468s</a></td>
+        <td>Dobrze, dziękuję jeszcze raz Night Clash za podarowanie, wsparcie.</td>
+    </tr>
+    <tr id="t11471">
+        <td><a href="#t11471">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11471">11471s</a></td>
+        <td>W takim razie teraz już wyłączam sceny, wracam do Diablo.</td>
+    </tr>
+    <tr id="t11474">
+        <td><a href="#t11474">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11474">11474s</a></td>
+        <td>Irysław, idziemy na podbój twierdzy.</td>
+    </tr>
+    <tr id="t11475">
+        <td><a href="#t11475">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11475">11475s</a></td>
+        <td>Idziemy na podbój twierdzy.</td>
+    </tr>
+    <tr id="t11477">
+        <td><a href="#t11477">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11477">11477s</a></td>
+        <td>Ja tymczasem czytam, dziękuję serdecznie.</td>
+    </tr>
+    <tr id="t11479">
+        <td><a href="#t11479">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11479">11479s</a></td>
+        <td>Pingu, Pingu dołączył również.</td>
+    </tr>
+    <tr id="t11481">
+        <td><a href="#t11481">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11481">11481s</a></td>
+        <td>Bartoszu!</td>
+    </tr>
+    <tr id="t11500">
+        <td><a href="#t11500">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11500">11500s</a></td>
+        <td>Czy ja wreszcie będę mieć te 69% dla kusej pokusy w ankiecie, czy nigdy?</td>
+    </tr>
+    <tr id="t11505">
+        <td><a href="#t11505">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11505">11505s</a></td>
+        <td>Coś przerażającego, moi drodzy.</td>
+    </tr>
+    <tr id="t11508">
+        <td><a href="#t11508">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11508">11508s</a></td>
+        <td>Doszło do tego, co ostatnio, moi drodzy.</td>
+    </tr>
+    <tr id="t11510">
+        <td><a href="#t11510">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11510">11510s</a></td>
+        <td>To znaczy znowu jest tak, że ja nie mogę przeczytać historii czatu, ponieważ za dużo było wsparć.</td>
+    </tr>
+    <tr id="t11517">
+        <td><a href="#t11517">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11517">11517s</a></td>
+        <td>Jest to absolutnie przerażające.</td>
+    </tr>
+    <tr id="t11520">
+        <td><a href="#t11520">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11520">11520s</a></td>
+        <td>Niesamowite zarazem.</td>
+    </tr>
+    <tr id="t11521">
+        <td><a href="#t11521">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11521">11521s</a></td>
+        <td>Bardzo Wam jeszcze raz dziękuję za wsparcie społeczności.</td>
+    </tr>
+    <tr id="t11525">
+        <td><a href="#t11525">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11525">11525s</a></td>
+        <td>Bardzo się cieszę.</td>
+    </tr>
+    <tr id="t11526">
+        <td><a href="#t11526">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11526">11526s</a></td>
+        <td>Dziękujemy też Rysławowi, że mimo, że Filip już odszedł do swoich filipowych kazamatów, to że Władysław z nami trwa.</td>
+    </tr>
+    <tr id="t11534">
+        <td><a href="#t11534">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11534">11534s</a></td>
+        <td>Mogę trwać jak długo chcesz.</td>
+    </tr>
+    <tr id="t11536">
+        <td><a href="#t11536">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11536">11536s</a></td>
+        <td>Dzisiaj specjalnie zarezerwowałem, nie chcę żeby to zabrzmiało dwuznacznie, ale zarezerwowałem wieczór dla ciebie.</td>
+    </tr>
+    <tr id="t11542">
+        <td><a href="#t11542">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11542">11542s</a></td>
+        <td>Rysław, ja ci nie chcę nic mówić, ale my teraz możemy się wywiązać z obietnicy, którą daliśmy czatom, że pokażemy ten game'owe lochy.</td>
+    </tr>
+    <tr id="t11554">
+        <td><a href="#t11554">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11554">11554s</a></td>
+        <td>Możemy, tak, możemy to zrobić, oczywiście.</td>
+    </tr>
+    <tr id="t11557">
+        <td><a href="#t11557">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11557">11557s</a></td>
+        <td>Mortisz skanduje, Rysław, Rysław, Rysław.</td>
+    </tr>
+    <tr id="t11560">
+        <td><a href="#t11560">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11560">11560s</a></td>
+        <td>Wyście powinni skandować, moi drodzy, Nightflash, Nightflash, jak również.</td>
+    </tr>
+    <tr id="t11565">
+        <td><a href="#t11565">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11565">11565s</a></td>
+        <td>Zdecydowanie tak, absolutnie.</td>
+    </tr>
+    <tr id="t11567">
+        <td><a href="#t11567">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11567">11567s</a></td>
+        <td>Szalona Nightflash, która wsparła kanał w taki sposób, że mój Apecze Amaran numer 2 po prostu będzie zamawiany w tym tygodniu.</td>
+    </tr>
+    <tr id="t11577">
+        <td><a href="#t11577">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11577">11577s</a></td>
+        <td>Jestem pełen podziwu, wielkie podziękowania, jeśli też mogę się dołączyć.</td>
+    </tr>
+    <tr id="t11581">
+        <td><a href="#t11581">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11581">11581s</a></td>
+        <td>Absolutnie.</td>
+    </tr>
+    <tr id="t11582">
+        <td><a href="#t11582">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11582">11582s</a></td>
+        <td>To jest...</td>
+    </tr>
+    <tr id="t11583">
+        <td><a href="#t11583">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11583">11583s</a></td>
+        <td>Coś, czego nie spotyka się codziennie, bo to nie tylko chodzi o finanse, tu chodzi ogólnie o wsparcie.</td>
+    </tr>
+    <tr id="t11589">
+        <td><a href="#t11589">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11589">11589s</a></td>
+        <td>O wielkie serce przede wszystkim, tak.</td>
+    </tr>
+    <tr id="t11591">
+        <td><a href="#t11591">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11591">11591s</a></td>
+        <td>To jest niesamowite absolutnie.</td>
+    </tr>
+    <tr id="t11593">
+        <td><a href="#t11593">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11593">11593s</a></td>
+        <td>Super sprawa, także super.</td>
+    </tr>
+    <tr id="t11596">
+        <td><a href="#t11596">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11596">11596s</a></td>
+        <td>Dziękuję w imieniu Krzysztofa i społeczność.</td>
+    </tr>
+    <tr id="t11598">
+        <td><a href="#t11598">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11598">11598s</a></td>
+        <td>Tak jest.</td>
+    </tr>
+    <tr id="t11599">
+        <td><a href="#t11599">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11599">11599s</a></td>
+        <td>I przepraszam strasznie, że nie wyczytałem was wszystkich, ale no fizycznie nie mam takiej możliwości niestety.</td>
+    </tr>
+    <tr id="t11604">
+        <td><a href="#t11604">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11604">11604s</a></td>
+        <td>To jest niemożliwe.</td>
+    </tr>
+    <tr id="t11604">
+        <td><a href="#t11604">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11604">11604s</a></td>
+        <td>Bo wiesz co, nawet Rysła po prostu zniknęła historia czatu.</td>
+    </tr>
+    <tr id="t11608">
+        <td><a href="#t11608">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11608">11608s</a></td>
+        <td>Dramat.</td>
+    </tr>
+    <tr id="t11609">
+        <td><a href="#t11609">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11609">11609s</a></td>
+        <td>Jeszcze jest skandowana koszula Rysława.</td>
+    </tr>
+    <tr id="t11612">
+        <td><a href="#t11612">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11612">11612s</a></td>
+        <td>Zapytaj Rysława, jaką masz kamerę.</td>
+    </tr>
+    <tr id="t11614">
+        <td><a href="#t11614">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11614">11614s</a></td>
+        <td>Rysław, jaką masz kamerę?</td>
+    </tr>
+    <tr id="t11615">
+        <td><a href="#t11615">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11615">11615s</a></td>
+        <td>Ja mam aparat Sony przed sobą.</td>
+    </tr>
+    <tr id="t11617">
+        <td><a href="#t11617">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11617">11617s</a></td>
+        <td>No żartuj, że jaki masz Sony.</td>
+    </tr>
+    <tr id="t11619">
+        <td><a href="#t11619">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11619">11619s</a></td>
+        <td>Kurczę, ja się nie znam na aparatach, muszę musiał popatrzeć, jaki to jest aparat.</td>
+    </tr>
+    <tr id="t11622">
+        <td><a href="#t11622">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11622">11622s</a></td>
+        <td>Ja mam FX30 i jestem wściekły z tego powodu, że on nie ma pasywnego ładowania.</td>
+    </tr>
+    <tr id="t11627">
+        <td><a href="#t11627">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11627">11627s</a></td>
+        <td>To jest aparat, to nie jest AX, tak?</td>
+    </tr>
+    <tr id="t11630">
+        <td><a href="#t11630">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11630">11630s</a></td>
+        <td>AX?</td>
+    </tr>
+    <tr id="t11631">
+        <td><a href="#t11631">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11631">11631s</a></td>
+        <td>Nie ma wymiennego obiektywu, tylko ma stały obiektyw.</td>
+    </tr>
+    <tr id="t11636">
+        <td><a href="#t11636">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11636">11636s</a></td>
+        <td>Rozumiem, rozumiem.</td>
+    </tr>
+    <tr id="t11638">
+        <td><a href="#t11638">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11638">11638s</a></td>
+        <td>Bardzo dobry.</td>
+    </tr>
+    <tr id="t11639">
+        <td><a href="#t11639">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11639">11639s</a></td>
+        <td>Powiem tak, mój tato, gdyby teraz mnie słuchał, to by się złapał za gołę, mój tato jest fotografem zawodowym.</td>
+    </tr>
+    <tr id="t11648">
+        <td><a href="#t11648">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11648">11648s</a></td>
+        <td>A ja się w ogóle nie znam na tym.</td>
+    </tr>
+    <tr id="t11650">
+        <td><a href="#t11650">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11650">11650s</a></td>
+        <td>Mój syn starszy zajmuje się też fotografią, a ja w ogóle jestem... Oni znajdują w tym wspólny język, jakoś ja nie miałem nigdy do tego...</td>
+    </tr>
+    <tr id="t11661">
+        <td><a href="#t11661">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11661">11661s</a></td>
+        <td>Skłonności.</td>
+    </tr>
+    <tr id="t11662">
+        <td><a href="#t11662">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11662">11662s</a></td>
+        <td>Mnie interesowały komputery, a nie jakieś tam aparaty.</td>
+    </tr>
+    <tr id="t11664">
+        <td><a href="#t11664">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11664">11664s</a></td>
+        <td>Ja się wszystkiego dowiedziałem o kręceniu filmów o przesłonach i innych strasznych rzeczach, oprócz moich przyjaciół, to z kanału Gerald Undone.</td>
+    </tr>
+    <tr id="t11676">
+        <td><a href="#t11676">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11676">11676s</a></td>
+        <td>I oprócz tego z Senpai Gaming.</td>
+    </tr>
+    <tr id="t11678">
+        <td><a href="#t11678">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11678">11678s</a></td>
+        <td>Jamnikowy Piechurze, dziękuję serdecznie za trybut.</td>
+    </tr>
+    <tr id="t11680">
+        <td><a href="#t11680">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11680">11680s</a></td>
+        <td>Ukłony dla NightFlash.</td>
+    </tr>
+    <tr id="t11681">
+        <td><a href="#t11681">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11681">11681s</a></td>
+        <td>O właśnie, Jamnikowy Piechur, to on podarował też.</td>
+    </tr>
+    <tr id="t11684">
+        <td><a href="#t11684">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11684">11684s</a></td>
+        <td>To jamnikowy piechot pod drogą.</td>
+    </tr>
+    <tr id="t11684">
+        <td><a href="#t11684">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11684">11684s</a></td>
+        <td>Jamnikowy piechurze, dziękuję ci też za bycie jamnikołajem.</td>
+    </tr>
+    <tr id="t11687">
+        <td><a href="#t11687">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11687">11687s</a></td>
+        <td>Absolutnie się podpinam pod jamniki dla Night Flash.</td>
+    </tr>
+    <tr id="t11690">
+        <td><a href="#t11690">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11690">11690s</a></td>
+        <td>Sam się zajamniczę jeszcze na tę okoliczność.</td>
+    </tr>
+    <tr id="t11693">
+        <td><a href="#t11693">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11693">11693s</a></td>
+        <td>Absolutnie popieram, moi drodzy.</td>
+    </tr>
+    <tr id="t11695">
+        <td><a href="#t11695">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11695">11695s</a></td>
+        <td>Zwłaszcza, że mamy stosowne jamniki.</td>
+    </tr>
+    <tr id="t11696">
+        <td><a href="#t11696">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11696">11696s</a></td>
+        <td>Dobrze, Rysław, gdzie idziemy dalej, żeby tę twierdzę podbić?</td>
+    </tr>
+    <tr id="t11699">
+        <td><a href="#t11699">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11699">11699s</a></td>
+        <td>Nie wiem, ja idę za tobą.</td>
+    </tr>
+    <tr id="t11700">
+        <td><a href="#t11700">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11700">11700s</a></td>
+        <td>Ja po prostu zabijam.</td>
+    </tr>
+    <tr id="t11701">
+        <td><a href="#t11701">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11701">11701s</a></td>
+        <td>Ja tu jestem od czarnej roboty.</td>
+    </tr>
+    <tr id="t11705">
+        <td><a href="#t11705">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11705">11705s</a></td>
+        <td>Bo ja to jakiś znacznik, który mnie konfunduje.</td>
+    </tr>
+    <tr id="t11707">
+        <td><a href="#t11707">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11707">11707s</a></td>
+        <td>My mamy po prostu znaleźć jakieś wężowe oko i zniszczyć.</td>
+    </tr>
+    <tr id="t11710">
+        <td><a href="#t11710">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11710">11710s</a></td>
+        <td>Ja jestem bezwzględnym łajdakiem.</td>
+    </tr>
+    <tr id="t11712">
+        <td><a href="#t11712">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11712">11712s</a></td>
+        <td>To jest moje...</td>
+    </tr>
+    <tr id="t11714">
+        <td><a href="#t11714">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11714">11714s</a></td>
+        <td>Pochwalił się Rysław, tak.</td>
+    </tr>
+    <tr id="t11717">
+        <td><a href="#t11717">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11717">11717s</a></td>
+        <td>Ja to robię, co robią bezwzględni łajdacy.</td>
+    </tr>
+    <tr id="t11721">
+        <td><a href="#t11721">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11721">11721s</a></td>
+        <td>Łajdacze.</td>
+    </tr>
+    <tr id="t11722">
+        <td><a href="#t11722">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11722">11722s</a></td>
+        <td>No przyjemnie się gra w Diablo, no co mogę powiedzieć.</td>
+    </tr>
+    <tr id="t11725">
+        <td><a href="#t11725">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11725">11725s</a></td>
+        <td>Bardzo przyjemnie.</td>
+    </tr>
+    <tr id="t11726">
+        <td><a href="#t11726">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11726">11726s</a></td>
+        <td>W coopie się mega gra.</td>
+    </tr>
+    <tr id="t11727">
+        <td><a href="#t11727">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11727">11727s</a></td>
+        <td>To jest tak dobrze zrobiona gra do coopa.</td>
+    </tr>
+    <tr id="t11730">
+        <td><a href="#t11730">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11730">11730s</a></td>
+        <td>Muszę przyznać to i ja nawet nie wiem, czy jeżeli ludzie będą chcieli, to czy nie wrócimy.</td>
+    </tr>
+    <tr id="t11740">
+        <td><a href="#t11740">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11740">11740s</a></td>
+        <td>Ja bardzo chętnie.</td>
+    </tr>
+    <tr id="t11740">
+        <td><a href="#t11740">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11740">11740s</a></td>
+        <td>Bardzo chętnie.</td>
+    </tr>
+    <tr id="t11742">
+        <td><a href="#t11742">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11742">11742s</a></td>
+        <td>Zwłaszcza, że jest wtedy szansa.</td>
+    </tr>
+    <tr id="t11744">
+        <td><a href="#t11744">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11744">11744s</a></td>
+        <td>Jak podciągnę was jeszcze trochę w poziomach, bo dla mnie na razie to jest, że tak powiem, czysto rozrywkowe, bo ja tutaj w grze nic nie zyskuję, nie zbieram żadnych przedmiotów, ani nie dostaję też zaświadczenia żadnego, więc jakbyście byli na wyższych poziomach... No właśnie, bez sensu, tak.</td>
+    </tr>
+    <tr id="t11759">
+        <td><a href="#t11759">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11759">11759s</a></td>
+        <td>Nie no, bez sensu, spokojnie.</td>
+    </tr>
+    <tr id="t11760">
+        <td><a href="#t11760">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11760">11760s</a></td>
+        <td>Zaraz możemy na ten poziom, trzeci ludzie też mówią, żeby... Robić tak zwane taxi teraz, nie?</td>
+    </tr>
+    <tr id="t11765">
+        <td><a href="#t11765">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11765">11765s</a></td>
+        <td>Tak.</td>
+    </tr>
+    <tr id="t11766">
+        <td><a href="#t11766">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11766">11766s</a></td>
+        <td>Widziałam się swojego Jamnika ostatnio, był na głowie, macie rację,</td>
+    </tr>
+    <tr id="t11769">
+        <td><a href="#t11769">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11769">11769s</a></td>
+        <td>Macie rację, opaska jamnicza powinna wylądować z powrotem na mojej głowie.</td>
+    </tr>
+    <tr id="t11772">
+        <td><a href="#t11772">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11772">11772s</a></td>
+        <td>Rusła będzie teraz przerażony.</td>
+    </tr>
+    <tr id="t11774">
+        <td><a href="#t11774">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11774">11774s</a></td>
+        <td>To jest opaska jamnicza, którą dostałem też od swojego drogą, Wicki Świtezianki.</td>
+    </tr>
+    <tr id="t11778">
+        <td><a href="#t11778">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11778">11778s</a></td>
+        <td>Gdzieś jest jeszcze to wężowe okolko, nie wiem gdzie, a złym pomysłem jest... Ja nie wiem, ja nie wiem gdzie jest, bo to jest twoja emisja.</td>
+    </tr>
+    <tr id="t11784">
+        <td><a href="#t11784">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11784">11784s</a></td>
+        <td>Dobra, jeszcze sprawdzimy tutaj, ale wiesz, ja też nie mam żadnego znacznika.</td>
+    </tr>
+    <tr id="t11787">
+        <td><a href="#t11787">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11787">11787s</a></td>
+        <td>Oczywiście, że nie mam żadnego znacznika.</td>
+    </tr>
+    <tr id="t11789">
+        <td><a href="#t11789">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11789">11789s</a></td>
+        <td>Okej, tutaj jeszcze nie byliśmy.</td>
+    </tr>
+    <tr id="t11791">
+        <td><a href="#t11791">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11791">11791s</a></td>
+        <td>Dobrze.</td>
+    </tr>
+    <tr id="t11794">
+        <td><a href="#t11794">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11794">11794s</a></td>
+        <td>Jak Rysław wpada, wszystko ginie od razu.</td>
+    </tr>
+    <tr id="t11797">
+        <td><a href="#t11797">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11797">11797s</a></td>
+        <td>No nie od razu.</td>
+    </tr>
+    <tr id="t11798">
+        <td><a href="#t11798">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11798">11798s</a></td>
+        <td>Potrzebuje ze dwóch sekund.</td>
+    </tr>
+    <tr id="t11799">
+        <td><a href="#t11799">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11799">11799s</a></td>
+        <td>Rysław robi trening Diablo.</td>
+    </tr>
+    <tr id="t11802">
+        <td><a href="#t11802">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11802">11802s</a></td>
+        <td>Mam pytanie.</td>
+    </tr>
+    <tr id="t11803">
+        <td><a href="#t11803">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11803">11803s</a></td>
+        <td>Był temat, że jest możliwość dołączyć się gdzieś do ekipy u Rysława.</td>
+    </tr>
+    <tr id="t11805">
+        <td><a href="#t11805">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11805">11805s</a></td>
+        <td>Można jakieś szczegóły, gdzie i co?</td>
+    </tr>
+    <tr id="t11807">
+        <td><a href="#t11807">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11807">11807s</a></td>
+        <td>Rysław, jak można dołączyć?</td>
+    </tr>
+    <tr id="t11808">
+        <td><a href="#t11808">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11808">11808s</a></td>
+        <td>U mnie na Discordzie jest specjalny wątek temu poświęcony.</td>
+    </tr>
+    <tr id="t11811">
+        <td><a href="#t11811">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11811">11811s</a></td>
+        <td>Jest kolega Matix, którego serdecznie poznałem, który jest szefem klanu i pilnuje.</td>
+    </tr>
+    <tr id="t11815">
+        <td><a href="#t11815">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11815">11815s</a></td>
+        <td>Jest osoba, która zna gry tego typu na wylot i</td>
+    </tr>
+    <tr id="t11821">
+        <td><a href="#t11821">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11821">11821s</a></td>
+        <td>Znacznie lepiej niż ja, tak?</td>
+    </tr>
+    <tr id="t11822">
+        <td><a href="#t11822">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11822">11822s</a></td>
+        <td>Czyli wiecie, kanał Rysława i wpadacie z kanału Rysława na Discorda i jest.</td>
+    </tr>
+    <tr id="t11828">
+        <td><a href="#t11828">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11828">11828s</a></td>
+        <td>Czaty złośliwie twierdzą, ale słusznie, że jedyny artefakt prawdziwie legendarny, który mam, to jest ten, który mam na głowie.</td>
+    </tr>
+    <tr id="t11838">
+        <td><a href="#t11838">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11838">11838s</a></td>
+        <td>Jest to prawda.</td>
+    </tr>
+    <tr id="t11840">
+        <td><a href="#t11840">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11840">11840s</a></td>
+        <td>Powiem Ci tak, daje jakieś plus 10 do charyzmy.</td>
+    </tr>
+    <tr id="t11844">
+        <td><a href="#t11844">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11844">11844s</a></td>
+        <td>Ja całe życie jadę na charyzmie.</td>
+    </tr>
+    <tr id="t11846">
+        <td><a href="#t11846">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11846">11846s</a></td>
+        <td>Wszystkie możliwe egzaminy, zawsze była charyzma.</td>
+    </tr>
+    <tr id="t11849">
+        <td><a href="#t11849">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11849">11849s</a></td>
+        <td>O, spętany więzień.</td>
+    </tr>
+    <tr id="t11850">
+        <td><a href="#t11850">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11850">11850s</a></td>
+        <td>Może to trzeba zrobić.</td>
+    </tr>
+    <tr id="t11852">
+        <td><a href="#t11852">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11852">11852s</a></td>
+        <td>Nie wiem, musisz w swoich zadaniach... Ale wiesz, nie mam zadania dla twierdzy.</td>
+    </tr>
+    <tr id="t11859">
+        <td><a href="#t11859">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11859">11859s</a></td>
+        <td>Nie?</td>
+    </tr>
+    <tr id="t11859">
+        <td><a href="#t11859">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11859">11859s</a></td>
+        <td>Nie mam.</td>
+    </tr>
+    <tr id="t11861">
+        <td><a href="#t11861">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11861">11861s</a></td>
+        <td>W ogóle to jest jakieś dziwne.</td>
+    </tr>
+    <tr id="t11862">
+        <td><a href="#t11862">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11862">11862s</a></td>
+        <td>Mam tylko napisane znajdź i zniszcz wężowe oko.</td>
+    </tr>
+    <tr id="t11866">
+        <td><a href="#t11866">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11866">11866s</a></td>
+        <td>Tyle.</td>
+    </tr>
+    <tr id="t11866">
+        <td><a href="#t11866">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11866">11866s</a></td>
+        <td>Bardzo enigmatycznie.</td>
+    </tr>
+    <tr id="t11869">
+        <td><a href="#t11869">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11869">11869s</a></td>
+        <td>I jest pasek postępu, który pokazuje... A, rzeczywiście, pokazuje coś.</td>
+    </tr>
+    <tr id="t11873">
+        <td><a href="#t11873">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11873">11873s</a></td>
+        <td>Ten pasek widzę.</td>
+    </tr>
+    <tr id="t11874">
+        <td><a href="#t11874">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11874">11874s</a></td>
+        <td>I tyle, i tyle.</td>
+    </tr>
+    <tr id="t11876">
+        <td><a href="#t11876">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11876">11876s</a></td>
+        <td>Słowa więcej na ten temat nie ma.</td>
+    </tr>
+    <tr id="t11877">
+        <td><a href="#t11877">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11877">11877s</a></td>
+        <td>To znaczy, że trzeba gdzieś tutaj coś znaleźć, więc będę szukał.</td>
+    </tr>
+    <tr id="t11880">
+        <td><a href="#t11880">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11880">11880s</a></td>
+        <td>Może coś znajdę.</td>
+    </tr>
+    <tr id="t11881">
+        <td><a href="#t11881">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11881">11881s</a></td>
+        <td>W tym obszarze zaznaczonym przez okrąg widoczny na mapie.</td>
+    </tr>
+    <tr id="t11888">
+        <td><a href="#t11888">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11888">11888s</a></td>
+        <td>Tam jest gdzieś jeszcze takie zamknięte przejście dziwne.</td>
+    </tr>
+    <tr id="t11891">
+        <td><a href="#t11891">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11891">11891s</a></td>
+        <td>Ta opaska mniejsza to jest taki czad?</td>
+    </tr>
+    <tr id="t11892">
+        <td><a href="#t11892">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11892">11892s</a></td>
+        <td>Absolutnie.</td>
+    </tr>
+    <tr id="t11893">
+        <td><a href="#t11893">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11893">11893s</a></td>
+        <td>Będzie trzeba, moi drodzy, jak będzie ogarniane... Chyba tutaj nam pokazuje, że w tę stronę trzeba iść.</td>
+    </tr>
+    <tr id="t11899">
+        <td><a href="#t11899">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11899">11899s</a></td>
+        <td>Jak będzie ogarniany jakiś radosny merch, to będzie trzeba porozmawiać ze Świtezianką.</td>
+    </tr>
+    <tr id="t11905">
+        <td><a href="#t11905">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11905">11905s</a></td>
+        <td>Będzie trzeba porozmawiać stanowczo.</td>
+    </tr>
+    <tr id="t11907">
+        <td><a href="#t11907">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11907">11907s</a></td>
+        <td>Tutaj mówisz coś jeszcze jest?</td>
+    </tr>
+    <tr id="t11908">
+        <td><a href="#t11908">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11908">11908s</a></td>
+        <td>Nie, nie, tak widziałem, że coś żyło jeszcze, wiesz, tak... Okej.</td>
+    </tr>
+    <tr id="t11912">
+        <td><a href="#t11912">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11912">11912s</a></td>
+        <td>Bo jeszcze tam niby... O, kapliczka wężowego oka!</td>
+    </tr>
+    <tr id="t11915">
+        <td><a href="#t11915">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11915">11915s</a></td>
+        <td>O, to jest to, to jest to, to jest to!</td>
+    </tr>
+    <tr id="t11916">
+        <td><a href="#t11916">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11916">11916s</a></td>
+        <td>Otwórz drzwi do wężowego oka, już możemy otworzyć.</td>
+    </tr>
+    <tr id="t11918">
+        <td><a href="#t11918">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11918">11918s</a></td>
+        <td>Dobrze, mamy!</td>
+    </tr>
+    <tr id="t11919">
+        <td><a href="#t11919">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11919">11919s</a></td>
+        <td>Ooo!</td>
+    </tr>
+    <tr id="t11921">
+        <td><a href="#t11921">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11921">11921s</a></td>
+        <td>Czy Wysław grał w Bloodborne?</td>
+    </tr>
+    <tr id="t11923">
+        <td><a href="#t11923">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11923">11923s</a></td>
+        <td>Tak, grałeś, Wysław.</td>
+    </tr>
+    <tr id="t11925">
+        <td><a href="#t11925">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11925">11925s</a></td>
+        <td>Mam platynę w Bloodborne, także dużo grałem.</td>
+    </tr>
+    <tr id="t11927">
+        <td><a href="#t11927">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11927">11927s</a></td>
+        <td>Właśnie, właśnie.</td>
+    </tr>
+    <tr id="t11930">
+        <td><a href="#t11930">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11930">11930s</a></td>
+        <td>Z pewnej perspektywy opacka jamnicza wygląda jak papiloty.</td>
+    </tr>
+    <tr id="t11934">
+        <td><a href="#t11934">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11934">11934s</a></td>
+        <td>Bo piloty, dobra rzecz, będziesz mieć piękne kręcone włosy.</td>
+    </tr>
+    <tr id="t11937">
+        <td><a href="#t11937">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11937">11937s</a></td>
+        <td>Ja bym chciał mieć kręcone włosy, niestety mam proste jak... Moje włosy się nie układają w ogóle.</td>
+    </tr>
+    <tr id="t11941">
+        <td><a href="#t11941">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11941">11941s</a></td>
+        <td>Wrocław, nie narzekaj na swoje włosy.</td>
+    </tr>
+    <tr id="t11944">
+        <td><a href="#t11944">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11944">11944s</a></td>
+        <td>Ja mam włosy proste jak mój intelekt, więc... Przetrwanie na tarcie, aha, okej.</td>
+    </tr>
+    <tr id="t11951">
+        <td><a href="#t11951">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11951">11951s</a></td>
+        <td>A, dobra, dobra, spokojnie.</td>
+    </tr>
+    <tr id="t11952">
+        <td><a href="#t11952">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11952">11952s</a></td>
+        <td>Nie, Wrocław, przetrwanie na tarcie nie będzie problemem.</td>
+    </tr>
+    <tr id="t11956">
+        <td><a href="#t11956">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11956">11956s</a></td>
+        <td>A zatem ja zazwyczaj muszę po prostu nakładać na swoje włosy jakieś absurdalne substancje oleiste, żeby one były w stanie się ułożyć.</td>
+    </tr>
+    <tr id="t11966">
+        <td><a href="#t11966">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11966">11966s</a></td>
+        <td>You guys have hair?</td>
+    </tr>
+    <tr id="t11969">
+        <td><a href="#t11969">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11969">11969s</a></td>
+        <td>Szanuję za odniesienie.</td>
+    </tr>
+    <tr id="t11972">
+        <td><a href="#t11972">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11972">11972s</a></td>
+        <td>To było legendarne, to taka siła fandomu wtedy przebiła z tego, you guys have, znaczy z odpowiedzi na you guys have phones.</td>
+    </tr>
+    <tr id="t11980">
+        <td><a href="#t11980">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11980">11980s</a></td>
+        <td>Czy to jest jakiś April Fool's joke, takie było chyba, riposta fanowska.</td>
+    </tr>
+    <tr id="t11986">
+        <td><a href="#t11986">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11986">11986s</a></td>
+        <td>Jest jakiś Julis.</td>
+    </tr>
+    <tr id="t11990">
+        <td><a href="#t11990">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11990">11990s</a></td>
+        <td>To jest Zagłady.</td>
+    </tr>
+    <tr id="t11992">
+        <td><a href="#t11992">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11992">11992s</a></td>
+        <td>Był, przepraszam, już nie żyje.</td>
+    </tr>
+    <tr id="t11993">
+        <td><a href="#t11993">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11993">11993s</a></td>
+        <td>Wiesz, na Angarii zaraz on się pojawił.</td>
+    </tr>
+    <tr id="t11996">
+        <td><a href="#t11996">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=11996">11996s</a></td>
+        <td>No ale tutaj widzicie, jest jakaś część wyzwania dla Rysława, to znaczy postaci umierają w 7 sekund, a nie w jedną.</td>
+    </tr>
+    <tr id="t12006">
+        <td><a href="#t12006">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12006">12006s</a></td>
+        <td>Jak się podoba Final Fantasy XVI?</td>
+    </tr>
+    <tr id="t12009">
+        <td><a href="#t12009">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12009">12009s</a></td>
+        <td>Bardzo mi się podoba, natomiast zdaję sobie sprawę, że to nie jest gra będąca... Tak naprawdę jest Devil May Cry bardziej niż Final Fantasy.</td>
+    </tr>
+    <tr id="t12018">
+        <td><a href="#t12018">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12018">12018s</a></td>
+        <td>O, ciekawe.</td>
+    </tr>
+    <tr id="t12020">
+        <td><a href="#t12020">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12020">12020s</a></td>
+        <td>System walki dużo zmienia, brak możliwości zarządzania ekipą dużo zmienia.</td>
+    </tr>
+    <tr id="t12025">
+        <td><a href="#t12025">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12025">12025s</a></td>
+        <td>Mamy oczywiście podniosłą opowieść.</td>
+    </tr>
+    <tr id="t12028">
+        <td><a href="#t12028">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12028">12028s</a></td>
+        <td>No musi być.</td>
+    </tr>
+    <tr id="t12030">
+        <td><a href="#t12030">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12030">12030s</a></td>
+        <td>Bardzo mi się podoba.</td>
+    </tr>
+    <tr id="t12031">
+        <td><a href="#t12031">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12031">12031s</a></td>
+        <td>Bardzo mi się podoba gra, która jest monumentalna.</td>
+    </tr>
+    <tr id="t12035">
+        <td><a href="#t12035">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12035">12035s</a></td>
+        <td>Ja wiem, że wiele osób narzeka na fakt tego, że to nie jest takie klasyczne Final Fantasy.</td>
+    </tr>
+    <tr id="t12040">
+        <td><a href="#t12040">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12040">12040s</a></td>
+        <td>Ja się bawię fenomenalnie.</td>
+    </tr>
+    <tr id="t12042">
+        <td><a href="#t12042">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12042">12042s</a></td>
+        <td>Po prostu opada mi szczęka za każdym razem, kiedy dochodzi do walk ikonów, kiedy słyszę kolejny podniosły motyw muzyczny, kiedy słyszę kury wchodzące, kiedy akurat zadaję ostatni cios potężnemu przeciwnikowi na pół ekranu.</td>
+    </tr>
+    <tr id="t12058">
+        <td><a href="#t12058">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12058">12058s</a></td>
+        <td>A czy myślisz, że to jest gra dobra dla ludzi, którzy nigdy nie grali w żadnego finala i chcieliby właśnie teraz wejść?</td>
+    </tr>
+    <tr id="t12063">
+        <td><a href="#t12063">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12063">12063s</a></td>
+        <td>No to jest zdecydowanie najbardziej przystępne, takie mam wrażenie.</td>
+    </tr>
+    <tr id="t12066">
+        <td><a href="#t12066">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12066">12066s</a></td>
+        <td>W zasadzie wiesz, każdy final jest osobnym dziełem i... można zaczynać od dowolnego, natomiast jeśli komuś zależy na takim...</td>
+    </tr>
+    <tr id="t12081">
+        <td><a href="#t12081">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12081">12081s</a></td>
+        <td>Mózgo trzepie, oczo trzepie, jeśli chodzi o wizualia i o doznania dźwiękowe.</td>
+    </tr>
+    <tr id="t12088">
+        <td><a href="#t12088">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12088">12088s</a></td>
+        <td>To robi duże wrażenie.</td>
+    </tr>
+    <tr id="t12090">
+        <td><a href="#t12090">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12090">12090s</a></td>
+        <td>Plus, podejrzewam, że w twojej społeczności to nie jest tak konieczne,</td>
+    </tr>
+    <tr id="t12096">
+        <td><a href="#t12096">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12096">12096s</a></td>
+        <td>Dla osób w moim wieku, bardzo ważne jest to, że ta gra jest po polsku.</td>
+    </tr>
+    <tr id="t12101">
+        <td><a href="#t12101">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12101">12101s</a></td>
+        <td>Jest pierwszy Final Fantasy oficjalnie po polsku.</td>
+    </tr>
+    <tr id="t12103">
+        <td><a href="#t12103">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12103">12103s</a></td>
+        <td>Zdziwiłbyś się, że są bardzo dużo ludzi, mówi, że woli gry po polsku.</td>
+    </tr>
+    <tr id="t12109">
+        <td><a href="#t12109">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12109">12109s</a></td>
+        <td>Ja sam wolę gry po polsku, mimo że coś tam z angielskiego łapię.</td>
+    </tr>
+    <tr id="t12112">
+        <td><a href="#t12112">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12112">12112s</a></td>
+        <td>Na pewno polskie napisy są ważne.</td>
+    </tr>
+    <tr id="t12114">
+        <td><a href="#t12114">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12114">12114s</a></td>
+        <td>Z dubbingiem jest tak, że rabini są podzieleni, myślę.</td>
+    </tr>
+    <tr id="t12117">
+        <td><a href="#t12117">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12117">12117s</a></td>
+        <td>Tak, tak.</td>
+    </tr>
+    <tr id="t12117">
+        <td><a href="#t12117">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12117">12117s</a></td>
+        <td>Natomiast tutaj są drobne problemy z polskimi napisami.</td>
+    </tr>
+    <tr id="t12122">
+        <td><a href="#t12122">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12122">12122s</a></td>
+        <td>To nie jest tak, że gra nie jest grywana, po prostu czasami zdarza się taki dysonans.</td>
+    </tr>
+    <tr id="t12126">
+        <td><a href="#t12126">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12126">12126s</a></td>
+        <td>Patrzysz i tak oj coś tutaj nie zadziałało, coś poszło nie tak.</td>
+    </tr>
+    <tr id="t12131">
+        <td><a href="#t12131">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12131">12131s</a></td>
+        <td>Jest taka kwestia, jedna kwestia to jest, że take van, mówi bohater, jeden z bohaterów,</td>
+    </tr>
+    <tr id="t12139">
+        <td><a href="#t12139">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12139">12139s</a></td>
+        <td>I ktoś to przetłumaczył, że weź ciężarówkę, weź kurgoletkę.</td>
+    </tr>
+    <tr id="t12144">
+        <td><a href="#t12144">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12144">12144s</a></td>
+        <td>A chodzi o Vanguard.</td>
+    </tr>
+    <tr id="t12146">
+        <td><a href="#t12146">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12146">12146s</a></td>
+        <td>I to można było łatwo by zauważyć, że tam nawet nie ma rodzajnika.</td>
+    </tr>
+    <tr id="t12150">
+        <td><a href="#t12150">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12150">12150s</a></td>
+        <td>Tam nie ma Take A, tylko Take One.</td>
+    </tr>
+    <tr id="t12153">
+        <td><a href="#t12153">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12153">12153s</a></td>
+        <td>Ale ogólnie rodzajniki w języku angielskim to jest trudna sprawa.</td>
+    </tr>
+    <tr id="t12157">
+        <td><a href="#t12157">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12157">12157s</a></td>
+        <td>Ja zdaję sobie sprawę z tego, że dla wielu osób, nawet osób znających język nieźle, władających na poły biegle angielskim, to jest cały czas problem.</td>
+    </tr>
+    <tr id="t12168">
+        <td><a href="#t12168">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12168">12168s</a></td>
+        <td>I ktoś automatycznie to przy tym łączy.</td>
+    </tr>
+    <tr id="t12171">
+        <td><a href="#t12171">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12171">12171s</a></td>
+        <td>Może po prostu są nieintuicyjne dla Polaka, będą bardziej intuicyjne na przykład dla Niemca, który też ma.</td>
+    </tr>
+    <tr id="t12177">
+        <td><a href="#t12177">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12177">12177s</a></td>
+        <td>W polskim nie ma rodzajników, w niemieckim, francuskim, hiszpańskim, portugalskim, w większości języków są rodzajniki, w językach słowiańskich w większości tychże rodzajników nie ma.</td>
+    </tr>
+    <tr id="t12186">
+        <td><a href="#t12186">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12186">12186s</a></td>
+        <td>Pusa pokusa rozpoczyna, dobra, już przyjmuję.</td>
+    </tr>
+    <tr id="t12188">
+        <td><a href="#t12188">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12188">12188s</a></td>
+        <td>Tak jest, tak jest.</td>
+    </tr>
+    <tr id="t12189">
+        <td><a href="#t12189">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12189">12189s</a></td>
+        <td>I potem zwiększamy ten poziom i zobaczymy sobie chwilkę te rzeczy, które są w endgame.</td>
+    </tr>
+    <tr id="t12195">
+        <td><a href="#t12195">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12195">12195s</a></td>
+        <td>Dobrze, proszę bardzo, ja dostałem, ja dostałem 54 poziom, to ja zasłużyłem sobie na coś takiego, ale nie sądziłem, że za rzastrze.</td>
+    </tr>
+    <tr id="t12206">
+        <td><a href="#t12206">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12206">12206s</a></td>
+        <td>Dobrze, i gdzie mówiłeś, że jest ten posąg?</td>
+    </tr>
+    <tr id="t12209">
+        <td><a href="#t12209">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12209">12209s</a></td>
+        <td>Nie, w Kiewosadzie już był, to ty musisz powiedzieć, ja nie pamiętam, gdzie on jest teraz.</td>
+    </tr>
+    <tr id="t12212">
+        <td><a href="#t12212">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12212">12212s</a></td>
+        <td>To powinieneś widzieć takie miejsca, po prostu oznaczone jakoś... Nie pamiętam, gdzie ono jest, ale jest Matix na czacie, widziałem, że jest Matix na czacie, zaraz nam napisze, gdzie jest.</td>
+    </tr>
+    <tr id="t12222">
+        <td><a href="#t12222">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12222">12222s</a></td>
+        <td>Wydaje mi się, że to jest w Kiewosadzie.</td>
+    </tr>
+    <tr id="t12224">
+        <td><a href="#t12224">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12224">12224s</a></td>
+        <td>Nie, nie, w Kiewosadzie są te pierwsze podziemia wieńczące, drugie są gdzieś indziej, chyba...</td>
+    </tr>
+    <tr id="t12230">
+        <td><a href="#t12230">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12230">12230s</a></td>
+        <td>A nie, jednak pisze, że w kiełbosadzie.</td>
+    </tr>
+    <tr id="t12231">
+        <td><a href="#t12231">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12231">12231s</a></td>
+        <td>Matyks mi pisze, że w kiełbosadzie.</td>
+    </tr>
+    <tr id="t12234">
+        <td><a href="#t12234">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12234">12234s</a></td>
+        <td>Matyksie drugie są w kiełbosadzie?</td>
+    </tr>
+    <tr id="t12236">
+        <td><a href="#t12236">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12236">12236s</a></td>
+        <td>To ja się tam tepnę tak czy siak, żeby zwiększyć ten poziom na trzeci, bo wydaje mi się, że myśmy mieli spełnione warunki, tylko nie mogliśmy tego zwiększyć z uwagi na Filipa.</td>
+    </tr>
+    <tr id="t12244">
+        <td><a href="#t12244">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12244">12244s</a></td>
+        <td>Żółta kropka na Matyksie.</td>
+    </tr>
+    <tr id="t12245">
+        <td><a href="#t12245">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12245">12245s</a></td>
+        <td>Aha, no tak, bo najpierw musimy wejść na trzeci poziom, a tam kolejne podziemia.</td>
+    </tr>
+    <tr id="t12249">
+        <td><a href="#t12249">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12249">12249s</a></td>
+        <td>Tak, rzeczywiście, oczywiście, tak.</td>
+    </tr>
+    <tr id="t12251">
+        <td><a href="#t12251">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12251">12251s</a></td>
+        <td>Dobra, idziemy do kiełbosady.</td>
+    </tr>
+    <tr id="t12255">
+        <td><a href="#t12255">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12255">12255s</a></td>
+        <td>Dobrze.</td>
+    </tr>
+    <tr id="t12256">
+        <td><a href="#t12256">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12256">12256s</a></td>
+        <td>Wszyscy członkowie drużyny muszą być żywi.</td>
+    </tr>
+    <tr id="t12259">
+        <td><a href="#t12259">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12259">12259s</a></td>
+        <td>Tak, tak, już, już, już.</td>
+    </tr>
+    <tr id="t12260">
+        <td><a href="#t12260">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12260">12260s</a></td>
+        <td>Trudny warunek do spełnienia.</td>
+    </tr>
+    <tr id="t12261">
+        <td><a href="#t12261">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12261">12261s</a></td>
+        <td>Która muzyka lepsza w Diablo 4 czy w Dark Souls 3?</td>
+    </tr>
+    <tr id="t12264">
+        <td><a href="#t12264">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12264">12264s</a></td>
+        <td>Matthew pyta.</td>
+    </tr>
+    <tr id="t12265">
+        <td><a href="#t12265">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12265">12265s</a></td>
+        <td>Trudne pytanie.</td>
+    </tr>
+    <tr id="t12265">
+        <td><a href="#t12265">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12265">12265s</a></td>
+        <td>W Diablo 1.</td>
+    </tr>
+    <tr id="t12267">
+        <td><a href="#t12267">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12267">12267s</a></td>
+        <td>Aha.</td>
+    </tr>
+    <tr id="t12268">
+        <td><a href="#t12268">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12268">12268s</a></td>
+        <td>Ucieknę.</td>
+    </tr>
+    <tr id="t12270">
+        <td><a href="#t12270">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12270">12270s</a></td>
+        <td>Ja nie pamiętam teraz muzyki z Diablo 3 za bardzo.</td>
+    </tr>
+    <tr id="t12273">
+        <td><a href="#t12273">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12273">12273s</a></td>
+        <td>Nie z Diablo 3, tylko z Dark Souls 3.</td>
+    </tr>
+    <tr id="t12276">
+        <td><a href="#t12276">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12276">12276s</a></td>
+        <td>Więc... Diablo 4 jest dużo fantastycznych motywów inspirowanych jedynką i dwójką.</td>
+    </tr>
+    <tr id="t12282">
+        <td><a href="#t12282">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12282">12282s</a></td>
+        <td>I za to jestem wdzięczny.</td>
+    </tr>
+    <tr id="t12283">
+        <td><a href="#t12283">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12283">12283s</a></td>
+        <td>Jest motyw...</td>
+    </tr>
+    <tr id="t12285">
+        <td><a href="#t12285">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12285">12285s</a></td>
+        <td>Tristram, bo jest Tristram, tak?</td>
+    </tr>
+    <tr id="t12290">
+        <td><a href="#t12290">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12290">12290s</a></td>
+        <td>Dobra, jesteśmy na trzecim i teraz możesz podziemia wieńczące znaleźć.</td>
+    </tr>
+    <tr id="t12294">
+        <td><a href="#t12294">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12294">12294s</a></td>
+        <td>Jak popatrzysz sobie na mapę, to znajdziesz podziemia wieńczące gdzieś.</td>
+    </tr>
+    <tr id="t12298">
+        <td><a href="#t12298">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12298">12298s</a></td>
+        <td>Musisz ją oddalić.</td>
+    </tr>
+    <tr id="t12301">
+        <td><a href="#t12301">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12301">12301s</a></td>
+        <td>Jak chcesz, możemy je pyknąć, tylko od razu ci powiem, że poziom czwarty będzie dla ciebie za wysoki na razie.</td>
+    </tr>
+    <tr id="t12306">
+        <td><a href="#t12306">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12306">12306s</a></td>
+        <td>Ale możemy mieć je z głowy, tak?</td>
+    </tr>
+    <tr id="t12308">
+        <td><a href="#t12308">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12308">12308s</a></td>
+        <td>Że będziesz mógł sobie ewentualnie kiedyś wejść.</td>
+    </tr>
+    <tr id="t12310">
+        <td><a href="#t12310">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12310">12310s</a></td>
+        <td>Nie mam żadnych podziemi wieńczących.</td>
+    </tr>
+    <tr id="t12312">
+        <td><a href="#t12312">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12312">12312s</a></td>
+        <td>Niestety muszę cię zmartwić.</td>
+    </tr>
+    <tr id="t12314">
+        <td><a href="#t12314">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12314">12314s</a></td>
+        <td>Albo jestem ślepy.</td>
+    </tr>
+    <tr id="t12315">
+        <td><a href="#t12315">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12315">12315s</a></td>
+        <td>Lewo od kiełbosadu są, pisze mi Matix.</td>
+    </tr>
+    <tr id="t12318">
+        <td><a href="#t12318">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12318">12318s</a></td>
+        <td>Jest, faktycznie.</td>
+    </tr>
+    <tr id="t12319">
+        <td><a href="#t12319">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12319">12319s</a></td>
+        <td>Upadła świątynia.</td>
+    </tr>
+    <tr id="t12320">
+        <td><a href="#t12320">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12320">12320s</a></td>
+        <td>No to prowadź.</td>
+    </tr>
+    <tr id="t12321">
+        <td><a href="#t12321">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12321">12321s</a></td>
+        <td>Boże, poziom 70 plus jest napisane.</td>
+    </tr>
+    <tr id="t12323">
+        <td><a href="#t12323">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12323">12323s</a></td>
+        <td>No to ja je pyknę, a ty będziesz się trzymał.</td>
+    </tr>
+    <tr id="t12325">
+        <td><a href="#t12325">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12325">12325s</a></td>
+        <td>Możesz nawet stać w drzwiach, tak naprawdę.</td>
+    </tr>
+    <tr id="t12328">
+        <td><a href="#t12328">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12328">12328s</a></td>
+        <td>Bo inaczej będziesz ginąć, wiesz?</td>
+    </tr>
+    <tr id="t12331">
+        <td><a href="#t12331">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12331">12331s</a></td>
+        <td>Ja pamiętam, jak wlazłem kiedyś na...</td>
+    </tr>
+    <tr id="t12335">
+        <td><a href="#t12335">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12335">12335s</a></td>
+        <td>Bo ja grałem w tych Deeper Riftach na którym poziomie?</td>
+    </tr>
+    <tr id="t12341">
+        <td><a href="#t12341">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12341">12341s</a></td>
+        <td>45 chyba.</td>
+    </tr>
+    <tr id="t12342">
+        <td><a href="#t12342">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12342">12342s</a></td>
+        <td>A wlazłem kiedyś na jakieś 60 czy coś takiego.</td>
+    </tr>
+    <tr id="t12346">
+        <td><a href="#t12346">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12346">12346s</a></td>
+        <td>Jakiś absurdalnie wysoki i ja tylko walczyłem na przetrwanie moją czarodziejką.</td>
+    </tr>
+    <tr id="t12352">
+        <td><a href="#t12352">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12352">12352s</a></td>
+        <td>Ja rozumiem.</td>
+    </tr>
+    <tr id="t12352">
+        <td><a href="#t12352">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12352">12352s</a></td>
+        <td>Miałem build z teleportem i byłem w stanie.</td>
+    </tr>
+    <tr id="t12356">
+        <td><a href="#t12356">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12356">12356s</a></td>
+        <td>Byłem w stanie to robić, ale było bardzo ciężko.</td>
+    </tr>
+    <tr id="t12359">
+        <td><a href="#t12359">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12359">12359s</a></td>
+        <td>Mój rekord w trójce chyba to był 130 poziom.</td>
+    </tr>
+    <tr id="t12363">
+        <td><a href="#t12363">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12363">12363s</a></td>
+        <td>To już było tak, robiłem konfigurację postaci specjalnie pod to, żeby wykonywać właśnie coraz to głębsze szczeliny.</td>
+    </tr>
+    <tr id="t12372">
+        <td><a href="#t12372">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12372">12372s</a></td>
+        <td>I powiem Ci, że już mnie to męczyło.</td>
+    </tr>
+    <tr id="t12374">
+        <td><a href="#t12374">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12374">12374s</a></td>
+        <td>Nie czułem satysfakcji, czułem po prostu, że pracuję.</td>
+    </tr>
+    <tr id="t12377">
+        <td><a href="#t12377">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12377">12377s</a></td>
+        <td>Jeszcze najbardziej było męczące tam, myślę, że kwestia ulepszenia tych klejnotów, bo tam był element losowości na końcu.</td>
+    </tr>
+    <tr id="t12384">
+        <td><a href="#t12384">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12384">12384s</a></td>
+        <td>I mnie to strasznie denerwowało.</td>
+    </tr>
+    <tr id="t12385">
+        <td><a href="#t12385">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12385">12385s</a></td>
+        <td>On nie był taki bardzo duży.</td>
+    </tr>
+    <tr id="t12387">
+        <td><a href="#t12387">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12387">12387s</a></td>
+        <td>Był oczywiście, że mogłeś się skusić i mogło Ci nie wejść ulepszenie.</td>
+    </tr>
+    <tr id="t12393">
+        <td><a href="#t12393">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12393">12393s</a></td>
+        <td>To prawda.</td>
+    </tr>
+    <tr id="t12395">
+        <td><a href="#t12395">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12395">12395s</a></td>
+        <td>Albo...</td>
+    </tr>
+    <tr id="t12408">
+        <td><a href="#t12408">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12408">12408s</a></td>
+        <td>Tak szczerze to ja chciałem odpocząć od tego Guana.</td>
+    </tr>
+    <tr id="t12412">
+        <td><a href="#t12412">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12412">12412s</a></td>
+        <td>I jeszcze 27 lipca mamy następną turę.</td>
+    </tr>
+    <tr id="t12415">
+        <td><a href="#t12415">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12415">12415s</a></td>
+        <td>Jak wyjdą ostatnie odcinki, będziemy mieli to z głowy wreszcie.</td>
+    </tr>
+    <tr id="t12419">
+        <td><a href="#t12419">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12419">12419s</a></td>
+        <td>Następna rzecz, na którą się będziemy pastwić z fantasy, no to będzie Ring of Power oczywiście.</td>
+    </tr>
+    <tr id="t12425">
+        <td><a href="#t12425">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12425">12425s</a></td>
+        <td>Kolejne?</td>
+    </tr>
+    <tr id="t12427">
+        <td><a href="#t12427">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12427">12427s</a></td>
+        <td>Oczywiście, drugi sezon jest zapowiedziany już.</td>
+    </tr>
+    <tr id="t12429">
+        <td><a href="#t12429">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12429">12429s</a></td>
+        <td>To w tym roku już?</td>
+    </tr>
+    <tr id="t12430">
+        <td><a href="#t12430">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12430">12430s</a></td>
+        <td>Nie, chyba nie.</td>
+    </tr>
+    <tr id="t12431">
+        <td><a href="#t12431">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12431">12431s</a></td>
+        <td>Nie robią nam tego.</td>
+    </tr>
+    <tr id="t12432">
+        <td><a href="#t12432">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12432">12432s</a></td>
+        <td>Nie sądzę, żeby to było w tym roku.</td>
+    </tr>
+    <tr id="t12433">
+        <td><a href="#t12433">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12433">12433s</a></td>
+        <td>Może, ale wiesz co, może być w grudniu na przykład, kto wie.</td>
+    </tr>
+    <tr id="t12436">
+        <td><a href="#t12436">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12436">12436s</a></td>
+        <td>Bo ja myślę rokiem akademickim cały czas, więc do tego.</td>
+    </tr>
+    <tr id="t12440">
+        <td><a href="#t12440">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12440">12440s</a></td>
+        <td>Nie, nie, no litości.</td>
+    </tr>
+    <tr id="t12443">
+        <td><a href="#t12443">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12443">12443s</a></td>
+        <td>Litości.</td>
+    </tr>
+    <tr id="t12445">
+        <td><a href="#t12445">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12445">12445s</a></td>
+        <td>Boże, bo to było tak złe.</td>
+    </tr>
+    <tr id="t12446">
+        <td><a href="#t12446">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12446">12446s</a></td>
+        <td>No, to było, to było złe.</td>
+    </tr>
+    <tr id="t12447">
+        <td><a href="#t12447">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12447">12447s</a></td>
+        <td>Tylko, że wiesz, to najgorsze jest w tym wszystkim to, że Wiedźmin jest gorszy pod względem wizualnym miejscami.</td>
+    </tr>
+    <tr id="t12454">
+        <td><a href="#t12454">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12454">12454s</a></td>
+        <td>To jest absolutnie przerażające.</td>
+    </tr>
+    <tr id="t12456">
+        <td><a href="#t12456">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12456">12456s</a></td>
+        <td>Wiesz, jednak tam Amazon wrzucił trochę pieniędzy i... Tak.</td>
+    </tr>
+    <tr id="t12463">
+        <td><a href="#t12463">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12463">12463s</a></td>
+        <td>Ten Ceral jest zły głównie z powodu beznadziejnego scenariusza i kreacji postaci.</td>
+    </tr>
+    <tr id="t12467">
+        <td><a href="#t12467">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12467">12467s</a></td>
+        <td>To, co oni zrobili z Galadrielą, za coś takiego powinny być łagry po prostu.</td>
+    </tr>
+    <tr id="t12475">
+        <td><a href="#t12475">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12475">12475s</a></td>
+        <td>Albo klasyk mówił, że powinno się zsyłać na ciężkie Norwidy.</td>
+    </tr>
+    <tr id="t12482">
+        <td><a href="#t12482">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12482">12482s</a></td>
+        <td>Ja bym, wiesz, tak jak wysyłał, jak u Balzaka w powieściach się na galery się wysyłało, więc tutaj też na galery bym wysłał.</td>
+    </tr>
+    <tr id="t12492">
+        <td><a href="#t12492">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12492">12492s</a></td>
+        <td>W Nędznikach i Go bardzo lubiłem ten motyw.</td>
+    </tr>
+    <tr id="t12495">
+        <td><a href="#t12495">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12495">12495s</a></td>
+        <td>Przepiękna powieść swoją drogą.</td>
+    </tr>
+    <tr id="t12498">
+        <td><a href="#t12498">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12498">12498s</a></td>
+        <td>Tak samo jak Katedra Najświętszej Ani Panny, czyli to, co wszyscy znają jako... Ojej.</td>
+    </tr>
+    <tr id="t12505">
+        <td><a href="#t12505">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12505">12505s</a></td>
+        <td>No nie przypomnę sobie teraz.</td>
+    </tr>
+    <tr id="t12506">
+        <td><a href="#t12506">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12506">12506s</a></td>
+        <td>Dzwonik z Notre Dame.</td>
+    </tr>
+    <tr id="t12508">
+        <td><a href="#t12508">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12508">12508s</a></td>
+        <td>Tak.</td>
+    </tr>
+    <tr id="t12511">
+        <td><a href="#t12511">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12511">12511s</a></td>
+        <td>Nie, Krzysztof dalej gra niedomagiem.</td>
+    </tr>
+    <tr id="t12512">
+        <td><a href="#t12512">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12512">12512s</a></td>
+        <td>Oczywiście Krzysztof zawsze gra niedomagiem.</td>
+    </tr>
+    <tr id="t12514">
+        <td><a href="#t12514">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12514">12514s</a></td>
+        <td>W środę polecałeś Bunkier Nauki, pisze Balrog72 o sztucznej inteligencji.</td>
+    </tr>
+    <tr id="t12517">
+        <td><a href="#t12517">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12517">12517s</a></td>
+        <td>Obejrzałem, zostawiłem tam dość długi komentarz.</td>
+    </tr>
+    <tr id="t12518">
+        <td><a href="#t12518">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12518">12518s</a></td>
+        <td>Super, cieszę się, że się podoba.</td>
+    </tr>
+    <tr id="t12521">
+        <td><a href="#t12521">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12521">12521s</a></td>
+        <td>To był Artur Kurasieński, tak?</td>
+    </tr>
+    <tr id="t12523">
+        <td><a href="#t12523">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12523">12523s</a></td>
+        <td>Tak, był Artur Kurasieński.</td>
+    </tr>
+    <tr id="t12527">
+        <td><a href="#t12527">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12527">12527s</a></td>
+        <td>To jest mózg, nie?</td>
+    </tr>
+    <tr id="t12528">
+        <td><a href="#t12528">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12528">12528s</a></td>
+        <td>Ja go pamiętam kiedyś z Pixel Heaven.</td>
+    </tr>
+    <tr id="t12532">
+        <td><a href="#t12532">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12532">12532s</a></td>
+        <td>I kurczę, jak on, że tak powiem, w nawiązaniu do tego, o czym mówiliśmy wcześniej, on bardzo mocno się za siebie wziął.</td>
+    </tr>
+    <tr id="t12541">
+        <td><a href="#t12541">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12541">12541s</a></td>
+        <td>Nie poznałem go po prostu.</td>
+    </tr>
+    <tr id="t12544">
+        <td><a href="#t12544">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12544">12544s</a></td>
+        <td>A tak, Artur miał bardzo, zresztą raportował w tej sprawie, on zainwestował tak jak ja w biurko stojące, ale oprócz tego dał sobie bieżnię pod biurkiem stojącym.</td>
+    </tr>
+    <tr id="t12554">
+        <td><a href="#t12554">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12554">12554s</a></td>
+        <td>Ja tak samo mam.</td>
+    </tr>
+    <tr id="t12556">
+        <td><a href="#t12556">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12556">12556s</a></td>
+        <td>No a, widzisz.</td>
+    </tr>
+    <tr id="t12556">
+        <td><a href="#t12556">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12556">12556s</a></td>
+        <td>Ja nie jestem w stanie, tak swoją drogą, nie stanąłem dzisiaj ani razu i to jest problem.</td>
+    </tr>
+    <tr id="t12561">
+        <td><a href="#t12561">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12561">12561s</a></td>
+        <td>Więc ja jestem w stanie streamować na stojąco bez najmniejszego problemu.</td>
+    </tr>
+    <tr id="t12565">
+        <td><a href="#t12565">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12565">12565s</a></td>
+        <td>Cztery godziny zwykle streamuję.</td>
+    </tr>
+    <tr id="t12568">
+        <td><a href="#t12568">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12568">12568s</a></td>
+        <td>Czemu się nie podnosi?</td>
+    </tr>
+    <tr id="t12568">
+        <td><a href="#t12568">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12568">12568s</a></td>
+        <td>Podnosi się.</td>
+    </tr>
+    <tr id="t12569">
+        <td><a href="#t12569">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12569">12569s</a></td>
+        <td>Natomiast jeżeli chodzi o bieżnię, no jeszcze taki dobry nie jestem, żeby równocześnie czytać czaty, grać i biegać na bieżni.</td>
+    </tr>
+    <tr id="t12579">
+        <td><a href="#t12579">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12579">12579s</a></td>
+        <td>Powiem tak, ja spokojnie piszę na klawiaturze do prędkości 3 km.</td>
+    </tr>
+    <tr id="t12583">
+        <td><a href="#t12583">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12583">12583s</a></td>
+        <td>Jezus Maria, ale to trzeba mieć też bardzo dobrą równowagę.</td>
+    </tr>
+    <tr id="t12587">
+        <td><a href="#t12587">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12587">12587s</a></td>
+        <td>Wydaje mi się, że to można sobie wyrobić.</td>
+    </tr>
+    <tr id="t12590">
+        <td><a href="#t12590">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12590">12590s</a></td>
+        <td>Nie sądzę, żebym był osobą z jakąś specjalną równogą.</td>
+    </tr>
+    <tr id="t12592">
+        <td><a href="#t12592">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12592">12592s</a></td>
+        <td>Po prostu to jest kwestia przyzwyczajenia.</td>
+    </tr>
+    <tr id="t12594">
+        <td><a href="#t12594">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12594">12594s</a></td>
+        <td>Ale dzięki temu też dużo, wiesz, ja sobie rzucam takie wyzwania, żeby pokazać, że stary człowiek i może.</td>
+    </tr>
+    <tr id="t12599">
+        <td><a href="#t12599">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12599">12599s</a></td>
+        <td>W ubiegłym tygodniu przeszedłem 104 tysiące kroków w ciągu dnia.</td>
+    </tr>
+    <tr id="t12604">
+        <td><a href="#t12604">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12604">12604s</a></td>
+        <td>Ja niesamowite, absolutnie.</td>
+    </tr>
+    <tr id="t12605">
+        <td><a href="#t12605">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12605">12605s</a></td>
+        <td>Podziwiam, nigdy w życiu do czegoś takiego nie dotarłem.</td>
+    </tr>
+    <tr id="t12608">
+        <td><a href="#t12608">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12608">12608s</a></td>
+        <td>Oj tam, oj tam, wiesz, to jest też...</td>
+    </tr>
+    <tr id="t12610">
+        <td><a href="#t12610">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12610">12610s</a></td>
+        <td>Saga VR pyta, na co czekamy, jeżeli chodzi o Warhammera w 40 tysięcy fabularnie.</td>
+    </tr>
+    <tr id="t12615">
+        <td><a href="#t12615">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12615">12615s</a></td>
+        <td>Trochę już mówiliśmy o Eisenhornie i o hendrezji Horusa, ja jeszcze rzucam Rysła w Upadek Kadii.</td>
+    </tr>
+    <tr id="t12620">
+        <td><a href="#t12620">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12620">12620s</a></td>
+        <td>Może być.</td>
+    </tr>
+    <tr id="t12621">
+        <td><a href="#t12621">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12621">12621s</a></td>
+        <td>No, to byłoby piękne.</td>
+    </tr>
+    <tr id="t12624">
+        <td><a href="#t12624">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12624">12624s</a></td>
+        <td>Albo w ogóle, ale tego nie zrobią nigdy.</td>
+    </tr>
+    <tr id="t12626">
+        <td><a href="#t12626">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12626">12626s</a></td>
+        <td>Natomiast niesamowicie odważną decyzją byłaby historia Necronów.</td>
+    </tr>
+    <tr id="t12630">
+        <td><a href="#t12630">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12630">12630s</a></td>
+        <td>Ale tego nie zrobią, ponieważ oczywiście, że będzie głównym bohaterem Imperium.</td>
+    </tr>
+    <tr id="t12633">
+        <td><a href="#t12633">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12633">12633s</a></td>
+        <td>Ale gdyby zrobili na przykład prequel o Necronach, to jest tak świetna historia,</td>
+    </tr>
+    <tr id="t12639">
+        <td><a href="#t12639">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12639">12639s</a></td>
+        <td>Bardzo ciekawa historia.</td>
+    </tr>
+    <tr id="t12643">
+        <td><a href="#t12643">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12643">12643s</a></td>
+        <td>Wiesz, ja tłumaczyłem Dawn of War pierwszy i tłumaczyłem też kodeksy do czterdziestki.</td>
+    </tr>
+    <tr id="t12651">
+        <td><a href="#t12651">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12651">12651s</a></td>
+        <td>Ja kocham Warhammera.</td>
+    </tr>
+    <tr id="t12652">
+        <td><a href="#t12652">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12652">12652s</a></td>
+        <td>Tak naprawdę kocham Warhammera od momentu, kiedy zobaczyłem wizerunek Orka w piśmie Razem.</td>
+    </tr>
+    <tr id="t12660">
+        <td><a href="#t12660">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12660">12660s</a></td>
+        <td>Było takie pismo, to był 1987 rok i była rubryka o grach.</td>
+    </tr>
+    <tr id="t12666">
+        <td><a href="#t12666">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12666">12666s</a></td>
+        <td>RPG'i planszowych pana Jacka Ciesielskiego i on wtedy po raz pierwszy napisał o Warhammerze.</td>
+    </tr>
+    <tr id="t12672">
+        <td><a href="#t12672">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12672">12672s</a></td>
+        <td>I był tam wizerunek orka.</td>
+    </tr>
+    <tr id="t12674">
+        <td><a href="#t12674">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12674">12674s</a></td>
+        <td>I ja sobie myślałem, o mój Boże.</td>
+    </tr>
+    <tr id="t12677">
+        <td><a href="#t12677">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12677">12677s</a></td>
+        <td>Jak ja bym chciał, żeby coś takiego w Polsce było.</td>
+    </tr>
+    <tr id="t12680">
+        <td><a href="#t12680">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12680">12680s</a></td>
+        <td>No i w sumie dość szybko się to marzenie spełniło, bo już w 92, najpierw w 92 roku powstało klubowe tłumaczenie Warhammera fantasy roleplay pierwszej edycji.</td>
+    </tr>
+    <tr id="t12695">
+        <td><a href="#t12695">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12695">12695s</a></td>
+        <td>A później w 94. czy 93. wydawnictwo MAG przygotowało to już wydanie.</td>
+    </tr>
+    <tr id="t12703">
+        <td><a href="#t12703">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12703">12703s</a></td>
+        <td>Pytanie, co?</td>
+    </tr>
+    <tr id="t12705">
+        <td><a href="#t12705">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12705">12705s</a></td>
+        <td>Nekroni są niekanoniczni?</td>
+    </tr>
+    <tr id="t12707">
+        <td><a href="#t12707">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12707">12707s</a></td>
+        <td>Co ty mówisz o takich wymiarach?</td>
+    </tr>
+    <tr id="t12709">
+        <td><a href="#t12709">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12709">12709s</a></td>
+        <td>Naprawdę?</td>
+    </tr>
+    <tr id="t12710">
+        <td><a href="#t12710">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12710">12710s</a></td>
+        <td>Kanoniczni są, nekroni są kanoniczni.</td>
+    </tr>
+    <tr id="t12713">
+        <td><a href="#t12713">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12713">12713s</a></td>
+        <td>Oczywiście, że jak najbardziej jest kanon, tak samo...</td>
+    </tr>
+    <tr id="t12717">
+        <td><a href="#t12717">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12717">12717s</a></td>
+        <td>Jak DAO są kanoniczni.</td>
+    </tr>
+    <tr id="t12718">
+        <td><a href="#t12718">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12718">12718s</a></td>
+        <td>Tak, że jakaś, nie wiem, jest edycja czy coś, ale Games Workshop się bawi z graczami, taka jest prawda.</td>
+    </tr>
+    <tr id="t12723">
+        <td><a href="#t12723">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12723">12723s</a></td>
+        <td>Od razu ci mówię, że tu będziesz ginął, możesz, masz potencjał ginięcia od jednego strzału.</td>
+    </tr>
+    <tr id="t12728">
+        <td><a href="#t12728">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12728">12728s</a></td>
+        <td>Okej.</td>
+    </tr>
+    <tr id="t12728">
+        <td><a href="#t12728">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12728">12728s</a></td>
+        <td>To ja będę po prostu robił to, co każdy mądry mag, to znaczy trzymał się tyłów.</td>
+    </tr>
+    <tr id="t12735">
+        <td><a href="#t12735">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12735">12735s</a></td>
+        <td>Tak, trzymaj się tyłów i uważaj.</td>
+    </tr>
+    <tr id="t12737">
+        <td><a href="#t12737">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12737">12737s</a></td>
+        <td>Do ciebie Rysław, do jakich światów fantasy najchętniej wracasz?</td>
+    </tr>
+    <tr id="t12741">
+        <td><a href="#t12741">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12741">12741s</a></td>
+        <td>Znaczy, kocham Śródziemie, kocham rzeczy z Andrzeja Sawtkowskiego, tylko że pamiętajmy, że Andrzej Sawtkowski pisząc Wiedźmina, on nawet mapy świata nie zrobił, więc nabijał się z tego podejścia.</td>
+    </tr>
+    <tr id="t12755">
+        <td><a href="#t12755">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12755">12755s</a></td>
+        <td>Jemu zależało na bohaterach.</td>
+    </tr>
+    <tr id="t12758">
+        <td><a href="#t12758">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12758">12758s</a></td>
+        <td>a nie na świecie.</td>
+    </tr>
+    <tr id="t12760">
+        <td><a href="#t12760">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12760">12760s</a></td>
+        <td>Świat przyszedł później i stał się bardzo ważnym elementem.</td>
+    </tr>
+    <tr id="t12764">
+        <td><a href="#t12764">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12764">12764s</a></td>
+        <td>Wydaje mi się, że do pewnego momentu pan Andrzej Sapkowski lekceważył świat mocno w swojej opowieści.</td>
+    </tr>
+    <tr id="t12769">
+        <td><a href="#t12769">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12769">12769s</a></td>
+        <td>On to wprost nawet mówił w wywiadzie dla Eurogamera, pamiętam, była awantura o Wiedźmina III,</td>
+    </tr>
+    <tr id="t12776">
+        <td><a href="#t12776">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12776">12776s</a></td>
+        <td>I oto jego słynną uwagę dotyczącą graczy.</td>
+    </tr>
+    <tr id="t12779">
+        <td><a href="#t12779">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12779">12779s</a></td>
+        <td>Wszyscy to pamiętamy.</td>
+    </tr>
+    <tr id="t12780">
+        <td><a href="#t12780">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12780">12780s</a></td>
+        <td>No to właśnie Sapkowski wtedy tłumaczył swoje stanowisko, że nie, że on nigdy nie chciał świat otworzyć, on po prostu pisał swoją historię.</td>
+    </tr>
+    <tr id="t12787">
+        <td><a href="#t12787">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12787">12787s</a></td>
+        <td>No i też to był powód, dla którego napisał Sezon Busch, że chciał udowodnić, że on wciąż jest ojcem Andrzeja Sapkowskiego.</td>
+    </tr>
+    <tr id="t12793">
+        <td><a href="#t12793">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12793">12793s</a></td>
+        <td>Ja bardzo Sezon Busch lubię.</td>
+    </tr>
+    <tr id="t12795">
+        <td><a href="#t12795">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12795">12795s</a></td>
+        <td>Ja wiem, że dużo osób uważa, że to jest średnia rzecz.</td>
+    </tr>
+    <tr id="t12797">
+        <td><a href="#t12797">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12797">12797s</a></td>
+        <td>Ja... Powiem tak, gdyby...</td>
+    </tr>
+    <tr id="t12804">
+        <td><a href="#t12804">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12804">12804s</a></td>
+        <td>Inni pisarze tak tworzą... Przepraszam, chciałem cię bić, bo myślałem, że jesteś potworem.</td>
+    </tr>
+    <tr id="t12808">
+        <td><a href="#t12808">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12808">12808s</a></td>
+        <td>Aaa, widzisz, tak działa.</td>
+    </tr>
+    <tr id="t12811">
+        <td><a href="#t12811">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12811">12811s</a></td>
+        <td>Tak działa przepiękny wygląd kusej pokusy, jak również jej potęga.</td>
+    </tr>
+    <tr id="t12820">
+        <td><a href="#t12820">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12820">12820s</a></td>
+        <td>Jest problem po szóstej edycji wyjaśnia setki wymiarów.</td>
+    </tr>
+    <tr id="t12822">
+        <td><a href="#t12822">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12822">12822s</a></td>
+        <td>Starzy nekroni, nowi nekroni mają sprzeczne lore, a okej.</td>
+    </tr>
+    <tr id="t12825">
+        <td><a href="#t12825">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12825">12825s</a></td>
+        <td>Znaczy to nie są sprzeczne lore, ale to jest seriowy zabieg.</td>
+    </tr>
+    <tr id="t12828">
+        <td><a href="#t12828">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12828">12828s</a></td>
+        <td>Jak rozmawiałem z Javisem Johnsonem, to on prosto powiedział, że oni to robią specjalnie po to, żeby właśnie podsycać dyskusje fanowskie, żeby było radośniej, a potem udają, że tak naprawdę nad wszystkim mają kontrolę.</td>
+    </tr>
+    <tr id="t12841">
+        <td><a href="#t12841">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12841">12841s</a></td>
+        <td>A prawda jest taka, że nie mają.</td>
+    </tr>
+    <tr id="t12843">
+        <td><a href="#t12843">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12843">12843s</a></td>
+        <td>Nie mają, więc sądzę, że oni ściemniają po prostu.</td>
+    </tr>
+    <tr id="t12844">
+        <td><a href="#t12844">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12844">12844s</a></td>
+        <td>Oczywiście.</td>
+    </tr>
+    <tr id="t12845">
+        <td><a href="#t12845">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12845">12845s</a></td>
+        <td>Ktoś nie doczytał gdzieś, ktoś inny napisał i teraz muszą to jakoś wyrównywać.</td>
+    </tr>
+    <tr id="t12850">
+        <td><a href="#t12850">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12850">12850s</a></td>
+        <td>Powtarzam tę historię, bo na czatach ludzie słyszeli, ale Jarvis Johnson oznajmił, że cała herezja Horusa wzięła się z tego, że mieli dosłownie jedno zdanie napisane gdzieś tam w lore, właśnie zagrzebane głęboko, bo któryś z pisarzy był zajawiony legionami rzymskimi i pomyślał sobie, o fajnie byłoby, gdyby się pojawiło coś podobnego jak w przypadku, no nie wiem, Triumviratu chociażby, prawda?</td>
+    </tr>
+    <tr id="t12871">
+        <td><a href="#t12871">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12871">12871s</a></td>
+        <td>i zdrady późniejszej.</td>
+    </tr>
+    <tr id="t12873">
+        <td><a href="#t12873">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12873">12873s</a></td>
+        <td>No i potem wyszła sytuacja zupełnie taka czysto gameplayowa, komercyjna, to znaczy mieli wydać dwa zestawy czołgu, tylko że w tych samych kolorach, żeby oszczędzić na opakowaniu plastikowym.</td>
+    </tr>
+    <tr id="t12885">
+        <td><a href="#t12885">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12885">12885s</a></td>
+        <td>No i wtedy pomyśleli, o, a to może zrobiliśmy taką zdradę w szeregach Imperium.</td>
+    </tr>
+    <tr id="t12890">
+        <td><a href="#t12890">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12890">12890s</a></td>
+        <td>I wtedy odniesie się do tego jednego malutkiego zdania, które tam brzmiało, że o, wtedy Centurion czy ktoś tam, Imperator, wszystko jedno, wyrzucił poza zasłonę swojego zaufanego doradcę.</td>
+    </tr>
+    <tr id="t12901">
+        <td><a href="#t12901">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12901">12901s</a></td>
+        <td>No i potem tylko pozmieniano imiona i nazwiska i poszło.</td>
+    </tr>
+    <tr id="t12906">
+        <td><a href="#t12906">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12906">12906s</a></td>
+        <td>No i tak się tworzy.</td>
+    </tr>
+    <tr id="t12908">
+        <td><a href="#t12908">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12908">12908s</a></td>
+        <td>Więc zabawna sprawa.</td>
+    </tr>
+    <tr id="t12909">
+        <td><a href="#t12909">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12909">12909s</a></td>
+        <td>Tak, to chodzi właśnie o tę grę Titanicu z Setki Wymiarów, dokładnie to jest ta rzecz.</td>
+    </tr>
+    <tr id="t12914">
+        <td><a href="#t12914">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12914">12914s</a></td>
+        <td>Natomiast tak, Śródziemie bardzo lubię, natomiast wiem, że on nie jest konsekwentny.</td>
+    </tr>
+    <tr id="t12920">
+        <td><a href="#t12920">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12920">12920s</a></td>
+        <td>Kiedy pisałem... Znaczy swego czasu byłem mocno wkręcony w tę, powiedzmy, w Tolkienologię czy Tolkienistykę, jak nazwać tę naukę.</td>
+    </tr>
+    <tr id="t12929">
+        <td><a href="#t12929">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12929">12929s</a></td>
+        <td>Tolkienistyka w sumie najprędzej.</td>
+    </tr>
+    <tr id="t12932">
+        <td><a href="#t12932">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12932">12932s</a></td>
+        <td>I...</td>
+    </tr>
+    <tr id="t12934">
+        <td><a href="#t12934">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12934">12934s</a></td>
+        <td>Zdaję sobie sprawę, że to nie jest świat konsekwentny, że miesza XIX-wieczną czy wiktoriańską Anglię ze średniowieczną Anglią i każe współistnieć w jednym miejscu.</td>
+    </tr>
+    <tr id="t12947">
+        <td><a href="#t12947">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12947">12947s</a></td>
+        <td>Natomiast bardzo lubię.</td>
+    </tr>
+    <tr id="t12951">
+        <td><a href="#t12951">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12951">12951s</a></td>
+        <td>Sądzę, że większość, 99% z czytelników tutaj może nie wiedzieć o tej książce w ogóle, bo to była książka polskiej autorki, znakomitej.</td>
+    </tr>
+    <tr id="t12961">
+        <td><a href="#t12961">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12961">12961s</a></td>
+        <td>Pani Marty Tomaszewskiej.</td>
+    </tr>
+    <tr id="t12963">
+        <td><a href="#t12963">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12963">12963s</a></td>
+        <td>Podróż do Krainy Om, tak się nazywała.</td>
+    </tr>
+    <tr id="t12966">
+        <td><a href="#t12966">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12966">12966s</a></td>
+        <td>Aaa, coś mi się mgliście kojarzy, tylko z tytułu, wiesz?</td>
+    </tr>
+    <tr id="t12969">
+        <td><a href="#t12969">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12969">12969s</a></td>
+        <td>Doskonała rzecz, doskonała rzecz.</td>
+    </tr>
+    <tr id="t12972">
+        <td><a href="#t12972">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12972">12972s</a></td>
+        <td>To była książka, która tak wstrząsnała czternastoletnim mną, który akurat czekał w kolejce do biblioteki na wypożyczenie Władcy Pierścieni.</td>
+    </tr>
+    <tr id="t12981">
+        <td><a href="#t12981">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12981">12981s</a></td>
+        <td>Bo to była książka, która była w jednej sztuce u nas w bibliotece miejskiej i była kolejka.</td>
+    </tr>
+    <tr id="t12987">
+        <td><a href="#t12987">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12987">12987s</a></td>
+        <td>Oj, chyba zginąłeś, sorry.</td>
+    </tr>
+    <tr id="t12988">
+        <td><a href="#t12988">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12988">12988s</a></td>
+        <td>Krzysztof zginięty, tak.</td>
+    </tr>
+    <tr id="t12989">
+        <td><a href="#t12989">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12989">12989s</a></td>
+        <td>Zaraz, zaraz, tylko zabiję tutaj resztę.</td>
+    </tr>
+    <tr id="t12991">
+        <td><a href="#t12991">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12991">12991s</a></td>
+        <td>Oberwałem.</td>
+    </tr>
+    <tr id="t12992">
+        <td><a href="#t12992">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12992">12992s</a></td>
+        <td>O, wiesz, tak sądziłem.</td>
+    </tr>
+    <tr id="t12993">
+        <td><a href="#t12993">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12993">12993s</a></td>
+        <td>I tak się dziwię, że dopiero teraz zginąłeś.</td>
+    </tr>
+    <tr id="t12995">
+        <td><a href="#t12995">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12995">12995s</a></td>
+        <td>No.</td>
+    </tr>
+    <tr id="t12996">
+        <td><a href="#t12996">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=12996">12996s</a></td>
+        <td>I jeżeli chodzi o survivability, kusa po kusa jest dobra.</td>
+    </tr>
+    <tr id="t13002">
+        <td><a href="#t13002">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13002">13002s</a></td>
+        <td>Przetrwała nawet okropną Lilith.</td>
+    </tr>
+    <tr id="t13005">
+        <td><a href="#t13005">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13005">13005s</a></td>
+        <td>Tudzież Lilith.</td>
+    </tr>
+    <tr id="t13006">
+        <td><a href="#t13006">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13006">13006s</a></td>
+        <td>Tudzież Lilith.</td>
+    </tr>
+    <tr id="t13008">
+        <td><a href="#t13008">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13008">13008s</a></td>
+        <td>Tak, Lilith.</td>
+    </tr>
+    <tr id="t13009">
+        <td><a href="#t13009">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13009">13009s</a></td>
+        <td>Hehehehe.</td>
+    </tr>
+    <tr id="t13011">
+        <td><a href="#t13011">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13011">13011s</a></td>
+        <td>Pierwszy zgon kusej pokusy dzisiaj, ale bohaterski w trakcie próby przetrwania i walki.</td>
+    </tr>
+    <tr id="t13019">
+        <td><a href="#t13019">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13019">13019s</a></td>
+        <td>Tak jest, nie inaczej.</td>
+    </tr>
+    <tr id="t13021">
+        <td><a href="#t13021">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13021">13021s</a></td>
+        <td>Bez Rysława to, moi drodzy, my byśmy tutaj nie poszaleli.</td>
+    </tr>
+    <tr id="t13024">
+        <td><a href="#t13024">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13024">13024s</a></td>
+        <td>Nie, nie, bez postaci na wysokim poziomie, tak?</td>
+    </tr>
+    <tr id="t13028">
+        <td><a href="#t13028">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13028">13028s</a></td>
+        <td>Bo to jest tak naprawdę, tutaj się przychodzi samemu na 75 rzeczywiście.</td>
+    </tr>
+    <tr id="t13031">
+        <td><a href="#t13031">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13031">13031s</a></td>
+        <td>Ale to wcześniej trzeba potężny grając.</td>
+    </tr>
+    <tr id="t13032">
+        <td><a href="#t13032">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13032">13032s</a></td>
+        <td>Ale będziesz mieć odblokowany ewentualnie wyższy, wcześniej będziesz mieć odblokowany wyższy poziom świata, dzięki czemu, gdybyś chciał oczywiście, bo nie każdy lubi tak grać, nie?</td>
+    </tr>
+    <tr id="t13042">
+        <td><a href="#t13042">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13042">13042s</a></td>
+        <td>Że już mniej z fabułą, jest więcej... Nie, ale ja fabułę mam skończoną.</td>
+    </tr>
+    <tr id="t13046">
+        <td><a href="#t13046">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13046">13046s</a></td>
+        <td>Ja cały czas dostaję miście, których nie miałem.</td>
+    </tr>
+    <tr id="t13065">
+        <td><a href="#t13065">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13065">13065s</a></td>
+        <td>To super.</td>
+    </tr>
+    <tr id="t13065">
+        <td><a href="#t13065">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13065">13065s</a></td>
+        <td>Taki wąchock.</td>
+    </tr>
+    <tr id="t13086">
+        <td><a href="#t13086">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13086">13086s</a></td>
+        <td>Taką zapyziałą mieścinę gdzieś tam.</td>
+    </tr>
+    <tr id="t13089">
+        <td><a href="#t13089">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13089">13089s</a></td>
+        <td>Tak to kojarzyłem.</td>
+    </tr>
+    <tr id="t13090">
+        <td><a href="#t13090">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13090">13090s</a></td>
+        <td>Więc myślałem, że za wodzie to będzie dobra nazwa dla takiej miejscowości.</td>
+    </tr>
+    <tr id="t13095">
+        <td><a href="#t13095">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13095">13095s</a></td>
+        <td>Oczywiście ewentualnie mógł być to Sosnowiec.</td>
+    </tr>
+    <tr id="t13099">
+        <td><a href="#t13099">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13099">13099s</a></td>
+        <td>Aż tak okrutny nie jestem, bez przesady.</td>
+    </tr>
+    <tr id="t13102">
+        <td><a href="#t13102">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13102">13102s</a></td>
+        <td>Ja się śmieję, a moja babcia mieszkała w Sosnowcu całe lata, chociaż nie była z Sosnowca, ale mieszkała w Sosnowcu.</td>
+    </tr>
+    <tr id="t13109">
+        <td><a href="#t13109">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13109">13109s</a></td>
+        <td>Była z Łodzi, żeby było śmieszniej.</td>
+    </tr>
+    <tr id="t13112">
+        <td><a href="#t13112">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13112">13112s</a></td>
+        <td>I tak, mnie się Sosnowiec bardzo dobrze kojarzył, a potem odkryłem, że to jest mem.</td>
+    </tr>
+    <tr id="t13117">
+        <td><a href="#t13117">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13117">13117s</a></td>
+        <td>Wiesz, Sosnowiec to jest miasto pana Jana Kiepury, jednego z naszych najwspanialszych śpiewaków operetkowych.</td>
+    </tr>
+    <tr id="t13123">
+        <td><a href="#t13123">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13123">13123s</a></td>
+        <td>Naszych gwiazd kina w latach międzywojennych i wcześniej chyba powojennych.</td>
+    </tr>
+    <tr id="t13131">
+        <td><a href="#t13131">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13131">13131s</a></td>
+        <td>Martren pisze, że jako hop ze Śląska powtarza, w zawodzie pasuje.</td>
+    </tr>
+    <tr id="t13135">
+        <td><a href="#t13135">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13135">13135s</a></td>
+        <td>Potrzebuje więcej czasu.</td>
+    </tr>
+    <tr id="t13138">
+        <td><a href="#t13138">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13138">13138s</a></td>
+        <td>A to przecież w Katowicach jest nawet taka stacja, teraz sobie przypomniałem.</td>
+    </tr>
+    <tr id="t13142">
+        <td><a href="#t13142">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13142">13142s</a></td>
+        <td>Boże, tam jest taki tramwaj, który jest przerażający.</td>
+    </tr>
+    <tr id="t13145">
+        <td><a href="#t13145">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13145">13145s</a></td>
+        <td>Katowice, Szopienice, Kościół.</td>
+    </tr>
+    <tr id="t13148">
+        <td><a href="#t13148">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13148">13148s</a></td>
+        <td>Katowice, Szopienice, Zajezdnia.</td>
+    </tr>
+    <tr id="t13152">
+        <td><a href="#t13152">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13152">13152s</a></td>
+        <td>O rany boskie!</td>
+    </tr>
+    <tr id="t13155">
+        <td><a href="#t13155">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13155">13155s</a></td>
+        <td>Ale jeszcze wracając do pytania świadki fantasy, ja uwielbiam erę hyperborejską i to, co stworzył Robert Howard z Conanem.</td>
+    </tr>
+    <tr id="t13163">
+        <td><a href="#t13163">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13163">13163s</a></td>
+        <td>Uważam, że to jest wspaniały przykład światotwórstwa, który jest tak bliski nam, że możemy uznać, że rzeczywiście, kto wie, kto wie, czy tak nie wyglądała prehistoria Ziemi.</td>
+    </tr>
+    <tr id="t13176">
+        <td><a href="#t13176">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13176">13176s</a></td>
+        <td>To jeszcze mi powiedz, Rysław, że masz to wydanie kompletne Rebisu.</td>
+    </tr>
+    <tr id="t13181">
+        <td><a href="#t13181">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13181">13181s</a></td>
+        <td>Ja nie mam trzeciego tomu i on w tej chwili kosztuje 380 złotych.</td>
+    </tr>
+    <tr id="t13185">
+        <td><a href="#t13185">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13185">13185s</a></td>
+        <td>Mam jakieś 100 tomów, ale wszystkich nie mam.</td>
+    </tr>
+    <tr id="t13188">
+        <td><a href="#t13188">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13188">13188s</a></td>
+        <td>A, czyli masz to wydanie angielskie, jak rozumiem?</td>
+    </tr>
+    <tr id="t13191">
+        <td><a href="#t13191">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13191">13191s</a></td>
+        <td>Nie, nie, mam polskie, wydawał Amber, później wydawnictwo Peak to wydawało, bo mam tego dużo bardziej.</td>
+    </tr>
+    <tr id="t13197">
+        <td><a href="#t13197">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13197">13197s</a></td>
+        <td>Bo widzimy też te omnibusy, które wydał właśnie Revis.</td>
+    </tr>
+    <tr id="t13200">
+        <td><a href="#t13200">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13200">13200s</a></td>
+        <td>Nie, omnibusów nie mam, mam te w czwarnych oprawach, w latach 90., od 90. roku zaczęły wychodzić.</td>
+    </tr>
+    <tr id="t13206">
+        <td><a href="#t13206">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13206">13206s</a></td>
+        <td>I mam większość, ale nie wszystkie.</td>
+    </tr>
+    <tr id="t13209">
+        <td><a href="#t13209">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13209">13209s</a></td>
+        <td>Ja tu się wysforowałem, a tu jest Bożek Upadłej Świątyni.</td>
+    </tr>
+    <tr id="t13211">
+        <td><a href="#t13211">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13211">13211s</a></td>
+        <td>O właśnie, bo tu się działy rzeczy.</td>
+    </tr>
+    <tr id="t13213">
+        <td><a href="#t13213">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13213">13213s</a></td>
+        <td>No i tam rzeczy.</td>
+    </tr>
+    <tr id="t13214">
+        <td><a href="#t13214">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13214">13214s</a></td>
+        <td>Ja tam czekam na mojego ulta, żeby go przywołać wtedy, kiedy będzie bardzo źle.</td>
+    </tr>
+    <tr id="t13220">
+        <td><a href="#t13220">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13220">13220s</a></td>
+        <td>Już jest bardzo źle.</td>
+    </tr>
+    <tr id="t13223">
+        <td><a href="#t13223">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13223">13223s</a></td>
+        <td>Bożka już nie ma za bardzo.</td>
+    </tr>
+    <tr id="t13225">
+        <td><a href="#t13225">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13225">13225s</a></td>
+        <td>Dobrze.</td>
+    </tr>
+    <tr id="t13227">
+        <td><a href="#t13227">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13227">13227s</a></td>
+        <td>Ja ich zgromadziłem w jednym miejscu.</td>
+    </tr>
+    <tr id="t13230">
+        <td><a href="#t13230">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13230">13230s</a></td>
+        <td>Chyba już ich nie ma.</td>
+    </tr>
+    <tr id="t13233">
+        <td><a href="#t13233">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13233">13233s</a></td>
+        <td>Dobrze, bardzo mnie to cieszy.</td>
+    </tr>
+    <tr id="t13235">
+        <td><a href="#t13235">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13235">13235s</a></td>
+        <td>Wiesz podnieść płaskorzeźbę?</td>
+    </tr>
+    <tr id="t13237">
+        <td><a href="#t13237">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13237">13237s</a></td>
+        <td>W zawodzie to dzielnica Katowic, ale racja, blisko Sosnowca.</td>
+    </tr>
+    <tr id="t13239">
+        <td><a href="#t13239">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13239">13239s</a></td>
+        <td>Tak, tak, tak, tak, tak.</td>
+    </tr>
+    <tr id="t13241">
+        <td><a href="#t13241">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13241">13241s</a></td>
+        <td>Nie wiem gdzie to trzeba teraz zanieść, poczekaj, a tutaj na dół, dobra.</td>
+    </tr>
+    <tr id="t13244">
+        <td><a href="#t13244">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13244">13244s</a></td>
+        <td>Tu jest płaskorzeźba jeszcze.</td>
+    </tr>
+    <tr id="t13246">
+        <td><a href="#t13246">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13246">13246s</a></td>
+        <td>A faktycznie, trzeba... Ochrona przed wirusem, podsumowanie, dostałem informację od Windowsa, że jestem bezpieczny.</td>
+    </tr>
+    <tr id="t13254">
+        <td><a href="#t13254">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13254">13254s</a></td>
+        <td>Uspokajająca informacja.</td>
+    </tr>
+    <tr id="t13257">
+        <td><a href="#t13257">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13257">13257s</a></td>
+        <td>Tak więc bardzo, bardzo lubię twórczość Howarda i sądzę, że był tragicznym, niedocenianym pisarzem.</td>
+    </tr>
+    <tr id="t13266">
+        <td><a href="#t13266">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13266">13266s</a></td>
+        <td>On zmarł w ogóle śmiercią samobójczą.</td>
+    </tr>
+    <tr id="t13268">
+        <td><a href="#t13268">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13268">13268s</a></td>
+        <td>Miał 36 lat.</td>
+    </tr>
+    <tr id="t13279">
+        <td><a href="#t13279">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13279">13279s</a></td>
+        <td>I przez całe życie był bardzo, bardzo związany ze swoją matką.</td>
+    </tr>
+    <tr id="t13285">
+        <td><a href="#t13285">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13285">13285s</a></td>
+        <td>I po śmierci swojej matki nie mógł znaleźć sobie miejsca.</td>
+    </tr>
+    <tr id="t13289">
+        <td><a href="#t13289">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13289">13289s</a></td>
+        <td>A mimo, że był docenianym pisarzem, to nie był tak, że on musiał wiązać koniec z końcem.</td>
+    </tr>
+    <tr id="t13295">
+        <td><a href="#t13295">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13295">13295s</a></td>
+        <td>Sądzę, że po prostu wpadł w depresję.</td>
+    </tr>
+    <tr id="t13297">
+        <td><a href="#t13297">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13297">13297s</a></td>
+        <td>Wtedy nie używano tego określenia jeszcze.</td>
+    </tr>
+    <tr id="t13299">
+        <td><a href="#t13299">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13299">13299s</a></td>
+        <td>Sądzę, że po prostu wpadł w depresję i mógł sobie nie poradzić z poczuciem straty.</td>
+    </tr>
+    <tr id="t13307">
+        <td><a href="#t13307">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13307">13307s</a></td>
+        <td>Zachowało się jego mnóstwo korespondencji także z Howardem Phillipsem Lovecraftem Oni pisali do siebie bardzo dużo</td>
+    </tr>
+    <tr id="t13315">
+        <td><a href="#t13315">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13315">13315s</a></td>
+        <td>Przeproszę Cię, Rusław, tylko szybko powiem, że jamnikowy piechór jest jamnikowajem.</td>
+    </tr>
+    <tr id="t13318">
+        <td><a href="#t13318">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13318">13318s</a></td>
+        <td>Podarował wsparcie Cukicu, Pana Arkadiuszowi, Cybulakowi, Tropce94 i Majoksowi.</td>
+    </tr>
+    <tr id="t13323">
+        <td><a href="#t13323">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13323">13323s</a></td>
+        <td>I jeszcze Majka, dziękuję serdecznie za wsparcie kanału Tradycyjnie.</td>
+    </tr>
+    <tr id="t13328">
+        <td><a href="#t13328">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13328">13328s</a></td>
+        <td>I jeszcze widziałem jakieś pytanie od Piotra M., co sądzimy o Feliksie Kresie.</td>
+    </tr>
+    <tr id="t13333">
+        <td><a href="#t13333">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13333">13333s</a></td>
+        <td>No tutaj, jak się przyjrzycie u mnie, to jest cały na półce to nowe wydanie Schereru Fabryki Słów.</td>
+    </tr>
+    <tr id="t13341">
+        <td><a href="#t13341">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13341">13341s</a></td>
+        <td>Wielka strata, w młodym wieku, 55 lat miał tylko.</td>
+    </tr>
+    <tr id="t13346">
+        <td><a href="#t13346">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13346">13346s</a></td>
+        <td>I jeszcze chodziły ploty, że jego żona dokończy ostatni tom, bo wyjdzie tom jedenasty.</td>
+    </tr>
+    <tr id="t13351">
+        <td><a href="#t13351">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13351">13351s</a></td>
+        <td>Fabryka słów już to zapowiedziała, ale miał wyjść finał, tom dwunasty, ale już nie wyjdzie nigdy.</td>
+    </tr>
+    <tr id="t13357">
+        <td><a href="#t13357">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13357">13357s</a></td>
+        <td>I żona, znaczy wdowa w tej chwili już po Feliksie Kresie powiedziała, że to była plota, ona tego nie potwierdziła nigdy i niestety nie dokończy.</td>
+    </tr>
+    <tr id="t13365">
+        <td><a href="#t13365">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13365">13365s</a></td>
+        <td>Więc zostaniemy z urwanym cyklem, no najgorsza sytuacja dla fana, zwłaszcza jeżeli my nie mamy w Polsce takiego Brandona Sandersona, który byłby w stanie dokończyć, tak jak dokończył, prawda, Roberto?</td>
+    </tr>
+    <tr id="t13376">
+        <td><a href="#t13376">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13376">13376s</a></td>
+        <td>Poło czasu.</td>
+    </tr>
+    <tr id="t13377">
+        <td><a href="#t13377">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13377">13377s</a></td>
+        <td>No, poło czasu.</td>
+    </tr>
+    <tr id="t13378">
+        <td><a href="#t13378">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13378">13378s</a></td>
+        <td>I zresztą też prawdopodobnie, podejrzewam, że dokończy Martina.</td>
+    </tr>
+    <tr id="t13383">
+        <td><a href="#t13383">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13383">13383s</a></td>
+        <td>Znaczy nie widzę innej opcji.</td>
+    </tr>
+    <tr id="t13385">
+        <td><a href="#t13385">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13385">13385s</a></td>
+        <td>Martin ma ile?</td>
+    </tr>
+    <tr id="t13386">
+        <td><a href="#t13386">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13386">13386s</a></td>
+        <td>78?</td>
+    </tr>
+    <tr id="t13386">
+        <td><a href="#t13386">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13386">13386s</a></td>
+        <td>On długo nie pociągnie, inaczej brutalnie mówiąc na pewno nie pociągnie do premiery Dream of Spring, bo jeżeli chodzi o Winds of Winter to aż taki złośliwy bym nie był.</td>
+    </tr>
+    <tr id="t13396">
+        <td><a href="#t13396">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13396">13396s</a></td>
+        <td>Myślę, że mu się to uda, ale jeżeli chodzi o Dream of Spring nie ma szans.</td>
+    </tr>
+    <tr id="t13400">
+        <td><a href="#t13400">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13400">13400s</a></td>
+        <td>Nie przy jego tempie pisania.</td>
+    </tr>
+    <tr id="t13404">
+        <td><a href="#t13404">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13404">13404s</a></td>
+        <td>Jeśli mogę przy okazji polecić, bo wiem, że obecnie pan George Martin jest głównie znany z</td>
+    </tr>
+    <tr id="t13412">
+        <td><a href="#t13412">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13412">13412s</a></td>
+        <td>Gry o Tron, natomiast to jest wybitny pisarz.</td>
+    </tr>
+    <tr id="t13415">
+        <td><a href="#t13415">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13415">13415s</a></td>
+        <td>Pisarz science fiction, prawda?</td>
+    </tr>
+    <tr id="t13416">
+        <td><a href="#t13416">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13416">13416s</a></td>
+        <td>Pieśń dla Liany, rewelacyjna rzecz.</td>
+    </tr>
+    <tr id="t13419">
+        <td><a href="#t13419">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13419">13419s</a></td>
+        <td>No i ja bardzo bym chciał polecić genialne opowiadanie.</td>
+    </tr>
+    <tr id="t13425">
+        <td><a href="#t13425">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13425">13425s</a></td>
+        <td>Pierwsze tysiące moich ulubionych opowiadań w historii, to jest wysoko, dużo opowiadań czytałem, to jest Piaseczniki.</td>
+    </tr>
+    <tr id="t13432">
+        <td><a href="#t13432">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13432">13432s</a></td>
+        <td>Ja Staczniki pamiętam, jak wspominałeś o tym.</td>
+    </tr>
+    <tr id="t13434">
+        <td><a href="#t13434">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13434">13434s</a></td>
+        <td>Boże mój, to jest mistrzostwo.</td>
+    </tr>
+    <tr id="t13436">
+        <td><a href="#t13436">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13436">13436s</a></td>
+        <td>Ja to czytałem na warsztatach, które miałem z American Science Fiction u doktora Palmowskiego na UJ-cie, ale musiałem uciec z wydziału polonistyki UJ na wydział filologii angielskiej, żeby w ogóle zaznać jakiegokolwiek kontaktu z literaturą science fiction.</td>
+    </tr>
+    <tr id="t13455">
+        <td><a href="#t13455">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13455">13455s</a></td>
+        <td>I on właśnie czytał z nami to.</td>
+    </tr>
+    <tr id="t13458">
+        <td><a href="#t13458">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13458">13458s</a></td>
+        <td>Doskonała rzecz, doskonała rzecz.</td>
+    </tr>
+    <tr id="t13460">
+        <td><a href="#t13460">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13460">13460s</a></td>
+        <td>I jeszcze czytał z nami I Have No Mouth But I Must Scream.</td>
+    </tr>
+    <tr id="t13464">
+        <td><a href="#t13464">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13464">13464s</a></td>
+        <td>Oj, to jest upiorne, upiorne opowiadanie.</td>
+    </tr>
+    <tr id="t13468">
+        <td><a href="#t13468">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13468">13468s</a></td>
+        <td>Przerażające.</td>
+    </tr>
+    <tr id="t13469">
+        <td><a href="#t13469">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13469">13469s</a></td>
+        <td>I jeszcze Harrison Bergeron.</td>
+    </tr>
+    <tr id="t13472">
+        <td><a href="#t13472">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13472">13472s</a></td>
+        <td>Nie wiem, czy kojarzysz.</td>
+    </tr>
+    <tr id="t13473">
+        <td><a href="#t13473">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13473">13473s</a></td>
+        <td>Tylko czyje to było?</td>
+    </tr>
+    <tr id="t13474">
+        <td><a href="#t13474">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13474">13474s</a></td>
+        <td>Boże, drogi.</td>
+    </tr>
+    <tr id="t13476">
+        <td><a href="#t13476">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13476">13476s</a></td>
+        <td>Bardzo dobre opowiadanie, bardzo dobre.</td>
+    </tr>
+    <tr id="t13480">
+        <td><a href="#t13480">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13480">13480s</a></td>
+        <td>Może ktoś na chatach kojarzy Harrison Ledgeron.</td>
+    </tr>
+    <tr id="t13482">
+        <td><a href="#t13482">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13482">13482s</a></td>
+        <td>Harrison Ledgeron.</td>
+    </tr>
+    <tr id="t13483">
+        <td><a href="#t13483">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13483">13483s</a></td>
+        <td>Tak.</td>
+    </tr>
+    <tr id="t13483">
+        <td><a href="#t13483">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13483">13483s</a></td>
+        <td>Kojarzę teraz.</td>
+    </tr>
+    <tr id="t13484">
+        <td><a href="#t13484">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13484">13484s</a></td>
+        <td>Natomiast jedną z moich ulubionych opowiadań w fantastyki naukowej jest... Przepraszam się, x403 pisze, czemu kusa po kusa ma jebitny głaz na plecach?</td>
+    </tr>
+    <tr id="t13496">
+        <td><a href="#t13496">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13496">13496s</a></td>
+        <td>Ja teraz to zobaczyłem dopiero.</td>
+    </tr>
+    <tr id="t13498">
+        <td><a href="#t13498">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13498">13498s</a></td>
+        <td>Już nie musisz go mieć, to jest błąd gry, bo ja podniosłem.</td>
+    </tr>
+    <tr id="t13502">
+        <td><a href="#t13502">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13502">13502s</a></td>
+        <td>Przepraszam, Rysław, kontynuuj.</td>
+    </tr>
+    <tr id="t13503">
+        <td><a href="#t13503">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13503">13503s</a></td>
+        <td>Nie, nie.</td>
+    </tr>
+    <tr id="t13504">
+        <td><a href="#t13504">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13504">13504s</a></td>
+        <td>Jest taki, był, bo już nie żyje, taki pisarz amerykański, John Brunner,</td>
+    </tr>
+    <tr id="t13510">
+        <td><a href="#t13510">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13510">13510s</a></td>
+        <td>I on swego czasu napisał moje... Chyba bym postawił na pierwszym miejscu opowiadanie.</td>
+    </tr>
+    <tr id="t13519">
+        <td><a href="#t13519">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13519">13519s</a></td>
+        <td>W ogóle, w historii opowiadań moich.</td>
+    </tr>
+    <tr id="t13521">
+        <td><a href="#t13521">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13521">13521s</a></td>
+        <td>A mówię, czytałem tego od setki.</td>
+    </tr>
+    <tr id="t13525">
+        <td><a href="#t13525">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13525">13525s</a></td>
+        <td>I to jest jak ten facet grał bluesa, tak się nazywa.</td>
+    </tr>
+    <tr id="t13530">
+        <td><a href="#t13530">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13530">13530s</a></td>
+        <td>Tak się nazywa to opowiadanie.</td>
+    </tr>
+    <tr id="t13532">
+        <td><a href="#t13532">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13532">13532s</a></td>
+        <td>Mygliście kojarzę po tytule tylko.</td>
+    </tr>
+    <tr id="t13534">
+        <td><a href="#t13534">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13534">13534s</a></td>
+        <td>To jest opowiadanie, przy którym, tak powiem, gula staje mi w gardle.</td>
+    </tr>
+    <tr id="t13541">
+        <td><a href="#t13541">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13541">13541s</a></td>
+        <td>I... I tak się robi mokro pod oczami.</td>
+    </tr>
+    <tr id="t13546">
+        <td><a href="#t13546">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13546">13546s</a></td>
+        <td>Trochę.</td>
+    </tr>
+    <tr id="t13547">
+        <td><a href="#t13547">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13547">13547s</a></td>
+        <td>Przepiękna rzecz.</td>
+    </tr>
+    <tr id="t13549">
+        <td><a href="#t13549">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13549">13549s</a></td>
+        <td>Przepiękna rzecz o samotności, oddaleniu, chwilowym szczęściu i utracie tego szczęścia w konwencji</td>
+    </tr>
+    <tr id="t13562">
+        <td><a href="#t13562">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13562">13562s</a></td>
+        <td>Imprezy w której w barze amerykańskim przychodzą ludzie i grają w bluesa sobie po prostu zapraszam wchodzą na scenę i grają coś pięknego tak z ciekawości czy ty wolisz opowiadania czy powieści.</td>
+    </tr>
+    <tr id="t13575">
+        <td><a href="#t13575">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13575">13575s</a></td>
+        <td>Powiedzcie, że chyba wola opowiadania.</td>
+    </tr>
+    <tr id="t13580">
+        <td><a href="#t13580">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13580">13580s</a></td>
+        <td>Tak sądziłem, bo one zostawiają większe wrażenie, to znaczy ja wolę powieści, bo są imersyjne bardzo i pozwalają na eskapizm, przeniesienie się na długo do jakiegoś świata, ale opowiadania mają tę zaletę, że je po prostu lepiej pamiętasz, bo mnie się w którymś momencie niestety sagi, fantasy różne, które przeczytałem czy science fiction nakładają na siebie bardzo.</td>
+    </tr>
+    <tr id="t13600">
+        <td><a href="#t13600">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13600">13600s</a></td>
+        <td>Marek Hubera pytanie od Tomeksa91.</td>
+    </tr>
+    <tr id="t13604">
+        <td><a href="#t13604">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13604">13604s</a></td>
+        <td>Widziaj, Snek, Wiedziam.</td>
+    </tr>
+    <tr id="t13609">
+        <td><a href="#t13609">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13609">13609s</a></td>
+        <td>To było opowiadanie, które wygrało z Wiedźminem w 1986 roku w konkursie.</td>
+    </tr>
+    <tr id="t13614">
+        <td><a href="#t13614">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13614">13614s</a></td>
+        <td>Marek Hubera, tak, fizyk teoretyczny, bardzo dobry pisarz, ale trudnie... Powiem tak, kiedy miałem... W 1986-1987 miałem 14 lat i kiedy w tym samym numerze chyba właśnie wyszedł, wyszło opowiadanie</td>
+    </tr>
+    <tr id="t13629">
+        <td><a href="#t13629">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13629">13629s</a></td>
+        <td>tego... Wyszły pana Marka i pana Andrzeja, tak?</td>
+    </tr>
+    <tr id="t13633">
+        <td><a href="#t13633">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13633">13633s</a></td>
+        <td>No to ja się rzuciłem na Wiedźmina, tak?</td>
+    </tr>
+    <tr id="t13635">
+        <td><a href="#t13635">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13635">13635s</a></td>
+        <td>I miałem... I przeczytałem Wiedźmina i nie mogłem się doczekać, kiedy przeczytam kolejny Wiedźminę.</td>
+    </tr>
+    <tr id="t13642">
+        <td><a href="#t13642">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13642">13642s</a></td>
+        <td>I...</td>
+    </tr>
+    <tr id="t13644">
+        <td><a href="#t13644">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13644">13644s</a></td>
+        <td>Natomiast do Marka Huberata wróciłem później, jak miałem już dwadzieścia kilka lat.</td>
+    </tr>
+    <tr id="t13649">
+        <td><a href="#t13649">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13649">13649s</a></td>
+        <td>To była za ciężka rzecz dla... Jest trudna, trudno się go czyta.</td>
+    </tr>
+    <tr id="t13653">
+        <td><a href="#t13653">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13653">13653s</a></td>
+        <td>Tak, to jest taka fantastyka metafizyczno-filozoficzna​.</td>
+    </tr>
+    <tr id="t13657">
+        <td><a href="#t13657">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13657">13657s</a></td>
+        <td>Natalia Jugosławska się z kolei zachwyca Ziemiem i Morzem.</td>
+    </tr>
+    <tr id="t13660">
+        <td><a href="#t13660">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13660">13660s</a></td>
+        <td>Ja kocham absolutnie.</td>
+    </tr>
+    <tr id="t13661">
+        <td><a href="#t13661">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13661">13661s</a></td>
+        <td>To jest niezwykła opowieść.</td>
+    </tr>
+    <tr id="t13663">
+        <td><a href="#t13663">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13663">13663s</a></td>
+        <td>Ursula Le Guin, Mistrzostwo Czarnoksiężniczych Archipelagów, chociaż tłumaczenie pana Barańczaka jako czarnoksiężnik by mi nie pasowało, bo to jest Wizard of the Earth Sea.</td>
+    </tr>
+    <tr id="t13674">
+        <td><a href="#t13674">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13674">13674s</a></td>
+        <td>Wreszcie ktoś zawsze mówi, że tłumaczenie Barańczaka... Późniejsze tłumaczenia są fajne, ale jeszcze jest jeden problem, bo Barańczak jest dobrym tłumaczem, natomiast nie czułem nigdy tego klimatu fantasy w jego tłumaczeniu.</td>
+    </tr>
+    <tr id="t13688">
+        <td><a href="#t13688">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13688">13688s</a></td>
+        <td>Właśnie miałem ten z nim problem, że miałem u niego jednak czuć, że ma ten warsztat mainstreamowy, brzydko mówiąc.</td>
+    </tr>
+    <tr id="t13694">
+        <td><a href="#t13694">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13694">13694s</a></td>
+        <td>Znaczy, powiem ci tak, ja już się tak przyzwyczaiłem do tego tytułu, że trudno mi byłoby zmienić na czarodziej z Ziemię Morza, bo tak, Earthsea w zasadzie, to jest Ziemia Morza bardziej.</td>
+    </tr>
+    <tr id="t13705">
+        <td><a href="#t13705">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13705">13705s</a></td>
+        <td>No tak, oczywiście, Wizard of Earthsea jest oryginal.</td>
+    </tr>
+    <tr id="t13709">
+        <td><a href="#t13709">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13709">13709s</a></td>
+        <td>Ale, ale...</td>
+    </tr>
+    <tr id="t13711">
+        <td><a href="#t13711">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13711">13711s</a></td>
+        <td>Myśmy na studiach w ogóle przerabiali książkę pana Barańczaka, książka, która się nazywa Ocalone w tłumaczeniu.</td>
+    </tr>
+    <tr id="t13717">
+        <td><a href="#t13717">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13717">13717s</a></td>
+        <td>On bierze na tapet parę dzieł literackich, wierszy, krótkich opowiadań, które pokazuje</td>
+    </tr>
+    <tr id="t13726">
+        <td><a href="#t13726">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13726">13726s</a></td>
+        <td>pod względem obecnego tłumaczenia i co można by zrobić.</td>
+    </tr>
+    <tr id="t13730">
+        <td><a href="#t13730">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13730">13730s</a></td>
+        <td>Między innymi bierze na tapet kruka Edgara Annapoe, który jest bardzo, bardzo, bardzo trudny wierszem do przetłumaczenia, w związku szczególnie na tę onomatopeję Nevermore, kiedy słyszymy Nevermore.</td>
+    </tr>
+    <tr id="t13745">
+        <td><a href="#t13745">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13745">13745s</a></td>
+        <td>Ja znam ten przykład z Nigdy Już, on jest chyba modernistyczny, prawda?</td>
+    </tr>
+    <tr id="t13749">
+        <td><a href="#t13749">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13749">13749s</a></td>
+        <td>Tak mi się wydaje.</td>
+    </tr>
+    <tr id="t13750">
+        <td><a href="#t13750">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13750">13750s</a></td>
+        <td>Przekład Nigdy Już to jest właśnie przykład, który pan Barańczak dawał jako, że jest złym przykładem, bo to Nigdy Już, no rzeczywiście nie ma w tym tego kraczenia kruczego, tak?</td>
+    </tr>
+    <tr id="t13761">
+        <td><a href="#t13761">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13761">13761s</a></td>
+        <td>Możemy sobie wyobrazić, że jak kruk kracze, nevermore, nevermore.</td>
+    </tr>
+    <tr id="t13766">
+        <td><a href="#t13766">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13766">13766s</a></td>
+        <td>Możemy, no jest w tym jakieś charczenie, jest w tym jakaś zgrzytliwość, a nigdy już to, nigdy już.</td>
+    </tr>
+    <tr id="t13774">
+        <td><a href="#t13774">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13774">13774s</a></td>
+        <td>Więc pan Baranczak zaproponował dość ciekawie, że co cię czeka i u niego jest kres i krach.</td>
+    </tr>
+    <tr id="t13782">
+        <td><a href="#t13782">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13782">13782s</a></td>
+        <td>I u niego Nevermore to jest kres i krach.</td>
+    </tr>
+    <tr id="t13786">
+        <td><a href="#t13786">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13786">13786s</a></td>
+        <td>To jest ciekawe podejście, w którym rzeczywiście zostaje zachowana ta onomatopeja... Boże, trudne słowo.</td>
+    </tr>
+    <tr id="t13795">
+        <td><a href="#t13795">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13795">13795s</a></td>
+        <td>Wiecie, o co mi chodzi.</td>
+    </tr>
+    <tr id="t13796">
+        <td><a href="#t13796">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13796">13796s</a></td>
+        <td>Zaczek, dźwiękonaśladowczość, innymi słowy, tak?</td>
+    </tr>
+    <tr id="t13799">
+        <td><a href="#t13799">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13799">13799s</a></td>
+        <td>O właśnie, dźwiękonaśladowczość.</td>
+    </tr>
+    <tr id="t13800">
+        <td><a href="#t13800">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13800">13800s</a></td>
+        <td>Powiem ci, że...</td>
+    </tr>
+    <tr id="t13802">
+        <td><a href="#t13802">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13802">13802s</a></td>
+        <td>akceptuję to, ale dla mnie nigdy już zawsze miało taki bardziej z kolei melodyjny, romantyczny tak, tak wydźwięk i podobało mi się zwłaszcza, że też ze stroje akcentowe się zgadzały, a w Cress i Krach masz dwa</td>
+    </tr>
+    <tr id="t13820">
+        <td><a href="#t13820">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13820">13820s</a></td>
+        <td>Eliasz.</td>
+    </tr>
+    <tr id="t13820">
+        <td><a href="#t13820">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13820">13820s</a></td>
+        <td>Popatrz, Eliasz.</td>
+    </tr>
+    <tr id="t13821">
+        <td><a href="#t13821">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13821">13821s</a></td>
+        <td>Proszę bardzo, kolejny.</td>
+    </tr>
+    <tr id="t13823">
+        <td><a href="#t13823">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13823">13823s</a></td>
+        <td>Jak to się ładnie nazywało?</td>
+    </tr>
+    <tr id="t13825">
+        <td><a href="#t13825">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13825">13825s</a></td>
+        <td>Czy to są Trocheje?</td>
+    </tr>
+    <tr id="t13826">
+        <td><a href="#t13826">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13826">13826s</a></td>
+        <td>To nie są Trocheje.</td>
+    </tr>
+    <tr id="t13827">
+        <td><a href="#t13827">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13827">13827s</a></td>
+        <td>Musiałbym sobie przypomnieć, jak to się nazywa.</td>
+    </tr>
+    <tr id="t13829">
+        <td><a href="#t13829">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13829">13829s</a></td>
+        <td>W każdym razie są rymy męskie, to na pewno.</td>
+    </tr>
+    <tr id="t13833">
+        <td><a href="#t13833">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13833">13833s</a></td>
+        <td>Na jednej sylabie.</td>
+    </tr>
+    <tr id="t13834">
+        <td><a href="#t13834">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13834">13834s</a></td>
+        <td>Nigdy już, nie?</td>
+    </tr>
+    <tr id="t13835">
+        <td><a href="#t13835">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13835">13835s</a></td>
+        <td>I...</td>
+    </tr>
+    <tr id="t13839">
+        <td><a href="#t13839">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13839">13839s</a></td>
+        <td>A w przypadku kres i krach masz dwa razy... Dobra, już nie żyję.</td>
+    </tr>
+    <tr id="t13844">
+        <td><a href="#t13844">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13844">13844s</a></td>
+        <td>Super.</td>
+    </tr>
+    <tr id="t13845">
+        <td><a href="#t13845">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13845">13845s</a></td>
+        <td>Masz dwa razy... Bóg cieszył się, Krzysztof.</td>
+    </tr>
+    <tr id="t13847">
+        <td><a href="#t13847">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13847">13847s</a></td>
+        <td>W przypadku kres i krach masz dwa razy jednosylabowe wyrazy, nie?</td>
+    </tr>
+    <tr id="t13851">
+        <td><a href="#t13851">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13851">13851s</a></td>
+        <td>Więc to jest troszeczkę co innego w ten sposób.</td>
+    </tr>
+    <tr id="t13853">
+        <td><a href="#t13853">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13853">13853s</a></td>
+        <td>Dlatego mi się to tak nie do końca podobało, ale absolutnie rozumiem argumentację.</td>
+    </tr>
+    <tr id="t13857">
+        <td><a href="#t13857">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13857">13857s</a></td>
+        <td>Czy to jest właśnie ten przykład, kiedy szanuje się czyjąś argumentację, ale mówi się, no ale... Still nie podoba mi się.</td>
+    </tr>
+    <tr id="t13863">
+        <td><a href="#t13863">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13863">13863s</a></td>
+        <td>Tak, tak.</td>
+    </tr>
+    <tr id="t13864">
+        <td><a href="#t13864">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13864">13864s</a></td>
+        <td>To akurat, powiem ci, nie był dla mnie taki problem.</td>
+    </tr>
+    <tr id="t13867">
+        <td><a href="#t13867">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13867">13867s</a></td>
+        <td>Pojawił się przy Blake'u, przy Williamie Blake'u, wielkim mistyku, wielkim poecie, wielkim malarzu, wielkim rytniku.</td>
+    </tr>
+    <tr id="t13876">
+        <td><a href="#t13876">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13876">13876s</a></td>
+        <td>No, geniusz swojej epoki.</td>
+    </tr>
+    <tr id="t13878">
+        <td><a href="#t13878">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13878">13878s</a></td>
+        <td>Można powiedzieć wieszcz.</td>
+    </tr>
+    <tr id="t13880">
+        <td><a href="#t13880">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13880">13880s</a></td>
+        <td>William Blake słynie między innymi, to jest chyba jego najsłynniejszy wiersz, Tiger.</td>
+    </tr>
+    <tr id="t13887">
+        <td><a href="#t13887">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13887">13887s</a></td>
+        <td>w każdym razie to jest</td>
+    </tr>
+    <tr id="t13905">
+        <td><a href="#t13905">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13905">13905s</a></td>
+        <td>ma bardzo specyficzny rytm, to jest raz, i ma bardzo trudny do przełożenia też znaczenie.</td>
+    </tr>
+    <tr id="t13914">
+        <td><a href="#t13914">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13914">13914s</a></td>
+        <td>I to jest wiersz, na którym połamali sobie zęby, połamał sobie zęby mnóstwo twórców.</td>
+    </tr>
+    <tr id="t13919">
+        <td><a href="#t13919">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13919">13919s</a></td>
+        <td>Ale wiesz, to jest... To jest 16 linijek tak naprawdę tylko.</td>
+    </tr>
+    <tr id="t13923">
+        <td><a href="#t13923">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13923">13923s</a></td>
+        <td>To jest ten problem, który ja mam z poezją angielską.</td>
+    </tr>
+    <tr id="t13925">
+        <td><a href="#t13925">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13925">13925s</a></td>
+        <td>Ja poezję angielską kocham i nie jestem w stanie czytać w przekładzie, no bo dla mnie bardzo często traci tę melodię.</td>
+    </tr>
+    <tr id="t13932">
+        <td><a href="#t13932">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13932">13932s</a></td>
+        <td>Także dlatego, że w polszczyźnie najbardziej</td>
+    </tr>
+    <tr id="t13935">
+        <td><a href="#t13935">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13935">13935s</a></td>
+        <td>naturalny jest ośmiosgłoskowiec trocheiczny, czyli i to można układać z tego satyryczne wiersze w nieskończoność.</td>
+    </tr>
+    <tr id="t13948">
+        <td><a href="#t13948">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13948">13948s</a></td>
+        <td>Zmrok wieczorny, babcia siwa przy kominku, głową kiwa, noc zakaczek, okulary, coś pierdoli, babczyny stary.</td>
+    </tr>
+    <tr id="t13953">
+        <td><a href="#t13953">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13953">13953s</a></td>
+        <td>To jest to cały czas.</td>
+    </tr>
+    <tr id="t13955">
+        <td><a href="#t13955">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13955">13955s</a></td>
+        <td>A tej melodii, tej pieśniowości w poezji angielskiej, ja nigdy czegoś takiego w poezji polskiej nie zaznałem.</td>
+    </tr>
+    <tr id="t13961">
+        <td><a href="#t13961">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13961">13961s</a></td>
+        <td>W angielskim tak naprawdę masz yump,</td>
+    </tr>
+    <tr id="t13967">
+        <td><a href="#t13967">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13967">13967s</a></td>
+        <td>i to jest, Szekspir używał, przepraszam, osoba podająca się za Szekspira używała tego i mnóstwo innych twórców z czasów, osoby podającej się za Szekspira, bo moim zdaniem nie było Szekspira.</td>
+    </tr>
+    <tr id="t13992">
+        <td><a href="#t13992">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13992">13992s</a></td>
+        <td>Jestem, że jakby Szekspirolodzy dzielą się na dwie grupy.</td>
+    </tr>
+    <tr id="t13996">
+        <td><a href="#t13996">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=13996">13996s</a></td>
+        <td>Tych, którzy twierdzą, że był Szekspir, znaczy wszyscy się zgadzają, że Szekspir istniał, bo był taki człowiek, natomiast czy on napisał swoje dramaty, to już jest, to już jest inna kwestia i są, jest pół na pół.</td>
+    </tr>
+    <tr id="t14009">
+        <td><a href="#t14009">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14009">14009s</a></td>
+        <td>Część twierdzi, że tak, ten, ten, ten aktorzyna napisał te dramaty, mimo że nie miał żadnych książek w domu i tak był średnio rozgarnięty, a inni twierdzą, że był na przykład Francis Bacon.</td>
+    </tr>
+    <tr id="t14019">
+        <td><a href="#t14019">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14019">14019s</a></td>
+        <td>Jest, jest, jest wielu</td>
+    </tr>
+    <tr id="t14021">
+        <td><a href="#t14021">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14021">14021s</a></td>
+        <td>potencjalnych kandydatów do tego, żeby być wieszczem ze Stanford, ale w każdym razie osoby, które pisały poezję w tamtych czasach, korzystały z tego jambu i on pięknie brzmi i trudno go przełożyć na polski, to się da zrobić, to się da, tylko że tworzymy wtedy zupełnie inne dzieło.</td>
+    </tr>
+    <tr id="t14048">
+        <td><a href="#t14048">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14048">14048s</a></td>
+        <td>I to jest</td>
+    </tr>
+    <tr id="t14049">
+        <td><a href="#t14049">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14049">14049s</a></td>
+        <td>Lokalizacja, to jest dostosowanie produktu z rynku narodowego do rynku docelowego.</td>
+    </tr>
+    <tr id="t14055">
+        <td><a href="#t14055">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14055">14055s</a></td>
+        <td>No bo w polskim YAMP nie funkcjonuje jako tak.</td>
+    </tr>
+    <tr id="t14058">
+        <td><a href="#t14058">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14058">14058s</a></td>
+        <td>To już pewnie można stworzyć, ale... Tak, to jest ten w ogóle problem, że usiłowano zestroje akcentowe przenieść z łaciny na polszczyznę i to się totalnie nie udawało.</td>
+    </tr>
+    <tr id="t14066">
+        <td><a href="#t14066">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14066">14066s</a></td>
+        <td>Ja pamiętam, że się uczyłem właśnie zestrojów akcentowych dla czatów, to jest powiązanie akcentu na sylabę bardzo silnego z... znaczy z sylabą właśnie, więc akcent, sylaba.</td>
+    </tr>
+    <tr id="t14076">
+        <td><a href="#t14076">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14076">14076s</a></td>
+        <td>A w języku polskim akcent jest kuźwa ruchomy.</td>
+    </tr>
+    <tr id="t14079">
+        <td><a href="#t14079">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14079">14079s</a></td>
+        <td>i dlatego dzisiaj możemy się sobie debatować czy powiem.</td>
+    </tr>
+    <tr id="t14084">
+        <td><a href="#t14084">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14084">14084s</a></td>
+        <td>opera, czy opera, tak?</td>
+    </tr>
+    <tr id="t14086">
+        <td><a href="#t14086">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14086">14086s</a></td>
+        <td>Bo przesuwa się cały czas na pozycję drugą od końca, bo taka jest pozycja naturalna w polszczyźnie.</td>
+    </tr>
+    <tr id="t14092">
+        <td><a href="#t14092">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14092">14092s</a></td>
+        <td>I dlatego cholernie ciężko jest zawsze robić przekład właśnie na przykład z łaciny do polszczyzny i też z języków, które wzięły te wszystkie stopy akcentowe i ze stroje z łaciny.</td>
+    </tr>
+    <tr id="t14103">
+        <td><a href="#t14103">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14103">14103s</a></td>
+        <td>No, angielszczyzna wśród nich jest jak najbardziej.</td>
+    </tr>
+    <tr id="t14106">
+        <td><a href="#t14106">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14106">14106s</a></td>
+        <td>Dobra, chodź tutaj do mnie.</td>
+    </tr>
+    <tr id="t14108">
+        <td><a href="#t14108">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14108">14108s</a></td>
+        <td>Ja się zmartwiłem, Rysław, ponieważ nie mogę stworzyć</td>
+    </tr>
+    <tr id="t14113">
+        <td><a href="#t14113">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14113">14113s</a></td>
+        <td>Stworzyć... Klejnotów?</td>
+    </tr>
+    <tr id="t14115">
+        <td><a href="#t14115">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14115">14115s</a></td>
+        <td>Nie, nie, nie, nie.</td>
+    </tr>
+    <tr id="t14116">
+        <td><a href="#t14116">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14116">14116s</a></td>
+        <td>Gniazda na klejnoty.</td>
+    </tr>
+    <tr id="t14117">
+        <td><a href="#t14117">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14117">14117s</a></td>
+        <td>I to mnie bardzo zmartwiło.</td>
+    </tr>
+    <tr id="t14118">
+        <td><a href="#t14118">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14118">14118s</a></td>
+        <td>Czemu nie możesz stworzyć gniazda?</td>
+    </tr>
+    <tr id="t14120">
+        <td><a href="#t14120">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14120">14120s</a></td>
+        <td>Bo nie mam przedmiotu, który to umożliwia.</td>
+    </tr>
+    <tr id="t14122">
+        <td><a href="#t14122">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14122">14122s</a></td>
+        <td>A, to ja ci mogę... Daj mi przedmiot, ja ci go stworzę.</td>
+    </tr>
+    <tr id="t14125">
+        <td><a href="#t14125">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14125">14125s</a></td>
+        <td>Poczekaj, czy ja ci mogę... Tych nie mogę ci dać.</td>
+    </tr>
+    <tr id="t14127">
+        <td><a href="#t14127">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14127">14127s</a></td>
+        <td>Mogę ci stworzyć jakieś tam... Pewnie mi nie możesz dać tego przedmiotu, niestety obawiam się.</td>
+    </tr>
+    <tr id="t14131">
+        <td><a href="#t14131">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14131">14131s</a></td>
+        <td>A to jest... Czy ty robisz w żółtym przedmiocie?</td>
+    </tr>
+    <tr id="t14133">
+        <td><a href="#t14133">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14133">14133s</a></td>
+        <td>To jest żółty przedmiot, znaczy nie, nie robię w żółtym, w legendarnym to robię, w legendarnym gniazdo.</td>
+    </tr>
+    <tr id="t14137">
+        <td><a href="#t14137">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14137">14137s</a></td>
+        <td>A w legendarnym to tak, to w legendarnym może być problem.</td>
+    </tr>
+    <tr id="t14140">
+        <td><a href="#t14140">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14140">14140s</a></td>
+        <td>A jakbyś rzucił ten legendarny... czekaj, ty jesteś u złotnika.</td>
+    </tr>
+    <tr id="t14143">
+        <td><a href="#t14143">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14143">14143s</a></td>
+        <td>Nie, gdzie ty jesteś?</td>
+    </tr>
+    <tr id="t14144">
+        <td><a href="#t14144">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14144">14144s</a></td>
+        <td>Ja jestem teraz u kowala.</td>
+    </tr>
+    <tr id="t14146">
+        <td><a href="#t14146">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14146">14146s</a></td>
+        <td>Ty jesteś u kowala.</td>
+    </tr>
+    <tr id="t14149">
+        <td><a href="#t14149">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14149">14149s</a></td>
+        <td>A ty jesteś gdzieś hen daleko w innym świecie, tak?</td>
+    </tr>
+    <tr id="t14154">
+        <td><a href="#t14154">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14154">14154s</a></td>
+        <td>Nie jesteś w Kiewosadzie.</td>
+    </tr>
+    <tr id="t14155">
+        <td><a href="#t14155">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14155">14155s</a></td>
+        <td>W Kiewosadzie na pewno nie jestem.</td>
+    </tr>
+    <tr id="t14157">
+        <td><a href="#t14157">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14157">14157s</a></td>
+        <td>Teraz z czapy starałem się rozłożyć legendarki.</td>
+    </tr>
+    <tr id="t14161">
+        <td><a href="#t14161">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14161">14161s</a></td>
+        <td>Bo ja jestem w Kiewosadzie, bo w Kiewosadzie możesz zmienić rangę świata po prostu.</td>
+    </tr>
+    <tr id="t14166">
+        <td><a href="#t14166">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14166">14166s</a></td>
+        <td>Na czwartą, bo już pokonałeś w końcu Ciemniacza.</td>
+    </tr>
+    <tr id="t14169">
+        <td><a href="#t14169">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14169">14169s</a></td>
+        <td>Nie wiem czy zauważyłeś, ale pokonałeś Ciemniacza.</td>
+    </tr>
+    <tr id="t14172">
+        <td><a href="#t14172">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14172">14172s</a></td>
+        <td>Nie zauważyłem, nie zauważyłem Rysła, bo to się zdarzyło za szybko.</td>
+    </tr>
+    <tr id="t14177">
+        <td><a href="#t14177">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14177">14177s</a></td>
+        <td>I cienie lasza już nie blokuje drogi do czwartej rangi.</td>
+    </tr>
+    <tr id="t14182">
+        <td><a href="#t14182">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14182">14182s</a></td>
+        <td>Możesz spokojnie... Bardzo mnie to cieszy.</td>
+    </tr>
+    <tr id="t14184">
+        <td><a href="#t14184">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14184">14184s</a></td>
+        <td>Zrobiłeś dla mnie wielką rzecz.</td>
+    </tr>
+    <tr id="t14186">
+        <td><a href="#t14186">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14186">14186s</a></td>
+        <td>Tak, nie mam czegoś, co się nazywa roztrzaskany pryzmat.</td>
+    </tr>
+    <tr id="t14189">
+        <td><a href="#t14189">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14189">14189s</a></td>
+        <td>Tak, tak.</td>
+    </tr>
+    <tr id="t14189">
+        <td><a href="#t14189">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14189">14189s</a></td>
+        <td>Można znaleźć w bossach świata, więc... Musisz tak, boss świata, to wiesz, boss świata będzie za 4 godziny.</td>
+    </tr>
+    <tr id="t14196">
+        <td><a href="#t14196">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14196">14196s</a></td>
+        <td>Ja mam tych pryzmatów sporo, natomiast to nie jest przedmiot, który mogę ci przekazać po prostu.</td>
+    </tr>
+    <tr id="t14201">
+        <td><a href="#t14201">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14201">14201s</a></td>
+        <td>Chyba.</td>
+    </tr>
+    <tr id="t14201">
+        <td><a href="#t14201">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14201">14201s</a></td>
+        <td>Chyba, poczekaj.</td>
+    </tr>
+    <tr id="t14203">
+        <td><a href="#t14203">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14203">14203s</a></td>
+        <td>Ja mogę ci przekazać współczynniki i materiały.</td>
+    </tr>
+    <tr id="t14205">
+        <td><a href="#t14205">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14205">14205s</a></td>
+        <td>Poczekaj.</td>
+    </tr>
+    <tr id="t14206">
+        <td><a href="#t14206">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14206">14206s</a></td>
+        <td>Nie, to jest rzecz nieprzekazywalna.</td>
+    </tr>
+    <tr id="t14208">
+        <td><a href="#t14208">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14208">14208s</a></td>
+        <td>A Rysław jeszcze tak w sprawie przekładu właśnie, czego jesteś zwolennikiem?</td>
+    </tr>
+    <tr id="t14212">
+        <td><a href="#t14212">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14212">14212s</a></td>
+        <td>Czy jesteś zwolennikiem trybu na przykład wymyślania alternatywnych dowcipów funkcjonujących w polszczyźnie i w ogóle nawet przepisywania historii po to, żeby ona była lepsza w języku polskim?</td>
+    </tr>
+    <tr id="t14225">
+        <td><a href="#t14225">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14225">14225s</a></td>
+        <td>Czy też takiego właśnie bardzo ścisłego oddawania i metru... To pierwsze.</td>
+    </tr>
+    <tr id="t14230">
+        <td><a href="#t14230">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14230">14230s</a></td>
+        <td>To pierwsze, no tak sądziłem właśnie.</td>
+    </tr>
+    <tr id="t14232">
+        <td><a href="#t14232">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14232">14232s</a></td>
+        <td>Ja też wolę to.</td>
+    </tr>
+    <tr id="t14233">
+        <td><a href="#t14233">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14233">14233s</a></td>
+        <td>Bo...</td>
+    </tr>
+    <tr id="t14235">
+        <td><a href="#t14235">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14235">14235s</a></td>
+        <td>inaczej musisz sobie radzić przypisami.</td>
+    </tr>
+    <tr id="t14238">
+        <td><a href="#t14238">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14238">14238s</a></td>
+        <td>Tak.</td>
+    </tr>
+    <tr id="t14238">
+        <td><a href="#t14238">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14238">14238s</a></td>
+        <td>Pozwólcie, że wytłumaczę wam ten dowcip.</td>
+    </tr>
+    <tr id="t14240">
+        <td><a href="#t14240">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14240">14240s</a></td>
+        <td>Haha.</td>
+    </tr>
+    <tr id="t14242">
+        <td><a href="#t14242">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14242">14242s</a></td>
+        <td>O i tutaj w przypisie ten dowcip jest śmieszny, macie teraz pękać z rozpuku, bo mamy tutaj interesującą grę słów, wiecie?</td>
+    </tr>
+    <tr id="t14252">
+        <td><a href="#t14252">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14252">14252s</a></td>
+        <td>I teraz śmiejcie się, drodzy czytelnicy.</td>
+    </tr>
+    <tr id="t14254">
+        <td><a href="#t14254">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14254">14254s</a></td>
+        <td>Nie, no zdecydowanie jestem...</td>
+    </tr>
+    <tr id="t14256">
+        <td><a href="#t14256">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14256">14256s</a></td>
+        <td>Chyba, że oczywiście mówimy o jakiejś pracy naukowej, no to wtedy wiadomo, że zostawiamy.</td>
+    </tr>
+    <tr id="t14261">
+        <td><a href="#t14261">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14261">14261s</a></td>
+        <td>Natomiast jeśli mamy beletrystykę, to jestem za tym, żeby próbować to tłumaczyć.</td>
+    </tr>
+    <tr id="t14266">
+        <td><a href="#t14266">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14266">14266s</a></td>
+        <td>Nie zawsze się da, czasami trzeba wymyślać zupełnie nowe rzeczy.</td>
+    </tr>
+    <tr id="t14270">
+        <td><a href="#t14270">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14270">14270s</a></td>
+        <td>Pamiętam, kiedyś z Piotrem Cholewą rozmawiałem, wielkim tłumaczem, który między innymi świat dysku przetłumaczył.</td>
+    </tr>
+    <tr id="t14279">
+        <td><a href="#t14279">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14279">14279s</a></td>
+        <td>i miał taki problem z takim idiomem angielskim, którego użył Terry Pratchett i to było Good fences make good neighbors.</td>
+    </tr>
+    <tr id="t14292">
+        <td><a href="#t14292">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14292">14292s</a></td>
+        <td>I ten idiom znaczy, że dosłownie tłumacząc, że dzięki doby, jeśli płoty są wysokie, to i sąsiedzi żyją z sobą w zgodzie.</td>
+    </tr>
+    <tr id="t14300">
+        <td><a href="#t14300">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14300">14300s</a></td>
+        <td>Tak, to jest filozofia ciotki Petunii.</td>
+    </tr>
+    <tr id="t14303">
+        <td><a href="#t14303">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14303">14303s</a></td>
+        <td>Tak.</td>
+    </tr>
+    <tr id="t14303">
+        <td><a href="#t14303">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14303">14303s</a></td>
+        <td>Natomiast fence po angielsku to jest też... Boże.</td>
+    </tr>
+    <tr id="t14307">
+        <td><a href="#t14307">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14307">14307s</a></td>
+        <td>Proszę o słowo.</td>
+    </tr>
+    <tr id="t14309">
+        <td><a href="#t14309">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14309">14309s</a></td>
+        <td>Fencing szermierka?</td>
+    </tr>
+    <tr id="t14310">
+        <td><a href="#t14310">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14310">14310s</a></td>
+        <td>O to chodzi?</td>
+    </tr>
+    <tr id="t14310">
+        <td><a href="#t14310">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14310">14310s</a></td>
+        <td>Nie, nie.</td>
+    </tr>
+    <tr id="t14310">
+        <td><a href="#t14310">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14310">14310s</a></td>
+        <td>Fenc to jest ten, który podrabia rzeczy.</td>
+    </tr>
+    <tr id="t14312">
+        <td><a href="#t14312">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14312">14312s</a></td>
+        <td>A, a, a. Fałszer.</td>
+    </tr>
+    <tr id="t14316">
+        <td><a href="#t14316">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14316">14316s</a></td>
+        <td>Tak, no ogólnie w każdym razie...</td>
+    </tr>
+    <tr id="t14320">
+        <td><a href="#t14320">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14320">14320s</a></td>
+        <td>miało to znaczenie odmienne niż w tym przysłowiu angielskim, tak?</td>
+    </tr>
+    <tr id="t14327">
+        <td><a href="#t14327">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14327">14327s</a></td>
+        <td>No i mówił, jak sobie poradzić z takim wyzwaniem.</td>
+    </tr>
+    <tr id="t14333">
+        <td><a href="#t14333">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14333">14333s</a></td>
+        <td>I mówił, że zupełnie przepisał ten dowcip, tak?</td>
+    </tr>
+    <tr id="t14335">
+        <td><a href="#t14335">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14335">14335s</a></td>
+        <td>Żeby wyrzucił i płoty, i wyrzucił fałszerzy po to, żeby napisać... Paser, o tym mówią.</td>
+    </tr>
+    <tr id="t14342">
+        <td><a href="#t14342">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14342">14342s</a></td>
+        <td>Paser, właśnie, paser.</td>
+    </tr>
+    <tr id="t14344">
+        <td><a href="#t14344">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14344">14344s</a></td>
+        <td>O, widzicie, przepraszam.</td>
+    </tr>
+    <tr id="t14346">
+        <td><a href="#t14346">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14346">14346s</a></td>
+        <td>Czasami niestety tak jest, że słowa... Afazja.</td>
+    </tr>
+    <tr id="t14348">
+        <td><a href="#t14348">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14348">14348s</a></td>
+        <td>Nie ma co przepraszać.</td>
+    </tr>
+    <tr id="t14351">
+        <td><a href="#t14351">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14351">14351s</a></td>
+        <td>Jestem starszym panem, wiecie.</td>
+    </tr>
+    <tr id="t14354">
+        <td><a href="#t14354">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14354">14354s</a></td>
+        <td>Niech ludzie też, wiesz, widzą, że ludzie, którzy są mistrzami w swoim fachu, mogą nie pamiętać i mogą zapominać, bo to jest taka...</td>
+    </tr>
+    <tr id="t14361">
+        <td><a href="#t14361">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14361">14361s</a></td>
+        <td>To jest taka stygma, która ciąży i ona jest błędną stygmą, stygma ekspercka, jak ja sobie to na swój własny użytek nazywam, że ludziom się wydaje, że jeżeli ktoś na przykład jest groznawcą, to zna wszystkie gry na pamięć.</td>
+    </tr>
+    <tr id="t14374">
+        <td><a href="#t14374">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14374">14374s</a></td>
+        <td>No nie, albo jeżeli jest literaturoznawcą, to zna całą literaturę na pamięć.</td>
+    </tr>
+    <tr id="t14378">
+        <td><a href="#t14378">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14378">14378s</a></td>
+        <td>Ale autentycznie sporo ludzi tak myśli, ponieważ jest sterroryzowany mantra Krzysztofa przez szkolnictwo, które właśnie podaje, tak wiesz, nauczyciel, który stoi przy tablicy i wszystko mówi z pamięci, czyli z niczego, wydaje się właśnie tym, kto wie wszystko, a tak naprawdę po prostu mówi od 30 lat to samo.</td>
+    </tr>
+    <tr id="t14395">
+        <td><a href="#t14395">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14395">14395s</a></td>
+        <td>Rysuar, zrobilibyśmy sobie coś spektakularnego, co ty na to teraz?</td>
+    </tr>
+    <tr id="t14399">
+        <td><a href="#t14399">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14399">14399s</a></td>
+        <td>Proszę cię bardzo, ale najpierw musisz przyjść do mnie i zwiększyć poziom świata.</td>
+    </tr>
+    <tr id="t14402">
+        <td><a href="#t14402">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14402">14402s</a></td>
+        <td>Do tej czwartej rangi świata, dobrze, dobrze.</td>
+    </tr>
+    <tr id="t14404">
+        <td><a href="#t14404">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14404">14404s</a></td>
+        <td>A później możemy robić spektakularne rzeczy, tylko powiem tak, na randze czwartej nie.</td>
+    </tr>
+    <tr id="t14410">
+        <td><a href="#t14410">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14410">14410s</a></td>
+        <td>Dla ciebie nie, bo będziesz stał w miejscu.</td>
+    </tr>
+    <tr id="t14412">
+        <td><a href="#t14412">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14412">14412s</a></td>
+        <td>Ja chciałem zobaczyć coś, co jest też endgame'owego i też czatom pokazać, bo zobowiązałem się, że pokażę, jak wygląda endgame diablowy.</td>
+    </tr>
+    <tr id="t14421">
+        <td><a href="#t14421">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14421">14421s</a></td>
+        <td>Chcesz pokazać Uber Lilit?</td>
+    </tr>
+    <tr id="t14423">
+        <td><a href="#t14423">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14423">14423s</a></td>
+        <td>Coś takiego?</td>
+    </tr>
+    <tr id="t14424">
+        <td><a href="#t14424">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14424">14424s</a></td>
+        <td>Nie, nie, nie, nie, bez przesady.</td>
+    </tr>
+    <tr id="t14425">
+        <td><a href="#t14425">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14425">14425s</a></td>
+        <td>Bo to wiesz, no to zginiemy w sekundach.</td>
+    </tr>
+    <tr id="t14428">
+        <td><a href="#t14428">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14428">14428s</a></td>
+        <td>O, zobaczyliście.</td>
+    </tr>
+    <tr id="t14430">
+        <td><a href="#t14430">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14430">14430s</a></td>
+        <td>Czy dla mnie też i dla nas pewnie elementy MMORPG w Diablo 4 to najsłabsza część?</td>
+    </tr>
+    <tr id="t14436">
+        <td><a href="#t14436">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14436">14436s</a></td>
+        <td>Dla mnie powodują, że czasami trzeba w Diablo 4 grać wtedy, kiedy gra tego chce, a nie wtedy, kiedy ja tego chcę jako graczka.</td>
+    </tr>
+    <tr id="t14441">
+        <td><a href="#t14441">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14441">14441s</a></td>
+        <td>Tak, ja nie znoszę tego, że na przykład boss światowy jest za 4 godziny.</td>
+    </tr>
+    <tr id="t14445">
+        <td><a href="#t14445">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14445">14445s</a></td>
+        <td>Pieprzcie się.</td>
+    </tr>
+    <tr id="t14445">
+        <td><a href="#t14445">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14445">14445s</a></td>
+        <td>To jest to samo, co mam z Genshinem.</td>
+    </tr>
+    <tr id="t14447">
+        <td><a href="#t14447">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14447">14447s</a></td>
+        <td>Nie będę robił codziennie daily questów, nudzi mnie to, denerwuje.</td>
+    </tr>
+    <tr id="t14452">
+        <td><a href="#t14452">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14452">14452s</a></td>
+        <td>Dobra, możesz sobie zmienić poziom teraz.</td>
+    </tr>
+    <tr id="t14453">
+        <td><a href="#t14453">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14453">14453s</a></td>
+        <td>Na drugi.</td>
+    </tr>
+    <tr id="t14455">
+        <td><a href="#t14455">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14455">14455s</a></td>
+        <td>Na czwarty.</td>
+    </tr>
+    <tr id="t14456">
+        <td><a href="#t14456">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14456">14456s</a></td>
+        <td>Na czwarty nie mogę.</td>
+    </tr>
+    <tr id="t14457">
+        <td><a href="#t14457">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14457">14457s</a></td>
+        <td>Jak ty nie możesz?</td>
+    </tr>
+    <tr id="t14458">
+        <td><a href="#t14458">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14458">14458s</a></td>
+        <td>Pokonałeś Eliasza przecież.</td>
+    </tr>
+    <tr id="t14459">
+        <td><a href="#t14459">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14459">14459s</a></td>
+        <td>A nie mogę, teraz się odblokowało.</td>
+    </tr>
+    <tr id="t14461">
+        <td><a href="#t14461">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14461">14461s</a></td>
+        <td>Faktycznie był ten bug, o którym mówiłeś.</td>
+    </tr>
+    <tr id="t14464">
+        <td><a href="#t14464">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14464">14464s</a></td>
+        <td>No i jesteśmy na czwartym poziomie.</td>
+    </tr>
+    <tr id="t14465">
+        <td><a href="#t14465">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14465">14465s</a></td>
+        <td>I teraz pewnie zmienisz na trzeci, bo na czwartym nie będziemy grać, bo tu będzie się wszystko zabijać po prostu.</td>
+    </tr>
+    <tr id="t14471">
+        <td><a href="#t14471">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14471">14471s</a></td>
+        <td>Zrobione.</td>
+    </tr>
+    <tr id="t14472">
+        <td><a href="#t14472">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14472">14472s</a></td>
+        <td>Zrobione.</td>
+    </tr>
+    <tr id="t14473">
+        <td><a href="#t14473">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14473">14473s</a></td>
+        <td>Sangonomiya Kokomi będzie Sangonomiya Kokomi.</td>
+    </tr>
+    <tr id="t14476">
+        <td><a href="#t14476">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14476">14476s</a></td>
+        <td>Sam będę próbował zdobyć bohaterkę zwaną Sangonomiya Kokomi w Genshinie.</td>
+    </tr>
+    <tr id="t14480">
+        <td><a href="#t14480">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14480">14480s</a></td>
+        <td>Bardzo sympatyczna.</td>
+    </tr>
+    <tr id="t14482">
+        <td><a href="#t14482">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14482">14482s</a></td>
+        <td>Jest dla Rysława przypis, jak robiliśmy stream charytatywny, zobowiązałem się do powiedzenia Sangonomiya Kokomi 300 razy.</td>
+    </tr>
+    <tr id="t14490">
+        <td><a href="#t14490">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14490">14490s</a></td>
+        <td>I zrobiłem to.</td>
+    </tr>
+    <tr id="t14491">
+        <td><a href="#t14491">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14491">14491s</a></td>
+        <td>A mi się postać zwiesiła, wiesz?</td>
+    </tr>
+    <tr id="t14492">
+        <td><a href="#t14492">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14492">14492s</a></td>
+        <td>Nie mogę się ruszać.</td>
+    </tr>
+    <tr id="t14493">
+        <td><a href="#t14493">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14493">14493s</a></td>
+        <td>O, nas wciąga piekielny... ale to jest koniec za 31 minut, czyli jest piekielny przypływ jakiś, o co w tym chodzi?</td>
+    </tr>
+    <tr id="t14499">
+        <td><a href="#t14499">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14499">14499s</a></td>
+        <td>Znaczy możemy coś zrobić, to się zbiera specjalne takie popioły, dzięki którym otwierasz skrzynki, w których są fajne rzeczy.</td>
+    </tr>
+    <tr id="t14506">
+        <td><a href="#t14506">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14506">14506s</a></td>
+        <td>Natomiast ja się nie mogę ruszać, nie wiem czemu, w ogóle.</td>
+    </tr>
+    <tr id="t14508">
+        <td><a href="#t14508">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14508">14508s</a></td>
+        <td>Ani na myszce, ani na tym.</td>
+    </tr>
+    <tr id="t14509">
+        <td><a href="#t14509">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14509">14509s</a></td>
+        <td>Uważnie?</td>
+    </tr>
+    <tr id="t14511">
+        <td><a href="#t14511">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14511">14511s</a></td>
+        <td>Uważnie, uważnie, nic nie mogę zrobić.</td>
+    </tr>
+    <tr id="t14512">
+        <td><a href="#t14512">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14512">14512s</a></td>
+        <td>Stoję w miejscu... A jak teleportu użyjesz?</td>
+    </tr>
+    <tr id="t14516">
+        <td><a href="#t14516">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14516">14516s</a></td>
+        <td>O, użyłem.</td>
+    </tr>
+    <tr id="t14518">
+        <td><a href="#t14518">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14518">14518s</a></td>
+        <td>Ja jestem ekspertem od unikania pułapek.</td>
+    </tr>
+    <tr id="t14519">
+        <td><a href="#t14519">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14519">14519s</a></td>
+        <td>Chyba że w życiu.</td>
+    </tr>
+    <tr id="t14520">
+        <td><a href="#t14520">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14520">14520s</a></td>
+        <td>To gorzej.</td>
+    </tr>
+    <tr id="t14536">
+        <td><a href="#t14536">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14536">14536s</a></td>
+        <td>Dobra, to ja zarządzam w takim razie, tutaj jest aspekt bezdennej ciemności, jest jakiś dungeonik, jest tam jeszcze jakieś zadanko i możemy sobie to zrobić na radosny koniec.</td>
+    </tr>
+    <tr id="t14546">
+        <td><a href="#t14546">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14546">14546s</a></td>
+        <td>Możemy, proszę bardzo.</td>
+    </tr>
+    <tr id="t14547">
+        <td><a href="#t14547">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14547">14547s</a></td>
+        <td>Bo ja zawsze lubię, by końce były spektakularne.</td>
+    </tr>
+    <tr id="t14553">
+        <td><a href="#t14553">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14553">14553s</a></td>
+        <td>To muszę unikać walki.</td>
+    </tr>
+    <tr id="t14557">
+        <td><a href="#t14557">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14557">14557s</a></td>
+        <td>że spektakularnie cię ratowałeś przed śmiercią.</td>
+    </tr>
+    <tr id="t14559">
+        <td><a href="#t14559">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14559">14559s</a></td>
+        <td>Wiesz co, Wrysław, jeżeli będziesz unikać walki, to my spędzimy w tym dungeonie 40 minut.</td>
+    </tr>
+    <tr id="t14563">
+        <td><a href="#t14563">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14563">14563s</a></td>
+        <td>Luzik.</td>
+    </tr>
+    <tr id="t14568">
+        <td><a href="#t14568">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14568">14568s</a></td>
+        <td>Szczyciłeś się opowieścią o wytrzymałości urynalnej.</td>
+    </tr>
+    <tr id="t14576">
+        <td><a href="#t14576">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14576">14576s</a></td>
+        <td>O, jest piękne słowo.</td>
+    </tr>
+    <tr id="t14578">
+        <td><a href="#t14578">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14578">14578s</a></td>
+        <td>Rzadko używane na nocnik.</td>
+    </tr>
+    <tr id="t14579">
+        <td><a href="#t14579">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14579">14579s</a></td>
+        <td>Urynał.</td>
+    </tr>
+    <tr id="t14581">
+        <td><a href="#t14581">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14581">14581s</a></td>
+        <td>Teraz mi się przypomniało dzięki tobie.</td>
+    </tr>
+    <tr id="t14584">
+        <td><a href="#t14584">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14584">14584s</a></td>
+        <td>Polszczyzna jest wspaniała pod tym względem.</td>
+    </tr>
+    <tr id="t14587">
+        <td><a href="#t14587">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14587">14587s</a></td>
+        <td>Polszczyzna jest pięknym językiem.</td>
+    </tr>
+    <tr id="t14589">
+        <td><a href="#t14589">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14589">14589s</a></td>
+        <td>Jakkolwiek by się człowiek zachwycał melodią języka angielskiego, to jednak są takie momenty, których nie jesteś w stanie podrobić.</td>
+    </tr>
+    <tr id="t14598">
+        <td><a href="#t14598">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14598">14598s</a></td>
+        <td>takiego cieniowania jak w języku polskim, nie tylu delikatnych aspektów słów różnych.</td>
+    </tr>
+    <tr id="t14607">
+        <td><a href="#t14607">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14607">14607s</a></td>
+        <td>W polskim możesz każde słowo odmieniać na mnóstwo sposobów, zmiękczać, utwardzać je, sprawiać, że się zmienia.</td>
+    </tr>
+    <tr id="t14618">
+        <td><a href="#t14618">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14618">14618s</a></td>
+        <td>W angielskim nie za bardzo.</td>
+    </tr>
+    <tr id="t14620">
+        <td><a href="#t14620">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14620">14620s</a></td>
+        <td>W angielskim nie masz zdrobnień takich, nie powiesz... Wiem, że zdrobnienia mogą niektórych razić, ale... O czemu?</td>
+    </tr>
+    <tr id="t14627">
+        <td><a href="#t14627">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14627">14627s</a></td>
+        <td>Są osoby, które tak reagują alergicznie na zdrobnienia.</td>
+    </tr>
+    <tr id="t14632">
+        <td><a href="#t14632">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14632">14632s</a></td>
+        <td>Przesadne zdrobnienia też nie są dobre.</td>
+    </tr>
+    <tr id="t14634">
+        <td><a href="#t14634">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14634">14634s</a></td>
+        <td>Natomiast chodzi o to, że załóżmy, że mamy postać taką, która lubi zdrobnienia i pisze coś takiego.</td>
+    </tr>
+    <tr id="t14641">
+        <td><a href="#t14641">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14641">14641s</a></td>
+        <td>A wstałem sobie raniutko, zajrzałem pod łóżeczko i tam czekały na mnie moje ulubieniusie papucie.</td>
+    </tr>
+    <tr id="t14650">
+        <td><a href="#t14650">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14650">14650s</a></td>
+        <td>Zjadłem się.</td>
+    </tr>
+    <tr id="t14651">
+        <td><a href="#t14651">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14651">14651s</a></td>
+        <td>Tego nie przełożysz na angielski.</td>
+    </tr>
+    <tr id="t14652">
+        <td><a href="#t14652">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14652">14652s</a></td>
+        <td>To prawda.</td>
+    </tr>
+    <tr id="t14653">
+        <td><a href="#t14653">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14653">14653s</a></td>
+        <td>Tego nie przełożysz na angielski, z tym samym</td>
+    </tr>
+    <tr id="t14656">
+        <td><a href="#t14656">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14656">14656s</a></td>
+        <td>Z tą samą atmosferą, z tym samym rejestrem językowym.</td>
+    </tr>
+    <tr id="t14660">
+        <td><a href="#t14660">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14660">14660s</a></td>
+        <td>Tak.</td>
+    </tr>
+    <tr id="t14661">
+        <td><a href="#t14661">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14661">14661s</a></td>
+        <td>Znaczy ja pamiętam taką tendencję, w latach 90-tych jeszcze kelnerzy tak mieli, że mieli taką manierę mówienia, to co dzisiaj na obiadeczek będzie.</td>
+    </tr>
+    <tr id="t14669">
+        <td><a href="#t14669">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14669">14669s</a></td>
+        <td>Jeszcze kierowniczku dodaj i byłoby już w ogóle super.</td>
+    </tr>
+    <tr id="t14672">
+        <td><a href="#t14672">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14672">14672s</a></td>
+        <td>Słuchaj, możesz się do mnie aportować.</td>
+    </tr>
+    <tr id="t14674">
+        <td><a href="#t14674">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14674">14674s</a></td>
+        <td>Właśnie się do mnie aportowałem.</td>
+    </tr>
+    <tr id="t14675">
+        <td><a href="#t14675">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14675">14675s</a></td>
+        <td>Właśnie jestem.</td>
+    </tr>
+    <tr id="t14676">
+        <td><a href="#t14676">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14676">14676s</a></td>
+        <td>Dobrze.</td>
+    </tr>
+    <tr id="t14677">
+        <td><a href="#t14677">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14677">14677s</a></td>
+        <td>Ty już jesteś w środku tutaj?</td>
+    </tr>
+    <tr id="t14678">
+        <td><a href="#t14678">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14678">14678s</a></td>
+        <td>Jeszcze nie, teraz włażę do tych kazamatów, tak.</td>
+    </tr>
+    <tr id="t14685">
+        <td><a href="#t14685">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14685">14685s</a></td>
+        <td>Ja Ciebie tutaj widzę, przynajmniej widziałem.</td>
+    </tr>
+    <tr id="t14688">
+        <td><a href="#t14688">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14688">14688s</a></td>
+        <td>W roszczeniach Aniki jesteś, tak?</td>
+    </tr>
+    <tr id="t14690">
+        <td><a href="#t14690">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14690">14690s</a></td>
+        <td>Bardzo możliwe.</td>
+    </tr>
+    <tr id="t14692">
+        <td><a href="#t14692">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14692">14692s</a></td>
+        <td>Roszczenie Aniki w grobowcu zamarzniętych, tak.</td>
+    </tr>
+    <tr id="t14696">
+        <td><a href="#t14696">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14696">14696s</a></td>
+        <td>Wydaje mi się, że w grobowcu zamarzniętych Anika nie powinna mieć żadnych roszczeń.</td>
+    </tr>
+    <tr id="t14700">
+        <td><a href="#t14700">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14700">14700s</a></td>
+        <td>Najpierw pisze, że u mnie nie doszło do tego, że ma masę rzeczy, które są lepsze od moich, ale nie mogę ich zmienić, bo brakuje mi czegoś, a nigdy mój czas na granie nie pokrywa się z wydarzeniami w Diablo 4.</td>
+    </tr>
+    <tr id="t14709">
+        <td><a href="#t14709">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14709">14709s</a></td>
+        <td>Rozumiem twój ból.</td>
+    </tr>
+    <tr id="t14711">
+        <td><a href="#t14711">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14711">14711s</a></td>
+        <td>Uważam naprawdę, że nic by tej grze się nie stało.</td>
+    </tr>
+    <tr id="t14715">
+        <td><a href="#t14715">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14715">14715s</a></td>
+        <td>Nie wiem, czy Rysław się zgodzisz, ale uważam, że nic by się tej grze nie stało, gdyby była jednak opcja takiego doświadczenia singlowego z pominięciem...</td>
+    </tr>
+    <tr id="t14723">
+        <td><a href="#t14723">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14723">14723s</a></td>
+        <td>komponentu czy modułu MMORPG, prawda?</td>
+    </tr>
+    <tr id="t14728">
+        <td><a href="#t14728">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14728">14728s</a></td>
+        <td>W Diablo 3 już tego nie było.</td>
+    </tr>
+    <tr id="t14731">
+        <td><a href="#t14731">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14731">14731s</a></td>
+        <td>W Diablo 3 tylko na konsolach była możliwość gry poza siecią, bo na PC trzeba było mieć cały czas połączenie.</td>
+    </tr>
+    <tr id="t14742">
+        <td><a href="#t14742">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14742">14742s</a></td>
+        <td>Pytanie jest też do ciebie.</td>
+    </tr>
+    <tr id="t14745">
+        <td><a href="#t14745">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14745">14745s</a></td>
+        <td>Dlaczego Capcom poruszył lokalizację nowych Residentów?</td>
+    </tr>
+    <tr id="t14749">
+        <td><a href="#t14749">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14749">14749s</a></td>
+        <td>Nie mam zielonego pojęcia, naprawdę.</td>
+    </tr>
+    <tr id="t14750">
+        <td><a href="#t14750">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14750">14750s</a></td>
+        <td>Chciałbym wiedzieć, chciałbym powiedzieć, nie mam zielonego pojęcia.</td>
+    </tr>
+    <tr id="t14753">
+        <td><a href="#t14753">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14753">14753s</a></td>
+        <td>Dla mnie to jest głupota.</td>
+    </tr>
+    <tr id="t14754">
+        <td><a href="#t14754">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14754">14754s</a></td>
+        <td>Prawda?</td>
+    </tr>
+    <tr id="t14755">
+        <td><a href="#t14755">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14755">14755s</a></td>
+        <td>Zwłaszcza, że została zlokalizowana gra poniekąd w Polsce niszowa, czyli Monster Hunter.</td>
+    </tr>
+    <tr id="t14761">
+        <td><a href="#t14761">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14761">14761s</a></td>
+        <td>Nie wiem, nie wiem.</td>
+    </tr>
+    <tr id="t14763">
+        <td><a href="#t14763">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14763">14763s</a></td>
+        <td>Monster Hunter był znowuśle bardzo popularny w którymś momencie.</td>
+    </tr>
+    <tr id="t14766">
+        <td><a href="#t14766">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14766">14766s</a></td>
+        <td>Ale nie w Polsce.</td>
+    </tr>
+    <tr id="t14767">
+        <td><a href="#t14767">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14767">14767s</a></td>
+        <td>O to chodzi.</td>
+    </tr>
+    <tr id="t14768">
+        <td><a href="#t14768">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14768">14768s</a></td>
+        <td>On w Japonii zawsze był popularny.</td>
+    </tr>
+    <tr id="t14770">
+        <td><a href="#t14770">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14770">14770s</a></td>
+        <td>Tam jeszcze wersje na PSP, na konsolę przenośnią w Somy, były niezmiernie popularne.</td>
+    </tr>
+    <tr id="t14775">
+        <td><a href="#t14775">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14775">14775s</a></td>
+        <td>Był też popularny w Stanach.</td>
+    </tr>
+    <tr id="t14776">
+        <td><a href="#t14776">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14776">14776s</a></td>
+        <td>W Europie nigdy tej popularności nie zdobył na poziomie Japonii czy Stanów.</td>
+    </tr>
+    <tr id="t14782">
+        <td><a href="#t14782">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14782">14782s</a></td>
+        <td>Ale nie wydaje mi się, że była niszowa, znaczy sporo znam ludzi, którzy... W Polsce wydaje mi się, że nie, że wiesz, a dostała pełną lokalizację, sorki, że tak przychodzę jak maszyna tutaj do cięcia metalu.</td>
+    </tr>
+    <tr id="t14791">
+        <td><a href="#t14791">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14791">14791s</a></td>
+        <td>Bardzo dobrze, ja, wiesz, prawda jest taka, Rysław, że mnie trochę denerwowało to, że wydawało mi się, że dzielnie, dzielnie gram, a widzę, że trzeba jeszcze bardzo dużo w tej grze czasu spędzić, żeby mieć właśnie taki feel, który miałem już po jednokrotnym przejściu Diablo 3, że rzeczywiście wszystko umierało dokładnie w ten sposób.</td>
+    </tr>
+    <tr id="t14813">
+        <td><a href="#t14813">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14813">14813s</a></td>
+        <td>Nie wiem czy w Diablo 3 było inne podejście, bo tam było więcej poziomów trudności jednak.</td>
+    </tr>
+    <tr id="t14819">
+        <td><a href="#t14819">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14819">14819s</a></td>
+        <td>Też ja się cały czas łapię na tym, żeby wiesz nie porównywać gry, która miała wsparcie przez 10 lat dosłownie z grą, która wyszła parę miesięcy temu.</td>
+    </tr>
+    <tr id="t14828">
+        <td><a href="#t14828">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14828">14828s</a></td>
+        <td>Muszę sobie to przypominać.</td>
+    </tr>
+    <tr id="t14832">
+        <td><a href="#t14832">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14832">14832s</a></td>
+        <td>Dobrze.</td>
+    </tr>
+    <tr id="t14835">
+        <td><a href="#t14835">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14835">14835s</a></td>
+        <td>Bardzo dobrze już nie żyje, bardzo dobrze.</td>
+    </tr>
+    <tr id="t14837">
+        <td><a href="#t14837">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14837">14837s</a></td>
+        <td>Tak to trochę wygląda.</td>
+    </tr>
+    <tr id="t14840">
+        <td><a href="#t14840">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14840">14840s</a></td>
+        <td>A Zeldy nie zlokalizują nigdy, ponieważ Nintendo ma w życiu Polaków, niestety.</td>
+    </tr>
+    <tr id="t14846">
+        <td><a href="#t14846">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14846">14846s</a></td>
+        <td>Sądzę, że to jest problem bardziej skomplikowany.</td>
+    </tr>
+    <tr id="t14849">
+        <td><a href="#t14849">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14849">14849s</a></td>
+        <td>To jest problem bardziej skomplikowany, albo nie zebraliśmy.</td>
+    </tr>
+    <tr id="t14851">
+        <td><a href="#t14851">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14851">14851s</a></td>
+        <td>Tutaj zostało nie zebrane, wiesz?</td>
+    </tr>
+    <tr id="t14854">
+        <td><a href="#t14854">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14854">14854s</a></td>
+        <td>To jest problem inny i sądzę, że związany jest z mentalnością też tej jakże japońskiej korporacji.</td>
+    </tr>
+    <tr id="t14864">
+        <td><a href="#t14864">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14864">14864s</a></td>
+        <td>Oni pewnie by chcieli, sądzę, że wchodząc na dany rynek, chcieliby mieć cały pakiet.</td>
+    </tr>
+    <tr id="t14869">
+        <td><a href="#t14869">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14869">14869s</a></td>
+        <td>Tak.</td>
+    </tr>
+    <tr id="t14869">
+        <td><a href="#t14869">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14869">14869s</a></td>
+        <td>Więc interfejs konsoli, co nie jest trudne do zrobienia, ale także wsparcie internetowe.</td>
+    </tr>
+    <tr id="t14875">
+        <td><a href="#t14875">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14875">14875s</a></td>
+        <td>Polski dystrybutor, nie mam polskiego dystrybutora Nintendo, jest czeski dystrybutor, który w Polsce pracuje.</td>
+    </tr>
+    <tr id="t14880">
+        <td><a href="#t14880">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14880">14880s</a></td>
+        <td>O proszę.</td>
+    </tr>
+    <tr id="t14881">
+        <td><a href="#t14881">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14881">14881s</a></td>
+        <td>Firma Conquest to jest firma czeska i ona się zajmuje polskim rynkiem.</td>
+    </tr>
+    <tr id="t14885">
+        <td><a href="#t14885">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14885">14885s</a></td>
+        <td>Hmm.</td>
+    </tr>
+    <tr id="t14886">
+        <td><a href="#t14886">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14886">14886s</a></td>
+        <td>Więc... Pewnie by chcieli zlokalizować od razu wszystkie swoje gry i może uznają, że jest za wcześnie albo... Nie, powiem tak.</td>
+    </tr>
+    <tr id="t14896">
+        <td><a href="#t14896">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14896">14896s</a></td>
+        <td>Gdyby Nintendo się do mnie zwróciło...</td>
+    </tr>
+    <tr id="t14900">
+        <td><a href="#t14900">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14900">14900s</a></td>
+        <td>Przeszczęśliwy byłbym.</td>
+    </tr>
+    <tr id="t14902">
+        <td><a href="#t14902">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14902">14902s</a></td>
+        <td>Udało mi się znaleźć ostatnią duszyczkę czy cokolwiek.</td>
+    </tr>
+    <tr id="t14905">
+        <td><a href="#t14905">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14905">14905s</a></td>
+        <td>Animus, przepraszam.</td>
+    </tr>
+    <tr id="t14907">
+        <td><a href="#t14907">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14907">14907s</a></td>
+        <td>Animus, tak.</td>
+    </tr>
+    <tr id="t14908">
+        <td><a href="#t14908">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14908">14908s</a></td>
+        <td>Ożywiacza.</td>
+    </tr>
+    <tr id="t14911">
+        <td><a href="#t14911">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14911">14911s</a></td>
+        <td>Ale to jest piękne słowo.</td>
+    </tr>
+    <tr id="t14914">
+        <td><a href="#t14914">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14914">14914s</a></td>
+        <td>Lubię też jego użycie w Assassin's Creedzie, gdzie jest to wzięte ewidentnie.</td>
+    </tr>
+    <tr id="t14919">
+        <td><a href="#t14919">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14919">14919s</a></td>
+        <td>Albo właśnie jako ożywiacz wspomnień, prawda?</td>
+    </tr>
+    <tr id="t14921">
+        <td><a href="#t14921">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14921">14921s</a></td>
+        <td>Albo też to była moja druga interpretacja z Junga, z Animusa i Animy.</td>
+    </tr>
+    <tr id="t14925">
+        <td><a href="#t14925">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14925">14925s</a></td>
+        <td>Hmm?</td>
+    </tr>
+    <tr id="t14926">
+        <td><a href="#t14926">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14926">14926s</a></td>
+        <td>Czy czytaliśmy cykl Luna Jana McDonalda?</td>
+    </tr>
+    <tr id="t14928">
+        <td><a href="#t14928">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14928">14928s</a></td>
+        <td>Ja jeszcze nie dotarłem do Luny, ale mam na półce.</td>
+    </tr>
+    <tr id="t14931">
+        <td><a href="#t14931">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14931">14931s</a></td>
+        <td>Ja też nie czytałem.</td>
+    </tr>
+    <tr id="t14931">
+        <td><a href="#t14931">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14931">14931s</a></td>
+        <td>Liczy się?</td>
+    </tr>
+    <tr id="t14933">
+        <td><a href="#t14933">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14933">14933s</a></td>
+        <td>Ja nie czytałem.</td>
+    </tr>
+    <tr id="t14935">
+        <td><a href="#t14935">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14935">14935s</a></td>
+        <td>Krzysztof, ty dalej masz jamnika na głowie, czujesz to?</td>
+    </tr>
+    <tr id="t14936">
+        <td><a href="#t14936">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14936">14936s</a></td>
+        <td>Nie, to jest tak dobrze zrobiona opaska, że nie uciska.</td>
+    </tr>
+    <tr id="t14939">
+        <td><a href="#t14939">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14939">14939s</a></td>
+        <td>To jest wspaniałe absolutnie.</td>
+    </tr>
+    <tr id="t14942">
+        <td><a href="#t14942">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14942">14942s</a></td>
+        <td>Dobra, tutaj, bo sądzę, że tutaj są przeciwnicy dla ciebie dość wymagający.</td>
+    </tr>
+    <tr id="t14947">
+        <td><a href="#t14947">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14947">14947s</a></td>
+        <td>Więc zrobimy sobie przejście walca.</td>
+    </tr>
+    <tr id="t14950">
+        <td><a href="#t14950">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14950">14950s</a></td>
+        <td>Ale muszę wyznać, że i tak bardzo mnie cieszą te animacje Zaklęć Ognistych.</td>
+    </tr>
+    <tr id="t14956">
+        <td><a href="#t14956">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14956">14956s</a></td>
+        <td>Gdyby zostały one zbuffowane, nie obraziłbym się.</td>
+    </tr>
+    <tr id="t14960">
+        <td><a href="#t14960">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14960">14960s</a></td>
+        <td>Bo Hydra Ognista w Diablo 3 powodowała, że wszystko ginęło, zanim zdążyło się odezwać.</td>
+    </tr>
+    <tr id="t14967">
+        <td><a href="#t14967">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14967">14967s</a></td>
+        <td>Jakby liczyło się to, co mam na półce, to całkiem nieźle byłabym oczytana.</td>
+    </tr>
+    <tr id="t14971">
+        <td><a href="#t14971">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14971">14971s</a></td>
+        <td>O to chodzi.</td>
+    </tr>
+    <tr id="t14972">
+        <td><a href="#t14972">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14972">14972s</a></td>
+        <td>Trzeba sobie właśnie dla tego boostować przyjemność.</td>
+    </tr>
+    <tr id="t14977">
+        <td><a href="#t14977">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14977">14977s</a></td>
+        <td>Ja myślę, że niepotrzebnie mówimy o kubkach wstydu.</td>
+    </tr>
+    <tr id="t14980">
+        <td><a href="#t14980">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14980">14980s</a></td>
+        <td>Bo nie ma nic wstydliwego w tym, że się nie ma czegoś przeczytanego, bo spoiler alert, zawsze jest coś nieprzeczytane.</td>
+    </tr>
+    <tr id="t14987">
+        <td><a href="#t14987">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14987">14987s</a></td>
+        <td>Zawsze jest coś do ogrania.</td>
+    </tr>
+    <tr id="t14989">
+        <td><a href="#t14989">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14989">14989s</a></td>
+        <td>I dla mnie to jest szczęśliwe.</td>
+    </tr>
+    <tr id="t14990">
+        <td><a href="#t14990">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14990">14990s</a></td>
+        <td>Nie wiem jak ty masz, Rysław, ale ja się cieszę, jak mam jeszcze coś do obejrzenia, do ogrania.</td>
+    </tr>
+    <tr id="t14995">
+        <td><a href="#t14995">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=14995">14995s</a></td>
+        <td>Ja chyba tak nie mam, bo zdaję sobie sprawę z upływającego czasu coraz bardziej niestety.</td>
+    </tr>
+    <tr id="t15003">
+        <td><a href="#t15003">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15003">15003s</a></td>
+        <td>Ostatnio miałem też takie sytuacje</td>
+    </tr>
+    <tr id="t15005">
+        <td><a href="#t15005">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15005">15005s</a></td>
+        <td>też tak powiem w życiu prywatnym, że od kolega z dzieciństwa zmarł albo 46 lat miał, nie?</td>
+    </tr>
+    <tr id="t15016">
+        <td><a href="#t15016">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15016">15016s</a></td>
+        <td>Czyli sporo młodszy ode mnie, ale jednak tak... Moja mama niedawno zmarła i tak mam... Kurczę, plus mój serdeczny przyjaciel ma takie też nastawienie, że</td>
+    </tr>
+    <tr id="t15035">
+        <td><a href="#t15035">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15035">15035s</a></td>
+        <td>Słuchaj, mamy 50 lat.</td>
+    </tr>
+    <tr id="t15036">
+        <td><a href="#t15036">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15036">15036s</a></td>
+        <td>Skończone.</td>
+    </tr>
+    <tr id="t15038">
+        <td><a href="#t15038">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15038">15038s</a></td>
+        <td>Zaraz...</td>
+    </tr>
+    <tr id="t15041">
+        <td><a href="#t15041">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15041">15041s</a></td>
+        <td>Czy wiesz, że 20% mężczyzn nie dożywa 60. roku życia, nie?</td>
+    </tr>
+    <tr id="t15045">
+        <td><a href="#t15045">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15045">15045s</a></td>
+        <td>I tak... Pilnij, zmieńmy temat.</td>
+    </tr>
+    <tr id="t15048">
+        <td><a href="#t15048">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15048">15048s</a></td>
+        <td>No, więc powiem ci, że tak.</td>
+    </tr>
+    <tr id="t15050">
+        <td><a href="#t15050">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15050">15050s</a></td>
+        <td>Mnie kubki wstydu irytują, że nie potrafię dobrze zarządzać swoim czasem.</td>
+    </tr>
+    <tr id="t15055">
+        <td><a href="#t15055">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15055">15055s</a></td>
+        <td>Rozumiem.</td>
+    </tr>
+    <tr id="t15055">
+        <td><a href="#t15055">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15055">15055s</a></td>
+        <td>To ja mam od wroga, powiem ci.</td>
+    </tr>
+    <tr id="t15057">
+        <td><a href="#t15057">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15057">15057s</a></td>
+        <td>Ja się kompletnie tego pozbyłem, ponieważ zaznałem w swoim życiu momentu takiego, w którym obejrzałem wszystko, co chciałem, zagrałem we wszystko, co chciałem, przeczytałem wszystko, co chciałem, bo byłem na bezrobocie przez rok.</td>
+    </tr>
+    <tr id="t15069">
+        <td><a href="#t15069">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15069">15069s</a></td>
+        <td>Okej.</td>
+    </tr>
+    <tr id="t15070">
+        <td><a href="#t15070">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15070">15070s</a></td>
+        <td>Okej.</td>
+    </tr>
+    <tr id="t15092">
+        <td><a href="#t15092">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15092">15092s</a></td>
+        <td>No to dobre podejście, może też tak zacznę.</td>
+    </tr>
+    <tr id="t15094">
+        <td><a href="#t15094">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15094">15094s</a></td>
+        <td>Zresztą wiesz, na przykład weźmy fantasy, tak?</td>
+    </tr>
+    <tr id="t15097">
+        <td><a href="#t15097">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15097">15097s</a></td>
+        <td>Jest bardzo niewiele fantasy.</td>
+    </tr>
+    <tr id="t15098">
+        <td><a href="#t15098">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15098">15098s</a></td>
+        <td>Poczekaj, dostałem miecz dwuręczny święty.</td>
+    </tr>
+    <tr id="t15100">
+        <td><a href="#t15100">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15100">15100s</a></td>
+        <td>Unikalny.</td>
+    </tr>
+    <tr id="t15101">
+        <td><a href="#t15101">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15101">15101s</a></td>
+        <td>Unikalny dostałem.</td>
+    </tr>
+    <tr id="t15102">
+        <td><a href="#t15102">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15102">15102s</a></td>
+        <td>Co tam mi przeszło?</td>
+    </tr>
+    <tr id="t15103">
+        <td><a href="#t15103">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15103">15103s</a></td>
+        <td>Jesteś święty to jest słaby, bo no... do wyrzucenia.</td>
+    </tr>
+    <tr id="t15108">
+        <td><a href="#t15108">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15108">15108s</a></td>
+        <td>To jest... i widzisz, i tego... Ryszard, tego nie powinno być w Diablo.</td>
+    </tr>
+    <tr id="t15112">
+        <td><a href="#t15112">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15112">15112s</a></td>
+        <td>Powiedzmy sobie uczciwie.</td>
+    </tr>
+    <tr id="t15113">
+        <td><a href="#t15113">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15113">15113s</a></td>
+        <td>Jak wypada przedmiot, to powinniśmy dyszyć z ekscytacji.</td>
+    </tr>
+    <tr id="t15116">
+        <td><a href="#t15116">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15116">15116s</a></td>
+        <td>Tak, ale on jest na niższym poziomie, nie?</td>
+    </tr>
+    <tr id="t15119">
+        <td><a href="#t15119">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15119">15119s</a></td>
+        <td>Także ten...</td>
+    </tr>
+    <tr id="t15121">
+        <td><a href="#t15121">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15121">15121s</a></td>
+        <td>No więc ja tak mam właśnie... Dlaczego brakuje kluczowego obiektu?</td>
+    </tr>
+    <tr id="t15125">
+        <td><a href="#t15125">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15125">15125s</a></td>
+        <td>Zanieść posążek na piedestal?</td>
+    </tr>
+    <tr id="t15127">
+        <td><a href="#t15127">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15127">15127s</a></td>
+        <td>Musimy pójść jeszcze po posążek starożytny.</td>
+    </tr>
+    <tr id="t15131">
+        <td><a href="#t15131">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15131">15131s</a></td>
+        <td>Dlatego też jak patrzę na fantazy i myślę sobie, cholera jasna, wszystko już obejrzałem.</td>
+    </tr>
+    <tr id="t15135">
+        <td><a href="#t15135">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15135">15135s</a></td>
+        <td>No nie ma takiej fantazy, której bym nie znał, bo akurat nie ma też wielu fantazy produkcji, a bardzo lubię.</td>
+    </tr>
+    <tr id="t15141">
+        <td><a href="#t15141">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15141">15141s</a></td>
+        <td>Tak samo nie ma wielu powieści fantasy, które mega bym chciał przeczytać, bo spełniają pewne aspekty.</td>
+    </tr>
+    <tr id="t15147">
+        <td><a href="#t15147">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15147">15147s</a></td>
+        <td>A jak tam fantasy, takie żenujące fantasy z lat osiemdziesiątych, na przykład Bliźniacy Barbarzyńcy?</td>
+    </tr>
+    <tr id="t15154">
+        <td><a href="#t15154">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15154">15154s</a></td>
+        <td>No właśnie, właśnie po to nigdy nie sięgałem.</td>
+    </tr>
+    <tr id="t15157">
+        <td><a href="#t15157">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15157">15157s</a></td>
+        <td>Tak samo wiesz, Czerw Fantastyczny mnie złapała na tym, że nie znam Arivalda z Wybrzeża.</td>
+    </tr>
+    <tr id="t15164">
+        <td><a href="#t15164">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15164">15164s</a></td>
+        <td>Okej.</td>
+    </tr>
+    <tr id="t15165">
+        <td><a href="#t15165">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15165">15165s</a></td>
+        <td>No i wiesz, to są takie rzeczy, które...</td>
+    </tr>
+    <tr id="t15167">
+        <td><a href="#t15167">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15167">15167s</a></td>
+        <td>Są wtedy, kiedy osiągnę poziom desperacji.</td>
+    </tr>
+    <tr id="t15170">
+        <td><a href="#t15170">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15170">15170s</a></td>
+        <td>Ale wciąż liczę na to, że, wiesz, znajdę coś, co rzeczywiście rozsmaruje mnie tak po ziemi, jak na przykład rozsmarowały mnie pierwsze tony Malazanu albo Archiwum Bożowego Światła.</td>
+    </tr>
+    <tr id="t15180">
+        <td><a href="#t15180">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15180">15180s</a></td>
+        <td>No to jest, ach, no.</td>
+    </tr>
+    <tr id="t15181">
+        <td><a href="#t15181">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15181">15181s</a></td>
+        <td>No malazańska Księga Poległych, piękna rzecz.</td>
+    </tr>
+    <tr id="t15183">
+        <td><a href="#t15183">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15183">15183s</a></td>
+        <td>No niesamowite, właśnie teraz oszczędzam specjalnie czas, żeby przeczytać w całości, wiesz, a nie tylko tak...</td>
+    </tr>
+    <tr id="t15189">
+        <td><a href="#t15189">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15189">15189s</a></td>
+        <td>odcinkowo.</td>
+    </tr>
+    <tr id="t15190">
+        <td><a href="#t15190">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15190">15190s</a></td>
+        <td>Pan Robert bardzo dużo czerpie, pan Robert Wegner, bardzo dużo czerpie z malazańskich księgi poległych.</td>
+    </tr>
+    <tr id="t15195">
+        <td><a href="#t15195">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15195">15195s</a></td>
+        <td>Tak by obecność bóstw</td>
+    </tr>
+    <tr id="t15199">
+        <td><a href="#t15199">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15199">15199s</a></td>
+        <td>w świecie, które, aspektów bóstw, które tak wpływają na świat, to jest, mam wrażenie, wzięte prosto od Ericssona.</td>
+    </tr>
+    <tr id="t15208">
+        <td><a href="#t15208">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15208">15208s</a></td>
+        <td>Zwłaszcza w ostatnim tomie, czyli Pamięć wszystkich słów?</td>
+    </tr>
+    <tr id="t15212">
+        <td><a href="#t15212">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15212">15212s</a></td>
+        <td>Tak, Pamięć wszystkich słów.</td>
+    </tr>
+    <tr id="t15213">
+        <td><a href="#t15213">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15213">15213s</a></td>
+        <td>Tak.</td>
+    </tr>
+    <tr id="t15214">
+        <td><a href="#t15214">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15214">15214s</a></td>
+        <td>Albo Każe martwe marzenie, który był ostatni, nie pamiętam.</td>
+    </tr>
+    <tr id="t15216">
+        <td><a href="#t15216">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15216">15216s</a></td>
+        <td>W każdym razie tam się zaczęły te rzeczy z bogami tak na ostro, nie będziemy spoilować na czatach, ale... Tak, tak, tak.</td>
+    </tr>
+    <tr id="t15222">
+        <td><a href="#t15222">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15222">15222s</a></td>
+        <td>Czytać, czytać Wegnera, naprawdę podziękuję cię.</td>
+    </tr>
+    <tr id="t15225">
+        <td><a href="#t15225">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15225">15225s</a></td>
+        <td>To jest taka rzecz, którą warto.</td>
+    </tr>
+    <tr id="t15227">
+        <td><a href="#t15227">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15227">15227s</a></td>
+        <td>Wybitna rzecz.</td>
+    </tr>
+    <tr id="t15229">
+        <td><a href="#t15229">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15229">15229s</a></td>
+        <td>Pięknie też władza słowem.</td>
+    </tr>
+    <tr id="t15231">
+        <td><a href="#t15231">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15231">15231s</a></td>
+        <td>Berserk cię rozsmaruje.</td>
+    </tr>
+    <tr id="t15232">
+        <td><a href="#t15232">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15232">15232s</a></td>
+        <td>No, ja wiem, Nadia.</td>
+    </tr>
+    <tr id="t15234">
+        <td><a href="#t15234">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15234">15234s</a></td>
+        <td>To jest manga, tak?</td>
+    </tr>
+    <tr id="t15235">
+        <td><a href="#t15235">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15235">15235s</a></td>
+        <td>I ty masz problem z komiksami.</td>
+    </tr>
+    <tr id="t15237">
+        <td><a href="#t15237">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15237">15237s</a></td>
+        <td>Ale Nadia ma ambicje przekonać mnie na czatach odnośnie do Berserka.</td>
+    </tr>
+    <tr id="t15243">
+        <td><a href="#t15243">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15243">15243s</a></td>
+        <td>To jest bardzo, wiesz, pochwalam, ja nie jestem fanem mangi, ale Berserkowi daje, że tak powiem,</td>
+    </tr>
+    <tr id="t15251">
+        <td><a href="#t15251">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15251">15251s</a></td>
+        <td>Zdecydowany plus, tak, bo to jest fantastyczne działo.</td>
+    </tr>
+    <tr id="t15256">
+        <td><a href="#t15256">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15256">15256s</a></td>
+        <td>Gdyby było jeszcze rysowane w stylu bardziej europejskim, to bym się cieszył bardziej, ale tak czy inaczej, to jest mocna rzecz.</td>
+    </tr>
+    <tr id="t15265">
+        <td><a href="#t15265">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15265">15265s</a></td>
+        <td>Miasz drogu, nie żyjesz już chyba.</td>
+    </tr>
+    <tr id="t15267">
+        <td><a href="#t15267">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15267">15267s</a></td>
+        <td>Króczyciń mówi coś ciekawego, że w sumie mógłby Wegner przetłumaczyć, może przetłumaczyć, dokończyć sagę Kressa.</td>
+    </tr>
+    <tr id="t15275">
+        <td><a href="#t15275">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15275">15275s</a></td>
+        <td>To nie jest zły pomysł.</td>
+    </tr>
+    <tr id="t15277">
+        <td><a href="#t15277">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15277">15277s</a></td>
+        <td>To jakby potomkowie pana Feliksa się zgodzili.</td>
+    </tr>
+    <tr id="t15280">
+        <td><a href="#t15280">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15280">15280s</a></td>
+        <td>No tak, bo to jest w zasadzie tylko kwestia w tym momencie wdowy, która ma pełnię praw autorskich.</td>
+    </tr>
+    <tr id="t15285">
+        <td><a href="#t15285">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15285">15285s</a></td>
+        <td>Czy świat Wegener ma magię potwory?</td>
+    </tr>
+    <tr id="t15287">
+        <td><a href="#t15287">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15287">15287s</a></td>
+        <td>Ma!</td>
+    </tr>
+    <tr id="t15288">
+        <td><a href="#t15288">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15288">15288s</a></td>
+        <td>Arachne tam są uroczyska, przez które przechodzą rzeczy do świata i magowie sobie nie mogą z tym poradzić.</td>
+    </tr>
+    <tr id="t15294">
+        <td><a href="#t15294">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15294">15294s</a></td>
+        <td>Jest super.</td>
+    </tr>
+    <tr id="t15295">
+        <td><a href="#t15295">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15295">15295s</a></td>
+        <td>Boże, przez cały jeden tom... Uroczystka są też oczywiście u Grzędowicza.</td>
+    </tr>
+    <tr id="t15300">
+        <td><a href="#t15300">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15300">15300s</a></td>
+        <td>Ale rysła przecież ten moment, kiedy w pierwszym tomie pod koniec jest ta przepiękna ekfraza płótna Petera Bruegla.</td>
+    </tr>
+    <tr id="t15311">
+        <td><a href="#t15311">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15311">15311s</a></td>
+        <td>To jest nawet, Boże drogi, zapominam tytułu, Ogród Rozkoszy Ziemskich, nie?</td>
+    </tr>
+    <tr id="t15316">
+        <td><a href="#t15316">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15316">15316s</a></td>
+        <td>To nie Bruegel.</td>
+    </tr>
+    <tr id="t15319">
+        <td><a href="#t15319">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15319">15319s</a></td>
+        <td>Nie Breugel.</td>
+    </tr>
+    <tr id="t15321">
+        <td><a href="#t15321">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15321">15321s</a></td>
+        <td>Czekaj, czekaj, czekaj.</td>
+    </tr>
+    <tr id="t15322">
+        <td><a href="#t15322">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15322">15322s</a></td>
+        <td>Hieronim Bosch.</td>
+    </tr>
+    <tr id="t15323">
+        <td><a href="#t15323">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15323">15323s</a></td>
+        <td>Dokładnie.</td>
+    </tr>
+    <tr id="t15324">
+        <td><a href="#t15324">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15324">15324s</a></td>
+        <td>Wiedziałem.</td>
+    </tr>
+    <tr id="t15325">
+        <td><a href="#t15325">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15325">15325s</a></td>
+        <td>I to jest nieprawdopodobnie napisane.</td>
+    </tr>
+    <tr id="t15327">
+        <td><a href="#t15327">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15327">15327s</a></td>
+        <td>To jeszcze mylisz które, bo Breugelów jest trzech tak naprawdę.</td>
+    </tr>
+    <tr id="t15331">
+        <td><a href="#t15331">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15331">15331s</a></td>
+        <td>Jest Peter Breugel starszy, to wiem, jest Peter Breugel młodszy.</td>
+    </tr>
+    <tr id="t15333">
+        <td><a href="#t15333">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15333">15333s</a></td>
+        <td>Młodszy i jest jeszcze ojciec.</td>
+    </tr>
+    <tr id="t15334">
+        <td><a href="#t15334">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15334">15334s</a></td>
+        <td>Jest jeszcze ojciec.</td>
+    </tr>
+    <tr id="t15336">
+        <td><a href="#t15336">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15336">15336s</a></td>
+        <td>Jest jeszcze ojciec i dla wielu ojciec jest tym Breuglem głównym.</td>
+    </tr>
+    <tr id="t15342">
+        <td><a href="#t15342">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15342">15342s</a></td>
+        <td>Ale ta ekfraza mnie rozsmarowała po ziemi.</td>
+    </tr>
+    <tr id="t15344">
+        <td><a href="#t15344">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15344">15344s</a></td>
+        <td>Dla tych z was, którzy nie wiedzą, to ekfraza to jest taki opis literacki właśnie obrazu.</td>
+    </tr>
+    <tr id="t15348">
+        <td><a href="#t15348">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15348">15348s</a></td>
+        <td>Jest przepięknie to zrobione, absolutnie.</td>
+    </tr>
+    <tr id="t15350">
+        <td><a href="#t15350">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15350">15350s</a></td>
+        <td>Coś wspaniałego.</td>
+    </tr>
+    <tr id="t15351">
+        <td><a href="#t15351">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15351">15351s</a></td>
+        <td>Jest fantastycznie, fantastycznie, tak.</td>
+    </tr>
+    <tr id="t15353">
+        <td><a href="#t15353">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15353">15353s</a></td>
+        <td>W ogóle Hieronimus Bosch był wyjątkową postacią.</td>
+    </tr>
+    <tr id="t15356">
+        <td><a href="#t15356">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15356">15356s</a></td>
+        <td>Tak.</td>
+    </tr>
+    <tr id="t15357">
+        <td><a href="#t15357">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15357">15357s</a></td>
+        <td>On miał przecież ten quest ilustrowania przysłów holenderskich.</td>
+    </tr>
+    <tr id="t15361">
+        <td><a href="#t15361">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15361">15361s</a></td>
+        <td>Niderlandzkich, niderlandzkich.</td>
+    </tr>
+    <tr id="t15363">
+        <td><a href="#t15363">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15363">15363s</a></td>
+        <td>Pamiętaj, przypominam.</td>
+    </tr>
+    <tr id="t15365">
+        <td><a href="#t15365">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15365">15365s</a></td>
+        <td>Uwaga, Holandia nie ma takiego państwa jak Holandia.</td>
+    </tr>
+    <tr id="t15369">
+        <td><a href="#t15369">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15369">15369s</a></td>
+        <td>Nie ma takiego państwa.</td>
+    </tr>
+    <tr id="t15370">
+        <td><a href="#t15370">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15370">15370s</a></td>
+        <td>Są Niderlandy.</td>
+    </tr>
+    <tr id="t15371">
+        <td><a href="#t15371">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15371">15371s</a></td>
+        <td>Holandia jest jednym z krain w Niderlandach.</td>
+    </tr>
+    <tr id="t15374">
+        <td><a href="#t15374">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15374">15374s</a></td>
+        <td>Jest jedną z krain w Niderlandach.</td>
+    </tr>
+    <tr id="t15378">
+        <td><a href="#t15378">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15378">15378s</a></td>
+        <td>I Holendrzy nie mówią sobie, że są Holandy, tylko są Dutchmen.</td>
+    </tr>
+    <tr id="t15384">
+        <td><a href="#t15384">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15384">15384s</a></td>
+        <td>I ogólnie zawsze praktycznie funkcjonowało królestwo Niderlandów.</td>
+    </tr>
+    <tr id="t15389">
+        <td><a href="#t15389">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15389">15389s</a></td>
+        <td>Co ciekawe, Niderlandy, gdybyśmy przełożyli</td>
+    </tr>
+    <tr id="t15393">
+        <td><a href="#t15393">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15393">15393s</a></td>
+        <td>bezpośrednio kraina poniżej.</td>
+    </tr>
+    <tr id="t15396">
+        <td><a href="#t15396">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15396">15396s</a></td>
+        <td>O!</td>
+    </tr>
+    <tr id="t15397">
+        <td><a href="#t15397">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15397">15397s</a></td>
+        <td>Bo to są ziemie nizinne lub w depresji, prawda?</td>
+    </tr>
+    <tr id="t15401">
+        <td><a href="#t15401">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15401">15401s</a></td>
+        <td>Lub zalewowe.</td>
+    </tr>
+    <tr id="t15402">
+        <td><a href="#t15402">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15402">15402s</a></td>
+        <td>Więc Niderlandy to są krainy... Ba!</td>
+    </tr>
+    <tr id="t15406">
+        <td><a href="#t15406">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15406">15406s</a></td>
+        <td>Mówi się Nether... Mamy w tym Dungeons & Dragons, w AD&D mamy Netherrealm, albo Nether Earth, albo Netherlands.</td>
+    </tr>
+    <tr id="t15414">
+        <td><a href="#t15414">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15414">15414s</a></td>
+        <td>To są wszystko krainy poniżej, czyli krainy infernalne.</td>
+    </tr>
+    <tr id="t15418">
+        <td><a href="#t15418">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15418">15418s</a></td>
+        <td>Tak.</td>
+    </tr>
+    <tr id="t15420">
+        <td><a href="#t15420">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15420">15420s</a></td>
+        <td>piekło bliskie lub demony bliskie i Niderlandy, no w zasadzie są takim najbliżej na Ziemi chyba związkiem z... Zresztą Never też było gdzieś jako kraina, po prostu jako Never i teraz sobie nie jestem w stanie przypomnieć gdzie i zaraz dostanę szału, ale gdzieś było.</td>
+    </tr>
+    <tr id="t15437">
+        <td><a href="#t15437">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15437">15437s</a></td>
+        <td>Nether było w D&D, na pewno było, bo na pewno są z tego.</td>
+    </tr>
+    <tr id="t15442">
+        <td><a href="#t15442">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15442">15442s</a></td>
+        <td>Ja tłumaczyłem jeszcze w Baldur's Gate'cie dwójce, tam były jakieś... Nether Scrolls były.</td>
+    </tr>
+    <tr id="t15450">
+        <td><a href="#t15450">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15450">15450s</a></td>
+        <td>Dokładnie nie pamiętam jak już.</td>
+    </tr>
+    <tr id="t15451">
+        <td><a href="#t15451">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15451">15451s</a></td>
+        <td>Rysław zniknął, nie wiem gdzie jesteś na mapie.</td>
+    </tr>
+    <tr id="t15454">
+        <td><a href="#t15454">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15454">15454s</a></td>
+        <td>Ja jestem cały czas w Kiewosadu.</td>
+    </tr>
+    <tr id="t15456">
+        <td><a href="#t15456">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15456">15456s</a></td>
+        <td>Wyszedłem z Kiewosadu, to już skończyliśmy.</td>
+    </tr>
+    <tr id="t15459">
+        <td><a href="#t15459">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15459">15459s</a></td>
+        <td>A, tak, tak, tak.</td>
+    </tr>
+    <tr id="t15460">
+        <td><a href="#t15460">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15460">15460s</a></td>
+        <td>Tety podziemia, tak.</td>
+    </tr>
+    <tr id="t15461">
+        <td><a href="#t15461">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15461">15461s</a></td>
+        <td>A ty jesteś... Ja wyszedłem sobie do Kiewosadu.</td>
+    </tr>
+    <tr id="t15464">
+        <td><a href="#t15464">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15464">15464s</a></td>
+        <td>Dobrze, dobrze, okej.</td>
+    </tr>
+    <tr id="t15466">
+        <td><a href="#t15466">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15466">15466s</a></td>
+        <td>Przetłumaczyłem, przeniosłem się.</td>
+    </tr>
+    <tr id="t15467">
+        <td><a href="#t15467">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15467">15467s</a></td>
+        <td>Tak jest.</td>
+    </tr>
+    <tr id="t15468">
+        <td><a href="#t15468">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15468">15468s</a></td>
+        <td>Boże, jak ja już mówię ci.</td>
+    </tr>
+    <tr id="t15470">
+        <td><a href="#t15470">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15470">15470s</a></td>
+        <td>Moi drodzy, to jest ten moment.</td>
+    </tr>
+    <tr id="t15471">
+        <td><a href="#t15471">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15471">15471s</a></td>
+        <td>Było epicko, tak?</td>
+    </tr>
+    <tr id="t15473">
+        <td><a href="#t15473">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15473">15473s</a></td>
+        <td>Znaczy Rysław pokonał przeciwnika ostatniego, nie oszukujmy się.</td>
+    </tr>
+    <tr id="t15477">
+        <td><a href="#t15477">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15477">15477s</a></td>
+        <td>Myślę, że po powitaniu, jakie czaty zgotowały Rysławowi, jeszcze raz ziścimy obietnicę, którą złożyliśmy raz po koniec naszego streamu z Heroes 3, że Rysław powróci.</td>
+    </tr>
+    <tr id="t15488">
+        <td><a href="#t15488">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15488">15488s</a></td>
+        <td>Rysław jest jak Bond.</td>
+    </tr>
+    <tr id="t15490">
+        <td><a href="#t15490">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15490">15490s</a></td>
+        <td>Rysław powróci.</td>
+    </tr>
+    <tr id="t15491">
+        <td><a href="#t15491">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15491">15491s</a></td>
+        <td>Albo jak Terminator, wiesz, I'll be back.</td>
+    </tr>
+    <tr id="t15493">
+        <td><a href="#t15493">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15493">15493s</a></td>
+        <td>Rysław will return, tak.</td>
+    </tr>
+    <tr id="t15495">
+        <td><a href="#t15495">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15495">15495s</a></td>
+        <td>Bardzo dziękuję ci, Rysław, za przyjęcie zaproszenia dla naszego wspólnego Grańska, że zostałeś jeszcze, żeby pogawędzić o rzeczach filologicznych i fantastycznych.</td>
+    </tr>
+    <tr id="t15503">
+        <td><a href="#t15503">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15503">15503s</a></td>
+        <td>i podzielić się swoją ogromną wiedzą z czatami.</td>
+    </tr>
+    <tr id="t15505">
+        <td><a href="#t15505">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15505">15505s</a></td>
+        <td>Jeszcze raz kochani, bardzo, jeżeli chcecie, polubiliście pogadankowy styl i anegdotyczny Rysława, wpadnijcie koniecznie na jego kanał, znajdziecie go tutaj, teraz prawdopodobnie staną się straszne rzeczy na podglądzie, przepraszam za to, więc szybko wygaszę.</td>
+    </tr>
+    <tr id="t15521">
+        <td><a href="#t15521">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15521">15521s</a></td>
+        <td>To jest kanał Rysława, proszę bardzo, macie tutaj 29,8 tysięcy subskrybentów i należy to bezwzględnie, moi drodzy, naprawić.</td>
+    </tr>
+    <tr id="t15530">
+        <td><a href="#t15530">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15530">15530s</a></td>
+        <td>A tymczasem jeszcze raz dziękuję Rysławowi, coś mi się podziało, niedobre mi się rzeczy podziały.</td>
+    </tr>
+    <tr id="t15536">
+        <td><a href="#t15536">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15536">15536s</a></td>
+        <td>O, tak powinno być.</td>
+    </tr>
+    <tr id="t15537">
+        <td><a href="#t15537">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15537">15537s</a></td>
+        <td>Dziękuję Rysławowi za przyjęcie zaproszenia.</td>
+    </tr>
+    <tr id="t15538">
+        <td><a href="#t15538">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15538">15538s</a></td>
+        <td>Dziękuję wam wszystkim, kochani, też za to, że zjawiliście się.</td>
+    </tr>
+    <tr id="t15542">
+        <td><a href="#t15542">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15542">15542s</a></td>
+        <td>Dziękuję Jamnikołajom, którzy zaszaleli dzisiaj nie tak niesamowicie, jak w środę.</td>
+    </tr>
+    <tr id="t15546">
+        <td><a href="#t15546">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15546">15546s</a></td>
+        <td>Wsparli nieprawdopodobną liczbę ludzi, jak również ten kanał.</td>
+    </tr>
+    <tr id="t15549">
+        <td><a href="#t15549">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15549">15549s</a></td>
+        <td>Rozdali jamniki.</td>
+    </tr>
+    <tr id="t15551">
+        <td><a href="#t15551">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15551">15551s</a></td>
+        <td>Dziękuję też wszystkim wam, którzy zdecydowaliście się spędzać piątek wieczór z nami.</td>
+    </tr>
+    <tr id="t15556">
+        <td><a href="#t15556">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15556">15556s</a></td>
+        <td>To jest w ogóle niesamowite.</td>
+    </tr>
+    <tr id="t15557">
+        <td><a href="#t15557">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15557">15557s</a></td>
+        <td>Na grańsku diablowym</td>
+    </tr>
+    <tr id="t15559">
+        <td><a href="#t15559">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15559">15559s</a></td>
+        <td>Jak się wam podoba, to jak widzicie po poziomie, który ma Rysław, na pewno spotkacie go w świecie sanktuarium.</td>
+    </tr>
+    <tr id="t15567">
+        <td><a href="#t15567">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15567">15567s</a></td>
+        <td>Więc dzięki jeszcze raz, Rysław.</td>
+    </tr>
+    <tr id="t15568">
+        <td><a href="#t15568">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15568">15568s</a></td>
+        <td>Polecamy kanał Grysław, audycję Grysław i kanał Rysław.</td>
+    </tr>
+    <tr id="t15572">
+        <td><a href="#t15572">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15572">15572s</a></td>
+        <td>A ja się z wami wszystkimi żegnam serdecznie i tradycyjnie jamniczych snów i do następnego.</td>
+    </tr>
+    <tr id="t15578">
+        <td><a href="#t15578">#</a>&nbsp;<a href="https://www.youtube.com/watch?v=Q2LSy4NEYOw&t=15578">15578s</a></td>
+        <td>Pa, pa.</td>
+    </tr>
+</table>

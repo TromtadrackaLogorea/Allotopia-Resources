@@ -1,0 +1,135 @@
+Jak rozróżnić naukowca od PSEUDONAUKOWCA?
+🔗 https://www.youtube.com/watch?v=8Q8tf_4apRA
+
+1:  Mamy, jak powiedziałby Terry Pratchett, ciekawe czasy.
+4:  Z jednej strony czasy nieograniczonego dostępu do wiedzy i informacji, z drugiej czasy fake newsów, postprawdy i wszelakiego autoramentu manipulacji, które sprawiają, że trudno nam się rozeznawać w tym, kto ma rację, a kto nie.
+19:  Podnosi łeb hydra pseudonauki, atakując nas zewsząd informacjami o płaskiej ziemi i antyszczepionkowcach.
+28:  Nic dziwnego zatem, że zarówno media jak i ludzie nauki i kultury starają się temu zaradzać jak umieją i zapraszają do wypowiedzi ekspertów.
+38:  W imię oczywiście walki z tą słynną memiczną już maksymą nie znam się to się wypowiem, zatem zapraszamy do wypowiadania się ludzi, którzy się znają.
+47:  A przynajmniej tak zakładamy, ponieważ słabą stroną tego rodzaju praktyk jest założenie, które łacińska retoryka nazywa argumentum ad verecundiam, czyli odwołaniem się do autorytetu, ale w oryginale to brzmi odwołanie się do naszej nieśmiałości.
+64:  a zatem do tego oneśmielającego nimbu, jaki się roztacza wokół autorytetu i zarazem również naszego zaufania do tego, że my nie musimy niczego doczytać ani powiedzieć jak w pokerze sprawdzam, ponieważ po to odwołujemy się do autorytetu, żeby przywołać sprawdzone informacje.
+84:  I to jest oczywiście błąd.
+86:  W dzisiejszym vlogu będę starał się uzbroić was w narzędzia, które pozwalają na weryfikowanie wiarygodności naukowców.
+95:  Tak jak ostatnim razem sprawdzaliśmy, jak dostawać się do artykułów naukowych i dzięki temu prowadzić skuteczniejsze dyskusje w sieci, tak dzisiaj będziemy sprawdzać, w jaki sposób można dowiedzieć się o tym, jaki jest background danego naukowca, jakie ma publikacje, z jakiego pochodzi uniwersytetu i czy
+113:  Można mu zaufać, a zatem zakładam, że może być to przydatne zarówno dla ludzi, którzy po prostu chcą się dowiedzieć, czy informacje, jakie są mu podawane w mediach są prawdziwe i czy autorytety są faktycznie autorytetami, czy jedynie ludźmi kreowanymi na nie, no jak i na przykład dla studentów, którzy chcą sobie sprawdzić, czy jakiś wykładowca faktycznie jest godzienniego zainteresowania i czasu.
+136:  A zatem do rzeczy.
+138:  Wrócimy sobie znowu do znanej już nam wyszukiwarki Google Scholar i tym razem użyjemy innej jej funkcji, a mianowicie czegoś, co się nazywa bardzo szumnie szukanie zaawansowane.
+149:  W ramach wyszukiwarki zaawansowanej mamy tutaj pole pokaż prace, których autorem jest.
+154:  To jest jeden z najprostszych sposób sprawdzenia tego, kim jest naukowiec, ponieważ sprawdzamy, co publikuje.
+160:  Publikacje są sposobem komunikacji podstawowym w środowisku naukowym.
+165:  Bez publikacji nie jesteśmy w stanie komunikować tego, czym się zajmujemy, ale również nie jesteśmy w stanie wejść w dialog ze środowiskiem naukowym.
+173:  Don't judge me, I'm a fan.
+175:  Sprawdzimy sobie to na przykładzie primus inter pares polskich naukowców, najwybitniejszego pośród nas, to znaczy doktora habilitowanego Przemysława Czarnka z Katolickiego Uniwersytetu Lubelskiego.
+188:  No i jak zaczniemy sobie wyszukiwać informacje na temat profesora Czanka, to zostaniemy zbombardowani dwoma stronami wyszukiwania i jedynastoma publikacjami w sumie, jak również brakiem możliwości sprawdzenia, no cóż, profilu rzeczonego naukowca.
+207:  Dlaczego jest to ważne?
+209:  Bo rdzenną częścią wyszukiwarki Google Scholar, oprócz możliwości dostawania się po publikacji, jest także sylwetka babacza.
+217:  Jeżeli sobie sprawdzimy sylwetkę prawdziwego badacza, na przykład Espen Arseta z IT University of Copenhagen, zajmującego się grami wideo, cytowanego przez 13125 osób, w odróżnieniu od tych cytatów, które mieliśmy
+232:  Tutaj?
+234:  Do tych paru?
+235:  No, więc jeżeli sprawdzimy sobie rzeczony profil SP na RSET-a, to dostaniemy tutaj bardzo ważny wykres.
+241:  Ważny z perspektywy właśnie naszego questu związanego z poszukiwaniem dowodów na wiarygodność danego naukowca.
+249:  Jednym z mierzalnych dowodów takiej wiarygodności i jej wyznaczników są cytowania.
+254:  Jeżeli możemy sobie zobaczyć w jakich latach, kto ile razy był cytowany i przez kogo, ułatwia nam to przede wszystkim sprawdzenie, czy publikacje jego i badania rezonują w środowisku, ale również ułatwia nam docieranie do rzeczonych publikacji i sprawdzanie, czy na przykład ktoś z nim nie polemizuje.
+272:  Bo zobaczmy, że te cytaty są trochę łudzące.
+276:  Ktoś może być cytowany 13125 razy przez naukowców, którzy mówią, ten człowiek jest idiotą i mówi bzdury.
+283:  Więc pamiętajmy, że z tym sprawdzaniem wskaźników cytowań, indeksów cytowań, czyli tego, ile jesteśmy razy cytowani w danym przedziale lat itd., powinno iść również w parze nasza podejrzliwość względem dorobku i sprawdzanie, czytanie tych prac, weryfikowanie ich.
+304:  Hej, nie mówiłem, że to będzie proste.
+306:  Natomiast jeżeli chcecie proste i szybkie rozwiązanie sprawdzające się na gruncie polskim,
+312:  Najlepszym tego źródłem jest profil Nauka Polska prowadzony przez Ośrodek Przetwarzania Informacji, który ma obowiązek gromadzenia wszystkich danych dotyczących procedur doktorskich i postępowań habilitacyjnych, czyli dwóch najważniejszych typów postępowania prowadzących do nadawania stopni naukowych.
+331:  Nie tytułów naukowych, które mogą być przyznane przez uczelnię, na przykład takim tytułem naukowym jest tytuł profesora, tylko stopni naukowych.
+339:  Są dwa stopnie naukowe w Polsce.
+341:  Stopień doktora, który uzyskuje się w wyniku zdania przewodu doktorskiego i egzaminu doktorskiego, a następnie habilitacja, czyli doktora stopień habilitowanego.
+353:  I habilitacja jest procedurą znacznie bardziej rozległą i złożoną niż doktorat.
+358:  Między innymi nasz dorobek jest recenzowany przez znacznie większą liczbę ludzi.
+362:  Krótko mówiąc, jest jeszcze większe prawdopodobieństwo, że mamy do czynienia z kimś, kto został przez ten system przesiany,
+368:  i oddzielony od plew.
+371:  Więc jeżeli tutaj sobie zobaczymy bohatera naszego dzisiejszego vloga, to znaczy doktora habilitowanego Przemysława Czarnka, który jest profesorem uczelni, to znaczy Katolickiego Uniwersytetu Lubelskiego, ale nie jest profesorem w najwyższym tego słowa znaczeniu, to znaczy nie ma profesory nadanej przez prezydenta jeszcze, to możemy zobaczyć sobie właśnie te dwa kluczowe wydarzenia w jego dorobku naukowym.
+395:  I to jest przydatne.
+395:  Dlaczego?
+396:  Dlatego, że możemy sprawdzić co
+400:  dokładnie zajmuje danego naukowca i czym się on interesuje i w czym się specjalizuje.
+406:  Możemy zobaczyć przede wszystkim, jaka jest jego specjalność, czyli już wiemy, że to nie jest mikrobiologia, tylko prawo konstytucyjne.
+412:  I wreszcie możemy zobaczyć, jaki był doktorat, jaki był tytuł tego doktoratu, w tym wypadku zasady państwa prawnego i sprawiedliwości społecznej w praktyce ustrojowej III Rzeczpospolitej.
+422:  Jeżeli jesteśmy bardzo zainteresowani tym faktem, to możemy sobie zacząć sprawdzać, kto był recenzentem.
+429:  I na przykład dostajemy informację, że był ksiądz profesor Antoni Koś, nieżyjący już, który specjalizował się w zakresie etyki konfucjańskiej w historii myśli prawnej Chin.
+441:  co oznacza, że był szczególnie predystynowany do oceny doktoratu z zakresu praktyki ustrojowej III Rzeczpospolitej Polskiej.
+448:  Jak wiadomo, między Chinami konfucjańskimi a III RP zachodzi pełna korelacja.
+453:  Mamy również Mirosława Wojciecha Granata, profesora doktora habilitowanego, również specjalisty w tej dziedzinie, w której się specjalizuje doktor habilitowany Czarnek,
+461:  który z kolei miał habilitację nadaną w zakresie klasycznego przedstawicielstwa i demokracji konstytucyjnej we Francji, a zatem kolejny dobry recenzent, świetnie dopasowany do oceny doktoratu z zakresu praktyki ust.
+477:  III RP.
+478:  Rozumiecie do czego zmierzam, prawda?
+481:  To znaczy zmierzam do tego, żebyście na własną rękę sprawdzali, z kim macie do czynienia.
+485:  Zawsze.
+486:  Jeżeli chcecie się przekonać, czy ten doktor habilitowany, czy profesor, czy doktor pojawiający się w mediach faktycznie po pierwsze jest profesorem,
+496:  Faktycznie ma doktorat, bo wiemy, że zdarzały się takie przypadki, że nazywano kogoś profesorem, zwłaszcza w polskiej polityce, kto tej habilitacji nie miał i tym profesorem nie był, bo to była tylko taka godność profesorska.
+507:  Zdarza się też, że ktoś ma doktorat honoris causa, czyli z nadania honorowego, wtedy też może nie mieć doktoratu obronionego wedle klasycznych procedur.
+516:  Krótko mówiąc, ufajcie sobie, a nie ludziom, którzy wam mówią, że ktoś jest ekspertem.
+522:  Natomiast jeżeli chcemy te same...
+524:  zasady odnieść do badaczy zagranicznych, to również są na to sposoby.
+529:  Co, przypuszczam, jest dość istotne w czasach, w których na przykład mówi się o takich kwestiach jak szczepienia czy epidemiczność, a zatem w ogóle we wszystkich wrażliwych tematach związanych z medycyną czy naukami technicznymi, w których te dane są jeszcze bardziej wrażliwe niż w wypadku nauk humanistycznych.
+546:  Pierwszym z takich serwisów jest Pablons, który ma za zadanie zbierać dane bibliograficzne, ale również
+553:  parować je z konkretnymi nazwiskami.
+556:  No i w tym wypadku akurat pokazuję profil badaczki, na której publikację przypadkowo natrafiłem i macie tutaj dwa w sumie profile, to znaczy po pierwsze Web of Science Researcher ID, prowadzony przez bazę Thomson Reuters,
+571:  jak również integracje z systemami Scopusa, o których sobie powiemy za moment.
+577:  I macie tutaj publikacje sparowane, też liczbę cytowań, także zweryfikowanych recenzji itd.
+583:  Zatem jest to kolejny sposób na to, żeby sprawdzić z kim mamy do czynienia i czy ten profesor faktycznie funkcjonuje w środowisku, czy też jest profesorem widmowym.
+593:  Drugą z takich wyszukiwarek, z których korzystam, jest wyszukiwarka bazy Scopus, która niestety została założona przez wydawnictwo Elsevier, które było negatywnym bohaterem ostatniego vloga poświęconego nauce.
+605:  I tutaj również możemy natrafić na profil rzeczonej babaczki i sprawdzić sobie także, jakie są indeksy cytowań i jaka jest historia jej zatrudnienia, jakie są interesujące ją tematy, no i wreszcie, przez kogo znowu i ile razy były cytowane poszczególne publikacje.
+621:  Jaka jest różnica między bazami Scopusa i Thomson Reutersa, a bazą Google Scholar?
+629:  Zasadnicza, to znaczy w wypadku bazy Google Scholar mamy do czynienia z informacjami o charakterze otwartym.
+635:  A zatem teoretycznie każdy, kto opublikuje w dowolnym czasopiśmie, który został wydany przez jakiekolwiek zweryfikowane wydawnictwo naukowe, albo nawet w domenie edu,
+645:  będzie prawdopodobnie mógł znaleźć się w Google Scholar i później założyć swój profil.
+649:  Do założenia profilu w Google Scholar też potrzebujecie e-maila z końcówką edu, a zatem poświadczającego w jakiś sposób, że ktoś jest zatrudnionym aktualnie naukowcem w jakiejkolwiek placówce badawczej.
+661:  To też jest ważna informacja dla doktorantów, którzy na przykład chcą się później zatrudnić, no ale stracą e-mail z końcem studiów doktoranckich, więc lepiej sobie te profile w Google Scholar założyć wtedy wcześniej.
+674:  Natomiast bazy, zarówno te, o których sobie powiedzieliśmy, to znaczy Thomson Reutersa, jak i Elsevier, charakteryzują się już zamkniętym dostępem do informacji.
+684:  To znaczy, one niestety rejestrują głównie te publikacje, które były wydane w wydawnictwach z ich puli albo z ich portfolio.
+693:  A zatem jest to o wiele większe sito.
+696:  Natomiast zwracam uwagę, że ono sprawdza się głównie w wymiarze nauk ścisłych czy medycznych właśnie, natomiast nauki humanistyczne niestety przez to sito są niejednokrotnie przesiewane, co się odbywa z dużą szkodą dla humanistyki polskiej i światowej, bo dobrze wiemy, że i w tym obszarze badania naukowe są istotne do prowadzenia.
+716:  Natomiast teraz druga część vloga, skoro już opowiedziałem Wam o tym, w jaki sposób możemy sprawdzać naukowców, to teraz dowód na to, co się stanie, jeżeli zaaplikujemy to do, no właśnie, nakrycia kogoś, kto za eksperta się podaje, a tym ekspertem niekoniecznie jest.
+736:  No i jakież może być lepsze?
+739:  źródło, aniżeli ukryte terapie Jerzego Zięby, czego ci lekarz nie powie dla pacjentów, dla rodziców, dla lekarzy, dla dbających o zdrowie.
+749:  No jeśli mamy rym, jeśli mamy rym na okładce, no to niechybne to, niechybne to, że to jest oczywiście zweryfikowane źródło informacji naukowej, no bo się rymuje.
+761:  No dobrze, ale najwyraźniej dla Jerzego Zięby to nie było wystarczające.
+765:  Jerzy Zięba oprócz tego, że musiał zaznaczyć w swojej
+768:  biografii zamieszczonej tuż obok jego uśmiechniętego i stylizowanego na Jacques'a Derrida zdjęcia, że jest tłumaczem książki Cholesterol.
+776:  Naukowe kłamstwo, musiał również zaznaczyć, że jego książka, jego książka, która oczywiście wcale nie służy do sprzedaży podejrzanych preparatów pseudomedycznych, została pozytywnie zopiniowana przez wybitnych naukowców.
+791:  Jednym z takich wybitnych naukowców jest lekarz medycyny Rafał Baron.
+795:  Informacja dla wszystkich, lekarz medycyny nie jest stopniem naukowym.
+799:  Przypominam, doktor i doktor habilitowany jest.
+802:  Lekarz medycyny oznacza na przykład to, że ktoś ukończył studia, no cóż, medyczne i został lekarzem medycyny.
+809:  Koniec.
+809:  W związku z powyższym nie jest to autorytet naukowy, ale tutaj pod spodem pojawia nam się doktor nauk medycznych Antoni Krasicki.
+818:  No więc, shit's getting serious.
+822:  Jeszcze jest to Krasicki, więc nobliwe nazwisko, znane w polszczyźnie, bardzo dobrze znane w polszczyźnie.
+830:  No i jeszcze do tego wszystkiego widzimy, że to jest doktor, nie taki byle jaki doktor, tylko doktor nauk medycznych.
+837:  No tak, w Przyjaciółach mamy tę scenę, w której Ross panuje swoim tytułem doktora w szpitalu i Rachel do niego mówi, ale wiesz, ten tytuł tutaj coś znaczy.
+848:  Poważne sprawy, tak?
+851:  Więc sprawdźmy sobie, kim jest dr Antoni Krasicki i niestety okazuje się, że wyprzedza go w Google Scholar jego imiennik, to znaczy Ignacy Krasicki i to tak we wszystkich praktycznie odniesieniach, jakie się udało tutaj znaleźć.
+866:  Jeżeli zajrzymy sobie na sam koniec, pojawia się owszem odniesienie, ale do książki Ukryte Terapie, w której dr nauk medycznych pojawia się już na drugiej stronie.
+876:  Więc jeżeli byśmy chcieli wykorzystać te nasze narzędzia i na przykład zajrzeć do profilu Nauka Polska i wyszukać sobie Antoniego Krasickiego, no to dowiemy się, że takiego człowieka po prostu nie ma i nie było.
+890:  No i teraz powstaje pytanie, które musimy sobie zadać.
+894:  Czy to oznacza, że doktor nauk medycznych Antoni Krasicki nie istnieje?
+900:  Czy też może oznacza to coś zgoła bardziej prozaicznego, to znaczy, że po prostu nikt się nim nigdy w środowisku naukowym nie przejmował, nikt go nigdy nie cytował, jego prace nie rezonowały, nie miały żadnego znaczenia.
+913:  I to jest powód, dla którego wam to pokazuję.
+916:  Możecie naprawdę bardzo szybko, kilkoma kliknięciami, z wykorzystaniem paru profili dowiedzieć się, czy osoba, z którą macie do czynienia jest wiarygodna, czy nie jest wiarygodna.
+926:  Czy rezonuje jego praca w środowisku naukowym, czy też nie.
+930:  Krótko mówiąc, czy osoby, na których patrzymy z rewerencją, że to są doktorzy, profesorowie, eksperci, czy oni traktują poważnie takiego człowieka?
+939:  Czy traktują poważnie siebie nawzajem?
+941:  Kto kogo recenzuje?
+943:  Kto za kim stoi?
+945:  Kto ma jakie plecy?
+947:  W jakiej jednostce jest aktualnie zatrudniony?
+949:  W nauce polskiej możecie zobaczyć zarówno zatrudnienia aktualne, jak i historyczne.
+954:  Jeśli ktoś się powołuje na profesora bez przerwy i zaprasza go na przykład do TVP, to może się okazać, że on jest profesorem owszem, ale emeritusem, emerytowanym.
+965:  Niekoniecznie może jego umysł jest tak bystry i świeży jak profesora, który dopiero zaczyna karierę naukową albo profesora, który jest emerytowany, ale wciąż aktywnie wykłada i jest zatrudniony w jednostce naukowej.
+976:  Pamiętajmy, że uniwersytety niechętnie odsyłają na emerytury profesorów, bo najczęściej jest tak, że ci ludzie dysponują już taką wiedzą, dorobkiem i doświadczeniem, że po prostu szkoda pozbawiać studentów możliwości kontaktu z nimi.
+988:  Mówcie, sprawdzam, jak ktoś przed wami maluje autorytet, ponieważ malowane autorytety, tak samo jak malowane ptaki, charakteryzują się tym, że są przez kogoś malowane, a zatem ktoś dbał o to, żeby ten wizerunek był dobry i przypudrowany ślicznie i nienaganny.
+1006:  I im bardziej ktoś eksponuje to, wreszcie, że jest doktorem lub profesorem, na przykład zakłada sobie profil na LinkedInie, który zaczyna się od doktor albo profesor,
+1016:  to patrzcie na to tak, jak każe nam na to patrzeć popkultura, która maluje przed nami profesorów Moriarty, doktorów Doomów, doktorów Oktopusów i innych przedstawicieli środowiska naukowego, którzy zbłądzili i zanadtoż panowali swoimi tytułami naukowymi.
+1033:  I oczywiście potem doprowadziło to do sytuacji, w której konieczna jest interwencja jakiegoś superbohatera w Rajdusach i Pelerynie.
+1041:  Wy takimi superbohaterami możecie być na co dzień.
+1043:  Możecie sprawdzać ludzi.
+1045:  Możecie orientować się, kto jest naukowcem, a kto tylko na niego pozuje.
+1050:  Kto jest autorytetem, a kto jest malowanym autorytetem.
+1053:  Czego Wam serdecznie życzę i mam nadzieję, że te narzędzia, które sobie dzisiaj szybko omówiliśmy i które wszystkie podlinkuję Wam w opisie do tego filmu, do czegoś się Wam przydadzą.
+1062:  A tymczasem na razie i do następnego.

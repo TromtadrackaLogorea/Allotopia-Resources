@@ -1,0 +1,417 @@
+Jak generować DOBRE pomysły? Seweryn Rudnicki i Krzysztof M. Maj |🚀26
+🔗 https://www.youtube.com/watch?v=an6TNZtBUEE
+KMM (Krzysztof M. Maj)
+SR (Seweryn Rudnicki)
+
+0:  SR - Pomysł to jest nic.
+2:  SR - Pomysł jest takim powiedzeniem, że pomysł wart jest 1 zł plus VAT.
+6:  SR - Moim zdaniem to jest dobre powiedzenie.
+7:  SR - Generalnie pomysł jest bardzo mało warty.
+10:  SR - Rozwinięcie tego pomysłu, dopracowanie, połączenie go z innymi pomysłami, przepiwotowanie go ileś razy w trakcie, dopracowanie go i wdrożenie to jest trudne.
+19:  SR - Tam jest wartość.
+21:  SR - O pomysły, wiesz, coś zapisanego na karteczce post-itowej na brainstormie.
+25:  SR - Generalnie czasem te karteczki spadają, czasem się gubią.
+29:  SR - To jest jeden złoty.
+36:  KMM - Witam serdecznie w Bunkrze Nauki.
+38:  KMM - Dzisiaj w naszych podziemiach gościmy Sewerynę Rudnickiego z Katedry Studiów nad Społeczeństwem i Technologią oraz z Hearts and Heads, zajmującego się tajemniczymi rzeczami, jako to kreatywność, design thinking i inne, bardzo często nieznane polskiej edukacji zjawiska.
+54:  KMM - Sewerynie, witaj serdecznie.
+56:  KMM - Dzięki Krzyśku.
+57:  KMM - Dzień dobry wszystkim.
+57:  KMM - Dzięki za zaproszenie do tego fajnego miejsca.
+60:  KMM - Powiedz może na początek tajemnicze określenie design thinking, innowacja, jak to rozumiesz, jak należy to jeść i z czym to się je?
+69:  SR - Generalnie jest tak, że innowacje są teraz potrzebne, to wszyscy wiemy, to jest takie hasło, słowo, które się pojawia w wielu kontekstach.
+76:  SR - No, większą trudnością jest to, jak to rzeczywiście robić, jak doprowadzać te innowacje do tego, żeby się rzeczywiście wydarzały, jak projektować nowe produkty, usługi, usprawnienia w organizacjach i tak dalej.
+86:  SR - No i są różne metody pracy, które mają nam pomagać w tym.
+89:  SR - Design Thinking jest taką metodą pracy.
+92:  SR - Nie wchodząc w szczegóły, jest tam kilka kroków, które trzeba wykonać w określonej kolejności, są różne techniki pracy, które możemy zastosować do tego, żeby na końcu tego procesu mieć takie dobrze zwalidowane, przetestowane pomysły na różne usprawnienia, produkty, usługi itd.
+108:  KMM - Abyś miał podać taki przykład produktu albo usługi, który właśnie powstał taką metodą i mógłby zwizualizować, jak to wygląda.
+114:  SR - Jest tego bardzo dużo, bo teraz praktycznie wszystkie gdzieś tam wiodące organizacje wdrażają albo tę metodę dosłownie, albo różne swoje adaptacje tej metody.
+123:  SR - Jedną z takich organizacji, która na wielką skalę to wdrożyła jest na przykład IBM.
+127:  SR - Ale wszystkie produkty, które jak masz Netflixa i masz tam przycisk pomiń czołówkę, który ci się pojawia w odpowiednim momencie, akurat wtedy, kiedy trzeba.
+135:  SR - I to nie jest jakieś super skomplikowane od strony technologii rozwiązanie.
+139:  SR - To nie jest w ogóle patentowane.
+141:  SR - Nawet sprawdzałem to kiedyś, nie jest to zastrzeżone.
+144:  SR - Nie jest to jakiś super estetyczny przycisk, to jest taki przycisk jak każdy inny, ale on się pojawia dokładnie w tym miejscu,
+150:  SR - gdzie powinien być, dokładnie wtedy, kiedy go potrzebujemy i to wynika z dobrego rozpoznania potrzeb użytkowników tegoż serwisu.
+159:  SR - Netflix ma zresztą kilka takich fajnych rozwiązań w swoim, jakby zaszytych od początku i zobacz HBO na przykład zaczęło to dużo, dużo później adaptować tego typu rozwiązania.
+167:  KMM - Czyli to, że jest też taki ukryty algorytm w Netflixie, że on rozpoznaje, jakie są nasze upodobania i na przykład nie daje nam listy odgórnych gatunków filmów i seriali, tylko łączy je ze sobą tak, żeby lepiej odpowiadać naszym oczekiwaniom, to też jest przejaw tej metodyki.
+181:  SR - To jest przejaw tego myślenia, które jest w tej metodyce.
+183:  SR - Ja teraz oczywiście szczegółowo nie jestem w stanie rozpakować procesów Netflixowych, ale to jest dokładnie w duchu tej metody.
+191:  SR - W duchu tej metody jest to, że technologia zawsze przychodzi na drugim miejscu.
+194:  KMM - W pierwszym miejscu jest człowiek.
+195:  KMM - Użytkownik.
+196:  SR - Tak, no bo wiesz, my mamy to wydziałowe hasło za każdą technologią stoi człowiek i to jest jakby dobre rozwiązanie, dobrze tu pasuje, w tym sensie, że technologii jest bardzo dużo, technologii jest mnóstwo.
+208:  SR - Świat jakby kipi technologią, ale zamiana technologii w produkt
+212:  SR - Coś, co przyjmuje się na rynku, czego ludzie chcą używać, czego ludzie potrzebują, co rozwiązuje nasze problemy, co usprawnia życie w jakiejś mierze, to jest ogromna przepaść między tymi dwoma rzeczami.
+224:  SR - Sama technologia, a produkt, który ma sens na rynku.
+227:  SR - Design Thinking jest taką metodyką, która ma właśnie pomóc tę przepaść pokonać w miarę bezpieczny sposób.
+233:  KMM - To teraz pomyślmy o tym Design Thinkingu i myśleniu projektowym w kontekście czegoś, gdzie teoretycznie też jest człowiek, ale teraz wydaje nam się, że jest to głównie maszyna.
+243:  KMM - Wiesz, do czego zmierzam.
+244:  KMM - Zmierzam oczywiście do sztucznej inteligencji, do AI produktu, jakim jest ChatGPT 3.5 czy ChatGPT 4.
+249:  KMM - Teraz jeszcze wdrożony do Binga przez Microsoft.
+253:  KMM - Google również mówi, że
+254:  KMM - chce postawić z powrotem użytkownika, a nie reklamodawców w centrum, żeby to on mógł rozmawiać z wyszukiwarką.
+261:  KMM - Czy myślisz, że tutaj też możemy się dopatrzyć tego rodzaju innowacji?
+265:  KMM - Czy to jest o wiele szerszy problem?
+266:  KMM - No i właśnie, drugie pytanie od razu doszyję do tego, jak to jest z tą kreatywnością i innowacją w dobie sztucznej inteligencji, która nas trochę zaczyna wyręczać?
+274:  SR - No wiesz co, to ja też na dwa sposoby odpowiem.
+278:  SR - Pierwsze jest takie, że mam wrażenie, że duże korporacje, big techy teraz jakby skręcają od użytkownika jednak mimo wszystko.
+285:  KMM - Mimo wszystko.
+285:  SR - Tak, jakby starają się kapitalizować to, co jest możliwe.
+288:  SR - Weź na przykład wyszukiwanie produktów w Amazonie.
+291:  SR - Jak strasznie zły jest to.
+293:  SR - Mam nadzieję, że nie obrażam tutaj Amazona.
+296:  SR - Od strony projektowej, od strony użytkownika jest to złe miejsce.
+299:  KMM - Ale wiesz co, słyszałem kiedyś, że to jest celowe, że oni celowo nie zmieniali, bo zrobili sobie jakieś badania, które by pokazywały, że 30% użytkowników by wolało, żeby zostało po staremu.
+308:  SR - Ale to zawsze jest tak, że użytkownicy wolą, żeby zostało po staremu.
+311:  SR - No inny przykład ci podam, jesteś aktywny na Linkedinie, ja też tam bywam, jak bardzo złe to jest narzędzie od strony osoby, która chce publikować, albo coś znaleźć na Linkedinie.
+320:  SR - O Jezu, zwłaszcza, tak.
+321:  SR - Więc właśnie, a to jest Windowsowe chyba, nie?
+324:  KMM - Tak, Windows wykupy Linkedinia, tak.
+326:  SR - Tak to widzisz.
+326:  SR - Natomiast co do czata.
+328:  SR - No, to jest w ogóle bardzo, bardzo ciekawa sprawa.
+330:  SR - Oczywiście też jestem podekscytowany tym wszystkim, co się dzieje.
+333:  SR - Dokładnie w tym tygodniu zrobiliśmy eksperyment u mnie w firmie.
+336:  SR - Taki warsztat webinarowy, na który ludzie się mogli zapisać i tam porównywaliśmy.
+342:  SR - Daliśmy dwóm grupom to samo zadanie.
+345:  SR - Chodziło o bardzo praktyczny problem biznesowy, jak usprawnić onboarding nowych ludzi do zespołu w organizacji.
+352:  SR - Czyli coś, co wiele organizacji chciałoby szybko wdrożyć pracownika, ludzie też chcieliby być szybko i sprawnie wdrożeni.
+358:  SR - No i daliśmy ten problem jednemu zespołowi kilkuosobowemu, który pracował z czatem GPT w wersji 4.0, także w tym najmocniejszym, jaki jest w tym momencie.
+367:  SR - A drugi zespół pracował z moderatorem, ze mną w tym wypadku akurat, i generował pomysły jedną z takich podstawowych technik, tak zwanego creative problem solving, które nazywa się brain writing, czyli cicha burza mózgów, pisana burza mózgów.
+382:  SR - No i daliśmy mniej więcej pół godziny na wymyślanie pomysłów i porównaliśmy te pomysły.
+387:  SR - Bardzo ciekawe jest to porównanie.
+389:  SR - Co wam wyszło z tego?
+390:  SR - Czad wygenerował więcej pomysłów w tym czasie.
+393:  SR - On może szybko wygenerować bardzo dużo, to jest prosta sprawa.
+398:  SR - Miał trochę takich pomysłów technicznych typu, a zróbmy jakąś grę planszową o naszej organizacji dla onboardowanych osób.
+406:  SR - Ale ludzie mieli dużo bardziej empatyczne pomysły.
+409:  SR - Lepiej wczuwali się w perspektywę osoby onboardowanej, lepiej wczuwali się w potrzeby zespołu.
+415:  SR - Mieli pomysły tego zespołu, który przyjmuje nowych ludzi.
+419:  SR - Mieli takie pomysły, powiedziałbym takie proste pomysły out of the box, czyli ludzie często narzekają przy onboardingu, że przychodzą do pracy, a nie ma dla nich sprzętu, muszą czekać, wiesz, dwa tygodnie na komórkę.
+430:  SR - I ludzie na przykład to zauważyli i mieli taki pomysł, żeby dwa laptopy zawsze były w zapasie, wiesz, żeby dla takich... Takie proste rzeczy, które jednak nie są oczywiste, więc... Bo te doświadczenia wynikają też, no.
+444:  SR - No, no więc właśnie.
+445:  SR - Więc generalnie mam wrażenie, że czat był dobry na ilość, ale te pomysły były bardzo, bardzo ogólne i takie wiesz, jeżeli on jest wyuczony na tym, co jest Harvard Business Review i innych tego typu źródła onboardingu, no to wiesz, jakby zrepliktował to po prostu.
+459:  SR - Natomiast zespołowi, który pracował z czatem, bardzo trudno było go docisnąć,
+464:  SR - różnymi pytaniami, żeby wyprodukował coś bardziej oryginalnego.
+468:  SR - Generalnie robił takie pętle.
+470:  SR - Więc póki co, jeśli chodzi o taką empatyczność pomysłów i taką nieszablonowość, no ludzie byli lepsi.
+477:  SR - Oczywiście to jest zabawa.
+478:  SR - My też staramy się przyjrzeć temu, jak to na błędzie funkcjonuje, ale ja mam poczucie, że to... Wiesz, zresztą pomysł to jest nic.
+487:  SR - Pomysł jest takim powiedzeniem, że pomysł wart jest 1 zł plus wart.
+491:  SR - Moim zdaniem to jest dobre powiedzenie.
+492:  SR - Generalnie pomysł jest bardzo mało warty.
+495:  SR - Rozwinięcie tego pomysłu, dopracowanie, połączenie go z innymi pomysłami, przepiwotowanie go ileś razy w trakcie, dopracowanie go i wdrożenie, to jest trudne.
+505:  SR - Tam jest wartość.
+507:  SR - Pomysły, wiesz, coś zapisanego na karteczce post-itowej, na brainstormie generalnie.
+511:  SR - Czasem te karteczki spadają, czasem się gubią.
+514:  KMM - To jest jeden złoty.
+516:  KMM - Ale wiesz, to jest ciekawe, co mówisz, bo dużo osób się boi o to, zwłaszcza osób z branży kreatywnej, projektowej, designerów także, że sztuczna inteligencja w różnych iteracjach odbierze im pracę.
+527:  KMM - Teraz mamy moratorium sześciomiesięczne ogłoszone przez
+531:  KMM - większość ludzi zajmujących się sztuczną inteligencją, osobna sprawa, czy rzeczywiście będzie przestrzegana, bo sam Altman już mówił, że wprawdzie niczego nie będą ogłaszać, ale czat GPT-5 jest w produkcji i jest w fazie prototypowania, należałoby powiedzieć.
+545:  KMM - No ale właśnie, co by należało ludziom powiedzieć w takiej sytuacji, bo ja zwykle mówię ze swojej perspektywy groznawczej, kiedy zajmujemy się zwykle projektowaniem gier, no to mieliśmy niedobór kadry.
+556:  KMM - Więc sztuczna inteligencja jest o tyle idealna, że uzupełnia braki kadrowe i pozwala przekierować ludzi na bardziej wymagające stanowiska, gdzie to będą po prostu tylko narzędzia.
+565:  KMM - Ale pozostaje ten strach, że ktoś odbierze nam, ludziom, tę naszą właśnie kreatywność.
+570:  KMM - Mówisz empatia i to jest coś, czego nie ma wciąż i prawdopodobnie długo nie będzie mieć sztuczna inteligencja.
+575:  KMM - Co jeszcze takiego?
+577:  SR - Wiesz co, ja też nie wiem, co się wydarzy oczywiście.
+580:  SR - Oczywiście.
+582:  SR - Nie do końca jeszcze jestem sceptyczny względem obietnic, które technologia sprawia, które nam daje.
+588:  SR - Mnóstwo technologii nie działa tak, jak powinno.
+590:  SR - Jak weźmiesz sobie autokorektę, no jakby jakim koszmarem to jest.
+595:  SR - Więc jakby obietnica to jedno, rzeczywistość to drugie.
+597:  SR - Natomiast też nie jestem jakby humanistyczny w tym sensie.
+600:  SR - Nie uważam, że człowiek ma jakąś naturalną i przyrodzoną i zawsze, wiesz, obecną przewagę nad tymi rozwiązaniami.
+606:  SR - Myślę, że
+607:  SR - Chad i inne rozwiązania OpenAI-owe zmienią jednak to, w jaki sposób generujemy coś, co nazywaliśmy wcześniej jakby twórczymi treściami, jak pracujemy z tymi pomysłami.
+617:  SR - Natomiast wiesz, ja dzielę sobie organizacje, które do nas przychodzą, do nas jakby biznesowo przychodzą, żeby pomóc w rozwiązywaniu dobrych pomysłów na dwie grupy zasadniczo.
+626:  SR - Jedna grupa mówi
+628:  SR - Pomóżcie nam mieć więcej dobrych pomysłów.
+630:  SR - Użyjcie swoich technik, narzędzi, metod podejść.
+633:  SR - Design Thinking jest jednym z takich podejść.
+634:  SR - Jest ich znacznie więcej.
+638:  SR - Ale druga grupa mówi, my nie mamy problemu z pomysłami.
+641:  SR - Znaczy z ilością pomysłów, w sensie z samym generowaniem.
+644:  SR - My mamy raczej nadmiar pomysłów i chcemy się nauczyć z nimi coś zrobić.
+651:  SR - Parę miesięcy temu prowadziłem taki warsztat dla IKEA.
+655:  SR - IKEA kojarzy nas z kreatywnością, a to akurat było
+659:  SR - Bardzo ciekawa firma w ogóle, bo ja nie wiedziałem tego wcześniej, ale IKEA jest franczyzą, czyli jest tak jak żabka.
+666:  SR - Jest tylko jeden sklep, którego IKEA jest właścicielem jakby dosłownie i to jest w Holandii, w Delft.
+672:  SR - No i oni właśnie tam mają taki innovation center, zamówili u nas taki proces, taki warsztat jak gdyby kreatywny, jak sprawić, żeby dobre pomysły nie umierały przedwcześnie.
+681:  SR - To było na otwartym wydarzeniu, tak spokojnie mogę o tym mówić.
+684:  SR - No i oni nawet...
+687:  SR - Bardzo mocno akcentowali to, ile się dzieje z pomysłami niedobrych rzeczy, po tym jak już teoretycznie powstaną, wiesz, skończył się brainstorm, mamy pomysły gdzieś tam zapisane, mamy zmapowany proces, no ale wiesz, to gdzieś przestaje komuś pasować, jest jakiś strzał z boku, jakiemuś menadżerowi tam to jest nie po linii, nie ma nawet takiego wiarygodnego testu tych pomysłów na rynku.
+709:  KMM - Bardzo często się mówi, ja jestem niezdecydowany jak oceniać te zdania, ale go nie lubię.
+714:  KMM - To znaczy, że nie ma złych pomysłów, bo jasne, nie ma złych pomysłów, to jest dobra retoryka, ale jednak jest taki moment, na którymś etapie prototypowania, że trzeba zdecydować się, idziemy w to, a odrzucamy te inne, które są potencjalnie interesujące, ale nie możemy ich iterować w nieskończoność.
+731:  SR - Dokładnie.
+733:  SR - Wiesz, jest dużo takich nieporozumień, gdzieś tam mitów w tej sferze kreatywności.
+736:  SR - Jednym z nich jest to właśnie, że nie ma złych pomysłów.
+739:  SR - Jedyne, co stosujemy jakby w procesach kreatywnych, co jest dość mocno osadzone w wiedzy o kreatywności, którą mamy po wielu już dekadach badań, to jest to, że kluczem, czy sposobem na dojście do dobrego pomysłu
+753:  SR - jest to, żeby mieć wiele różnych pomysłów.
+756:  SR - I generalnie większość tych technik pracy nastawionych na generowanie polega na tym, żeby ułatwić ludziom generowanie dużej liczby bardzo różnorodnych pomysłów.
+765:  SR - Przez pewien czas tak jakby zawieszamy zwykle ocenę tych pomysłów.
+770:  SR - ale ją włączamy później.
+772:  SR - Czyli to nie jest taki proces, że akceptujemy, wiecie, dosłownie każde jest takie odpowiedzenie brain fart, nie będę może tłumaczył, ale generalnie przez pewien czas te wszystkie brain farty akceptujemy do pewnego momentu, później jednak oceniamy i staramy się te najlepsze tylko...
+787:  SR - wybrać i rozwinąć.
+789:  KMM - Uwielbiam, będę używał słowa pierdzi pomysł teraz za każdym razem.
+793:  KMM - Bardzo ciekawe, ale wiesz, jest jedna rzecz myślę kluczowa, bo ludzie boją się oceny.
+797:  KMM - Ludzie boją się oceny zwłaszcza swoich pomysłów, bo są przyzwyczajeni do bardzo moim zdaniem negatywnego procesu oceniania, który nie jest ocenianą kształtującą, informującą, opisową, nie jest feedbackiem, nawet nie mamy polskiego słowa na feedback sensowny.
+812:  KMM - No nie wiem, informacja zwrotna to jest jednak nie to samo, co to sprzężenie zwrotne,
+817:  KMM - I czy to przypadkiem nie jest kłopot, który mamy, to znaczy nauczyliśmy ludzi nie oceniać się krytycznie i czekać tylko na informacje z zewnątrz, to znaczy zrobiłeś to dobrze, idź dalej i to nie jest kreatywność.
+830:  KMM - Dokładnie.
+831:  KMM - Jak uniknąć w takim razie tego?
+832:  KMM - Ja byś polecał też uczyć ludzi na wczesnych etapach, żeby właśnie tę kreatywność można było wcześniej w sobie odkryć.
+840:  SR - Znaczy ja myślę, że uczenie dzieci kreatywności nie ma żadnego sensu.
+843:  SR - Bo są już kreatywne.
+846:  SR - Raczej starajmy się ich nie oduczać tego.
+848:  SR - Nie psujmy.
+851:  SR - pomóżmy im to otrzymać bardzo długo.
+854:  SR - To chyba tylko miałbym apel na ten temat.
+856:  SR - Natomiast co do tych procedur, oceny pomysłów i w ogóle atmosfery, w których dobre pomysły powstają, jedną z podstawowych rzeczy, którą trzeba mieć, to jest bardzo mocne teraz hasło w menedżerskim środowisku zajmującym się innowacyjnością, to jest tak zwane bezpieczeństwo psychologiczne.
+871:  SR - Czyli ludzie muszą się czuć swobodnie, jeśli chodzi o możliwość krytykowania, zadawania pytań, podważania status quo,
+880:  SR - na różne sposoby też ekspresji siebie, czy swoich zdolności.
+886:  SR - I jeżeli stworzymy warunki, w których to jest możliwe, kiedy ludzie właśnie nie boją się oceny, albo ten strach przed oceną jest przynajmniej jakoś bardzo ograniczony,
+894:  SR - to się okazuje, że to bardzo sprzyja powstawaniu i rozwojowi dobrych pomysłów.
+898:  SR - Więc generalnie to są te cechy środowiska, które powinniśmy gdzieś tam utrzymywać.
+906:  SR - No jasne, że system edukacyjny, co ci będę mówił, bardzo szybko uczy nas.
+911:  SR - Generalnie w tej kreatywności wyróżniamy dwa rodzaje zadań.
+914:  SR - Jeden to są zadania zamknięte,
+916:  SR - Czyli powiedzmy jest jedno dobre rozwiązanie w teście, jest jedno dobre rozwiązanie zadania z matematyki.
+922:  SR - Różne algorytmiczne procedury nieraz mają jedno dobre rozwiązanie.
+925:  SR - I tym się w kreatywności generalnie nie zajmujemy.
+928:  SR - Zajmujemy się problemami otwartymi, co do których nie wiadomo jeszcze jakie jest dobre rozwiązanie.
+933:  SR - Jakie nowe funkcjonalności powinien mieć nasz produkt.
+938:  SR - pomysł na dobry wpis na social media, pomysł na dobry onboarding.
+942:  SR - Mnóstwo różnych rzeczy możemy tutaj zaproponować.
+944:  SR - Nie ma jednego dobrego rozwiązania i tym się zajmuje podejście kreatywne.
+950:  KMM - Zwłaszcza, że to jest też metoda bardzo często prób i błędów, powtarzalna, iterowalna.
+954:  KMM - Kiedyś był taki eksperyment właśnie zrobiony na LinkedInie, którego wywołałeś wcześniej przez Artura Kurasińskiego.
+959:  KMM - który stwierdził, że bez żadnych nakładów finansowych będzie starał się przebić barierę 5 milionów wyświetleń danego posta na najbardziej niespołecznościowym medium społecznościowym, jakie zostało kiedykolwiek zaprojektowane.
+970:  KMM - I udało mu się.
+971:  KMM - Właśnie taką metodą iteracyjną, bardzo konsekwentną, a ponieważ też sprzedaje swój newsletter, no to dla niego było konieczne, żeby dotrzeć do dużej liczby użytkowników.
+979:  KMM - I rzeczywiście miało taki feedback, swoją drogą od ludzi, którzy mówili mu, że dostali treść na LinkedInie, której wcześniej nie dostawali.
+986:  KMM - Więc ta metoda prób i błędów wydaje mi się też właśnie czymś, do czego powinno się w edukacji dążyć, ale wiesz, pytanie jak to zorganizować w środowisku, bo też uczysz i łączysz te dwa światy ze sobą, możesz komuś podsunąć jakiś pomysł w tym kontekście.
+1001:  KMM - W środowisku, które nie sprzyja tej kreatywności.
+1004:  KMM - Wspomnę memiczne anegdoty związane z Googlami i innymi dużymi korporacjami, w których jest game room, w których jest przestrzeń taka swobodna, gdzie można się przesiadać ze stołu do stołu, siąść sobie na wygodnym pufie, no a versus na przykład układ katedralny, który jest na większości uniwersytetów, na szczęście u nas na wydziale są sale projektowe, ale to nie jest standard.
+1026:  KMM - Standardem są wciąż sale katedralne z ławami i na środku jest ambona, z której ktoś nam peroruje, jak mamy organizować sobie życie.
+1035:  KMM - No i jak wtedy?
+1036:  KMM - Ciężko jest wtedy iterować pomysły, nie?
+1039:  SR - Dokładnie.
+1040:  SR - Ja też co do tych pokojów, game roomów i różnych innych creative rooms mam duży dystans.
+1046:  SR - Bywa tak w organizacjach, że ludzie tam przychodzą popracować generalnie, bo tam jest w miarę spokojnie i
+1052:  SR - Generalnie to jest jakby odwrócenie wykorzystania tej przestrzeni.
+1054:  SR - Tak się też zdarza.
+1057:  SR - Jasne, że przestrzeń, sposób jej ułożenia będzie nas tutaj popychał w różne strony, czy ułatwiał pewne rzeczy, a inne rzeczy utrudniał.
+1065:  SR - Natomiast z mojego punktu widzenia najważniejsza jest tak zwana kultura organizacyjna.
+1069:  SR - Czyli różne, zazwyczaj niepisane reguły, które kierują zachowaniem.
+1073:  SR - Każda organizacja ma swoją kulturę.
+1076:  SR - Tam, gdzie będzie parę osób, tam jakaś kultura regularnie się spotykających, działających w pewnym układzie, tam ta kultura się wytworzy.
+1082:  SR - No i są takie kultury, w których trzeba szybko wyczuć jaką opinię ma szef, nie wolno dokonywać pewnej ekspresji różnych rzeczy, które są niepopularne, nie wolno krytykować pomysłów, nie wolno podważać.
+1094:  SR - Jak ktoś powie pomysł, no to to jest święto, się nie dotykamy, żeby się ktoś nie obraził itd.
+1100:  SR - Ten feedback jest też gdzieś tam zawalowany albo go nie ma, albo czasem jest taki powiedziałbym z buta i taki bardzo krytyczny.
+1108:  SR - To są wszystko miejsca, które ograniczają szansę, że powstaną i rozwiną się dobre pomysły.
+1116:  SR - Bo jak zgłosisz parę razy pomysł, wydaje się, że to jest fajne i na przykład szef nic z tym nie zrobi, albo nawet dostajesz informację, że lepiej siedzieć cicho, bo komuś tam to nie przeszkadzało, to zrobisz tak jeden, dwa, trzy razy, a później już zmienisz pracę albo będziesz siedział cicho.
+1132:  KMM - A powiedz mi, dobry menadżer, który by stosował tego rodzaju techniki, jakimi się cechami powinien kierować, możesz też podać jakiś konkretny przykład.
+1140:  KMM - Ja ze swojej strony kiedyś zetknąłem się z menadżerem, który był takim typowym przewodnikiem, który jest obok ciebie i ci pomaga, guide on the side, a nie sage on the stage, nie ten menadżer na scenie.
+1151:  KMM - który dowozi milestone'y, dowozi kamienie milowe i wszyscy uważają, że tak, to jest dobry menadżer, ponieważ dowiózł projekt.
+1157:  KMM - No tak, to jest też cecha dobrego menadżera, ale jest jeszcze właśnie ten aspekt miękki i to sprzyjanie kreatywności.
+1163:  KMM - Co na przykład można byłoby robić wtedy?
+1166:  SR - Dobry menadżer wychodzi z sesji kreatywnej.
+1169:  SR - Nie jest na niej obecny.
+1171:  SR - Jest tak zwanym problem ownerem.
+1174:  SR - Czyli mówi, mamy taki problem, chcemy, nie wiem.
+1176:  SR - Zastanówmy się, jakie nowe funkcjonalności do produktów wprowadzimy.
+1179:  SR - Dlaczego akurat takie?
+1180:  SR - Zastanówmy się, jak usprawnimy komunikację między zespołami, żeby osłabić efekty silosów, które mamy w firmie.
+1187:  SR - Jak możemy sprawić, żeby ludzie mieli więcej poczucia sensu z pracy w naszej organizacji.
+1192:  SR - Efekty silosów, jakbyś wytłumaczył ludziom szybko.
+1195:  SR - Generalnie praca mamy zorganizowana w zespoły.
+1198:  SR - No i te zespoły mają dobre kontakty ze sobą wewnątrz i wiedza krąży między nimi, natomiast słabo się wymieniają wiedzą między.
+1205:  SR - Jeden zespół nie wie, co drugi robi, w związku z tym nie mogą korzystać ze rozwiązań, które opracowują, z różnych skrótów, nie mogą się uczyć od siebie nawzajem.
+1212:  SR - Oczywiście też pewien dystans narasta wtedy między zespoły i tak dalej.
+1216:  SR - Więc to jest niedobre z punktu widzenia organizacji.
+1217:  SR - To jest strata zasobów, które mają.
+1219:  KMM - Ten problem miał Apple kiedyś i właśnie jak projektowali tę swoją siedzibę w Cappertino, to idea była taka, że
+1225:  KMM - żeby zespoły cały czas migrowały i na przykład były cały czas w tej stołówce pracowniczej, którą mają gigantyczną, żeby wymusić proces wymiany informacji o tym, co robią nawzajem.
+1235:  SR - Tam nawzajem się ubikacje były tak ułożone, żeby ludzie się często po drodze do ubikacji spotykali.
+1240:  SR - Więc można to intencjonalnie jakoś próbować projektować.
+1245:  SR - Generalnie chodzi o to, żeby pół pomysły, ćwierć pomysły, które ludzie mają, zderzały się ze sobą, wchodziły ze sobą w kontakt, w interakcje, ocierały się o siebie, można powiedzieć, żeby powstawały nowe, przekształcone, rozwinięte pomysły.
+1262:  SR - Więc to by było jakoś super istotne.
+1264:  SR - Wracając do tego menadżera i co powinien robić, czy powinna robić, więc moim zdaniem zachowanie menadżera, czy w zasadzie lidera, może tak wolałbym użyć słowa lidera, polega na tym, że stawia problem, tłumaczy ludziom dlaczego to jest ważny problem, stwarza im warunki do pracy i mówi, jak coś sensownego wypracujecie, to my to wdrożymy.
+1288:  SR - I wychodzi generalnie, bo praca w tego typu zespołach to jest w dużej mierze praca taka samoorganizująca się albo praca, która jest facylitowana czy moderowana przez osobę taką jak ja na przykład nieraz.
+1300:  SR - Ja nie jestem menadżerem ludzi, z którymi pracuję.
+1303:  SR - Ja jestem kimś odpowiedzialnym za stworzenie warunków do ich pracy.
+1307:  SR - Ja im dbam o przestrzeń, dbam o proces, dbam o techniki.
+1312:  SR - Pomagam im rozwiązać różne problemy, ale nie podejmuję za nich decyzji.
+1317:  SR - Nie jestem ich przełożonym, w sensie nie podpisuję wniosków urlopowych, nie mam wpływu na ich karierę.
+1323:  SR - I jakby w podejściu Creative Problem Solving bardzo wyraźnie rozróżnia się te role.
+1328:  SR - Ja jak prowadzę zespół, to sam nie wymyślam.
+1331:  SR - sam nie tworzę contentu tej pracy, tworzę warunki pracy i tego pilnuję.
+1337:  SR - Założenie jest takie, że jak stworzymy dobre warunki pracy, dobrze dobierzemy zespół, dobrze przeprowadzimy ich przez proces, to na końcu będą wartościowe efekty.
+1344:  SR - I wtedy ta osoba menedżerska może przyjść, popatrzeć, powiedzieć, co myśli, pogratulować, podziękować i zadbać o to, żeby był follow-up, tak zwany, żeby była kontynuacja generalnie tej pracy, żeby dobre rzeczy zostały wdrożone.
+1360:  SR - To jest ta funkcja takiego wspierającego lidera, ale organizacje, bo jak myślimy o organizacjach, to organizacje oczywiście muszą robić dwie rzeczy.
+1368:  SR - Jest nawet na to pojęcie, mówi się o tak zwanych oburęcznych organizacjach, które z jednej strony muszą oczywiście robić to, co większość organizacji robi, czyli kontrolować, koordynować, pilnować pewnej efektywności działania.
+1379:  SR - To nazywamy w badaniach tak zwaną eksploatacją.
+1382:  SR - Chodzi o to, żeby wykorzystywać te możliwości, które organizacja ma.
+1386:  SR - Ale muszą też robić tak zwaną eksplorację, czyli poszukiwać nowych możliwości, nowych rozwiązań, myśleć bardzo szeroko, otwierać się na nowe rzeczy.
+1395:  SR - I teraz większość tradycyjnych organizacji jest dobra w eksploatacji, jest słaba w eksploracji.
+1401:  SR - Są takie organizacje, które są bardzo, bardzo dynamiczne, liderzy szybko wszystko zmieniają i tak dalej, są świetne w eksploracji, ale nie potrafią zamienić tego w działające, spiąć to w działalność, w działające systemy.
+1414:  SR - Dobre organizacje, dobre w tym sensie tworzenia nowych produktów i tak dalej, innowacyjne organizacje są tak zwane oburęczne.
+1419:  SR - No to jest porządny naukowy jakby ewidenc, że to działa najlepiej.
+1425:  KMM - A co jeżeli jest kryzys w organizacji i trzeba wkroczyć i właśnie zaproponować chociażby takiej, która preferuje eksploatację nad eksplorację i wkracza cię wtedy i usiłuje cię zaprowadzić nową metodykę.
+1439:  KMM - Jak to jest przyjmowane?
+1440:  KMM - Bo bardzo często ludzie oporują wobec nowszych metod czy metod kreatywnych właśnie, bo wydaje im się, że
+1447:  KMM - tamte stare, sprawdzone, skuteczne, gdzie jest rygor, mores, są, no właśnie, były wykorzystywane od dawna, w związku z powyższym są dobre.
+1457:  SR - To pytanie, które zadajesz, to jest dla mnie pytanie, jak się dzieje zmiana w organizacji.
+1462:  SR - I to ja nie aspiruję do takiej roli, żeby prowadzać konkretny proces kreatywny, który trwa, wiesz, od sesji kreatywnej trwającej kilka godzin do, nie wiem, kilkudziesięciogodzinnego procesu, żeby wykonywać tak daleko idących zmian.
+1475:  SR - Ja raczej dostarczam pewnych narzędzi pracy, ja ludziom pokazuję, jak takie rzeczy można robić.
+1481:  SR - Zwykle jest tak, że się tworzy jakaś taka grupa inicjatywna, takich liderów pewnej transformacji, którzy te rzeczy wiem, że podchwytują i później wdrażają i wykorzystują.
+1490:  SR - Na szczęście jest tak, że żeby dokonała się zmiana, nie musisz mieć większości po swojej stronie.
+1493:  SR - Dobrze wiem, że mniejszość jak gdyby wywiera często zmieniający wpływ, więc miejmy nadzieję, że to tak się transformuje, ale nie byłoby też jakichś wielkich złudzeń.
+1502:  SR - Organizacje muszą bardzo wiele różnych celów zrealizować i
+1506:  SR - I to otwieranie się też działa tylko do pewnego momentu.
+1509:  SR - No po prostu też trzeba robić business as usual, robić to wszystko, co musi być zrobione, żeby dana firma istniała.
+1516:  KMM - A jak miałbyś pokazać ludziom, którzy na przykład pracują ze studentami, zwłaszcza jeżeli to są kierunki praktyczne, gdzie liczy się...
+1525:  KMM - brokerstwo innowacji, gdzie liczy się wynalazczość.
+1528:  KMM - Jak byś doradzał pracować, zwłaszcza biorąc pod uwagę realia, w jakich funkcjonujemy, to, że rozlicza się nas wszystkich, wbrew logice, punktami, rankingami i tak dalej, a równocześnie trzeba nagle ludziom, którzy mają się uczyć do sesji, zastymulować procesy kreatywne.
+1545:  KMM - Jakie są najlepsze do tego techniki, twoim zdaniem?
+1548:  SR - Wiesz, ja sobie bardzo zmieniłem warsztaty dydaktyczne od czasu, jak zacząłem się zajmować takimi kreatywnymi metodami.
+1555:  SR - Praktycznie nie prowadzę już wykładów, jakby wycofałem się z tych wszystkich rzeczy.
+1560:  SR - Większość zdecydowaną zajęć, które prowadzę, to jest jednak w trybie warsztatowym albo mocno konwersatoryjnym, czyli generalnie wchodzę też w taką rolę kogoś, kto
+1569:  SR - Wie i umie stworzyć warunki pracy, właśnie takie powiedzmy projektowe, czy takie kreatywne, takie gdzie ludzie czują się w miarę bezpiecznie, żeby poeksperymentować z różnymi rzeczami i w takiej roli się dobrze czuje, raczej facylitatora niż takiego kogoś, kto siedzi tam i wie jaka jest poprawna odpowiedź, no.
+1588:  SR - Ja coś tam wiem generalnie, ale dużo rzeczy nie wiem i mam wrażenie, że ludzie się uczą skuteczniej w takich warunkach.
+1596:  SR - Ale oczywiście nie wszystkiego, bo pewnych rzeczy się musisz nauczyć po prostu z podręcznika i to też jest w porządku, więc ta droga, o której mówię pewnie nie jest drogą dla każdego.
+1604:  KMM - Mhm.
+1605:  KMM - Wiesz, bo też się uczą cały czas w trakcie projektu, ja miałem takie cudowne doświadczenie, jak no zwykle przez to, że zajmuję się rzeczami, które, no co do których nawet nie ma podręczników, jak nie wiem, chociażby typy fabuł w grach wideo, no to o wiele prościej jest podać listę fabuł w grach wideo i tyle, zwłaszcza, że sporo studentów na przykład nie gra, ale równocześnie można spytać o to, jakie są ich zdaniem dobre i złe i potem z tego zacząć wypracowywać jakieś struktury, więc to się absolutnie da zrobić.
+1630:  KMM - I co więcej, mam wrażenie, że to w ten sposób lepiej wsiąka i lepiej jest zapamiętywane i przede wszystkim ta wiedza staje się operacyjna.
+1637:  KMM - Bo tak jak mówisz, nie unikniemy tego, że jest jakaś wiedza teoretyczna, ale ona musi być operacjonalizowalna.
+1642:  SR - Dokładnie.
+1643:  SR - Chyba tej takiej wiedzy, powiedzmy, podręcznikowej, takiej wiedzy tradycyjnie rozumianej, no to wiesz, mamy już jakby mnóstwo źródeł, mamy teraz czata i będzie takich rzeczy dużo więcej.
+1652:  SR - Jak jest sens generalnie w naciskaniu akurat na ten pedał?
+1661:  SR - Ale inną rzeczą, która wydaje mi się jakby pomaga tutaj, to są jednak grupy, które są różnorodne.
+1668:  SR - Wiele uczelni w Polsce, zwłaszcza uczelni technicznych, działa w takim trybie monokultury, że generalnie ludzie są bardzo homogeniczni, bardzo podobni po prostu do siebie na danym kierunku, w danej grupie studenckiej.
+1680:  SR - Ja mam okazję uczyć akurat też takie zespoły, które składają się ze studentów z różnych kierunków, z różnych uczelni, z różnych krajów.
+1688:  SR - Czyli studentów Erasmusa na przykład.
+1690:  SR - I mam wrażenie, że bardzo fajnie to działa.
+1693:  SR - Mam też przedmioty z takich przedmiotów wybieralnych u nas i gdzie też mam ludzi z 5-4 roku bardzo różnych kierunków.
+1702:  SR - Też moim zdaniem super układ.
+1704:  SR - Mamy tą informatykę społeczną u nas na wydziale, która jest
+1708:  SR - Mniej więcej połowa ludzi ma takie bardziej analityczno-ścisłe zacięcie, druga połowa ma takie projektancko-humanistyczne i świetnie to działa.
+1717:  KMM - Nie ukrywam, też mój ulubiony konik, to znaczy ten podział, który mamy wdrukowany w społeczeństwie, że są ścisłowcy i są humaniści, a potem jest rynek pracy, który weryfikuje i to bardzo boleśnie.
+1726:  KMM - Dokładnie.
+1727:  KMM - Nagle się okazuje, że znowu podam przykład z GameDevu.
+1730:  KMM - Jasna sprawa, fajnie, że ktoś potrafi zaprogramować level w grze wideo, ale równocześnie nie mamy stanowiska akurat takiego, bo jest mała firma i potrzebujemy też kogoś, kto będzie w stanie napisać quest, a jak jeszcze coś narysuje, to już w ogóle super.
+1743:  KMM - No i nagle wtedy nie można rozłożyć rąk i powiedzieć, a ja nie jestem artystą, bo tak, możesz być, prawda?
+1749:  KMM - Nie ma żadnego problemu.
+1750:  KMM - Dokładnie.
+1751:  SR - Świetny przykład.
+1752:  SR - Mi się przypomina to powiedzenie skład dobrych founderów startupu, że trzy razy ha, musisz mieć hustlera, hakera i hipstera.
+1761:  SR - Hipstera kreatywnego, rozumiejącego kulturę, potrafiącego napisać właśnie opis tego świata, o którym mówisz, hakera, który powiedzmy to zakoduje i hustlera, który to sprzeda.
+1772:  KMM - No tak, sprzedanie jest największym problemem, tak.
+1775:  SR - I chyba, wiesz, to jest fajny taki moment naszej dyskusji, no bo zobacz, możemy sobie usmysłowić, gdzie są luki, jeśli chodzi o nasze społeczeństwo, naszą kulturę.
+1784:  SR - Mamy świetnych programistów i inżynierów w wszystkich konkursach deweloperskich, wiesz, jakby bardzo okej, ale nie jesteśmy krajem, społeczeństwem kojarzonym jakoś szczególnie z innowacyjnością.
+1795:  SR - mamy dobrych hakerów, co z hipsterami, z hustlerami, hipsterów to może więcej, hustler jest generalnie, wydaje mi się, to jest bardzo trudna praca, jakby sprzedażowa.
+1806:  SR - I no właśnie, to jest ten obszar kompetencji.
+1808:  SR - Ja kojarzę takie uczelnie z Finlandii na przykład, gdzie jest politechnika, która w zasadzie jest zmiksowana z ASP.
+1816:  SR - No i to już jest na miejscu.
+1818:  KMM - To samo w IT University of Copenhagen, tam też zresztą jest pierwszy w Europie kierunek groznawczy, wdrożony właśnie w dwojakim trybie.
+1825:  KMM - Jeden to jest ścieżka designerska ściśle, a drugi to jest ścieżka deweloperska, producencka.
+1832:  KMM - I w zależności od tego, jakie ludzie mają aspiracje, jaki mają background, mogą wybierać sobie przedmioty z dwóch tych ścieżek.
+1839:  KMM - Ja uważam, że w ogóle ideałem byłoby, gdyby można było to mieszać ze sobą, że nie wybierasz jedno i wtedy jesteś skazany na cały czas, żeby to kontynuować.
+1846:  KMM - Ale popatrz, jest coś takiego w Polsce, że uważa się, że ta sfera biznesowa, komercyjna, a sfera akademicka to są jakby dwie różne sfery.
+1855:  KMM - Wydaje mi się, że możemy właśnie doprowadzać do tego, że to przejście z uczelni na rynek pracy byłoby o wiele płynniejsze.
+1862:  KMM - Na przykład sam fakt, że rozmowa kwalifikacyjna może wyglądać bardzo podobnie jak kreatywny egzamin i odwrotnie.
+1869:  KMM - Na egzaminie nie musimy odpytywać z wiedzy, możemy dać zadanie kreatywne, takie jak w tych słynnych rozmowach kwalifikacyjnych Google'a.
+1876:  KMM - Dostałeś problem do rozwiązania i masz teraz czas i tu masz narzędzia.
+1881:  SR - Tak, tak.
+1882:  SR - Wiesz, temat rzeka, to jest też jakoś tam bardzo bliskie mojemu sercu.
+1889:  SR - Wydaje mi się, że odseparowanie świata akademickiego od świata pozaakademickiego, czy to będzie biznes, czy to będzie przemysł, czy to będzie sztuka.
+1898:  SR - Robi dużo złego i wydaje mi się, że transfer między tymi sferami, ja na przykład pracuję sporo z ludźmi z uczelni w Holandii, z Politechniki, czyli takim odpowiednikiem AGH holenderskim i tam model kariery jest często taki, że po studiach sobie idziesz popracować w biznesie przez 10 lat,
+1920:  SR - Jak zeszkasz trochę ekspertyzy, wracasz na przykład na uczelnię, zrobisz sobie jakiś doktorat, powiedzmy masz tam koło czterdziestki, to wtedy coś tam podłubiesz, porobisz sobie jakieś badania, chwilę po będziesz w tej społeczności, tam koledzy i koleżanki trochę ci pomogą, nauczą cię tam tego, wiesz, jak to pisać artykuł i tak dalej, a później sobie możesz też wrzucić do biznesu i trochę przynieść tej wiedzy.
+1939:  SR - U nas kariery tego typu są bardzo trudne.
+1943:  SR - Możesz być na uczelni i robić jakieś fajne badania na zlecenie przemysłu.
+1947:  SR - To się dzieje, bo masz ekspertyzę, masz laboratorium i tak dalej.
+1951:  SR - Ale jakbyś próbował pracować i tu, i tu, to jest naprawdę trudne.
+1955:  SR - Musisz tak jakby grać jednocześnie w obie gry.
+1960:  SR - część wspólna między nimi jest stosunkowo nieduża.
+1962:  SR - Znam sporo ludzi z biznesu, którzy próbowali wejść na akademię, zrobić na przykład doktorat.
+1968:  SR - Mam wrażenie, że to jest jeszcze trudniejsze niż wyjście z akademii.
+1971:  SR - O ludziach, którzy wyszli z akademii i dobrze sobie radzą w biznesie znam ileś takich historii.
+1976:  SR - W drugą stronę praktycznie nie znam.
+1979:  SR - Oczywiście to jest jakieś tam anegdotyczne w moim wypadku, bo przecież nie jest to jakby przeglądowe badanie, ale
+1985:  SR - Generalnie nie jest to proste, zmiana tych gier, więc jakby ten transfer, który mógłby się odbywać między tymi obszarami jest siłą rzeczy ograniczony.
+1993:  KMM - Zwłaszcza, że też zmieniają się cały czas formuły.
+1996:  KMM - Kiedyś studia zaoczne były dla ludzi pracujących, a dzisiaj jest to trochę nonsensowne, bo każdy pracuje w jakimś...
+2002:  KMM - wydaniu, właśnie ciężko jest zestroić tę pracę, którą wykonujemy z tym, co robimy na uczelni.
+2007:  KMM - Przypomina mi się z kolei dowód anegdotyczny jeden, to znaczy mój przyjaciel, który teraz pracuje w THQ Nordic w Austrii, robił doktorat humanistyczny, ale z analizy strategii marketingowej w grach wideo.
+2019:  KMM - I powiedziano mu, no słuchaj, jeżeli chcesz robić u nas doktorat, musisz sobie znaleźć pracę w studiu, musisz zobaczyć, jak wygląda marketing i
+2027:  KMM - I wtedy oni ci sfinansują doktorat.
+2029:  KMM - I to jest podobno częsty tryb w uczelniach niemieckich, że te doktoraty są współfinansowane czy kofinansowane przez biznes.
+2036:  KMM - To może też jest jakieś rozwiązanie, ale wiesz, dla mnie jest to tyle unikatowe, że zachęca do myślenia takiego także w obszarze humanistyki, co jest rzadkością jednak wciąż.
+2045:  SR - Tak, doktoraty wyróżniowe mamy i w zasadzie już w Polsce można robić też w humanistyce.
+2051:  SR - Ale ta ścieżka generalnie, o której tu mówimy, taka powiedzmy, brzydko da się mówić, komercjalizacyjna, ale ona jakby gdzieś tam, wiem, że w zamysłach ustawy, która w tym momencie jest, ona miała być mocniejsza, jest taka, jaka jest.
+2064:  SR - Więc to się dzieje w jakimś ograniczonym zakresie.
+2069:  SR - Na pewno można sobie wyobrazić, żeby to działo się lepiej, no ale wiesz, akademia się profesjonalizuje, musisz coraz więcej punktów dowozić i tak dalej, i tak dalej, to jest coraz...
+2076:  SR - coraz jakoś tam trudniejsze, więc się skupiasz na tych punktach, no bo ostatecznie za to jesteś głównie oceniany.
+2081:  KMM - Byś miał doradzić ludziom, którzy chcą trochę tak, nie wiem, i poza systemem edukacji, i poza swoją branżą, w której pracują, pracować nad swoją własną kreatywnością w ramach samorozwoju.
+2091:  KMM - Czy są jakieś dobre techniki?
+2093:  KMM - Wiadomo, ciężko jest nauczyć się pracy w zespole poza zespołem, ale czy można jakoś stymulować swoją własną kreatywność w własnym zakresie?
+2102:  SR - Są różne, rozmaite treningi kreatywności, które składają taką obietnicę, że istnieje coś takiego jak taka ogólna kreatywność, taka zgeneralizowana kreatywność, która generalnie jest tam powiązana z ogólnym wskaźnikiem inteligencji i tak dalej, i tak dalej.
+2121:  SR - Jest to psychologicznie tam umocowane.
+2125:  SR - Natomiast ja nie pracuję w tym podejściu w ogóle.
+2128:  SR - W ogóle nieszczególnie mnie interesuje indywidualny poziom kreatywności osób, które przychodzą do mnie na zajęcia, na warsztat, do zespołu.
+2136:  SR - Wiele razy słyszałem, że osoba, co do której na oko bym nie powiedział, że jest takim geniuszem kreatywności, rzucała pomysł, który okazał się wybrany przez grupę ostatecznie.
+2145:  SR - Okazał się tym najlepszym w tym konkretnym kontekście pomysłu.
+2150:  SR - Więc moje podejście polega na tym, żeby wspierać zespoły, a nie żeby wspierać jednostki w rozwoju kreatywności.
+2158:  SR - Wydaje mi się też taki mit, wiesz, w ramach tych mitów są ci wszyscy Archimedesi, co weszli do wanny, Newtonowie, którzy się położyli, wiesz, pod...
+2167:  SR - jabłonią i spadło jabłko i bach, pomysł.
+2170:  SR - Weź tą żarówkę, tą Edisonkę, która jest taką najbardziej wyświechtaną i mało oryginalną po prostu metaforą, ikoną kreatywności.
+2179:  SR - To jest strasznie błędne.
+2181:  SR - Generalnie pomysły mają nie tyle ludzie, co zespoły.
+2184:  SR - Pomysły nie pojawiają się w momencie, tylko wymagają czasu pewnego, w procesie się pojawiają.
+2190:  SR - I sam pomysł generalnie nie broni się sam, tylko wymaga jeszcze dużo wsparcia i rozwoju, żeby coś z tego sensownego wyszło.
+2198:  SR - Już wolałbym, żeby ziarenko było symbolem kreatywności.
+2201:  SR - Większość tych ziaren, nic z nich nie wychodzi, one gniją, gubią się.
+2207:  SR - padają na skałę i tak dalej.
+2209:  SR - Znamy te przypowieści.
+2210:  SR - Więc jakby z niektórych coś sensownego powstanie, często to co powstanie umrze też, ale z niektórych powstają naprawdę sensowne rzeczy i wielkie dęby, pod którymi wszyscy odpoczywamy.
+2220:  KMM - No to w tym kontekście muszę ci zadać to pytanie, co bardziej sprzyja wynalazczości i innowacyjności?
+2226:  KMM - Współpraca czy rywalizacja?
+2231:  SR - Ja nie jestem pewien, czy w kontekście kreatywności widziałbym te rzeczy jako rozłączne.
+2239:  SR - Jest jasne, że jednym z takich podstawowych driverów kreatywności w dekadach powojennych była zimna wojna i rozwój wojskowości.
+2248:  SR - Mnóstwo technologii, weźmy internet, no właśnie wtedy powstał GPS, taka sama... No więc rywalizacja...
+2259:  SR - Są takie miary kultur.
+2263:  SR - Jednym z takich wymiarów, które się diagnozuje w jednym z takich klasycznych podejści jest męskość i kobiecość.
+2270:  SR - Niesamowicie seksistowskie zestawienie, ale to kilkadziesiąt lat temu zaczęto to robić i tak już to niestety zostało.
+2276:  SR - W każdym razie generalnie porównywano czy kultury, które kładą nacisk na rywalizację i sukces taki wiesz, mierzalny, materialny, czy kultury, które kładą nacisk na jakość życia
+2288:  SR - współpracę, więzi, relacje itd., które są bardziej innowacyjne statystycznie.
+2294:  SR - Okazało się, że nie ma zależności.
+2296:  SR - Czyli w obu źródło może tej innowacyjności jest nieco odmienne, ale wyniki są podobne.
+2305:  KMM - Czyli bardziej rywalizacja zespołów niż rywalizacja jednostek w zespołach.
+2310:  SR - Właśnie to na pewno.
+2312:  SR - Wszystkie te techniki kreacyjności są bardzo
+2315:  SR - demokratyczne w tym sensie, żeby spłaszczać hierarchię, żeby rozbijać te struktury, statusów, które gdzieś tam mogą powstawać w trakcie pracy kreatywnej, żeby to niwelować.
+2329:  SR - ale raczej bym też nie przeciwstawiał zespołów sobie.
+2333:  SR - Ja często pracuję w takim trybie, że kilka zespołów równolegle pracuje nad rozwiązaniem problemu, ale przy założeniu, że nie ma tego jednego dobrego rozwiązania, tylko tam wiele dobrych może być.
+2344:  SR - No i wtedy, jak jesteś w zespole i widzisz, że obok pracują i tam gdzieś pracują, no to się też mobilizuje.
+2350:  SR - Tam zaraz coś wymyślą, zaraz coś zaprezentują, też chcę coś sensownego opowiedzieć.
+2354:  SR - Nie muszę z nimi wygrać, ale przynajmniej zagrajmy.
+2358:  SR - Pobawmy się.
+2360:  SR - I to tworzy fajną atmosferę.
+2362:  SR - Wydaje mi się, że tak to sprzyja.
+2365:  SR - A jednocześnie zespoły mogą się trochę wymieniać, wyjedzą, dawać sobie feedback nawzajem.
+2369:  SR - No to sens.
+2370:  KMM - Tak, to też spłaszcza tę strukturę hierarchiczną, którą mamy.
+2375:  KMM - Lubię zadawać to pytanie zawsze na koniec.
+2376:  KMM - Czy jest jakaś jedna myśl, którą byś chciał zostawić ludzi, którzy myśleli sobie do tej pory, że design thinking, kreatywność, innowacja to jest dla nich czarna magia absolutnie i chcieliby wejść do tego świata jakoś, a się boją właśnie.
+2387:  KMM - Tak jak bardzo często ludzie boją się wziąć udział w współpracy grupowej czy w projekcie jakimś zespołowym.
+2395:  SR - Ja też chciałbym ich zachęcić do tego, że to są metody, które nadają się na każdego.
+2401:  SR - Kilkuletnie dzieci można przeprowadzać przez takie procesy projektowe i to są narzędzia, są gry, w których dzieciaki zupełnie naturalnie wchodzą w takie rzeczy.
+2411:  SR - Natomiast ja bym chyba wolał zostawić ludzi z taką myślą, że żeby mieć dobry pomysł, to trzeba mieć po drodze dużo różnych pomysłów i żeby raczej starali się nie jeden zamknięty, gotowy pomysł,
+2422:  SR - wiesz, jak taki klejnot pomysł swój nie jest, tylko raczej jako coś takiego otwartego, jako półpomysł, który możesz zyskać, jak o nim opowiemy, jak się wymienimy z kimś, jak coś do niego dodamy, jak właśnie dostaniemy feedback.
+2435:  SR - Jakby, żeby patrzeć na rozwój pomysłu jako proces, w którym on może przychodzić bardzo wiele transformacji i zyskiwać na tych transformacjach i żeby dążyć do sytuacji, w której powstają naprawdę pule wielu różnorodnych pomysłów.
+2446:  SR - Tak się dochodzi do tych nielicznych, naprawdę dobrych.
+2450:  KMM - Dzięki Ci wielkie.
+2451:  KMM - W bunkrze nauki był z nami Seweryn Rudnicki, specjalista i trener innowacji.
+2455:  KMM - Dziękuję Ci serdecznie za rozmowę.
+2457:  KMM - Dzięki Krzyszku.

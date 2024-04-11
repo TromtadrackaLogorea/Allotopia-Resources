@@ -1,0 +1,137 @@
+Jak szukać tekstów naukowych w PDF (i dlaczego przez Sci-hub)
+🔗 https://www.youtube.com/watch?v=m5o9C-TPunk
+
+1:  W czasach, w których praktycznie nikt nie uczy nas rozróżniać prawdy od fałszu, od półprawdy i od postprawdy, a także w czasach, w których szkoły skupiają się na przekazywaniu wiedzy zamiast uczeniu wykorzystywania narzędzi pozwalających ją odnaleźć, jak nigdy potrzebujemy wiarygodnych źródeł, dostarczających nam sprawdzonej i zweryfikowanej przez ekspertów wiedzy wiedzę,
+27:  No i odpowiedzi na pytania nas trapiące.
+30:  No ale właśnie, jak zdobyć tego rodzaju źródła?
+33:  Jak do nich dotrzeć?
+35:  I przede wszystkim, w jaki sposób nauczyć się poruszać po internecie właśnie w poszukiwaniu takowych źródeł?
+42:  Paradoksalnie odpowiedzią na to pytanie nie jest zwykłe let me google that for you, a konkretniej nie chodzi o tego Googla.
+51:  Mianowicie najlepiej jest wykorzystywać wyszukiwarkę Google Scholar.
+56:  Mniej znaną zdecydowanie od głównej wyszukiwarki Google, ale skupioną na zupełnie innych algorytmach wyszukiwania.
+63:  Otóż Google Scholar nie interesuje się tym, żeby dostarczać wam spersonalizowanej
+69:  informacji dostosowanej głównie do naszych upodobań i historii wyszukiwania.
+74:  Nie, Google Scholar będzie nam dostarczać informacji, która jest głównie zakotwiczona w tzw.
+81:  naukowych bazach danych.
+82:  EBSCO, JSTOR, Project News, Science Direct, PubMed jest ich legion.
+88:  No i w momencie, w którym chcemy znaleźć jakąś informację i dajmy na to, ponieważ to jest jednak mój vlog, będziemy sobie szukać czegoś o grach wideo i immersji, napotykamy na pewien problem.
+98:  Otóż, jak widzicie, część z ich źródeł jest dostępna w PDF-ach, a zatem możemy sobie je radośnie przeczytać, natomiast część z nich
+106:  Nie.
+107:  Osobliwie najczęściej te nowsze publikacje, no jak na przykład z 2014 roku tekst The Interplay Between Immersion and Appeal in Video Games.
+118:  I w momencie, w którym sobie do tego tekstu wejdziemy, to nagle okaże się, że mamy do dyspozycji tytuł, autora, jakieś dziwne wskaźniki, o których sobie za moment powiemy,
+132:  Czasami się zdarzają tego rodzaju highlighty z tekstu i abstrakt, czyli streszczenie.
+138:  Natomiast nigdzie absolutnie nie możemy tego tekstu przeczytać.
+142:  Jedyna opcja, która się tu nam pojawia, no to oczywiście purchase PDF.
+148:  Za jedyne 20 dolarów, przepraszam, przepraszam, nie 20, 19 dolarów i 95 centów.
+154:  Co na polskie złotówki, na okrągło, wypada około stówki.
+160:  Więc jeżeli kiedykolwiek narzekaliście, że subskrypcja jakiegoś czasopisma kosztuje 100 złotych rocznie, a odblokowanie jednego artykułu jakąś dziewiątkę, no to proszę bardzo, jeden artykuł, 20 dolarów.
+172:  No i oczywiście to nie jest najtańsza...
+176:  jaką możemy zapłacić w świecie publikacji naukowych.
+179:  No i pojawia się tutaj problem.
+181:  Co zrobić w takiej sytuacji?
+182:  No, baza Science Direct podpowiada nam, że możemy dotrzeć do tego tekstu poprzez instytucje, ale zakładam, że większość z Was słuchających może nie mieć dostępu do instytucjonalnych repozytoriów i przede wszystkim do loginów, którymi dysponują naukowcy, doktoranci, a bardzo, bardzo rzadko studenci, których się nie informuje o tym, że uniwersytety mają wykupione dostępy do tego rodzaju baz danych.
+206:  Nawet jeśli dysponujecie tym loginem i hasłem, to najczęściej nie możecie do tej bazy wejść z domu, ponieważ trzeba dyrdać do biblioteki i dopiero na miejscu rzecz uczynić, albowiem większość z tego rodzaju loginów jest dostępna tylko i wyłącznie z sieci wewnętrznych.
+224:  A zatem widzimy pewien paradoks.
+226:  Z jednej strony ludzie mówią nam, że tak, że powinniśmy się dowiadywać o informacji z rzetelnych źródeł i ich tam szukać, ale z drugiej strony te rzetelne źródła są zablokowane.
+236:  W tym też, zauważcie, one są zablokowane, co nawet gorsze, dla ludzi, którzy nie są bezpośrednio związani ze środowiskiem akademickim, jak studentów, doktorantów, pracowników naukowych.
+246:  Nie, one są zablokowane dla dziennikarzy, dla publicystów.
+250:  dla liderów opinii, którzy również powinni czerpać tego rodzaju wiedzę ze źródeł zaufanych.
+256:  Ale jest jedno rozwiązanie i o tym rozwiązaniu jest dzisiejszy vlog.
+261:  Mianowicie, jak zobaczycie sobie tutaj ten numerek, to jest numer DOI, tak zwany Digital Object Identifier.
+267:  O nim mógłbym zrobić osobny film, bo jest to krewa straszliwa, biorąc pod uwagę fakt, że istnieją kilka fundacji, które specjalizują się wyłącznie w wydzielaniu tych numerów DOI
+280:  i przydzielaniu ich różnym artykułom i pobierają za to opłaty subskrypcyjne roczne rzędu 3600 czy 4000 euro, więc jest o czym opowiedzieć.
+290:  Niemniej jednak ten numer DOI pozwala na identyfikację artykułu naukowego w różnych miejscach sieci.
+297:  A nam posłuży do tego, żeby wejść na stronę założoną przez jedną ze studentek, która obecnie ukrywa się w Kazachstanie i nie podaje swojego adresu, bowiem strona ta została założona z pogwałceniem niektórych standardów obowiązujących w naszym cokolwiek przestarzałym prawie autorskim.
+317:  O czym za moment w drugiej części filmu.
+320:  I na rzeczonej stronie Sci-Hub linki do wszystkich narzędzi, których używamy dzisiaj dam w opisie do filmu.
+326:  Wklejamy sobie rzeczony link albo sam numer DOI.
+329:  Sam numer DOI to jest ta część tego adresu.
+333:  I wciskamy radośnie brzmiący przycisk OPEN.
+337:  I oto dzieje się magia, mianowicie SciHub wykorzystuje bazę loginów i haseł naukowców, którzy, co istotne, ochotniczo, współpracując z założycielką SciHuba, zapewnili swoje loginy i hasła dla wszystkich tych, którzy z różnych względów nie mogą ich wykorzystywać.
+354:  No na przykład dla absolwenta jakiejś uczelni, który chciałby dalej prowadzić badania, które tam zaczął, ale na przykład nie dostał etatu.
+361:  ale żeby dostać etat na uczelni, musi prowadzić badania.
+365:  Wreszcie, dla dziennikarzy, którzy specjalizują się w zakresie nauk, zwłaszcza nauk technicznych, ścisłych, które wymagają korzystania z tego rodzaju źródeł, oraz wszystkich innych ludzi, którzy byliby tym zainteresowani.
+376:  I oto jeżeli kiedykolwiek chcieliście, jak ja, posłuchać czegokolwiek albo poczytać na temat imersji w grach wideo, Sci-Hub przychodzi nam na ratunek.
+387:  I tu w zasadzie mógłbym nasz vlog skończyć, polecając wam serdecznie zarówno korzystanie z Sci-Hub'a w momencie, w którym chcecie dojść do rzetelnych źródeł informacji i wdać się w dyskusję w mediach społecznościowych, która będzie operowała nie linkami do martwych stron internetowych z abstraktem i zablokowaną treścią artykułu, tylko właśnie pełnym tekstem, który umożliwi bardziej pogłębioną dyskusję.
+411:  Natomiast wszystkich z was, którzy są zainteresowani
+414:  prawną stroną całej tej instytucji, czy całej tego serwisu.
+420:  No cóż, zapraszam w dalszą podróż.
+423:  Mianowicie jak zobaczymy sobie, wykorzystując już tę wiedzę, którą pozyskaliśmy, czy rzeczywiście Sci-Hub jest legalny, czy nie jest legalny, no to na przykład natrafimy sobie na taki oto artykuł.
+434:  prawda, na łamach czasopisma naukowego.
+439:  Czyli tekst odpowiadający ściśle na nasze wątpliwości.
+451:  No to jest jeden problem, mianowicie ten tekst jest za paywallem i nie da się go przeczytać, jeżeli nie użyjemy Sci-hub'a.
+461:  Jeżeli użyjemy Syhaba, to wtedy możemy go przeczytać.
+464:  Mam nadzieję, że widzicie już paradoks.
+467:  Nawet teksty, które poświęcone są etyce publikacji akademickich i wykorzystania narzędzi o kwestionowalnej etyce, nazwijmy to na razie na samym początku, wymagają naruszania.
+484:  Tych praw, o które stale zdają się dbać, po to żebyśmy się dowiedzieli tego, czy robimy coś poprawnie, czy niepoprawnie.
+491:  Zobaczcie jaki to jest absurd i paradoks.
+493:  I zwróćmy jeszcze uwagę na jedną zasadniczą kwestię i tutaj przechodzę do clou całego tego vloga.
+499:  Przecież naukowcy są opłacani z podatków.
+506:  A zatem, skoro my łożymy na utrzymanie każdego naukowca i każdego uniwersytetu, nie tylko w Polsce, ale w Europie i na całym świecie, to dlaczego nie mamy prawa powiedzieć, jak w pokerze sprawdzam i zobaczyć, co powstaje za te nasze pieniądze.
+522:  Przekonać się, jakie są te artykuły, jakie są wyniki tych badań.
+526:  I zwłaszcza, jeżeli nie będzie chodziło o rzecz taką, jak...
+530:  Poetyki zanurzenia w grze wideo i imersja, tylko jeżeli będzie chodziło o rzeczy poważne, polaryzujące opinię społeczną i publiczną, jak na przykład szczepionki, jak na przykład wirusy, jak na przykład nowe sposoby, nie wiem, zapładniania in vitro i tak dalej, i tak dalej.
+547:  Nauki medyczne ścisłe publikują informacje, które są na tyle wrażliwe i wymagają na tyle rozwiniętego warsztatu i umiejętności precyzyjnego myślenia, że dowiadywanie się tych informacji ze źródeł zapośredniczonych, czyli na przykład z prasy, z telewizji, z YouTube'a, jest pewnym błędem poznawczym.
+569:  Zawsze trzeba iść do źródła i sprawdzić na własną rękę, zorientować się, czy dane badania są wiarygodne, czy nie, sprawdzić datę publikacji, sprawdzić, czy jakieś inne artykuły przypadkiem nie denuncjowały tego, co zostało publikowane wcześniej jako chucpy i blamarzu.
+586:  A?
+587:  To jest też istotne i humbuka.
+589:  Zdarzało się tak chociażby z artykułami dotyczącymi szczepionek, na które powołują się antyszczepionkowcy bardzo często, nie zdający sobie sprawy z tego, że te artykuły zostały później, jak to się w slangu mówi, zdibankowane, czyli udowodniono, że publikowano w nich nieprawdę.
+606:  Zatem jak poradzić sobie z etyką publikacji akademickich i czy rzeczywiście, zgodnie z pytaniem, które sobie możemy zadać, Sci-Hub jest piractwem czy nie?
+616:  Czy jest tym samym jak kradzież chociażby książki albo utworu muzycznego z serwisu pirackiego?
+623:  Czy w ogóle Sci-Hub jest serwisem pirackim, skoro nie hostuje żadnych plików?
+629:  i nie udostępnia ich jak chociażby Library Genesis, czyli baza umożliwiająca czytanie książek naukowych, a nie już tylko artykułów.
+639:  No i w odpowiedzi na to pytanie może nam pomóc artykuł, który się ukazał dwa lata temu już na Wamach The Guardian, autorstwa Georgia Monbiota, Scientific Publishing is a rip-off.
+653:  We found the research and it should be free.
+657:  No i ten prowokacyjny tytuł to nie jest koniec absolutnie.
+660:  Mianowicie tu jest taki jeden interesujący fragment, który pokazuje i obnaża to, dlaczego publikacje akademickie w obecnym modelu wydawniczym są o wiele większym złem, aniżeli sam Sci-Hub, który tylko i wyłącznie jest narzędziem pozwalającym rozwiązać ten impas, który ma duża część społeczeństwa pozbawiona dostępu do obiegu treści akademickich.
+685:  Otóż okazuje się, że model, w którym publikowane są treści naukowe za paywallami został wymyślony przez człowieka, pośmiertnie w prawdzie, uznanego za oszusta.
+698:  Mianowicie Roberta Maxwella, który między innymi stoi za wydawnictwem Macmillan, z grupą wydawniczą Macmillan oraz za Daily Mailem Brytyjskim.
+707:  W Wielkiej Brytanii jest to postać dość niemile kojarzona.
+711:  Czytamy o nim następująco.
+713:  Robert Maxwell uświadomił sobie, że skoro naukowcy muszą być poinformowani na bieżąco o wszystkich istotnych postępach w obrębie ich dyscyplin, każde czasopismo naukowe, które publikuje artykuły naukowe, może zyskać monopol i żądać absolutnie ekstrawaganckich opłat dostępowych za udostępnianie dyscyplin.
+737:  I oczywiście za jej rozpowszechnianie.
+741:  Nazwał swoje odkrycie nieskończącą się maszynką do robienia pieniędzy.
+748:  Uświadomił sobie również, i tutaj jest jeszcze większy problem, o którym nie zdążyłem wspomnieć, że może wyzyskiwać darmową pracę ludzi i ich zasoby.
+761:  Okazuje się mianowicie, że skoro rządy fundują badania naukowe, które publikuje jego wydawnictwo m.in., w tym wypadku to był Pergamon, podczas gdy naukowcy nie dość, że piszą artykuły, ponadto je recenzują dla siebie w ramach tzw.
+776:  procesu peer review, czyli recenzji koleżeńskiej, i jeszcze do tego wszystkiego je redagują, no to zyskał model idealny.
+787:  Model finansowania, który pozwala mu wyzyskiwać pracę ludzi za darmo i jeszcze w dodatku zyskiwać na tym nieprawdopodobne fundusze, które są w dodatku jeszcze ciągnięte z kasy państwowej, a dobrze wiemy, że te w wielu krajach są praktycznie, no tak pojemne mniej więcej jak skarbiec Sknerusa Makkwacza.
+808:  I as a matter of fact okazuje się, jak czytamy w innym artykule, którego nie będę wam czytał w całości, bo nawet Guardian ostrzega, że to jest the long read.
+818:  Artykuł nosi tytuł Is the staggeringly profitable business of scientific publishing bad for science?
+824:  Czytamy mianowicie tam, że jedno z największych wydawnictw naukowych na świecie, czyli Elsevier, ma...
+833:  Dochód netto, profit na poziomie 36%, czyli więcej niż Apple, Google i Amazon w roku 2019.
+850:  I my mówimy o piractwie, o piractwie po stronie ludzi, którzy usiłują ominąć tę całą machinę zła, która, zauważcie, w odróżnieniu od piractwa treści artystycznych, wyzyskuje, a nie chroni autorów treści chronionych.
+870:  muzyk, czy pisarz, czy malarz, czy jakikolwiek artysta jest chroniony copyrightem i prawem własności intelektualnej i tak dalej, i tak dalej i do tego wszystkiego jeszcze zarabia na swojej twórczości.
+883:  Natomiast naukowcy nie dostają żadnego profitu czy dziesięcioprocentowego, czy pięcioprocentowego ze sprzedaży artykułów naukowych, mimo że one są sprzedawane i nie otrzymują również żadnych dywidend z tytułu sprzedaży książek naukowych.
+898:  Jedyna osoba, która zyskuje w tej sytuacji, to zauważcie, nie jest nawet wydawca, tak jak było w czasach Maxwella.
+904:  Teraz to jest baza danych, która to baza danych nawet nie skupuje tekstów od wydawnictw naukowych.
+911:  Nie, nie, nie, nie, to byłoby zbyt proste.
+913:  Bazy naukowe danych wmówiły naukowcom na całym świecie,
+917:  że tylko i wyłącznie one dysponują narzędziami pozwalającymi na dostarczanie właśnie wiarygodnych informacji do największej rzeszy odbiorców i w związku z powyższym naukowcy obecnie płacą.
+932:  kwoty rzędu trzech tysięcy dolarów, czterech tysięcy dolarów za opublikowanie artykułu.
+938:  Wydawnictwa płacą za wydawanie numerów DOI, które są niczym w fugazji, jak w Wilku z Wall Street.
+946:  A co jest kosztem operacyjnym właściciela takiej bazy danych?
+953:  Utrzymanie serwerów?
+955:  No to na takiej samej zasadzie Google powinien charge'ować od nas 3000 euro rocznie za korzystanie ze wszystkich swych usług, skoro utrzymanie serwerów jest tak problematyczne.
+964:  I nie myślcie, że w tych bazach danych nie pojawiają się reklamy.
+967:  Oczywiście, że się pojawiają.
+968:  36% zysku nie bierze się znikąd.
+973:  A zatem, jeżeli byśmy mieli sobie zadać takie absurdalne pytanie, czy Sci-Hub jest piractwem?
+978:  Moim zdaniem nie.
+979:  I zdaniem wielu sędziów w Stanach Zjednoczonych orzekających m.in.
+983:  w sprawie Elsevier przeciwko Sci-Hubowi, również nie jest to strona piracka, właśnie przez to, że nie ma tam hostingu plików.
+990:  Jest tylko i wyłącznie narzędzie udostępnione dobrowolnie przez innych naukowców obywatelom.
+996:  po to, żeby mogli oni trzymać za rękę naukowców i trzymać równocześnie swoją rękę na pulsie i sprawdzać, na co idą podatki, jakie badania są finansowane.
+1008:  I wreszcie, żeby móc również sprawdzać wiarygodne informacje u źródła, czyli nie tam, gdzie będziemy mieli np.
+1016:  jakiś raport albo artykuł naukowy, nawet popularnonaukowy czy inny opublikowany w jakimś medium powszechnie dostępnym,
+1024:  Tylko u źródła, tam gdzie mamy jak najmniejszy margines błędu, jak najmniej przekłamań.
+1032:  A nawet jeśli są jakieś przekłamania, to są systemy pozwalające na weryfikację tego, jak chociażby to, o czym Wam wspomniałem, możliwość sprawdzenia, kto kogo cytuje, czy dany artykuł przypadkiem nie został kiedyś skrytykowany, czy nie był wycofany przez czasopismo albo przez bazę.
+1048:  A zatem korzystajcie z Sci-Hub'a, mogę śmiało rzec, jeżeli chcecie poszukiwać wiedzy, mówiąc szumnie, i jeśli chcecie wreszcie dowiedzieć się o jakimś narzędziu, który tego umożliwia, bo przecież w szkole nas tego nie uczą, w szkole nam się dostarcza wiedzę w pudełku i jeszcze wmawia do tego, że podręcznik służy do magazynowania wiedzy, gdy tymczasem ten podręcznik czerpie wiedzę, ściślej mówiąc, jego autor, no właśnie, z artykułów naukowych.
+1075:  To pewnie jeden z wielu vlogów poświęconych tej tematyce.
+1078:  Dzięki, że wytrzymaliście do końca i mam nadzieję, że będziecie teraz patrzeć łaskawszym okiem na samych naukowców, którzy są dymani przez system wydawniczy w sposób, którego nie zna żaden inny biznes na świecie.
+1094:  A z drugiej strony wyciągnijmy z tego pewne wnioski.
+1096:  To znaczy, do czego doszło w naszej rzeczywistości, że wiedza została całkowicie zmonetyzowana?
+1103:  I czy przypadkiem
+1105:  Nie radzilibyśmy sobie z różnymi kryzysami, jak na przykład z kryzysem pandemicznym, który był w tym roku lepiej, gdyby takie bazy jak Elsevier, PubMed, JSTOR i inne udostępniały badania naukowe za darmo od dawna dla wszystkich naukowców, którzy w ten sposób mogliby pracować lepiej nad rzeczami, które faktycznie mogą zmienić życie wszystkich.
+1128:  Niezależnie od tego, czy pracują na Oxfordzie albo Stanfordzie, których stać na wykupienie drogich
+1134:  kluczy dostępowych do baz danych, czy też na innych uniwersytetach w krajach Europy Wschodniej albo w Afryce, gdzie też może się zdarzyć geniusz, któremu nie będzie dane zaistnieć w świecie naukowym tylko i wyłącznie dlatego, że ktoś kiedyś zdecydował, jak na przykład Robert Maxwell, że stworzy sobie niekończącą się maszynkę do mnożenia pieniędzy.
+1158:  Do następnego.

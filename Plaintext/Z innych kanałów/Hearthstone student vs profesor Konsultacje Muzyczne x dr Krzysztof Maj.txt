@@ -1,0 +1,520 @@
+Hearthstone: student vs profesor 🃏 | Konsultacje Muzyczne x dr Krzysztof Maj
+🔗 https://www.youtube.com/watch?v=zXF1zTk8T0w
+JK (Jakub Kołodyński)
+KMM (Krzysztof M. Maj)
+
+5:  JK - Cześć wszystkim, dzień dobry, z tej strony Jakub Kołodyński i znowu nie na antenie Radia 1.7, ale jak tutaj widać w grze i jest to specjalny odcinek, tak jak jeden z ostatnich, konsultacji muzycznych, w którym będę sobie grał i rozmawiał, no tym razem przez internet, z panem doktorem Krzysztofem Majem.
+28:  JK - Dzień dobry.
+29:  JK - To ja, dzień dobry, cześć wszystkim.
+32:  JK - I będziemy sobie właśnie grali w Hearthstone'a.
+35:  JK - Wybrałem tą grę jako taką nie jakoś bardzo pochłaniającą, ale myślę, że ciekawą do rozmowy, taką karczemną, jeśli mogę to tak nazwać.
+45:  JK - No i myślę, że rozmowa będzie bardzo przyjemna.
+48:  JK - Ja tutaj już przyjmę wyzwanie, żebyśmy mogli zacząć.
+54:  JK - Tali, przyznam się, nie robiłem żadnych talii, bo też odpaliłem, chwilę temu grałem.
+59:  JK - Znaczy, no...
+61:  JK - ale sobie wybiorę taką talię i zobaczymy jak to się rozwinie.
+65:  KMM - Ja nie grałem w Hearthstone'a tak długo, że aż wstyd przyznawać, ale przynajmniej pamiętam mechaniki.
+72:  JK - A to najważniejsze.
+74:  JK - Ja ściągnąłem właśnie ostatnio, grałem chwilę w Hearthstone'a dawno temu, ale u mnie to się zaczęło głównie od karcianki takiej fizycznej, bo ja grałem właśnie w karty World of Warcraft i one są
+89:  JK - To jakby, z tego co wiem, to Hearthstone jakby wywodzi się od tego, bo dużo kart tu widzę, że nawet mam w formie fizycznej gdzieś jeszcze pochowanych, także mi się stąd wzięło.
+102:  KMM - Niechafson zawsze fascynował ze względu na ten podtytuł Heroes of Warcraft, bo on buduje w ten sposób z klasycznym WoWem taki większy świat.
+111:  KMM - No może nie transmedialny, ale na pewno fikcyjny.
+114:  KMM - I to jest ciekawe, bo w zasadzie w większości... Musi pan turę zakończyć.
+118:  KMM - Tak, tak, tak.
+118:  KMM - W większości gier... No właśnie, czyli nie jest tak dobrze z tymi mechanikami, jak pamiętałem.
+124:  KMM - I w większości gier, powiedzmy, przed pewnym rokiem to jeszcze tego rodzaju szerszych światów nie było.
+131:  KMM - Oczywiście World of Warcraft jako taki funkcjonuje znacznie dłużej, ale nie mniej zawsze... Ja się paradoksalnie wpierw grałem w Hearthstone'a, dopiero potem zainteresowałem się WoWem.
+142:  JK - O, to taka chyba odwrotna kolejność, bo World of Warcraft jest starą grą, bardzo.
+147:  JK - Na tym polega właśnie cały paradoks.
+149:  JK - Hmm...
+151:  JK - No to w sumie ciekawie sprawa.
+154:  JK - I jak już właśnie rozmawiamy o grach, no to warto, znaczy warto myślę, że trzeba wspomnieć, że pan Krzysztof jest doktorem właśnie na AGH-u, na Wydziale Humanistycznym, w Katedrze Technologii Informacyjnych i Mediów, co myślę, że aż tak dużo nie mówi.
+170:  JK - No i właśnie, czym pan się zajmuje na tym AGH-u?
+173:  JK - Bo to jest właśnie ciekawy temat, który się bardzo odnosi do tego, o czym rozmawialiśmy chyba.
+178:  KMM - Tak, tak, jak najbardziej.
+179:  KMM - Mam kilka odpowiedzi na to pytanie, jedną już zanudziłem wszystkich, to znaczy zwykle mówię, że zajmuję się światami, które nie istnieją, ale na okoliczność tej rozmowy mogę powiedzieć śmiało, że mówimy o, w szczególnym przypadku tych światów, to znaczy światach gier komputerowych oczywiście i od razu zaznaczę, że nie chodzi tutaj o to, żebym zajmował się na przykład mechanikami w tych grach tylko i wyłącznie, albo projektowaniem tych gier od strony level designu, bo jest bardzo dużo specjalistów, którzy się tym zajmują.
+207:  KMM - Ale mnie interesuje to, w jaki sposób możemy zaprojektować rzeczywistość fikcyjną właśnie zanim nawet zostanie ona wymodelowana w silniku gry, czyli w Unity, w Unreal, czy w Lumberjacku, czy jakimkolwiek bądź innym.
+221:  KMM - Jest to o tyle ciekawe, że właśnie zanim to wszystko zrobimy, ktoś musi siąść niestety z jakimś Google Dociem i zacząć projektować świat.
+229:  KMM - No i oczywiście to projektowanie świata nam się kojarzy odpowiednio, to znaczy, że to jest jakaś niesamowicie skomplikowana i złożona czynność, ale tak naprawdę wiąże się ona z czymś zupełnie innym, ale do tego może przejdę później i jeszcze dokończę to, czym się zajmuję.
+241:  KMM - Więc projektowanie gier i projektowanie fikcyjnych światów to jest jedna rzecz, no i oczywiście teoria samych gier komputerowych to jest druga, teraz będzie ruszał od przyszłego roku chyba przedmiot Introduction to Game Studies, który będzie w UBPO naszym, uczelnia na bazie przedmiotów obieralnych.
+257:  KMM - No i te przedmioty moje na WH też mają swój odpowiednik ogólnowydziałowy, między innymi właśnie światotwórstwo w grach wideo, które polega na tym, że no właśnie, z jednej strony jest jakiś wykład, ale z drugiej strony jest duży warsztat i duży projekt do zrobienia przez jakąś grupę, powiedzmy 20-30 osób, który polega właśnie na tym, że od zera startujemy i projektujemy jakąś fikcyjną rzeczywistość w wybranym settingu.
+283:  KMM - Tak w dużym skrócie.
+285:  JK - Znaczy pomysł wydaje mi się fajny pod tym kątem, że faktycznie jak się siedzi w danym temacie, nie tylko się siedzi tam na wykładach, ale się siedzi w danym temacie od początku do końca w projekcie, to idzie się fajnie zżyć.
+299:  JK - I tu zapytam też, bo faktycznie jakby przynajmniej ja podejdę tutaj do tego wszystkiego, do tej rozmowy od takiej strony,
+311:  JK - Laika?
+312:  KMM - No jasne.
+312:  JK - W sensie, że jak analizowałem to, znaczy analizowałem, myślałem o tej naszej rozmowie, to właśnie pan zajmuje się tworzeniem gier, tworzeniem światów, wydaje mi się bardziej taki humanistyczna rzecz na wydziale humanistycznym, a ja studiuję mechanikę i jestem bardziej inżynierem.
+330:  JK - No i właśnie bardzo dużo tych tematów jest dla mnie zupełnie obcych i niektóre pytania mogą się wydać oczywiste dla pana, ale dla mnie zupełnie nie są.
+340:  JK - Spoko, nie ma problemu.
+340:  JK - No i pierwsza rzecz, która mnie zastanawia, to jest, czy faktycznie ten świat, nie wiem, czy to się też do książek może odnosić, bo zastanawiałem się właśnie w odniesieniu do książek, książek fantastycznych, czy faktycznie to jest tak, że nad projektem tego świata siedzi cała rzesza ludzi?
+358:  JK - To nie jest tak, że jeden autor ma jakiś wybitny pomysł i po prostu ten świat wychodzi z jednej głowy, tylko faktycznie to jest przemyślane jakoś psychologicznie, jeśli mogę tak nazwać?
+369:  KMM - Jak usiłowałem znaleźć taki pierwszy przypadek wytworzonego fantastycznego świata, tak, dzisiaj jesteśmy do tego przyzwyczajeni, że właśnie siedzi nad tym wiele osób, że to jest związane powiedzmy z jakimś zbiorowym wysiłkiem i zarazem jeszcze musi być spójne.
+385:  KMM - no to wyszło mi, że chyba pierwszy mu tak się udało Morusowi, temu od Utopii, który wbrew pozorom nie napisał tego tekstu tylko i wyłącznie sam, bo właśnie projekt Utopii to nie był tylko i wyłącznie nudny dialog filozoficzny, tylko chodziło tam o to, że na przykład Ambrosius Holbein machnął do tego mapę,
+403:  KMM - Ktoś inny zrobił fikcyjny alfabet, jeszcze ktoś inny zaprojektował drugą wersję mapy, a w ogóle oni wszyscy się spotkali jakoś w 2-3 osoby i dyskutowali nad tym światem.
+413:  KMM - No więc to jest żywcem coś takiego, co przypomina nam działalność współczesnych studiów projektujących gry wideo, po prostu wtedy nie było tylko takich możliwości.
+421:  KMM - Ale sam Tolkien zresztą, jak projektował swój świat, on wielokrotnie przyznawał się do tego... Wow!
+427:  KMM - On wielokrotnie przyznawał się do tego, zareagowałem na to, co się dzieje, że tak nie do końca chodziło mu o to, żeby na ten przykład opowiedzieć fajną historię o Hobbitach.
+437:  KMM - Priorytetem Tolkiena było przede wszystkim to, żeby...
+440:  KMM - wymodelować fikcyjny świat.
+442:  KMM - I zresztą powiedział kiedyś w jednym ze swoich esejów, I started with a map and made a story fit.
+447:  KMM - Czyli ta fabuła, i nam się wydaje, że gry narracyjne, właśnie światotwórcze, to tam jest taki silny ładunek fabularny, o cyberpunku też tak mówiono bardzo, a tymczasem ta fabuła jest całkowicie drugorzędna.
+458:  KMM - To, co się liczy, to właśnie to, że siada ze sobą parę osób, zwykle to rzeczywiście jest, nawet teraz w studiach to jest od kilkunastu do kilkudziesięciu osób nawet,
+467:  KMM - I razem ze sobą dyskutują i zaczynają się zastanawiać nad settingiem na przykład, który sobie wybierzemy.
+473:  KMM - No bo w przypadku gry wideo to jest o tyle kluczowe, że setting fantasy jest po prostu droższy od settingu post-apo czy jakiegokolwiek innego.
+482:  KMM - Wymaga, krótko mówiąc, tego, żebyśmy mieli więcej assetów.
+486:  KMM - Ciężej jest na przykład zrobić grę, w której masz walkę ze smokiem, niż grę, w której dajmy na to...
+493:  KMM - No nie wiem, przemierzamy jakąś postapokaliptyczne pustkowie, gdzie są duże, zmutowane szczury.
+497:  KMM - To jest troszeczkę łatwiej.
+499:  KMM - W związku z powyższym to rzeczywiście jak najbardziej słuszna intuicja, że te światy fantasy, które mamy w książkach, mamy w literaturze science fiction itd., itd., że one...
+513:  KMM - Są podobne do tego, co mamy w grach komputerowych.
+515:  KMM - Faktycznie tak jest.
+517:  KMM - I faktycznie te światy, które są projektowane w literaturze fantasy czy w science fiction i te, które są w grach wideo, są pod tym względem podobne.
+525:  KMM - Dlatego też często zwracam uwagę na to, żebyśmy się zastanowili, jak wiele gier wideo, które odnoszą gigantyczny sukces AAA i tak dalej, właśnie jest osadzone w settingach fantastycznych.
+534:  KMM - To nie jest przypadek.
+537:  JK - O, jakby, no właśnie znalazłem takie połączenie, chyba tu i tu jest jakby ważnym celem po prostu wciągnięcie tej osoby czytającej czy też grającej do tego świata.
+549:  JK - I myślę, że nie byłbym, nie powiem, że nie byłbym sobą, ale jako, że jesteśmy tutaj...
+555:  JK - nagrywam dla radia 1.7, to nie sposób byłoby nie zapytać o muzykę.
+562:  JK - Zajmuje się pan światami, ale jest to połączone właśnie z grami komputerowymi.
+566:  JK - Jak do tego wszystkiego się ma muzyka?
+568:  JK - Ja od strony gracza muzyka tworzy klimat, ale czy też w tym jest coś więcej?
+574:  JK - Wie pan coś na ten temat?
+576:  KMM - To jest bardzo ciekawe, o co pan mnie pyta, bo mam akurat doktoranta, którego prowadzę na Uniwersytecie Śląskim,
+581:  KMM - wprawdzie, ale właśnie zajmuje się dokładnie tym, to znaczy pisze doktorat na temat światotwórstwa muzycznego i zastanawia się nad tym, w jaki sposób możemy za pomocą muzyki tworzyć świat.
+592:  KMM - Ja podam przykład banalny, to znaczy jeżeli mamy jakiś biom pustynny na przykład,
+598:  KMM - no to automatycznie kojarzą nam się już te wszystkie charakterystyczne bardzo melodie dalekowschodnie, instrumenty także takie, które się wiążą z tym settingiem, odpowiednia skala, na przykład eolska jest wtedy i tak dalej, i tak dalej.
+611:  KMM - I my to intuicyjnie wyczuwamy, jak słuchamy tego rodzaju muzyki.
+616:  KMM - Więc jak najbardziej, to jest absolutnie kluczowa rzecz, powiedziałbym wręcz, że gra wideo, właśnie stromotnie przerżnąłem, gra wideo, w której nie byłoby muzyki, jest...
+626:  KMM - uboższa, której nie ma udźwiękowienia także, bo nie tylko muzyki.
+630:  KMM - Na przykład bardzo znana jest gra i bardzo ceniona Disco Elysium.
+634:  KMM - Sam ją lubię, ale problem mój z Disco Elysium polegał na tym, że nie były nagrane kwestie dialogowe i
+641:  KMM - I to w taki sposób modulujemy głos i cała ta warstwa dźwiękowa jest absolutnie kluczowe dla naszego doświadczenia gry.
+647:  KMM - I w moim przekonaniu na przykład rozgrywka we Frostpunka nie byłaby tym samym, gdyby te absolutnie niesamowite brzmienia, które zostały tam zaprojektowane.
+656:  KMM - Deus Ex Human Revolution, połowa klimatu w tej grze, to jest teraz wezmę MAGA, połowa klimatu w tej grze to jest ambientowa muzyka Michaela McConaughey'a.
+667:  KMM - który zresztą dostał za to baftę i słusznie.
+670:  KMM - To, co zrobił z kolei Marcin Przybyłowicz i w cyberpunku, akurat to jest mocna strona cyberpunka, i w Wiedźminie III niesamowicie buduje klimat świata i atmosferę i tak dalej, i tak dalej.
+679:  KMM - I można świat otworzyć jak najbardziej.
+683:  KMM - Najczęściej właśnie muzykę się dobiera po prostu do konkretnego biomu, w którym jesteśmy, albo antromu, jeżeli jest lokacja stworzona przez człowieka.
+691:  KMM - Biom zazwyczaj to jest lokacja roślinna po prostu, czy jakaś dowolna sfera klimatyczna.
+696:  KMM - I to też jest zgodne z taką tradycją muzyki filmowej.
+700:  KMM - Filmowcy, którzy robili muzykę na przykład do jakichś obszarów arktycznych czy tak, bardzo często używali wibrafonu.
+706:  KMM - Więc to parowanie instrumentów czy określonego nawet gatunku muzyki, typu muzyki,
+712:  KMM - z daną lokacją jest absolutnie kluczowe dla tego naszego feelingu światotwórczego.
+717:  KMM - Przecież nie wyobrażamy sobie chyba lokacji w postaci jakiegoś klubu, w którym nie ma porządnego techno.
+722:  KMM - I jeżeli to będzie klub futurystyczny, to się samo narzuca nawet.
+726:  KMM - Nie wyobrażam sobie sytuacji, w której...
+729:  KMM - Wyobrażam sobie sytuację takiej, w której bym był na przykład w futurystycznym cyberpunkowym mieście, wszedł do klubu i usłyszał jakiś jazzik.
+738:  KMM - Tego bym się spodziewał raczej w settingu powiedzmy właśnie lata prohibicji, lata dwudzieste, Stany Zjednoczone, te sprawy, prawda?
+745:  KMM - Więc ta muzyka bardzo często jest po prostu na tyle sugestywna, że możemy od razu domyślić się z jakim settingiem będziemy mieli do czynienia.
+756:  JK - Można się definitywnie właśnie wczuć w klimat, poczuć jakby się było w tej grze.
+761:  JK - A słyszę, że pan ma tutaj dużą wiedzę też na ten temat, a tak poza grami, nie grając, sięga pan po muzykę z gier tak do słuchania po prostu?
+770:  KMM - Prawie wyłącznie, co ciekawe, to znaczy wszystkie moje playlisty na Spotify to jest muzyka z gier praktycznie.
+776:  KMM - No Michaela McConaugha kocham absolutnie miłością do zgonu, niezależnie od tego,
+781:  KMM - czy to jest Splinter Cell, czy to jest Deus Ex i Human Revolution, Mankind Divided, nawet nie wiem, czy w Mankind Divided nie jest lepsza pod wieloma względami.
+789:  KMM - Uwielbiam też absolutnie muzykę do Frostpunka, mam nawet parę dzwonków na telefonie z Frostpunka, więc tak, jak najbardziej.
+795:  KMM - Muzyka Blizzarda tak samo, akurat gramy w grę Blizzardo, więc trzeba wspomnieć o tym.
+799:  KMM - No to jest klasa sama w sobie, przecież to, co zrobił Blizzard do chociażby Starcrafta, czy do Warcrafta, oczywiście World of Warcraft, to jest absolutny majstersztyk.
+810:  KMM - A muzyka Huffstona mogłaby być ciutkę lepsza, ale jeżeli chodzi o samego... Ale ważne, że brzmi tak karczemnie, to chyba też działa na klimat, działa na klimat chyba, tak jak powinno.
+818:  KMM - Oczywiście, bo tutaj chodzi o taką niezobowiązującą raczej, swobodną, natomiast to nie jest coś, czego bym słuchał, prawda, w zapętleniu.
+825:  KMM - A Michaela McConaughey się zdarza.
+827:  JK - No tak, to idzie oszaleć.
+829:  JK - Okej.
+830:  JK - Dobra, w porządku.
+833:  JK - Jeszcze odnośnie światów, tutaj wyczytałem na internecie, no bo skądś musiałem pozyskać informacje o Panu, wyczytałem na internecie na Pana stronie, że właśnie też zajmuje się Pan tworzeniem narzędzia w ramach grantu do prototypowania fabuły w grach wideo.
+856:  JK - To też bardziej od technicznej strony mnie to zaciekawiło, ale na czym takie narzędzie albo na czym takie prototypowanie fabuły polega?
+867:  KMM - Będę musiał zaktualizować stronę, bo ten projekt został zakończony jakoś rok temu czy dwa lata temu, ale już mówię o co chodzi.
+874:  KMM - Mianowicie to był projekt doktora Piotra Kubińskiego, który od lat zajmuje się również badaniem gier wideo.
+881:  KMM - Napisał zresztą bardzo dobrą książkę, gry wideo, zarys poetyki.
+884:  KMM - Polecam książkę Piotra Kubińskiego, pozdrawiam Piotra Kubińskiego.
+888:  KMM - I zaprosił mnie do tego grantu po to, żebyśmy zaprojektowali wspólnie z zespołem.
+892:  KMM - Oczywiście po pierwsze przebadali to, zanim zaprojektowali narzędzie, to przebadali to w jaki sposób...
+898:  KMM - Questy, które są dostępne w grach wideo wyznaczają pewne algorytmizowalne schematy narracyjne.
+905:  KMM - Co to oznacza?
+906:  KMM - Oznacza to, że tak samo jak na przykład fabuła Gwiezdnych Wojen, Nowej Nadziei i fabuła większości filmów superbohaterskich jest zasadniczo zbieżna, na takiej samej zasadzie zbieżne są ze sobą różne questy, które są dostępne w grach wideo.
+921:  KMM - No i zainspirowawszy się tym stwierdziliśmy, o, czy dałoby się zrobić takie narzędzie właśnie, za pośrednictwem którego moglibyśmy uprościć ten proces, zwłaszcza dla tych studiów, które są mniejsze.
+932:  KMM - I na przykład ktoś by mógł sobie zamodelować, że interesuje go opowiedzenie questu takiego i takiego typu i na przykład bardzo by chciał unikać fetch questów i fedex questów, czyli wszystkich questów, których gracze nie znoszą, bo trzeba coś przynieść, zanieść i pozamiatać.
+947:  KMM - względnie kogoś eskortować.
+948:  KMM - To jest nudne i tego nikt nie lubi, więc chodziło o to, żeby dać alternatywę.
+952:  KMM - A wiadomo, że niestety, to jest smutna informacja dla wszystkich humanistów, ale sorry, ja miewam tak czasem, że jestem tym złym ptakiem, co to własne gniazdo kala, ale no niestety w branży humaniści, a zwłaszcza ci, którzy piszą questy właśnie, projektują fabuły, bo projektowanie narracja, projektowanie fabuły to dwie różne rzeczy, no nie są odpłacani zbyt dobrze.
+972:  KMM - Opłacani są konkretnie najnędzniej w całej branży.
+976:  KMM - W związku z powyższym, jeśli ktoś się rzeczywiście tym interesuje, to raczej zawsze polecam projektowanie narracji, które się przekłada na to, że oprócz fabuły, oprócz questów, czyli tego, co nadresowało to nasze narzędzie narra, również...
+991:  KMM - Zajmujemy się projektem świata właśnie od strony lore, czyli tej dosłownie wiedzy o świecie, encyklopedie, kroniki, znajdźki, które się pojawiają w grze, opisy przedmiotów.
+1001:  KMM - Każdy, kto grał w Souls'y wie, że opisy przedmiotów w tej grze pod względem właśnie naszej wiedzy o świecie dają nam znacznie więcej niż samo przejście całej gry i cały gameplay.
+1013:  KMM - I tak dalej, i tak dalej.
+1014:  KMM - Więc to są wszystko rzeczy, które ktoś musi napisać, zamodelować, zaprojektować.
+1019:  KMM - Moim ulubionym przykładem jest chyba mapa, nie mapa, wróć, timeline funkcjonowania miasta Columbia w Bioshock Infinite.
+1027:  KMM - Gdzieś tam w Hall of Heroes jest to dostępne, możemy sobie to kalendarium obejrzeć, no ale właśnie, ono nie ma żadnego wpływu na fabułę.
+1035:  KMM - To, że ktoś to zaprojektował, tylko świadczy o tym, że jest takie zapotrzebowanie, że...
+1041:  KMM - a nóż którejś z graczy to zobaczy, nie chcąc zrymowałem, i w większym stopniu właśnie zatopi się w realia tego świata.
+1049:  KMM - I to jest, no to jest absolutnie coś niesamowitego.
+1052:  KMM - I zawsze mnie to fascynowało właśnie, bo to pokazuje, że to nie jest tylko i wyłącznie coś takiego, co w dowolnej powieści fantasy możemy powiedzieć, a no jasne, ktoś zrobił mapę, jakąś fajną układkę, concept art, ale tak naprawdę najważniejsza jest fabuła.
+1065:  KMM - będzie mieć rację.
+1067:  KMM - Natomiast w grze wideo no właśnie niekoniecznie.
+1069:  KMM - Bardzo często o tym, że wrócimy do jakiejś gry decyduje nie to, że o, chcę jeszcze raz się przekonać o tym, jaka jest ta nudna fabuła Wiedźmina Trzeciego, o którym Geralt goni za Ciri, bo your princess is in another castle.
+1081:  KMM - No ileż można.
+1082:  KMM - Ale nie, wrócimy do Wiedźmina Trzeciego, żeby sobie poeksplorować świat, zobaczyć właśnie te questy, których nie widzieliśmy wcześniej i quest line'y i tak dalej, i tak dalej.
+1091:  KMM - Więc no, to jest jakby kluczowa sprawa i dlatego też mnie to bardzo interesowało.
+1096:  JK - Ja nie myślałem o tym w ten sposób, bo ja może nie gram za dużo w gry, już nie wiem, czy to gdzieś medialnie, że tak powiem, wspominałem, nie gram za dużo w gry, szczególnie te single player, ale jedną z tytułów, który bardzo mi odpowiada i to jest chyba jedna z nielicznych gier single player, w które gram, jest Assassin's Creed.
+1116:  S00 - Który?
+1116:  JK - I właśnie to ja jestem najbardziej chyba Brotherhood.
+1121:  JK - Mi odpowiada w ogóle dwójka Brotherhood.
+1123:  S00 - Brotherhood miał genialny multiplayer, prawda?
+1127:  S00 - Fajne, znaczy multiplayer tam to takie hide and seek było.
+1130:  KMM - Tak, ale właśnie jeden raz im to wyszło.
+1133:  KMM - Ja pamiętam, ja miałem niesamowite emocje przeżywałem przy tej grze właśnie w wersji multiplayer'a i to zrobili najprostszą w świecie, że zbliża się do ciebie Assassin w związku z powyższym, słychać właśnie jakieś bicie serca czy coś takiego, nie pamiętam dokładnie,
+1146:  KMM - i przez to, że nie wiedzieliśmy, kto z tłumu jest asasynem, budowało to niesamowite napięcie.
+1152:  KMM - Bardzo mi się to podobało.
+1153:  JK - O to chodziło, tak.
+1154:  JK - Tak, tak, tak.
+1156:  JK - Grało mi się też bardzo dobrze, chociaż mówię, ja jestem... W multiplayer aż tak dużo nie grałem, a właśnie w singleplayer byłem typem tego gracza, który zanim w ogóle przeszedł do głównej fabuły, to lubił sobie pobiegać wszędzie, znaleźć wszystkie znajdźki, wszystko wyczytać, więc lubiłem grę tak eksplorować.
+1173:  JK - od samej góry do samego dołu, bo właśnie sprawiało mi to radość, ale nigdy... jakby nigdy nie myślałem o tym, że faktycznie to jest aż tyle członów i tyle ludzi musi nad tym pracować i że jest jeden człowiek od tego, drugi od tamtego, trzeci od tamtego i to jest rzesza ludzi.
+1191:  KMM - Nawet Ubisoft od dłuższego czasu się opierał temu, natomiast niedawno, jakieś dwa lata temu, doszły mnie słuchy właśnie, ale to są słuchy, tak powiem, tylnymi drzwiami, więc nie wiem, czy rzeczywiście tak się stało, czy nie, czy to jest oficjalna informacja, czy nieoficjalna, ale że powołali zespół oficjalny w Montrealu, narrative designerów właśnie i worldbuilderów odpowiedzialnych bezpośrednio za projektowanie świata,
+1214:  KMM - bo zorientowali się, że mikrotransakcje to nie jest wszystko, że gracze jednak poszukują czegoś więcej.
+1221:  KMM - I to jest fascynujące absolutnie, bo pokazuje też, że ten longevity, prawda, czyli ta długoletniość, długa żywotność, o to jest słowo, którego szukam, produktu, to nie jest tylko i wyłącznie model dystrybucyjny i ekonomiczny, który sobie wybraliśmy, że aha, będziemy mieli game as a service, grę jako usługę, bardzo popularną ostatnimi czasy.
+1241:  KMM - No nie do końca o to właśnie chodzi.
+1243:  KMM - Ponieważ cała rzecz polega na tym, że jeżeli rzeczywiście chcemy, żeby gra miała długą żywotność, to jedyne rozwiązanie jest takie, żeby jednak w tej grze dać graczowi coś więcej, żeby to nie były tylko puste dekoracje,
+1266:  KMM - ale żeby było tam coś do odkrycia.
+1268:  KMM - Za każdym razem, zresztą ta replayability, możliwość zagrania jeszcze raz w dany tytuł, no wiąże się właśnie nie tylko z tym, że na przykład fabuła nam się rozgałęzia, co swoją drogą jest strasznie kosztowne, bo w produkcji gry wideo wbrew pozorom jednym z najgorszych takich
+1283:  KMM - elementów, dlatego to się odwleka na najpóźniejszy okres, jest zaprojektowanie dialogów, ponieważ dialogi trzeba nagrać z aktorami, a aktorzy chcą, żeby jak najwięcej im zapłacić, w związku z powyższym dialogi się odkłada jak najpóźniej, żeby wpierw zrobić questy, wpierw to wszystko, co nie wymaga opłacania aktorów.
+1301:  KMM - Więc siłą rzeczy to rozdzielanie się linii narracyjnych jest kosztowne po prostu.
+1307:  KMM - I dlatego też w moim przekonaniu o wiele lepsze jest zainteresowanie się właśnie tym, w jaki sposób to można zrobić inaczej.
+1316:  KMM - Teraz ja się muszę zastanowić.
+1317:  JK - Okej, w porządku.
+1319:  JK - Okej.
+1319:  JK - To ja przejdę do tematu takiego, który też mnie ciekawił.
+1322:  JK - Po części odpowiedź po tym, co już usłyszałem, mogę sobie jakąś wysnuć, ale wspomniał pan zagadnienie groznawstwa, albo tak mi się wydawało.
+1333:  JK - Tak jest.
+1334:  JK - Też to mam w głowie tutaj.
+1337:  JK - No i na czym to groznactwo polega?
+1339:  JK - No mogę wywnioskować, że jest to jakby cała analiza gry pod kątem właśnie takim psychologicznym, ale czy jest to też coś więcej, czego normalny gracz, użytkownik, odbiorca nie widzi?
+1351:  KMM - Szczerze powiem, że krytyka gier wideo, czyli to co robią na przykład w Polsce gry online, pozdrowienia dla całej redakcji, robicie świetną robotę, to co robi za granicą oglądany przeze mnie namiętnie Angry Joe czy Jimmy Sterling czy Games Maker Toolkit i tak dalej i tak dalej, dużo jest tych serwisów, które staram się śledzić na bieżąco, ale wymieniam powiedzmy takie, które
+1374:  KMM - w tym momencie mi się przypominają, ale w Polsce absolutnie gry online, to jest groznawstwo, mówiąc wprost.
+1382:  KMM - Groznawcy akademicy nie robią wiele więcej, oczywiście zdarza im się wejść na, ale tak złośliwie już powiedziałem, że zdarza się,
+1391:  KMM - wejść na ciutkę wyższy poziom, ale prawda jest taka, że nie do końca.
+1397:  KMM - To znaczy, dyscyplina jest na tyle młoda w tym momencie, że w moim przekonaniu właśnie bardzo dużo można skorzystać na tym, co już zostało zrobione przez publicystów, przez dziennikarzy, przez samych graczy i dokładnie tak samo było w wypadku fantastyki.
+1410:  KMM - Fantastyką w Polsce od strony naukowej zajął się jako jeden z pierwszych Andrzej Sapkowski.
+1414:  KMM - Większość najważniejszych monografii fantastyki pojawiła się dopiero potem, po wydaniu rękopisu znalezionego w Smoczej Jaskini.
+1423:  KMM - I trochę podobnie jest z groznawstwem, to znaczy Game Studies jako dyscyplina jest starsza za granicą oczywiście, jak większość dyscyplin naukowych.
+1431:  KMM - I tam mamy już naprawdę bardzo znaczące badania.
+1434:  KMM - W Polsce są one coraz bardziej znaczące, przede wszystkim z uwagi na przykład na działalność ośrodka, pomijając nasz Agiechowski na Wydziale Humanistycznym i też rozproszonych ludzi, którzy zajmują się grami na innych wydziałach.
+1448:  KMM - No to na pewno Tomek Majkowski, obecnie już profesor na Wydziale Polonistyki, który prowadzi Ośrodek Badań Groznawczych.
+1455:  KMM - Profesor Michał Kłosiński na Uniwersytecie Śląskim.
+1458:  KMM - Doktor Jakub Alejski na Uniwersytecie Adama Mickiewicza w Poznaniu.
+1462:  KMM - Profesor Kochanowicz na chyba też UAM, jeśli pamięć nie myli.
+1468:  KMM - Częściowo profesor Frelik na obecnie Uniwersytecie Warszawskim i też na UW jest strasznie silna grupa wspomnianego już wcześniej przeze mnie doktora Piotra Kubińskiego.
+1477:  KMM - I to, że ja jestem w stanie w jednym zdaniu wymienić wszystkich najważniejszych, tak myślę, badaczy i najważniejsze ośrodki, jeśli kogoś pomijam, strasznie przepraszam za to, jeszcze jest PTBG, czyli Polskie Towarzystwo Badań Gier, ale ono zajmuje się wszystkimi typami gier, to znaczy ludologią, nie tylko i wyłącznie grami wideo i grami komputerowymi.
+1494:  KMM - No więc to jest dyscyplina, która z jednej strony raczkuje, ale z drugiej strony myślę, że bardzo jej pomaga to, że krytyka agorowa jest na znacznie, znacznie lepszym poziomie w tej chwili niż krytyka filmowa czy literacka.
+1509:  KMM - Myślę, że każdy, kto śledzi na YouTube parę kanałów i jest w miarę na bieżąco z recenzjami gier wideo, bardzo dużo się dowiaduje i naprawdę te książki naukowe, które powstały w ramach groznawstwa, one mu mogą pomóc w takim ustrukturyzowaniu tej wiedzy, uporządkowaniu jej, no ale także w zajęciu się tym, co przez...
+1527:  KMM - Typowego recenzenta nie jest często podejmowane.
+1530:  KMM - No i właśnie projekt świata jest jednym z takich elementów.
+1532:  KMM - Bardzo rzadko recenzenci skupiają się na projekcie świata, co jest w sumie ciekawe, bo wydawałoby się, że to jest rzecz jedna z najistotniejszych.
+1541:  JK - No ale właśnie... No tak jak pan mówi, to jak na początku pan zaczął, to to właśnie jedna z najistotniejszych, jak mówi pan, że się zaczyna od...
+1549:  JK - projektu świata.
+1551:  JK - TV gry kojarzę, oglądam, czy powiem, że na bieżąco to nie wiem, ale lubię sobie posłuchać ich materiałów na temat gier, nawet do śniadanka czy coś.
+1560:  JK - I chyba jakąś grą, jeśli chodzi pod kątem świata, o której się rozpowiadali, to było ostatnio Red Dead Redemption 2, z tego co kojarzę.
+1570:  JK - I potem ewentualnie Cyberpunk, ale to faktycznie jest tego mało i ciekawe skąd to się bierze.
+1577:  KMM - Moi studenci średnio raz na dzień wypominają mi, że jeszcze nie grałem w Red Dead Redemption, jak mogłem to im zrobić, więc obiecuję już nie wiadomo ile, że zabiorę się wreszcie za Red Dead, ale ja wiem po prostu, czym to się skończy, to znaczy ja wiem, że jeżeli ja się zabiorę za grę Rockstara, to skończę przynajmniej na 300-400 godzinach, przynajmniej, a aktualnie ich nie mam.
+1599:  KMM - I wiem dobrze, że z czegoś będę musiał wtedy zrezygnować, dlatego czekam sobie na taki moment, kiedy będę w stanie oddać tej grze sprawiedliwość,
+1606:  KMM - Mam tak czasem i nigdy nie żałuję właśnie tego momentu, w którym mogę grze oddać sprawiedliwość, bo jeśli pracuję nad nią tyle uzdolnionych osób, to naprawdę szkoda zrobić inaczej.
+1618:  KMM - A co do cyberpunka, to też się ze mnie już śmieją studenci.
+1623:  KMM - Zrobili cykl podczas wykładów szkalowania cyberpunka i numerują, ile razy mi się zdarza.
+1629:  KMM - to zrobić.
+1630:  KMM - Countdown jest, ja nie pamiętam już ile w tym momencie, ale chyba jakieś 37-40 razy w ciągu ostatnich wykładów, więc zdarza się często.
+1637:  KMM - Bo właśnie ja na tę grę bardzo czekałem i zarezerwowałem sobie na nią bardzo dużo czasu, po czym się okazało, że po 60 godzinach
+1646:  KMM - O nic, nie, nic nie ma już nic do roboty.
+1649:  KMM - No więc, aczkolwiek rozumiem oczywiście, jeśli ktoś do tego podszedł totalnie na luzie i chciał mieć dobrą rozrywkę z fajną grafiką, z sympatyczną fabułą, to pewnie, tak, jasne, tylko można film obejrzeć.
+1662:  JK - No coś w tym jest.
+1662:  JK - No może im się faktycznie nie udało, albo nie tak to powinno wypaść.
+1668:  JK - I też to jest chyba temat, który najbardziej czekałem, żeby w końcu zapytać.
+1675:  JK - I ciekawiło mnie, jak pan na to zareaguje, bo mówię, ja podchodzę do tematu tak bardziej od ścisłej strony.
+1683:  JK - Jestem już niedługo, mam nadzieję, inżynierem i tak dalej.
+1686:  JK - I zawsze mnie ciekawiło... I zawsze mnie ciekawiło,
+1691:  JK - jak wygląda temat, bo pan się zajmuje badaniem świata w grach.
+1698:  JK - I jakby jak wygląda, żeby dobrze zadać pytanie, jak wygląda proces badania czegoś, czego nie ma?
+1706:  JK - Bo dla mnie, dla inżyniera badanie wygląda tak, że biorę element i sprawdzam go pod pewnymi, że tak powiem, parametrami.
+1713:  JK - No ale mam ten element w ręce, czy mogę
+1716:  JK - jakby się nim posłużyć, ale badanie świata fikcyjnego, to mnie zawsze ciekawiło.
+1723:  KMM - To jest dobre pytanie.
+1724:  KMM - Jeżeli miałbym inżyniersko to ująć, to inżynieria wsteczna pomaga najbardziej.
+1728:  KMM - Raz miałem do czynienia z takim projektem, wprost dostałem od studia projektującego subnautikę, Game Design Document, który właśnie jest tym dokumentem, na podstawie którego większy zespół działa i sprawdza jak wszystko funkcjonuje w danej grze wideo.
+1745:  KMM - No i cała rzecz polega na tym, że no cóż, zaprojektowanie tego wymaga myślenia takiego warstwowego o grze.
+1755:  KMM - To znaczy, na grę nie składa się tylko i wyłącznie to, co widzimy.
+1758:  KMM - W związku z powyższym musimy się zastanowić, co składa się na ten świat.
+1763:  KMM - No i to wymaga zadania sobie pytania trochę filozoficznego, to znaczy co sprawia, że my postrzegamy rzeczywistość, która nas otacza jako rzeczywistość.
+1769:  KMM - No i to nie jest tutaj wyłącznie to, że ja mogę tego mikrofonu na przykład dotknąć, prawda, tylko na przykład wiem, że istnieje Australia, aczkolwiek nigdy w niej nie byłem, ale nie powątpiewam w niej istnienie.
+1780:  KMM - Dlaczego?
+1780:  KMM - Dlatego, że mam źródła różne.
+1783:  KMM - I de facto, i to jest zabawne, Marc J.P.
+1785:  KMM - Wolf na przykład w jednej ze swoich książek powiedział, sformułował bardzo ścisłą definicję świata fikcyjnego.
+1791:  KMM - Świat to jest zbiór danych.
+1794:  KMM - Ja się z tym w pełni zgadzam.
+1795:  KMM - Musimy po prostu zadbać o to, żeby tych danych było wystarczająco dużo i żeby były wystarczająco zróżnicowane.
+1801:  KMM - To znaczy muszą być to i dane wizualne, jakaś mapa na przykład, nie?
+1805:  KMM - Ale zauważmy, mapa fikcyjna, i to jest przeciekawe,
+1809:  KMM - nie reprezentuje świata, który istnieje, czyli nie odwzorowuje go, tylko jak rysujemy mapę, to zarazem wytwarzamy fikcyjną świat i fikcyjną rzeczywistość.
+1819:  KMM - I to jest dokładnie to, co zrobił Tolkien.
+1821:  KMM - I to jest przeciekawe.
+1823:  KMM - Natomiast oznacza to zarazem, że jeżeli zaczniemy rysować mapę, to zaczniemy konstruować świat, czyli już wiemy, z czego świat się składa.
+1830:  KMM - Ale wiemy również, że w świecie jest potrzebna historia, bo nie ma nic nudniejszego niż chociażby
+1837:  KMM - Mam jakąś kartę, której nie znam, ale powiedzmy, że tak zrobimy.
+1843:  KMM - I... o!
+1845:  KMM - Bardzo fajna karta.
+1847:  KMM - I teraz w momencie, w którym... I w momencie, w którym na przykład zaczniemy projektować historię świata, to musimy napisać jakąś kronikę, prawda?
+1858:  KMM - Bo nic tak dobrze nie projektuję skali czasowej świata, jak wspomnienie o tym, że
+1863:  KMM - w prehistorii tysiąc lat wcześniej doszło do straszliwych wypadków i gracze mówią, a co to są straszliwe wypadki, o co to chodzi, tak?
+1870:  KMM - To od razu zaczyna nas interesować i sprawia, że chcemy poszukiwać informacji o świecie tak samo, jak na przykład w dobrym kryminale chcemy wiedzieć, kto zabił i zastanawiamy się nad tym.
+1882:  KMM - Zmieniam najlepszą kartę pańską w owce.
+1887:  KMM - Owce są najpiękniejsze.
+1889:  KMM - I teraz...
+1891:  KMM - To jest ciekawe, bo w zasadzie to się wydaje oczywiste, nie?
+1894:  KMM - W momencie, w którym jesteśmy w tej rzeczywistości, która nas otacza, ale to nie jest oczywiste, jak projektujemy świat gry i nagle okazuje się, że no właśnie, że to nie jest takie proste.
+1905:  KMM - Ile?
+1905:  KMM - Osiem?
+1906:  KMM - Tak, tak, bo to są dwaj boosterzy.
+1908:  KMM - Ogrzymak i Max Dalaranu.
+1912:  KMM - No i właśnie, i teraz mam kartę Max Dalaranu.
+1915:  KMM - Jakie to sprawia gracza, który jest dociekliwy i czyta grę pod kątem projektu świata?
+1922:  KMM - Czym jest Dalaran?
+1922:  KMM - Czy to jest jakaś kraina?
+1923:  KMM - Jaka jest jej historia?
+1925:  KMM - Czy jest tam gildia magów?
+1926:  KMM - Co się tam zdarzyło, prawda?
+1928:  KMM - I te wszystkie pytania, które sobie zadajemy, to są pytania o konstrukcję świata i dobrze zaprojektowany świat gry wideo ich dostarczy, tych odpowiedzi na te pytania.
+1936:  KMM - Ale jak jest zaprojektowany gorzej, no to wtedy właśnie tego nie będzie i bardzo często gracze na to zwracają uwagę.
+1944:  JK - A czyli jednak, jednak jest tam jakaś nutka, znaczy nutka, dużą częścią z tego jest faktycznie analiza tego takich części składowych.
+1952:  JK - Tak, absolutnie.
+1953:  JK - Nie, bo ja patrzyłem na świat jako właśnie na coś wyobrażonego, pisze się książkę, wymyśla się super świat, rycerze, księżniczki, smoki.
+1961:  JK - Ale jakby, no, nie spodziewałem się, że to faktycznie będzie składanie tego wszystkiego z takich elementów, co jest potrzebne, żeby było dobrze albo żeby było tak jak chcemy.
+1973:  JK - I tu zaskoczony jestem, ale tak pozytywnie bym powiedział.
+1977:  KMM - Praktyka jest bardzo ciekawa, bo żaden pisarz fantasy czy science fiction nie tworzy sobie, chyba że jest naprawdę mistrzem jak Neil Gaiman, nie tworzy sobie świata od tak, jako tła, tylko bardzo często ma różnego rodzaju notatki.
+1990:  KMM - Na przykład jak spojrzymy na dolebek Tolkiena, to 10 tomów historii Śródziemia, Księga Zaginionych Opowieści Silmarillion,
+1997:  KMM - to jest razem jakieś 40 do 50 razy więcej tekstu niż łączna objętość Władcy Pierścieni i Hobbita.
+2004:  KMM - Ba, czas narracji Władcy Pierścieni, jeśli mnie pamięć nie miłi, przepraszam, czas fabuły, czyli ten czas, który mamy dosłownie przedstawiony w powieści, teraz z kapłanem sobie zagram, to jakieś dwadzieścia kilka lat
+2017:  KMM - a Silmarillionu kilka milleniów, więc to pokazuje skalę.
+2020:  KMM - I teraz, jeśli projektujemy taki świat, to najczęściej używamy jakiejś encyklopedii.
+2025:  KMM - No i teraz znowu, powstaje nowy serial, nie wiem, Plemiona Europy ostatnio czy cokolwiek innego.
+2030:  KMM - Co powstaje równolegle do tego serialu i co robią fani?
+2032:  KMM - wiki, encyklopedię.
+2034:  KMM - Encyklopedia jest takim podstawowym nośnikiem informacji o świecie i ona pozwala nam ten świat wytwarzać.
+2039:  KMM - I faktycznie, jeżeli rozłożymy sobie tę encyklopedię na części, to okazuje się, że ona będzie miała rozpoznawalne komponenty.
+2045:  KMM - Będzie jakaś mapa, czyli będzie topografia świata, będzie historia, czyli no wiadomo, będzie jego historia, będzie ta sfera czasowa.
+2052:  KMM - Następnie będzie właśnie law, czyli wiedza o świecie, czyli bestiariusz, herbariusz, nie wiem, cokolwiek innego.
+2059:  KMM - Będą jakieś postaci i historie,
+2062:  KMM - I zaczynamy się wyróżniać z tego takie bardzo rozpoznawalne komponenty, które możemy potem zalgorytmizować i dlatego na przykład proceduralne generowanie świata nie zostało przyjęte przez wszystkie studia, bo wydawałoby się, że no cóż prostszego, stworzymy sobie algorytmy, które będą za nas projektować rzeczywistość.
+2079:  KMM - I fajnie, nic nie musimy zrobić.
+2081:  KMM - A tymczasem okazuje się, że mamy taki No Man's Sky, który na premierę zaoferował nam jakieś hybrydyczne stworzenia i wszyscy się z nich wyśmiewali, bo jednak nie jesteśmy w stanie zastąpić tych ludzi i ich kreatywności, którzy wymyślają fantastyczny świat z jednej strony, ale równocześnie dbają o to, żebyśmy mieli dostęp do źródeł wiedzy na jego temat.
+2105:  JK - To jakby troszkę rozwiało tutaj moje zastanawiania się, także faktycznie jest w tym coś trochę takiej technicznej nutki.
+2114:  JK - Jak już od samego początku gadamy o grach, no to nie sposób spytać o to,
+2120:  JK - W co pan najbardziej lubi grywać?
+2122:  JK - O ile są takie gry, bo tu słyszałem, ostatnio czytałem, czy tam u pana na kanale był temat właśnie Cyberpunka czy Warhammera, na przykład Total War, ale w jakie pozycje pan lubi grać albo które się panu najbardziej podobają?
+2137:  KMM - Zdecydowanie, znaczy nie ma reguły, ale zasadniczo, jeżeli miałbym wyróżnić jakieś gatunki, które, gier, które lubię, to na pewno są to Strategie Czasu Rzeczywistego i te Grand Strategies, tak jak na przykład Total War.
+2149:  KMM - No ostatnio siedzę bardzo w uniwersum Warhammera, w związku z tym i to we wszystkich jego iteracjach, czyli zarówno Warhammera Fantasy, więc gram dużo Warhammera Total War,
+2158:  KMM - dwójkę głównie i teraz czekam bardzo na trójkę.
+2161:  JK - A grał pan tak kiedyś fizycznie figurkami w Warhammera?
+2164:  KMM - Właśnie nie, właśnie nie grałem.
+2166:  KMM - Grałem tak, to się dawniej grywało, to znaczy parę razy miałem okazję obserwować, jak ktoś gra, natomiast sam nigdy nie grałem, bo ja też jestem trochę na bakier z grami tradycyjnymi, planszowymi, tabletopami.
+2176:  KMM - Ostatnio z narzeczoną, którą pozdrawiam serdecznie, hej Ania, robiliśmy taką partyjkę w Whitechapel bodajże, czy Morders w Whitechapel,
+2185:  KMM - Właśnie droga gra.
+2187:  KMM - Jakieś parę stówek kosztowała, po czym ja otworzyłem instrukcję, stwierdziłem, że ja nic nie zrozumiałem, więc porzuciłem.
+2192:  KMM - Tak wygląda moje granie, no, tradycyjne.
+2196:  S00 - Natomiast jeżeli chodzi o... Bo to czasem lepiej, jak ktoś pokaże faktycznie.
+2198:  KMM - Tak, to oczywiście, ja chętnie to mogę oglądać, zawsze.
+2200:  KMM - Zresztą oglądam na kanale Angry'ego Joe Battle Reports właśnie z Warhammera 40K, jestem zachwycony absolutnie.
+2206:  KMM - Więc gdybym sam miał grać, to nie, nie, to nie byłoby dla mnie atrakcyjne.
+2209:  KMM - Natomiast ciekawa jest jedna rzecz, to znaczy...
+2213:  KMM - Te gry właśnie warhammerowskie komputerowe, one właśnie niesamowicie dobrze są dopracowane pod względem lore.
+2219:  KMM - I nie ukrywam, to jest dla mnie olbrzymia przyjemność, jak mogę sobie właśnie od tej strony to poznawać.
+2223:  KMM - Pod względem czego?
+2224:  KMM - Lore, czyli wiedzy o świecie.
+2226:  KMM - To jest słówko, które zachowało się w języku polskim w swojej folklore niemieckie.
+2230:  KMM - I ta wiedza o świecie to jest właśnie to wszystko to, czego się można dowiedzieć na temat jakiegoś fikcyjnego świata albo uniwersum.
+2237:  KMM - Natomiast oprócz tego to, no nie ukrywam, że RPG i to wszystkie, zarówno tradycyjne gry RPG w postaci klasycznych już Baldurów, Icewind Daily, Neverwinter Nights i całej reszty, jak i te współcześniejsze, bardzo cenię Larian Studios i Divinity Original Sin, ale także wcześniejsze Divinity Go Draconis.
+2256:  KMM - Bardzo lubię gry stealth action RPG, action RPG jak Deus Ex Human Revolution na przykład, Dishonored, oczywiście także The Elder Scrolls i Skyrim i tak dalej, i tak dalej.
+2267:  KMM - No i jeszcze lubię gry typu XCOM na przykład.
+2271:  KMM - To jest osobny typ gier, dlatego się bardzo często nazywają XCOM-like, dosłownie.
+2277:  KMM - I czy jakąś pominąłem?
+2279:  KMM - Czasem zdarza mi się też zagrać w tak zwane gry ambitne, nazwijmy to.
+2284:  KMM - czy eksperymentalne, czy awangardowe.
+2286:  KMM - Bardzo nie lubię tego określenia.
+2288:  KMM - Specjalnie też użyłem go zamiast Serious Games, bo jego nie lubię jeszcze bardziej.
+2292:  KMM - Bo co to znaczy Serious Games?
+2294:  KMM - To znaczy, że wszystkie inne gry są niepoważne.
+2296:  KMM - Są na niby, no właśnie.
+2298:  KMM - Więc nie lubię tego.
+2299:  JK - Ale na przykład takie Papers, Please czy Orwell czy... O, to akurat wiele z tych gier nie kojarzę, mówię nie gram, ale Papers, Please to jest pozycja...
+2308:  JK - Ciekawa, interesująca.
+2310:  KMM - Nie można jej pominąć, bo to jest gra zaprojektowana z bardzo oszczędnymi środkami, jeżeli chodzi o grafikę, natomiast pomysł na nią i to, jak ona jest właśnie rozegrana narracyjnie, jak to napięcie w grze jest związane ze świadomością bycia w tym innym świecie, no to jest absolutny majstersztyk.
+2326:  KMM - Więc jeżeli chodzi o takie spektrum, nie lubię bardzo gier kompetytywnych, a może tak będzie najłatwiej to powiedzieć, to znaczy zdarzało mi się grać na serwerach w różne kody i tego rodzaju rzeczy, ale na przykład gdybym miał, to jest moja ulubiona karta absolutnie, gdybym miał jako akurat kapłana...
+2345:  KMM - Gdybym miał powiedzieć na przykład, czy z jakiegoś powodu by mnie te gry odrzucały, to nie.
+2354:  KMM - Raczej chodzi o to, że denerwuje mnie ta atmosfera stresu wokół tego.
+2358:  KMM - To znaczy, że jest jakaś drużyna, ona ma względem mnie jakieś oczekiwania.
+2361:  KMM - Ja jednak zawsze byłem zwolennikiem tego, że granie to jest albo z kolegą, albo w jakiejś sensownej drużynie w gildii, albo dla siebie samego.
+2368:  KMM - Dlatego też nie ukrywam, że częściej gram w gry singlowe niż multiplayer.
+2374:  JK - A planszówki na przykład?
+2376:  JK - Bo to już w trakcie Łabamera też wspomnieliśmy, że sam to pan raczej nie ten, ale... Tak.
+2383:  KMM - Znaczy, pomijając ten epizod, który miałem z morderstwami w Whitechapel, no to zdarza mi się, ale bardzo rzadko.
+2392:  KMM - Nie wiem, na czym to też polega, bo zdaję sobie sprawę z fenomenu planszówek i cenię je, natomiast coś w nich takiego jest, że zdecydowanie mniej czasu jestem w stanie poświęcić na nie, niż w wypadku gier wideo.
+2404:  KMM - Zdecydowanie, jeśli spojrzę na swojego Steama i widzę tam wartości typu 2-3 tysiące przy danej grze, a w wypadku planszówki jestem w stanie wyrobić w ciągu podobnego czasu jakieś paręnaście godzin, no to to wiele mówi o skali.
+2419:  JK - Ale...
+2423:  JK - Okej, no ja mówię, bardziej chyba ja w planszówki gram, także tego tematu odnośnie gier też nie mogłem pominąć.
+2431:  JK - No i teraz też dużo gorzej chyba się spotkać w ogóle z kimkolwiek, żeby pograć, więc... No tak, to dużo zmienia niestety, to dużo zmienia, to prawda.
+2441:  KMM - Ale jak najbardziej rozumiem fenomen i też bardzo się cieszę, że w ogóle gry wracają, że tak to ujmę, chociażby w tej postaci, bo był taki czas, kiedy, przepraszam, gry były właśnie kojarzone tylko i wyłącznie z tą kulturą geekowo-nerdową, a teraz prawda jest taka, że średni w ogóle wiek gracza i planszówek i gier wideo to jest jakieś 28-36, więc to nie jest ta skala, która była wcześniej o 18-24, więc ewidentnie po prostu pokolenia dorosły, graczy, ale nie zrezygnowały z grania i to jest piękne.
+2471:  JK - Znaczy właśnie, tak jak pan wspomniał, teraz chyba przez ten czas tego, co się dzieje dookoła, te gry, w sumie wszystkie gry planszowe i komputerowe zyskują bardzo na popularności.
+2484:  JK - Komputerowe chyba były popularne cały czas.
+2488:  JK - Ale te planszowe, co nie powiem, że mnie cieszy, bo to też się jakby odbija na tym, że tych gier jest więcej.
+2497:  JK - Ludzie też piszą o tym, także myślę, że ta sytuacja bardzo pomogła w tym przypadku całej branży gier.
+2506:  JK - Tak, absolutnie.
+2508:  JK - A odnośnie jeszcze chciałem zapytać seriali, bo przeglądałem pana kanał na YouTubie i tam też są materiały, gdzie opisuje pan, opowiada o różnych serialach, bo jednak jakby nie patrzeć, świat tam też trzeba jakiś przedstawić, przynajmniej ja to tak widzę i to jest też bardzo istotna kwestia.
+2532:  JK - No i też bym zapytał, jaki jest może pana ulubiony serial, albo może jaki najbardziej panu zapadł w pamięć?
+2540:  KMM - Bardzo trudne pytanie, bo seriali oglądam niezwykle dużo.
+2545:  KMM - Jeżeli miałbym powiedzieć o takim, który mi zapadł w pamięć rzeczywiście, i to nie będzie serial fantastyczny, żeby było śmieszniej, to nie do końca powiedzmy, ale Mr. Robot.
+2554:  KMM - Bardzo polecam swoją drogą analizę serialu Mr. Robot, którą zrobił Bartosz Filip Malinowski na kanale Bez Schematu.
+2560:  KMM - który wspieram, gdy tylko mogę, bo robi dobrą robotę dla takiej krytyki popkulturowej, która w Polsce praktycznie nie istnieje.
+2567:  KMM - I Mr. Robot zresztą on sam mi polecił.
+2569:  KMM - Jest to znakomity serial, nie tylko biorąc pod uwagę to, jakie właśnie tam są poruszone problemy chociażby, ale to jest znakomity serial ze względu na to, jak on bardzo jest aktualny.
+2581:  KMM - Jest to mianowicie świat o hackingu, ale tym hackingu, hacktywizmie powiedzmy, o, w ten sposób.
+2588:  KMM - którym jeszcze w dodatku gra Rami Malek osobę ze spektrum autystycznym.
+2593:  KMM - I jest to zrobione, no, perfekcyjnie pod względem narracyjnym, konstrukcji świata, poruszonych problemów politycznych.
+2599:  KMM - No, mógłbym się długo zachwycać nad tym serialem.
+2603:  KMM - Więc on zrobił na mnie największe wrażenie.
+2604:  KMM - Natomiast jeżeli miałbym na przykład powiedzieć o jakimś serialu, który był dla mnie najtrudniejszy, także poznawczo, no to był na pewno Westworld i też zrobił na mnie niesamowite wrażenie z komplikowaniem narracyjnym.
+2615:  KMM - Ale prawda jest taka, że skomplikowanie narracyjne możemy mieć też w sitcomie, jak, nie wiem, chociażby w How I Met Your Mother.
+2620:  KMM - Więc jeżeli chodzi o seriale, to też je troszeczkę inaczej traktuję, bo przy nich wypoczywam bardziej.
+2627:  KMM - No, przy grach wideo jednak nie jestem w stanie wyłączyć tego myślenia naukowego, to znaczy, a może by warto było o tym napisać, a to może podwykład, a tutaj coś nagram na kanał i tak dalej, i tak dalej, natomiast w wypadku
+2637:  KMM - Seriali jest zdecydowanie taki obszar dla mnie rozrywki i też, ale właśnie to co Pan zauważył na temat konstrukcji świata jest kluczowe, bo dawniej seriale kojarzyły się właśnie z takim tasiemcową fabułą, że mieliśmy oto jeden odcinek, który kończył się cliffhangerem, zawieszona nasza uwaga, nie wiadomo co się dzieje, w związku z powyższym, o, czekamy na następny odcinek.
+2660:  KMM - A teraz nagle się okazuje, że o wiele ciekawsze, tak mi się znowu wydaje, jest to, że mamy seriale,
+2667:  KMM - które są osadzone w jakimś świecie, prawda?
+2669:  KMM - Na przykład Black Mirror tworzył bardzo konsekwentnie świat i w którymś momencie, jak wypuszczony został film interaktywny Bandersnatch, to on został osadzony w świecie Black Mirroru.
+2679:  KMM - Więc czegoś takiego wcześniej na taką skalę nie było, żebyśmy osadzali w świecie jakąś fabułę, a nie tylko i wyłącznie, no właśnie, kontynuowali fabułę z poprzedniej części chociażby.
+2688:  KMM - To jest pewna istotna zmiana.
+2690:  KMM - No sam fakt, że gra o trony jako serial zaczyna się mapą, prawda?
+2694:  KMM - Też jest to znaczące.
+2695:  KMM - A oglądał pan?
+2696:  KMM - Oczywiście.
+2698:  KMM - Wszystkie sezony, a ósmy wywołał u mnie traumę, którą odchorowywałem na zajęciach.
+2703:  KMM - To było parę lat temu.
+2705:  KMM - I pamiętam, że dyskutowaliśmy na temat tych wszystkich błędów, które się tam pojawiały.
+2710:  KMM - No i tego przede wszystkim, jak został zmarnowany potencjał znakomitego absolutnie serialu, zupełnie kretyńskimi decyzjami, które nie były zresztą podyktowane względami finansowymi.
+2719:  KMM - To mnie zdziwiło, bo HBO zarabiało krocie.
+2721:  KMM - na tym serialu i kompletnie niejasne było dla mnie to, dlaczego zdecydowali się go urwać w takim momencie, gdy można było spokojnie jeszcze sezon 2 z tego wycisnąć i oddać tej historii sprawiedliwość.
+2731:  KMM - No ale powód jest prozaiczny.
+2733:  KMM - Materiał źródłowy się skończył.
+2736:  JK - A George Martin już przestał z nimi współpracować?
+2739:  JK - Czy jak to wygląda?
+2740:  KMM - Bo ja się nie orientuję, nie oglądałem, ale właśnie słyszałem, że... Sprawa jest bardzo prosta.
+2744:  KMM - George Martin po prostu nie napisał jeszcze niczego więcej.
+2749:  KMM - W związku z powyższym on nie do końca mógł nawet, nawet gdyby bardzo chciał, to nie do końca mógł w jakikolwiek sposób im doradzić już, bo prawda jest też taka, że Benioff i ten drugi, nigdy nie pamiętam, Iwais bodajże, oni wymyślili już i tak bardzo dużo na potrzeby chociażby sezonu siódmego, ale to był jeden, jedyny przypadek taki w historii, który znam, kiedy adaptacja fabularna właśnie pierwotnego cyklu powieściowego prześcignęła ten cykl powieściowy.
+2776:  KMM - Bardzo ciekawy przypadek.
+2779:  KMM - No i cóż, wydaje mi się, że w momencie, w którym Martin już przestał właśnie mieć też tę bazę wiedzy o świecie, bo pamiętajmy, że z tego też Benioff i reszta korzystali, no to też okazało się, że to, co było atutem gry o tron, to znaczy właśnie to nieokiełznane światotwórstwo, no cóż, nagle przestało być tym atutem.
+2799:  JK - się zaczęli gubić chyba w tym po prostu, jak już nie ma jakiegoś pomysłu jednego, no to faktycznie ciężko jest to pociągnąć dalej.
+2807:  JK - Absolutnie.
+2809:  JK - A to odnośnie gier, czy pan się nie męczy w takim razie grając w gry?
+2813:  JK - Skoro pan gra w gry, skupia się i jeszcze myśli o tym całym jakby karierze, że tak powiem, swojej, to czy nie jest to dla pana męczące?
+2822:  JK - Samo granie w gry?
+2823:  KMM - Zależy, jak ma się dobry fotel, to nie, ale mówiąc poważniej, jasne, to jest, bywa czasem męczące w tym sensie, że ja na przykład wiem, że w jakąś grę nie zagram, mimo że bardzo dużo ludzi w nią gra.
+2837:  KMM - Na przykład tak miałem w Among Us do czasu, kiedy mnie studenci na seminarium licencjackim, pozdrawiam studentów z seminarium licencjackiego, dużo ludzi pozdrawiam,
+2844:  KMM - zmusili mnie do tej gry i nie żałuję.
+2847:  KMM - Chociaż to nie jest coś właśnie, do czego bym wracał.
+2849:  KMM - To jest taka typowa gra do pogrania z kimś.
+2851:  JK - Chyba tak, żeby ze znajomymi sobie pograć.
+2853:  KMM - Dokładnie.
+2854:  KMM - Natomiast jeśli chodzi o zmęczenie, to ono przychodzi oczywiście w momencie, w którym na przykład muszę wrócić do jakiejś gry na potrzeby jakiegoś artykułu albo czegokolwiek w tym rodzaju.
+2866:  KMM - ani mam na przykład zgranego materiału.
+2868:  KMM - No to to wtedy jest męczące oczywiście.
+2870:  KMM - Natomiast samo granie przez ileś godzin nigdy dla mnie nie było męczące.
+2874:  KMM - Ja też jestem człowiekiem, który jak już ma imersję i zanurzy się w świat, to nie jestem w stanie bez najmniejszego problemu 14 godzin wytrzymać przed komputerem.
+2882:  KMM - Nigdy to nie był dla mnie problem.
+2884:  KMM - Ale to nie tylko dotyczy komputera.
+2886:  KMM - Ja potrafiłem też na przykład czytać tak długo, jeżeli mnie coś bardzo interesowało.
+2890:  JK - A to też miałem zapytać, czy właśnie czyta pan równie chętnie?
+2895:  JK - Bo jestem bardziej z tych czytających osób i to też, myślę, bardzo ciekawe pytanie odnośnie właśnie tej całej fantastyki i tego wszystkiego, bo tak jak wspominałem na początku, wzięło się to chyba z książek, tak?
+2905:  KMM - Tak.
+2907:  KMM - Wie pan, to jest też ciekawe i będziemy mieli ładne dekonstruowanie stereotypów, mianowicie
+2914:  KMM - Pan reprezentując dziedzinę ścisłą czyta, a ja reprezentując humanistykę, no może przez ostatnie dwa lata przeczytałem ze dwie powieści, ale to dlatego, że przestawiłem się zupełnie na inne media, tu całkowicie szczerze to mówię.
+2929:  KMM - Po tym jak skończyłem doktorat, doktorat pisałem na Wydziale Polonistyki of All Places na UJ, ale to też nie jest, że tak powiem, dziwna ścieżka kariery, bo Marcin Blacha, który jest lead designerem, narrative designerem w CDP też kończył, jeśli mnie pamięć nie myli, polonistykę.
+2945:  KMM - Więc bardzo często właśnie ludzie, którzy mają coś wspólnego z grami, wcześniej albo czytali, albo zajmowali się literaturą, bo właśnie większość groznawców w Polsce, o ile nie wszyscy, tacy najważniejsi, najbardziej wpływowi, to są literaturoznawcy.
+2958:  KMM - Część jest też medioznawców i socjologów, ale właśnie ci, którzy napisali książki, duże książki, bardzo często są literaturoznawcami, zaczynając od Radka Bomby, przez wspomnianych przeze mnie Kłosińskiego, Fredika i całą resztę.
+2970:  KMM - Jak widać, się to wywodzi w końcu jedno z drugiego, tak?
+2972:  KMM - Tak, absolutnie tak.
+2974:  KMM - Absolutnie tak i powiem w ten sposób, bardzo żałuję właśnie, że nie miałem ostatnio tak i dużo czasu i również chęci na to, żeby powrócić do literatury, bo nie ukrywam, że studia literaturoznawcze mnie po prostu bardzo zmęczyły i mam takie poczucie i jeszcze do tego wszystkiego przez jakiś czas prowadziłem pismo o fantastyce.
+2994:  KMM - i zdarzało się tak, że dostawałem na przykład książkę na 500 stron do przeczytania w 24 godziny i to trochę zaburzyło właśnie przyjemność z tej lektury, więc pod tym względem trochę żałuję, chociaż ostatnio właśnie miałem więcej czasu i wróciłem sobie do czytania i to było zawsze przyjemne.
+3012:  KMM - Właśnie to jest też ciekawe, że... No właśnie, tylko... Aha, z solnika mogę tym uderzyć, dobra.
+3017:  KMM - I to też jest ciekawe pod tym względem, że
+3020:  KMM - Ja zacząłem czytać bardzo wcześnie i to właśnie była fantastyka.
+3023:  KMM - Przez całe życie czytałem literaturę fantasy, science fiction i unikałem innych nurtów i nie żałuję.
+3030:  KMM - No i też nie ukrywam, że przeczytałem też wystarczająco dużo, żeby mieć ten zapas czasowy jeszcze.
+3036:  KMM - Dużo się usprawiedliwiam, co też pokazuje, jak bardzo mi zależy na tym temacie i myślę też, że
+3042:  KMM - Nie jest prawdą, że ludzie nie czytają.
+3044:  KMM - Właśnie w środowisku fanów fantastyki najczęstsze pytanie, jakie widzę na fejsie w grupach po kilka tysięcy osób brzmi, przeczytałem to, to, to i to, doradźcie mi, bo chcę przeczytać jeszcze następne rzeczy.
+3057:  KMM - Natomiast z takich moich absolutnych top, ulubionych autorów, jeżeli chodzi o fantastykę, to zwykle wymieniam Gaimana Sandersona, zdarza mi się czasem też, jak mam lepszy humor, wymienić Roberta Wegnera, bo jeśli chodzi o polską fantastykę, to zawsze się nią też nie ukrywam, mnie interesowałem, ale też mniej znanych twórców, jak na przykład Jeffrey'a Forda, czy Nila Stevensona, więc to też nie jest tak, że to jest tylko i wyłącznie fantasy, ale zarówno fantasy, jak i science fiction mnie interesowało zawsze.
+3088:  JK - Mówi pan, że polskimi autorami się pan nigdy nie interesował.
+3091:  JK - Jakoś mnie.
+3092:  JK - To mogę polecić.
+3095:  JK - Nie powiem, że jakby pan słyszał, a pewnie pan słyszał o Andrzeju Ziemiańskim.
+3099:  JK - Słyszałem, słyszałem jak najbardziej.
+3101:  JK - Tak.
+3102:  JK - Jako ten król, czy nie król, w każdym razie jeden z lepszych autorów polskiej fantastyki.
+3112:  JK - I całą serię książek Ahaya mogę z czystym serduszkiem polecić, bo czytam, jestem w trakcie i no jeśli by pan znalazł czas, tak jak pan mówi, z powrotem na czytanie, to myślę, że jest to fajna pozycja pod tym kątem, że jest napisana przede wszystkim przez Polaka i to bardzo słychać w języku.
+3133:  JK - Jak są książki tłumaczone na język polski, a książkę pisana po polsku, jakby zupełnie inaczej się to odbiera językowo.
+3141:  JK - Na plus bardzo, no bo język jest jednak, no Polak pisał tę książkę.
+3145:  JK - Także myślę, że jakby wśród tej zagranicznej literatury fantastycznej to jest bardzo ciekawa pozycja, także bardzo polecam.
+3154:  KMM - Zresztą dodam od razu, że z tą naszą fantastyką jest taki dowcipny przypadek, to znaczy, że myśmy zawsze byli troszeczkę więźniami tego, że późno zaczęliśmy, w tym sensie, że, no nie ukrywajmy, Andrzej Sapkowski, prawda, po stronie fantasy króluje, zresztą Andrzej Sapkowski przez też długi czas, jak wspomniałem, był tym jednym z nielicznych polskich znawców fantastyki, więc dużo mu zawdzięczamy.
+3177:  KMM - I myślę sobie tak, że w momencie, w którym...
+3180:  KMM - Zaczęliśmy tak późno siłą rzeczy, trudno żebyśmy się też nie odnosili albo krytycznie do tego, co już zostało napisane w tych nurtach, albo wręcz przeciwnie, twórczo i próbując wymyślić coś innego.
+3190:  KMM - To jest powód, do którego ja z kolei właśnie bardzo lubię Wegnera, który tak dukaj potrafił nam odczarować soplicowo i przedstawić je jako coś, co się w ogóle nie kojarzy z tą szmirą znaną jako Pan Tadeusz.
+3201:  KMM - to tak samo Robert Wegner zdołał przedstawić górali w taki sposób, że nie kojarzą mi się z Ciupaszką i Janosikiem.
+3208:  KMM - Więc tu absolutny i pełny szacunek, że mu się to udało zrobić.
+3210:  S00 - A to już wyczyn chyba, właśnie.
+3212:  S00 - To jest wyczyn, dokładnie tak.
+3216:  S00 - No nie da się ukryć.
+3219:  JK - A propos takich fantastyki światów, to może zapytam, czy ta praca nad światami też motywuje pana może, żeby wychodzić z domu?
+3230:  JK - Nie wiem, podróżuje pan, lubi pan podróżować?
+3233:  JK - Czy jednak te domowe zajęcia, gry, seriale?
+3239:  KMM - Mam taką anegdotę, mianowicie kiedyś, to będzie o uniwersum Assassin's Creed'a, jak przegrawszy bodajże Assassin's Creed Revelations, akurat tak się złożyło, że dostałem ofertę wyjazdu na konferencję, co w tym miejscu oznacza, że i tak musiałem zabulić sam z własnych pieniędzy, bo jak wspomniałem wcześniej, pracowałem wcześniej na UJ, który nie był zbyt skory do refundowania konferencji,
+3263:  KMM - I wywaliłem te ciężkie pieniądze, pojechałem do tego Stambułu.
+3266:  KMM - Pomyślałem sobie, zobaczę to, co widziałem w Assassin's Creedzie.
+3269:  KMM - Super.
+3271:  KMM - Pomysł dobry, plan był dobry.
+3273:  KMM - Plan był dobry.
+3274:  KMM - Nawet zadbałem o to, że jak poszedłem do cysterny Jerebatan, to miałem odpowiednią muzykę na uszach.
+3278:  KMM - Wszystko wyglądało idealnie.
+3281:  S00 - Dograne perfekcyjnie.
+3283:  KMM - Tak, dograne perfekcyjnie.
+3284:  KMM - Do momentu, w którym okazało się, że na przykład jestem w tym miejscu, gdzie pamiętałem, że był Pałac Bazyleusów, no ale się okazało, że go już nie ma.
+3295:  KMM - bo nie istnieje.
+3297:  KMM - No i to było dość smutne odkrycie i uświadomiłem sobie wtedy, że cóż, gra lepsza, bo nie dość, że zobaczyłem rzeczony pałac,
+3306:  KMM - To jeszcze się okazało, w tak zwanym międzyczasie, że Ayasofya, czyli główna rzecz, którą chciałem zobaczyć, widoczna na absolutnie wszystkich pocztówkach ze Stambułu, była w remoncie.
+3317:  KMM - I jeszcze do tego wszystkiego, nawet gdyby nie była w remoncie, to i tak nie mógłbym sobie, tak jak Ezio Auditore da Firenze, polatać po kopule i zobaczyć z bliska te wszystkie freski, więc...
+3326:  KMM - Szczerze powiedziawszy, to moje doświadczenie eksploracji światów jest dalej o tyle paradoksalne, że nie ukrywam, że sprawia mi niejednokrotnie więcej przyjemności niż podróże.
+3335:  KMM - Chociaż podróżowałem dużo, to mam takie rosnące wrażenie, że to w jaki sposób projektowane są światy sprawia, że ta nasza...
+3345:  KMM - ciekawość rzeczywistości może być przez nie zaspokojona.
+3349:  KMM - I tak samo jak mamy na przykład pamiątkę z podróży do, nie wiem, Chin, czy właśnie Stambułu, czy gdziekolwiek indziej, tak samo możemy mieć pamiątkę z wirtualnej rzeczywistości.
+3358:  KMM - I przecież wielokrotnie się zdarza na przykład tak,
+3361:  KMM - że jesteśmy w jakimś fikcyjnym świecie i mamy stamtąd wspomnienia i przypominamy sobie potem, jak rozmawiamy ze znajomymi na przykład o tym, prawda?
+3372:  JK - I opowiadamy sobie kombatanckie historie.
+3373:  JK - Bardzo dużo mam dobrych wspomnień, takich z Assassin's Creed'a właśnie.
+3376:  JK - Prawda?
+3377:  KMM - I pytanie, czy dla naszego mózgu te wspomnienia są takie same, jak wspomnienia ze świata rzeczywistego, czy też są inne?
+3384:  KMM - No ja stoję na tym stanowisku, że są takie same, że to my sobie tylko wmawiamy, że och, to nie istnieje w związku z powyższym, to jest jakieś gorsze.
+3391:  KMM - Tak samo jak sobie wmawiamy to, że zbanjżowanie 12 godzin serialu na Netflixie jest w jakimś stopniu gorsze,
+3399:  KMM - od poświęcenia tego czasu na pracę zarobkową, gdy tymczasem z ręką na sercu, nie położyłem tej ręki na sercu, teraz z ręką na sercu mogę powiedzieć, że na najlepsze pomysły w życiu wpadłem wtedy, kiedy nie pracowałem, kiedy mój mózg nie koncentrował się na tym, że teraz pracujemy, tylko wypoczywał.
+3415:  KMM - I ja to też widzę właśnie w tej aktywności światotwórczej, że to jest też taki sposób, jak się tym zajmiemy na zajęciach na przykład, żeby coś się stało,
+3427:  JK - Ja wyszedłem, bo już powoli będziemy kończyć.
+3430:  JK - Proszę kontynuować.
+3431:  KMM - Bo mnie odłączyło od Hearthstone'a, więc dlatego się zdziwiłem i zaskoczyłem.
+3437:  KMM - O czym to ja mówiłem?
+3438:  KMM - Bo oczywiście straciłem wątek, jak to ja.
+3441:  JK - Że światy są, że tak samo możemy postrzegać i pamiętać i wspomnienia mieć.
+3445:  JK - I że mózg nie pracuje tak samo podczas pracy, tylko... Dokładnie.
+3450:  KMM - Więc wydaje mi się, kończąc zatem...
+3453:  KMM - że niepotrzebnie sobie wyrzucamy, że o to odpoczywamy, albo że uciekamy do jakiejś fikcyjnej rzeczywistości, bo możemy tam znaleźć coś, czego się w ogóle nie spodziewamy.
+3463:  JK - To tak jest starsze, że tak powiem, myślenie.
+3467:  JK - Teraz faktycznie to całe światotwórstwo poszło do przodu i jakby tak patrzeć na to w ten sposób, to faktycznie jest możliwość, żeby takie wspomnienia zostawały, czego świadkiem jestem ja i pan również.
+3482:  JK - Także, także, także no.
+3485:  JK - Dziękuję bardzo za rozmowę i za kilka partyjek Hearthstone'a.
+3490:  JK - Było mi bardzo miło z panem rozmawiać, mam nadzieję, że tutaj wszystkich ludzi, którzy tego będą słuchać, nie zanudziliśmy.
+3498:  JK - Mówię, ja rozmawiałem i zadawałem pytania bardzo od takiej strony
+3504:  JK - właśnie od tej drugiej strony, takiego typowego ścisłowca, ale myślę, że to są tematy, mam nadzieję, że nie tylko mnie to ciekawi i nie wyszedłem na jakiegoś kompletnego laika, nie znając się na tym temacie.
+3517:  JK - Absolutnie nie.
+3519:  JK - Jeszcze raz dziękuję za bardzo przyjemną rozmowę i mam nadzieję, że kiedyś do usłyszenia albo może i do zobaczenia.
+3526:  JK - Dziękuję bardzo.
+3527:  KMM - Dzięki serdeczne, do usłyszenia, do zobaczenia.

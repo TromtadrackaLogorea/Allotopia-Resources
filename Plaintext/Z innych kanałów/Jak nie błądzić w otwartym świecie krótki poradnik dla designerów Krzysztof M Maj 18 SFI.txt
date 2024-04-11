@@ -1,0 +1,505 @@
+Jak nie błądzić w otwartym świecie (krótki poradnik dla designerów) / Krzysztof M. Maj / 18. SFI
+🔗 https://www.youtube.com/watch?v=fb9QGVuAtcs
+
+17:  Dzień dobry, witam wszystkich serdecznie.
+20:  Czy teraz się odpali mój klatkaż?
+22:  Odpalił się mój klatkaż, oczywiście.
+23:  Będziemy mówić sobie o tym, jak nie błądzić w otwartym świecie, na jednym z najsłuszniejszych przykładów, jaki sobie można wyobrazić, przynajmniej na początku, to znaczy oczywiście, że z uniwersum Warhammera 40 tysięcy
+33:  Kto jeszcze czeka na Space Marine 2?
+35:  Mam nadzieję, że nie tylko ja.
+37:  Dobrze, czekają ludzie na Space Marine 2, jeżeli ta gra nie będzie dobra, albo jeżeli będzie taka jak Diablo 4, co w tym miejscu oznacza nie będzie dobra, to wtedy będę bardzo zmartwionym człowiekiem.
+47:  Moi drodzy, będę starał się, żeby to było jak najmniej teoretyczne, jak najbardziej praktyczne, dlatego też profit, to znaczy na samym końcu będę miał taki segment, w którym opowiadam o tym,
+58:  jak ogarnąć robotę w gamedev'ie, przynajmniej na podstawie internetu i własnych pomysłów, więc oby to się udało.
+65:  Widzę, że klatkaż jest po prostu absolutnie dramatyczny, ale jakoś sobie z tym poradzimy.
+70:  No, więc jest powód praktyczny na sam koniec, który będzie totalnie niezwiązany z tematyką tego wystąpienia, ale pomyślałem, że jako bonus mogę to wstawić, z tego względu, że praca w gamedev'ie w tym momencie wydaje się zagrożona, to znaczy mamy straszne AI,
+85:  sztuczną inteligencję, terminatora, który nas zniszczy z tego względu, że wyszukiwarka zaczęła do nas mówić ludzkim głosem.
+91:  Oczywiście tak się nie stanie, każdy kto programował albo kto zna się na sztucznej inteligencji wie, że zagrożenia nie ma, co nie zmienia faktu, że mamy ciekawy wektor ataku, zauważcie, to znaczy nikt się nie spodziewał, że to artyści będą mieć problem, prawda?
+105:  Że humaniści, hoho, będą mieć problem, ci którzy piszą, ci którzy rysują,
+110:  Ale moja odpowiedź jest następująca, żeby się absolutnie nie martwić z tego względu, że projektowanie gier wideo, o czym się przekonał i Ubisoft i EA, którzy będą bohaterami tego wystąpienia, jest o wiele bardziej skomplikowane niż jest w stanie to ogarnąć jakikolwiek w tym momencie algorytm, zwłaszcza taki, który bazuje na zamkniętej grupie danych.
+128:  A zatem możemy mieć nadzieję, że może wreszcie te FedExQuesty okropne, kiedy jakaś starowinka mówi, panie, podaj trochę ziółek, potrzebuję pięć ziółek do mojej mikstury.
+139:  I ten pasjonujący quest później się rozwija, macie te emocje, które czujecie, jak docieracie do krzewu, zbieracie te listki dla starowinki i wiecie, wy wiecie już, że wrócicie do jej chatynki, dacie jej tej listki i dostaniecie...
+152:  punkty doświadczenia, to jest, to są te emocje.
+156:  Ja myślę, że AI może to projektować i w ten sposób możemy przekierować siły kreatywne ludzi na ciekawsze zadania, prawda?
+163:  Na przykład wymyślenie tego, co zrobić z tym questem, żeby był interesujący.
+168:  Nie wiem, dlaczego mówię wam o questach, chociaż będę mówić głównie o projektowaniu światów, ale skończmy z klatkarzem urochamerowskim.
+174:  Przedstawiam się jeszcze raz, mimo że zostałem bardzo miło przedstawiony, za co dziękuję, to znaczy badam gry, dream job by się wydawało i rzeczywiście tak jest, więc jestem zadowolony w miejscu, w którym jestem, a to jest Obi-Wan Kenobi.
+186:  Serial Obi-Wan Kenobi był kiepski.
+188:  I pytanie, które chciałbym zadać i żeby ono tak zawisło tutaj, to to czy gry wideo z otwartym światem rzeczywiście powinny być tak złośliwie wyszydzane, jak są?
+198:  Bo wszyscy wiemy, jak miały wyglądać otwarte światy.
+201:  To miała być piękna rzeczywistość, w której się poruszamy, o mało bym stąd spadł, w której się poruszamy tak jak w naszym świecie, tak jak w naszej rzeczywistości, że jest wszystko realistyczne, że przydarzają się nam rzeczy, tak jak w Red Dead Redemption 2.
+216:  Idziemy sobie pięknie, konna przejażdżka ku zachodzącemu słońcu i nagle w kajdanach pojawia się jakiś więzień.
+224:  Co zrobimy?
+224:  Może mu pomożemy, ale jeśli mu pomożemy, to może nam sprzeda kulkę w łeb,
+228:  A może dostaniemy jakieś informacje?
+230:  Interesująca rzecz, prawda?
+233:  To się fachowo nazywa quest albo narracja emergentna, czyli coś, co wyłania się ze świata i chcielibyśmy tego więcej.
+240:  No ale tutaj wchodzi Ubisoft, prawda?
+242:  Albo tutaj wchodzi EA, prawda?
+244:  Albo niestety, muszę teraz powiedzieć, współczesny Blizzard i firmy, które po prostu widzą okazję na rynku i myślą sobie, ludzie lubią otwarte światy, świetnie, sprzedamy im grę, ale sprzedamy grę niekompletną i jeszcze przebijemy w tym paradoks.
+260:  I w ramach tego niekompletnego tytułu wydamy nie tylko 15 bombilionów DLCków i treści dodatkowych, ale równocześnie będziemy wypełniać ten pusty świat contentem.
+271:  I teraz, parę dni temu ledwie oglądam streama Asmongolda z Diablo 4,
+276:  I Diablo 4, które dla wszystkich, którzy nie wiedzą jakimś cudem jest hack and slashem, polega na tym, że się właśnie to robi z potworami, to znaczy ciacha się je i musi być możliwie dużo potworów, żeby było dużo do ciachania.
+288:  Przyznacie, filozofia niezbyt skomplikowana.
+290:  Przy czym co robi Blizzard?
+292:  To znaczy jest jedno skupisko potworów w tym momencie i później jest...
+301:  O, i drugie.
+302:  Po 15 minutach.
+303:  No i to nie wygląda zbyt dobrze, prawda?
+305:  Wygląda to jak pusty świat, który musimy wypełnić contentem, wypełnić tą zawartością.
+310:  I to zaczęło nam przeszkadzać w otwartych światach.
+312:  Druga rzecz, która nam zaczęła przeszkadzać w otwartych światach i tak dlatego złośliwie w tle się wyświetla mapka z Assassin's Creed Odyssey, to było zapełnienie mapy treścią, a ściślej mówiąc indykatorami tego, że treść istnieje.
+326:  Pytajniczek słynny, prawda?
+328:  To, co niestety...
+329:  zrobili Redzi także w Wiedźminie III, które jest grą doskonałą, ale to nie znaczy, że nie ma wady.
+334:  Mianowicie Wiedźmin oto podchodzi sobie do słupa ogłoszeniowego i słup ogłoszeniowy działa w ten sposób, że Wiedźmin czyta sobie parę zleceń wiedźmińskich.
+342:  Wydaje się, że to jest naturalna sytuacja, prawda?
+345:  Nic bardziej mylnego.
+346:  Mianowicie natychmiast mapka nam się zapełnia pytajniczkami.
+350:  I zauważcie, co robią pytajniczki.
+352:  Kto pomyślał, że pytanie, które zadam, będzie brzmiało, co robią pytajniczki?
+356:  Otóż pytajniczki robią następującą rzecz.
+358:  Zamiast żebyśmy zwiedzali sobie świat, zainteresowani tym, że ja na przykład się zastanawiam, co jest za tą ciemną szybą tam z tyłu sali.
+365:  O, ciekawa rzecz, może tam pójdę i sprawdzę.
+368:  Ta nasza ciekawość, zamiast by zostać wyzyskana przez projektantów, jest zamieniona na takie chodzenie od punktu do punktu, nie?
+375:  To znaczy, aha, dostajemy w takim razie punktu.
+378:  Quest, dostajemy zadanie.
+379:  Musisz oto, Mistrzu Wiedźminie, przejść od jednego pytajniczka do drugiego pytajniczka.
+384:  I zamiast tego błądzenia po otwartym świecie, robi nam się ekwiwalent gry linearnej, liniowej, bo idziemy od pytajnika do pytajnika.
+395:  A zatem ta filozofia konstruowania i projektowania światów jest dziurawa, a w każdym razie jest in development, moglibyśmy rzec.
+403:  Jest wiele do poprawy.
+405:  Nie powiedziałbym jednak, że sam pomysł, że otwarty świat jest przyszłością gier wideo, jest wskazany na niepowodzenie.
+415:  Bo jednak mogę się śmiać z mechanizmów gacza hazardowych Genshin Impact, ale nie mogę nie przyznać, że powodem, dla którego sam wracam z całą swoją świadomością tych hazardowych mechanik do Genshin brzmi, okej, jest nowy region.
+429:  Nie, okej, jest nowa część fabuły, nie mogę się doczekać, co tam mi opowiedzą, tylko jest nowy region do wyeksplorowania i może tam coś odkryję interesującego.
+439:  I to, wydaje mi się, jest intratny mechanizm marketingowy, bo zauważcie, że nie musimy wydać Genshin Impact 2, Genshin Impact 3, Genshin Impact 4, patrzy na ciebie Guild Wars i tak dalej,
+451:  tylko wydajemy kolejne regiony w ramach jednego uniwersum i teraz powiedzmy sobie jeszcze więcej, żeby nie było, że odwołuje się do hazardowej gaczy, wróćmy do ukochanego Wiedźmina 3 i wyobraźmy sobie, okej, jest Andrzej Sapkowski, jest pomysł na multiwersum,
+466:  Czyli możemy nieskończoną liczbę gier osadzić w tym multiwersum, możemy w nieskończoność to marketować, możemy w nieskończoność doić tę kurę znoszącą złote jajo, mimo że kury się nie da wydoić.
+478:  Jest to mechanizm marketingowy moim zdaniem o wiele lepszy od idiotycznych skórek kupowanych za 40 tysięcy dolarów
+486:  tudzież właśnie od mechanizmów gacza, tudzież innych sposobów monetyzacji, a już na pewno jest lepszy dla studiów niż wydawanie narracji seryjnej.
+494:  Tak, mówiłem tak długo na jednym slajdzie z Ubisoftu, już Wam to daruję.
+498:  W związku z powyższym teraz będziemy się wpatrywać w mordę Androida Wilsona z EA, który już zapowiedział, że
+505:  będzie czyścił szeregi EA, swoją drogą wczoraj ledwie 800 osób zostało zwolnionych, no z uwagi na to, że jest AI.
+512:  Teraz problem nasz polega na tym, że rzeczywiście gry z otwartym światem w tym stanie, w którym teraz są, są łatwe do zaprogramowania z użyciem AI, ponieważ niestety społeczność graczy przyzwyczaiła studia do tego, że mogą sobie pozwolić na to,
+526:  niestety, żeby robić generyczne questy, takie, które są dokładnie takie same, bo staliśmy się takimi bezrefleksyjnymi pożeraczami growego contentu i każdy gracz powie, że brakuje mu czegoś więcej.
+541:  Może więc jest szansa na to, żeby ten komunikat, który staram się tutaj formułować, trochę się przebił do was, mam nadzieję przyszłych projektantów gier,
+549:  żeby spróbować powiedzieć coś więcej.
+552:  Przypomnijcie sobie, jak Wiedźmin 2 zrobił chociażby quest Wór Pełen Piór, który był bardzo prostym Fedexem.
+559:  Trzeba było o to pójść do Harpie, zabić Harpie, zebrać pióra i dać je człowiekowi, który o nas o to poprosił.
+567:  Prosta sprawa.
+568:  No ale później w toku rozwoju tego questu, przepraszam za paskudny spoiler, ale jest drobny,
+572:  Okazuje się, że tenże człowiek uszył sobie piękny strój z tych wszystkich piór i wyglądało to jak kurak.
+579:  I Geralt patrzy na niego i mówi, no ładna pogoda, prawda?
+585:  No i jest pięknie, prawda?
+586:  Więc jak widać, można taki element właśnie ludzki wprowadzić do tych questów, nawet jeżeli one są schematyczne i nieznośne.
+592:  Za ten element ludzki, swoją drogą, w Wiedźminie II odpowiada Artur Ganszyniec.
+596:  Swoją drogą Artur Ganszyniec również projektował tę rozwidlającą się ścieżkę i ten pomysł, z tego co pamiętam, również po jego stronie stał, żeby zachęcić graczy do replayability w najbardziej możliwy, radykalny sposób, to znaczy dać w zasadzie dwa różne możliwości.
+611:  drugie rozdziały.
+613:  Jasne, że każdy woli pójść do tej pięknej fortecy krasnoludów niż do dziwnego, bagnistego obozu, ale z drugiej strony Odrin, więc ciężki wybór.
+622:  I po tym druga informacja, którą mam dla Was prasowa, jest czarno-biała, dlatego że jest ona smutna, dokładnie taka sama jak życie Androida Wilsona.
+630:  Mianowicie Ubisoft mówi, że będzie wykorzystywał AI do projektowania questów.
+635:  Tak wiem, to jest bardzo zaskakujące.
+637:  Wszyscy myśleliśmy, że oni to już robią od dawna.
+640:  ale tak naprawdę będą to robić od niedawna.
+642:  I to możemy sobie wyobrazić, do czego to doprowadzi.
+646:  Więc myślę sobie, że obydwa warianty są bardzo interesujące.
+649:  To znaczy albo się okaże, że te questy są lepsze, tym gorzej dla Ubisoftu, albo się okaże, że będzie gorsze, tym gorzej dla graczy.
+656:  Jeden i drugi wariant to będzie a spectacle to behold z pewnością i będziemy sprawę śledzić.
+661:  Niemniej wydaje mi się, że nie byłoby tej zapowiedzi, gdyby właśnie nie przejście do tych otwartych światów.
+666:  Dlatego właśnie dzisiaj chciałem Was zaprosić do refleksji nad tym, jak możemy wypełniać pudełko, jakim jest świat gry.
+674:  I to celowo używam słowa pudełko, czy metafory pudełka, dlatego że przywykliśmy do tego, żeby myśleć o świecie jako o scenie, na przykład takiej nudnej scenie, na której ja stoję, powtarzalna scena.
+685:  w nowoczesnym budynku zbudowanym po to, żeby był nowoczesny.
+689:  Pamiętam, że zawsze śmiałem, jak przyjeżdżali z zagranicy do nas i się dziwili, dlaczego my budujemy takie nowoczesne kampusy, jak tam już się to dawno znudziło i ludzie wolą raczej być w historycznych miejscach.
+699:  O, taka mała anegdotka.
+700:  W każdym razie światotwórstwo ma znaczenie, moi mili.
+703:  I to, czy projektujemy wokół siebie przestrzeń, która jest powtarzalna, czy też staramy się nadać jej charakter, ma niesamowite znaczenie w gamingu.
+712:  I ten świat pojęty jako pudełko jest właśnie tym pudełkiem dlatego, że jest przez nas zamieszkiwany.
+718:  Tak jak przez graczy, tak samo nasza rzeczywistość jest zamieszkiwana przez obywateli tego pięknego kraju.
+724:  A zatem oznacza to, że meblujemy świat nie tylko
+729:  lewelem jakimś, gdzie będzie architektura określona.
+733:  Tam także musimy dać ludzi przestrzenie, które tym ludziom odpowiadają, bo musimy umieścić przedmioty, które będą interesujące i dopiero potem możemy się zabrać za treści fabularne, jak już będziemy mieli tę architekturę.
+744:  Będę się starał to jakoś sensownie zwizualizować na najbliższych slajdach.
+747:  Na początek standardowy mój wymiar
+750:  Wybieg, który stosuję we wszystkich wykładach poświęconych grom wideo, mianowicie gra wideo nie jest grą wideo, nie jest tylko i wyłącznie zatem rozgrywką.
+758:  Jest pewnego rodzaju światem, w którym możesz znaleźć się dokładnie tyle, o, będę tutaj machał laserem, dokładnie tyle mediów, ile w naszej rzeczywistości.
+767:  Więc im więcej będziemy mieli mediów w naszym świecie, tym więcej mediów możemy wpakować do gry wideo i, co ciekawe, zwykle jest tak, że te gry, które są cenione przez graczy,
+777:  Właśnie mają w sobie dużo mediów, możemy w nich dużo zrobić, możemy przeczytać w nich książkę, komiks, obejrzeć film, nawet i niekiedy serial, albo zagrać w grę w grze, co też ma znaczenie i nieprzypadkowo.
+791:  Są takie gry jak chociażby Gwint, niepoprawnie wymawiany Gwent, który zyskał swoją osobną postać w postaci tytułu, który został normalnie wydany na rynku.
+803:  A zatem jesteśmy w stanie, jeśli będziemy projektować światy, a nie gry, zaoferować graczom coś, przy czym oni będą chcieli zostać dłużej, a znowu odwołuję się do bardzo istotnego na wszystkich kierunkach informatycznych poczucia marketingowego, mianowicie im dłużej gracze będą w światach gier, tym więcej będziemy zarabiać pieniędzy na ich projektowaniu, więc ma to sens, prawda?
+826:  Im dłużej będziemy też opiekować się danym tytułem, tym gracze mniej chętnie będą się chcieli z nim rozstać,
+832:  No, kto gra w World of Warcraft dla questów?
+837:  Bardzo interesujących questów, które są za każdym razem takie same.
+840:  No oczywiście, że się nie gra w World of Warcraft dla questów, gra się już z przyzwyczajenia, woła o ile w ogóle, a z przyzwyczajenia gramy dlatego, że mamy tam znajomości, mamy tam jakąś gildię, mamy tam parę lat, które wtopiliśmy już albo pieniędzy i w związku z powyższym jesteśmy wciąż w tym świecie, właśnie z uwagi na tę jakąś emocjonalną więź, którą zbudowaliśmy.
+861:  bez obaw zrobi się ściślej, już się robi ściślej.
+863:  Pierwszy schemat straszliwy, to znaczy w GameDevie używa się dwóch określeń na nazwanie tego, czym wypełniamy nasz świat.
+871:  Po pierwsze jest to story jakieś i dlatego jeżeli usłyszycie, że będziecie story designerem, to będziecie zajmować się projektowaniem questów, oby nie były to Fedexy, ponieważ wtedy was zastąpi AI.
+882:  A po drugie content, czyli wszystko to, co nie jest questem, a jest mimo wszystko w grze.
+888:  I tutaj jest bardzo ciekawa funkcja gier jako medium, szybko muszę to zaznaczyć, mianowicie w grach to my jesteśmy narratorami, to my tworzymy narrację.
+896:  Prosty test.
+897:  W dowolnie prostej grze może być, nie powiem, że to jest Dark Souls, bo to było bardzo złośliwe, ale powiedzmy w dowolnie prostej grze, gdzie jesteśmy w stanie eksplorować sobie rzeczywistość.
+908:  Postarajmy się ostatnie 5 minut opowiedzieć,
+911:  I natychmiast okaże się, że tworzymy narrację, że opowiadamy w czasie przeszłym o naszych losach w tym świecie.
+917:  Ergo to gracz tworzy narrację, nie tylko studio.
+921:  Idealna gra zatem to będzie taka, w której dostaniemy i jedno i drugie.
+926:  I tutaj mamy odpowiedź na fenomen gier FromSoftu.
+929:  W grach FromSoftu to my tworzymy opowieść historii.
+932:  O tym naszym znękanym, biednym podróżniku, który został tak strasznie złojony po dupsku, że on już niczym innym nie marzy, tylko żeby uciec z tego świata, ale musi się wpierw zemścić na każdym jednym bosie.
+946:  I to oczywiście...
+947:  sprawia, że wypracowuje się taka więź emocjonalna między nami a światem gry, który praktycznie o sobie nie opowiada.
+955:  No bo cóż te wszystkie rozproszone notatki by nam dały, gdyby nie kanał VATiVD, który wszystkie je gromadzi i wyjaśnia nam, o co tak naprawdę w tym wszystkim chodzi.
+964:  Ale fakt faktem jest, że jesteśmy w stanie zbudować jakąś naszą egzystencję w tym świecie i poczucie, że mimo tych wszystkich trudności, zdołaliśmy opowiedzieć jakąś swoją historię, jest to piękne.
+977:  No i potem wychodzi Elden Ring i tak będziemy dzisiaj mówić o Elden Ring'u.
+981:  Ale ten content zatem to może być coś, co jest wypracowane przez gracza.
+985:  I tutaj wracamy do moderów na przykład.
+987:  Dlaczego moderzy za darmo tworzą treści do gry?
+990:  Dlatego, że stworzył ktoś wcześniej piękny świat, który oni chcą zamieszkiwać, a w którymś momencie skończy nam się historia.
+997:  Zawsze bawiło mnie, jak ktoś mi mówił, że w gry wideo gra się po to, żeby wygrać.
+1001:  Znaczy to jest boomerskie przeświadczenie wszystkich tych, którzy uważają, że gry wideo kończą się na dynie blaster.
+1007:  Natomiast prawda jest taka, że współczesnie nie da się w gry po to, żeby wygrać, no chyba, że to jest gra kompetytywna, wtedy raczej chcemy wygrać mecz, ale wciąż nie jesteśmy w stanie wygrać Fortnite'a, znaczy no nie da się tego zrobić.
+1018:  Co nie zmienia faktu, że po coś gramy, prawda?
+1021:  Ewidentnie jest coś takiego w grze, co sprawia, że chcemy przejść naprzód i chcemy zostać dłużej w tym świecie.
+1028:  No i bardzo często jest to właśnie content, content sezonowy.
+1030:  Dlatego też gry z długim wsparciem starają się o różnego rodzaju update'y.
+1035:  To mogą być update'y związane z jakimiś świętami albo z czymś, co się po prostu przydarzyło w świecie gry.
+1039:  Tworzy się, krótko mówiąc, jakaś rzeczywistość i zarazem ekosystem treści.
+1045:  Dobrze, dużo gadam, w związku z powyższym szybki przykład z Hogwarts Legacy, który akurat teraz ogrywam.
+1050:  Mianowicie gry wideo prezentowały już parę sposobów na to, jak komunikować treści narracyjne.
+1056:  Pierwszy jest bardzo prosty, to znaczy dostajemy dwie gadające głowy, które wymieniają się liniami dialogowymi.
+1062:  Ale zauważcie, że przeszliśmy bardzo daleką drogę od statycznych dialogów w Neverwinter Nights, które wyświetlały się w rogu ekranu, tak żeby nikt ich nie widział.
+1070:  I nagle mamy filmowe dialogi, nagle kamera, tutaj już trzeci raz się zmienił kadr i trzeci raz kamera albo wykorzystała zbliżenie, albo plan dalszy, dynamizując rozmowę.
+1081:  To jest, moi drodzy, story.
+1083:  I to jest to, za co odpowiadają ludzie na samym końcu procesu projektowania fabuły.
+1088:  I dlatego też to zwykle jest najdroższe, bo story jest czytane przez aktorów, dialogi są czytane przez aktorów.
+1094:  Zatem, jeżeli myśleliście kiedykolwiek, że jak piszecie quest, to zaczynacie go od dialogów, paradoks polega na tym, że nie.
+1101:  Powieść, możemy zacząć od dialogu opowiadanie, pewnie, świetny pomysł.
+1104:  Natomiast quest, haha, z questem jest tak, że ten dialog bardzo często trzeba napisać na końcu, a wcześniej musicie stworzyć sytuację dialogową naturalną.
+1112:  Więc gdybyśmy byli quest designerem w tym momencie, to byśmy opisali, że bohaterka gry rozmawia z Hekat, która jest byłą aurorką, byłą pracownicą Departamentu Magii, nie pamiętam dokładnie, i będzie o tym opowiadać.
+1125:  Koniec, koniec opisu, przechodzimy dalej.
+1127:  Ale później wchodzi ktoś, na przykład scenarzysta, który wykorzystując swoją wiedzę o pisaniu scenariuszy daje nam dialog, więc story.
+1136:  Czy to jest też story?
+1138:  Trochę tak, ponieważ to jest przecież Avada Kedavra rzucona w realiach świata, w którym to jest zaklęcie niewybaczalne.
+1145:  A zatem wcielamy się w maga, czarodziejkę, wszystko jedno, która rzuca zaklęcie niewybaczalne.
+1151:  Musimy znać lore Pottera, żeby wiedzieć, czym są zaklęcia niewybaczalne.
+1155:  Jest to zatem jakiś narrative, powiedzielibyśmy już, nie story.
+1160:  plot, nie story, nie dialog, tylko narracja, bo jesteśmy tu na trochę innym poziomie.
+1165:  I teraz wracam trochę do przykładu z Dark Souls.
+1167:  Wszystkie notatki, wszystkie elementy, które znajdujemy, miecze, artefakty, to też jest część narracji.
+1174:  Co więcej, musicie to opisać jako narrative designerzy gdzieś, mieć jakąś encyklopedię, jakąś bazę danych, gdzie każdy z tych przedmiotów będzie mieć swój opis.
+1184:  Natomiast jest jeszcze jeden element w ramach tego narratywu,
+1187:  który jest tworzony i teraz dla spostrzegawczych, czym się będzie różniła ta scena, jeszcze sobie powtórzmy ją na wszelki wypadek, mianowicie ta scena, tak?
+1197:  Czym ona będzie się różniła od następnej?
+1204:  Otóż różni się ona tym, że moja postać ma maskę niuchacza.
+1208:  Maska niuchacza sprawia, że już Czarodnioksiężnik nie wygląda tak potężnie, jakby się wydawało, tylko jest niuchaczem, czyli bardzo małym stworzonkiem poszukującym złota.
+1219:  Nie wygląda to już tak nieprawdopodobnie dramatycznie, jakby mogło wyglądać w filmie.
+1226:  Przypuszczam, że gdyby, nie wiem, Yates, który reżyserował Pottery, chciał
+1230:  sportretować Lorda Voldemorta, to nie dałbym mu maski niuchacza, podczas gdy krzyczy na cmentarzu w bardzo zabawny sposób, wciskając czoło podtera, to jest najbardziej żenująca scena w historii kinematografii.
+1242:  W każdym razie, gdybym Voldemort miał maskę niuchacza, byłaby jeszcze bardziej żenująca.
+1246:  Dlaczego nie przeszkadza mi to, że mam maskę niuchacza?
+1249:  Z bardzo prostego powodu, to znaczy w grze jest jeszcze roleplay, niezależnie od tego co mamy, to jest ten element, który jest najbardziej osobisty, ten, który jesteście w stanie zagospodarować jako gracze, jeżeli studio dało wam możliwość kustomizacji postaci, dlatego tak wredne jest, jeżeli kustomizacja jest płatna, bo to nie jest prawda, że...
+1267:  no to najwyżej nie będziemy kupować tych skóry.
+1271:  No nie musisz, żeby ukończyć.
+1273:  Ja kocham taką argumentację, przecież właśnie o to chodzi w grze, żeby wyrazić siebie, żeby pośmiać się czasem z gry albo z samego siebie, żeby stworzyć coś, co będzie interesujące w obrębie tego świata.
+1285:  I zauważcie, że te trzy elementy będą ze sobą współgrać i co więcej, tu jest jakaś kotwica.
+1291:  która sprawia, że będziemy podróżować po tym świecie, to znaczy zarówno story, jak i content może nas oprowadzać po rzeczywistości, na tej zasadzie, której przywołałem tę dziwną czarną skrzynię z tyłu, mianowicie mogę się nią zainteresować, to jest jakiś punkt, który mnie zainteresował, innymi słowy point of interest i do tego przejdziemy za moment.
+1311:  Ale teraz przykład tego, w jaki sposób radzi sobie inny tytuł.
+1315:  Mianowicie tutaj oczywiście pojawia się mroczna scena z Elderlingu, gdzie mroczna postać w mrocznym świecie walczy z Lordem Ciemności, który jest mroczny i musi sobie poradzić.
+1329:  I oczywiście to jest absolutnie narracja, która będzie pasowała do każdego tytułu wydanego przez From Software kiedykolwiek.
+1336:  ale nie zmienia to faktu, że gramy w te gry dlatego, że ona jest spodziewana, dlatego, że lubimy setting dark fantasy i dlatego, że jeżeli zobaczymy taki trailer, to my już wiemy, ok, to jesteśmy w domu, tak, jestem fanem tego gatunku, jestem fanem tej estetyki, ja chcę kupić tę grę.
+1353:  I jeszcze tutaj jest jeden element, zauważcie, że to nie jest tak, jak wygląda Elden Ring.
+1357:  Elden Ring wygląda dobrze,
+1359:  Nie bardzo dobrze, dobrze, ale nie tak dobrze.
+1362:  Nie zmienia to faktu, że jednak lubimy być znajamiani ze światem w taki sposób, bo w ten oto, na tę modłę, w ten oto sposób jesteśmy w stanie zobaczyć ten świat troszeczkę z innej perspektywy.
+1374:  To też jest, moi drodzy, narrative.
+1376:  I ten narratif może wyznaczyć nasz roleplay, może wpłynąć na to, jak będziemy chcieli grać i tutaj wchodzi na białym rumaku zjawisko znane jako fashion souls.
+1387:  No tak, oczywiście, że możemy wybrać rynsztunek, który będzie najbardziej optymalny w walce z przeciwnymi natury monstrami,
+1395:  ale równocześnie fajniej będzie wyjść w takim, który po prostu wygląda ładnie i ten purpurowy płaszcz się będzie za nami snuł wtedy, kiedy będziemy dostawali cięgi od jakiegoś kolejnego potwora i bossa.
+1406:  To jest istota roleplayu i jeżeli gra na to pozwala, uważam, że gra będzie nieśmiertelna.
+1412:  dlatego że gracze wracają do gier tylko z tego względu, że jest to jedyne medium, które daje nam taki poziom interakcji ze światem i możliwość wyrażenia siebie, co jest kluczowe.
+1423:  W przypadku czytania książek, oglądania filmów, czytania komiksów, oglądania animek, tego nie będziemy mieć nigdy.
+1429:  No i wreszcie ta innowacja, którą wprowadził Elden Ring i która jest interesująca z perspektywy historii gier FromSoftu.
+1436:  Minor spoilers, bo otwarta jest cała mapa wyeksplorowana, ale i tak tego nie widać, więc się nie przejmujmy.
+1441:  W każdym razie w Elden Ringu została wprowadzona mapa, coś przed czym FromSoftu broniło się niesamowicie.
+1447:  Ba, znajdą się tacy gracze, którzy twierdzą, że to nie jest prawdziwa gra FromSoftu, jeżeli jest w niej mapa, to ułatwia satanie.
+1454:  Przecież oczywiste jest to, że częścią doświadczenia gier FromSoftu nie jest to, że bijemy się z bossami, tylko to, że gubimy się w drodze do nich.
+1462:  Naturalna sprawa.
+1463:  To wpływa na poziom trudności i oczywiście zwiększa naszą przyjemność z grania.
+1467:  Wcale nie wpłynie na to, że odkłożymy grę i nie będziemy chcieli w nią grać.
+1471:  To był mój przypadek, swoją drogą, bo ja się zawsze gubię w grach wideo, więc mam bajas pewien, z którego się w tej chwili spowiadam.
+1476:  Niemniej została wprowadzona taka mapka.
+1479:  Czy ona coś pomaga w nawigacji?
+1481:  Nie do końca, ale zauważcie, że tworzy kolejną warstwę narracyjną tego świata.
+1487:  No to jest mapa, która krzyczy.
+1490:  XV, XVI wiek, fantasy, dark fantasy wręcz i pozwala nam zanurzyć się w tę rzeczywistość, dając jakieś absolutne minimum informacji, ale jak się bardzo przyjrzymy i tego absolutnie nie widać, więc musicie mi z tego zaufać, że tak jest, na tej mapce będą takie bardzo ładne ogienki, które prowadzą nas w jakimś bliżej nieokreślonym kierunku.
+1509:  To jest sposób FromSoftu na to, żeby pokazać nam
+1512:  w tamtym kierunku należy iść.
+1514:  Co ciekawe, usiłowałem sprawdzić rzeczywiście, w którym kierunku pokazują te ogieńki, okazuje się, że absolutnie we wszystkich, więc to jest kolejny troll ze strony From Software.
+1522:  Niemniej myślę, że fakt, że nawet taka gra, która od samego początku akcentowała to, że w światach From Softu mamy czuć poczucie zagubienia i doznawać tej tęsknoty za rzeczywistością, w której wszystko jest proste,
+1538:  poszła w takim kierunku i zrewolucjonizowała swoją formułę, oznacza, że coś z tymi otwartymi światami jest.
+1543:  Bo chyba zgodzimy się, że najmniej intuicyjnie dopasowaną grą do otwartego świata jest korytarzowy Souls-like, który musi być korytarzowy, musi być labiryntowy z tego względu, że dozuje nam informacje.
+1559:  Zauważcie, że jest inna sytuacja, kiedy macie tutaj jedną informację i później za pięć metrów następną i pamiętacie je, a inna w sytuacji, gdy eksplorujecie przez 40 godzin otwarty świat i dostajecie tak samo rozrzucone informacje, tylko o cztery rzędy wielkości w większym wolumenie.
+1574:  Dostajecie ich tysiące, a nie dziesiątki w obrębie jednej lokacji czy jednej instancji.
+1580:  To wszystko zmienia i uważam, że to jest jeden z elementów, w których
+1585:  Elden Ring nie działa, to znaczy są tutaj dwie filozofie zaprojektowania gry.
+1589:  Jedna, która jest tą starą filozofią z From Software, z Dark Souls, z Demon's Souls, gdzie mieliśmy bardzo klaustrofobiczną przestrzeń, ale idealnie zaprojektowaną, każdy jej centymetr opowiadał jakąś historię, a z drugiej strony mamy ten pusty, dziwny, otwarty świat, w którym jest content.
+1606:  w którym jest nagle 150 tysięcy bossów, z którymi możemy walczyć, ale równocześnie nic nam nie przeszkodzi wykorzystać, że te bossy wszystkie są na smyczy, tak jak to w silniku FromSoftu, szybkie wyjaśnienie, smycz oznacza, że postać zacznie wracać po jakimś czasie do miejsca, w którym była, w związku z powyższym możemy to banalnie scheezować, strzelając do niej z łuku albo napieprzając zaklęciami, co w otwartym świecie jest jeszcze bardziej możliwe, a to trywializuje wyzwanie.
+1631:  I dużo graczy FromSoftu miało rację i fanów FromSoftu mówiąc, że Elden Ring jest prostszy, więc nie jest już tym samym.
+1640:  Potem zaczęli walczyć z Malenią i zmienili troszeczkę zdanie.
+1644:  Niemniej w otwartym świecie rzeczywiście to doświadczenie jest zupełnie inne.
+1647:  A zatem otwarty świat dużo zmienia, może strywializować wyzwanie i równocześnie przez skalę sprawia, że bardzo ciężko jest jednej osobie, narrative designerowi na przykład, zapanować nad tym, w jakiej kolejności gracz będzie poznawał kolejne części kontentu i zawartości.
+1664:  No i ta formuła, dla niegrających w gry FromSoftu, szybkie wyjaśnienie podawania strzępów lore, wiedzy o świecie w ramach opisów przedmiotów, sprawdzała się w korytarzowych grach, sprawdza się również w Hogwarts Legacy.
+1678:  Nawiasem mówiąc, gdyby ktoś mi tylko mówił, że jedynie gry FromSoftware
+1683:  pozwalają na opisywanie narracji za pośrednictwem opisów przedmiotów.
+1687:  Tylko tam zastosowano to innowacyjne rozwiązanie.
+1690:  No nie tylko tam, wszędzie to teraz jest, bo też dużo studiów naśladowało from software, to inna sprawa, ale to działa, tak?
+1697:  To się sprawdza jako sposób komunikowania wiedzy o świecie, ale pytanie, czy to się sprawdza jako jedyny środek komunikowania narracyjnej wiedzy o świecie?
+1708:  I to jest pytanie, niech zawiśnie na razie w przestrzeni.
+1711:  Bo musimy to sobie zmapować, prawda?
+1714:  Mamy oto narrację, mamy wspomniany świat gry, mamy fabułę, mamy roleplay i mamy równocześnie te rzeczy, które nas interesują w świecie.
+1722:  I teraz wyzwanie prawdziwe.
+1724:  Zaprojektować rzeczywistość tak, żeby nas interesowały rzeczy w świecie w sposób naturalny.
+1729:  Czyli jeżeli projektujecie dużą, mroczną wieżę na horyzoncie, dobrze będzie, jeżeli gracz będzie mógł do niej wejść i sprawdzić, co jest w środku i oby
+1740:  Oby jego wędrówka została wynagrodzona, bo jeśli nie, będzie czuł rozczarowanie i w którymś momencie przyzwyczai się do tego, co jest najgorsze w otwartych światach, czyli ubisoftyzmu.
+1749:  To znaczy o 45 metrów do najbliższego znacznika, tam znajdziesz cel, o już jest 44, o już 43, emocjonujące.
+1760:  I Hidetaka Miyazaki ma rację.
+1763:  projektowanie tego rodzaju otwartych światów jest bez sensu.
+1766:  I słusznie pojawiały się memy, nie wiem dlaczego nie mam tego memu, ale chyba dlatego, że jest bardzo znany, które nakładały interfejs napisany przez Ubisoft na Elden Ringa i wyglądało to bardzo zabawnie.
+1777:  I słusznie, ponieważ to są zupełnie dwie różne filozofie i chyba wszyscy projektanci gier zgadzają się z tym, że Ubisoft daje za dużo informacji graczowi, sprawia, że gracz nawet nie może poczuć tego zagubienia,
+1789:  nawet jeżeli by narracja tego wymagała, a narracja bardzo często w grach FromSoftu tego wymaga.
+1794:  Gracz ma czuć obcość tego świata.
+1796:  To nie jest tak, że ten świat ma być udomowiony przez niego, ale z drugiej strony mamy przecież przyzwyczajenia z naszej rzeczywistości, konia z rzędem temu, kto nie porusza się po obcym mieście z telefonem i Google Mapsami i nie idzie te 45 metrów do najbliższego punktu, bo chce szybko i optymalnie tam dotrzeć.
+1814:  A zatem projektowanie tych points of interest, miejsc budzących nasze zainteresowanie w grach, musi balansować te dwie filozofie, moim zdaniem.
+1823:  To znaczy, raz, wykorzystywać nasze przyzwyczajenia.
+1825:  Jeżeli coś jest na górze, jest ważniejsze.
+1827:  Jeżeli coś jest na dole, jest mniej ważne, ale może tam jest jakaś tajemnica.
+1831:  Jeżeli coś jest za zamkniętymi drzwiami, zamknięte drzwi powinno się dać otworzyć.
+1835:  Jeżeli coś jest w skrzyni, będzie cenne itd., itd.
+1838:  Możemy grać z tą konwencją, jasna sprawa.
+1840:  ale wykorzystywanie tego rodzaju, fachowo mówiąc, markerów kognitywnych z naszej rzeczywistości jest mega pożyteczne, bo sprawia, że nie musicie po prostu graczowi dawać wskazówek bardzo detalicznych, co ma zrobić i przeciążać interfejsu.
+1854:  optymalna również sytuacja jest taka, żeby ten interfejs można było włączyć, jeżeli ktoś chce.
+1860:  I myślę sobie, że rozwiązania tego rodzaju wpływają bardzo pozytywnie na accessibility, zwłaszcza dla tych osób, które są niepełnosprawne, a również chcą jakoś dokonywać interakcji ze światami gier i również chcą mieć wyzwanie na przykład, bo to nie jest przecież ich wina, że są niepełnosprawni, więc czemuż mamy
+1875:  im tego wyzwania odmówić.
+1877:  Niemniej to jest ta jedna rzecz, która różni w wysokim stopniu interaktywne gry wideo od innych mediów.
+1883:  Nie ma innego medium, w którym jesteśmy w stanie zaprojektować świat, w którym po prostu coś nas zainteresuje.
+1888:  Nie dlatego, że jakaś starowinka nam powie, o pójdź do tajemniczego lasu, tam mi zabrano moją biedną kuskę, ojej, zabij potwory, które zabiły mi moją biedną kuskę.
+1898:  No i wtedy wszystko wiemy, prawda?
+1900:  Wiemy, gdzie jest las, wiemy, gdzie jest kłuska, wiemy, gdzie są potwory i wiemy, gdzie jest starowinka, do której mamy wrócić.
+1905:  Nuda.
+1906:  A zatem można oczywiście się tą formułą bawić, ale nie w nieskończoność.
+1910:  Dobra.
+1911:  I przykład.
+1912:  Mój ulubiony obecnie przykład, to znaczy nie spodziewałem się, że w grze Hogwarts Legacy, w której spodziewałem się, że będę rzucał awada-kedafro przez cały czas i nic więcej nie robił.
+1920:  I naprawdę uważam, że to byłoby świetne rozwiązanie.
+1924:  Natomiast równocześnie nie spodziewałem się Simsów.
+1926:  Kompletnie się nie spodziewałem tego, że dostanę w pokoju życzeń możliwość projektowania swojej własnej przestrzeni, łapania fantastycznych zwierząt, meblowania tego i robienia tego wszystkiego, co się kompletnie nie zgadzało z moim roleplayem, który był jednoznaczny.
+1941:  To znaczy byłem cały czas karmiony narracją o tym, że Gryffindor jest najlepszym z domów i należy mu wsypać maksymalnie punktów.
+1947:  Chciałem zagrać z Slytherinem, wybić
+1949:  wszystkich gryfonów, to był mój jedyny objektyw w ramach roleplayu, nic więcej, ale gra mi powiedziała, że jest tutaj coś innego, co mnie może zainteresować i nagle mój roleplay się zmienił i zacząłem spędzać dużo czasu w minigrze wewnątrz gry, więc zwycięża tutaj zawartość i równocześnie zauważcie, zawartość świetnie połączona z narracją.
+1970:  Jest taka rzecz jak pokój życzeń w tym świecie?
+1972:  Jest.
+1973:  Możecie wyczarować nam wszystko, czego chcecie?
+1975:  Tak.
+1976:  Czy przypomina to Simsy?
+1977:  Oczywiście.
+1978:  Czy w ten sposób bierzemy dwie widownie i doimy z nich pieniądze po to, żeby nasze studio rosło w siłę i żebyśmy mogli zrobić następną grę?
+1987:  Oczywiście, bo nagle się okazuje, że waszym targetem nie są wyłącznie filmy,
+1992:  fani uniwersum, ale także fani innego tytułu i innej specyfiki grania i innej rozgrywki.
+1998:  I wracamy tutaj do Wiedźmina i Gwinta, gdzie również to zostało wykorzystane i również dużo ludzi przyznawało się do tego, że więcej czasu spędza w Gwincie niż przy questach.
+2008:  I to jest ta magia dobrze zaprojektowanego contentu, z którym oczywiście też
+2013:  Skalarnie przynajmniej zgrana cała narracja wewnątrz świata gry i wreszcie eksploracja.
+2020:  Mam powód eksplorować świat.
+2024:  Nie potrzebuję mieć pytajniczków.
+2027:  Chodzę od domu do domu, szabruję kufry, ponieważ chcę znaleźć mebelki do mojego pokoju życzeń.
+2031:  To jest wszystko, co ja robię obecnie w tej grze.
+2034:  I opóźniam ukończenie wątku fabularnego tylko z tego względu.
+2038:  I dla mnie to jest niezwykłe, bo pokazuje alternatywę jakąś.
+2041:  I zauważcie, ta alternatywa, będę się upierał, jest narracyjna.
+2044:  Tak jest to świetnie zaprojektowane, znaczy akurat ten layout Pokoju Życzeń ma
+2049:  pewne problemy, ponieważ gra jest cały czas z tego widoku trzeciej osoby, a niewygodnie się w ten sposób projektuje, co nie zmienia faktu, to jest moje przewidywanie, ponieważ to się nagrywa, to może się okazać, że jestem głupi, moje przewidywania są dobani, ale myślę, że ja bym z tego zrobił osobny tytuł, najlepiej w kolabie z twórcami Simsów i zobaczył, co z tego będzie.
+2070:  Może byłby z tego podobny hit, jak w którymś momencie był z Gwinta.
+2075:  No i zatem, moi drodzy, świat gry będzie tego rodzaju pojemnikiem na zawartość fabularną i narrację dla samego gracza, więc my powinniśmy projektować ten świat, mówiąc po polsku, accordingly, a zatem uwzględniając te trzy tryby.
+2088:  Co powiedziawszy, uzupełniam to o przykład negatywny.
+2093:  To znaczy Cyberpunk 2077.
+2095:  Ta część, którą widzicie, złośliwie przeze mnie zaznaczona, to jest część, do której nie możemy trafić, ponieważ jej nie ma w świecie gry.
+2102:  Jest na mapie, ale jest niedostępna.
+2104:  Pierwszy wniosek.
+2105:  Nie rób swojego świata i nie projektuj go takim, jakim on nie jest.
+2109:  I nie mów graczowi, że jest do wyeksplorowania coś, co nie jest do wyeksplorowania.
+2113:  Nie pokazuj mu właśnie jakiegoś markera kognitywnego,
+2117:  który jest nieodpowiedni.
+2119:  No bo jeżeli pokazujemy, że jest piękny stadion, to ja chcę na ten stadion się wspiąć, tak?
+2124:  Bo grałem w Assassin's Creed'a, okej?
+2126:  I ja wiem, że jeżeli widzę wysoki budynek, chcę się znaleźć na szczycie tego budynku, koniec, kropka.
+2131:  Jeżeli widzę, że jest cyberpunk, chcę mieć latające samochody.
+2134:  Nie dajecie mi latających samochodów, będę zły.
+2137:  Jeżeli widzę puste wagony kolei albo puste stacje, chcę, żeby tam zaczęło działać metro,
+2143:  Co robią modderzy?
+2144:  No właśnie to, uzupełniają świat, uzupełniają luki w świecie, między innymi takie luki w świecie, to znaczy w którymś momencie zadałem sobie trud na potrzeby jednego artykułu, który robiłem, żeby zwiedzić świat cyberpunka naokoło i natrafiłem na takie kwiatki, ale to i tak nic nie było w porównaniu z tym, to znaczy tu jest napisane, że Militech zablokował drogę, ale tak naprawdę jak zaczniecie tam sobie podróżować, to was teleportuje 70 metrów w tył z informacją, o, dotarłeś do końca mapy, och,
+2171:  ale otwarty ten świat, prawda?
+2173:  I to jest duży problem, który zawsze będą mieć otwarte światy, to znaczy one w którymś momencie będą musiały być zamknięte, ale można to zrobić w sposób naturalny, Skyrim otaczają góry, rozwiązany kłopot, można to zrobić w sposób, który jest quasi naturalny, to znaczy w Hogwarts Legacy są to takie bąble, które przypominają zaklęcie, okej, mogę to jakoś przyjąć,
+2194:  ale wciąż wolałbym, żeby to była przeszkoda naturalna, albo żeby to było jakoś inteligentnie zaaranżowane.
+2199:  Wiecie, co by zmieniało tę sytuację?
+2201:  Mianowicie, gdyby Militech mnie tutaj przyskrzynił i gdybym miał z tym związany quest, że muszę uciec z więzienia Militechu i przy okazji dowiadywałbym się więcej na temat tej korporacji, zadzwoniłbym do Arasaki i powiedział, słuchajcie, wyciągnijcie mnie stąd, ja wam dam w zamian coś innego i nagle narracja przychodzi wam w sukurs w rozwiązywaniu problemów designerskich,
+2222:  które prędzej czy później będą konieczne do napotykania, bo silniki mają swoje ograniczenia.
+2228:  Ale najbardziej mnie rozeźliła ta sytuacja.
+2230:  Oj, najbardziej.
+2231:  To znaczy mam wielki neon otwarty 24 godziny na 7.
+2235:  Podchodzę i jest napisane zamknięte na interfejsie.
+2237:  Dude, dlaczego projektujesz coś takiego?
+2240:  Dlaczego kłamiesz w żywe oczy i mówisz, że coś jest otwarte, jak jest zamknięte?
+2244:  Nie rób takich rzeczy i nie róbcie ich absolutnie nigdy.
+2247:  Ten neon można byłoby wygasić.
+2248:  Można byłoby napisać na tym neonie cokolwiek.
+2250:  Można by tu napisać na przykład Penguins Incorporated.
+2254:  Let us freeze together.
+2255:  Cokolwiek, tak?
+2256:  Można byłoby tutaj...
+2257:  to wolny neon, tak, w cyberpunku jesteśmy przyzwyczajeni do neonów, ale jeżeli dajemy znak diegetyczny, który substytuuje w jakiś sposób interfejs, to naprawdę, no nie róbmy takiego konfliktu, ponieważ taki konflikt, moi drodzy, nazywa się dysonansem ludotopijnym i wiem to dlatego, że wymyśliłem ten termin.
+2273:  I dysonans ludotopijny oznacza mianowicie sytuację, w której wasza rozgrywka idzie...
+2284:  idzie sobie, a świat rozwija się sobie, tak?
+2286:  Tak jak mamy dysonans ludonarracyjny polegający na tym, że narracja konfliktuje nam z rozgrywką, przykład prosty, macie Hogwarts Legacy, jesteście, no, grzeczna, grzeczna dziewczynka, piąty rok w ogwarcie, buzia w ciub, rączki w małdrzyk, ale awa taka dobra, nie?
+2304:  No więc nie bardzo, tak?
+2305:  Dysonans ludonarracyjny.
+2307:  Dysonans ludotopijny będzie wtedy, kiedy problemem nie będzie narracja i rozgrywka, to problemem będzie projekt świata i rozgrywka.
+2313:  I to jest ciekawy rodzaj dysonansu, który się właśnie pojawiać będzie w tych otwartych światach i na który zwracałbym tak samo baczną uwagę, na jaką się zwraca już w odniesieniu do dysonansu ludonarracyjnego, bo przyszłością będą te otwarte światy, czy nam się to podoba, czy nie.
+2328:  teraz naprawdę będzie łatwiej zaprojektować świat, nawet proceduralnie, zaprząc któryś kolejny, może to będzie siódmy już model czata GPT, do tego, żeby napisał nam parę questów, ale wtedy, moi drodzy, wejdzie ktoś, kto będzie właśnie musiał zadbać o to, żeby nie dochodziło do rozdźwięków, nie dochodziło do absurdu, bo gwarantuję, że AI, która będzie zatrudniona do takich sytuacji, będzie generować takie absurdy i będzie ich sporo.
+2351:  I gracze w którymś momencie przestaną kupować nasz produkt, bo się zorientują, że to jest generyczne.
+2356:  że to jest nieciekawe, że to jest powtarzalne.
+2359:  Więc myślę, że to jest jedna z tych rzeczy, na które należałoby zwrócić uwagę.
+2363:  I na koniec, tak jak obiecałem, krótka bonusowa informacja dotycząca tego, jak bym radził sobie na tym naszym bardzo turbulentnym rynku gamedevowym,
+2374:  Przede wszystkim, moi drodzy, tu jest taka jedna stronka, którą bardzo polecam, to jest zestawienie według Hitmarkera Gaming Professions, które już się zestarzało, dlatego to Wam pokazuję, mianowicie na tych wszystkich kartuszach, gdzie pojawiały się kolejne zawody,
+2389:  Już brakuje tego, co do którego pojawiały się ogłoszenia, to znaczy gość, który pisze prompty dla AI.
+2395:  Naprawdę to już zaczyna być konkret z tego względu, że to jest też rodzaj sztuki, żeby się umiejętnie komunikować w taki sposób, żeby dostawać na przykład 7 dobrych konceptów do naszej gry.
+2407:  I to też dobra informacja dla wszystkich concept designerów i concept artystów, którzy no na przykład byli niezadowoleni z tego tytułu, że firma mówiła, ok, 10 minut, chcę mieć 7 konceptów tej lokacji.
+2417:  No to proszę bardzo, piszemy prompty dla niej, dostajemy się tym konceptu, a może jeszcze w stylu neowiktoriańskim, a może renesansowym, tak, w stylu Leonardo da Vinci i po 5 minutach jest.
+2429:  A wy później jako koncept artysta, jak już szefu wybierze, tak, co należy zaprojektować, to przechodzicie do pracy odręcznej, tworzycie oryginalne dzieło już w tym settingu, który został wybrany, więc tej pracy brakuje.
+2440:  Dlatego też wniosek z tego, rynek zmienia się tak szybko, że można sobie pracę samemu wytworzyć.
+2447:  I moja rekomendacja jest taka, że jeżeli na przykład kodujecie, rozejrzyjcie się też, może Wam odpowiada narysowanie czegoś sobie w blenderku, albo może chcemy właśnie się poćwiczyć w speedpaintingu, wziąć sobie jakieś zdjęcie, wziąć sobie Photoshopa i zacząć narysować coś,
+2464:  Gwarantuję Wam, że taka wielość skilli jest rzeczą poszukiwaną w gamedevie, zwłaszcza polskim, gdzie niestety jest tak, że bardzo często trzeba być multi-instrumentalistą i umieć się szybko przekwalifikowywać.
+2477:  Ale dobra wiadomość jest taka, że w zasadzie teraz główną dyspozycją wszystkich pokoleń, wspaniałomyślnie włączę siebie także w nie, młodych, jest to, że dynamicznie się przekwalifikowujemy, że dobrze wiemy, jak wygląda rynek pracy.
+2493:  Druga rzecz, to jest rzecz, myślałem wszystkim znana, ale okazuje się, że nie wszystkim, mam nadzieję, że Wam już jest, to znaczy skillshot, to jest główne miejsce, gdzie się ogłaszają firmy poszukujące pracowników w polskim gamedevie przynajmniej.
+2507:  Jak widzicie, interfejs tej strony jest przepiękny i nowoczesny.
+2512:  I wreszcie jest grupka na fejsie, który jak wiadomo jest dominującym medium społecznościowym w 2023 roku.
+2518:  O Boże, co to się właśnie stało, nie mam zielonego pojęcia.
+2521:  Mianowicie GameDev Praca Polska, gdzie możecie nie tylko znaleźć oferty, ale to bym bardziej polecał, zareklamować siebie i podać widełki, ponieważ GameDev w odróżnieniu od innych,
+2532:  zawodów, na szczęście pozwala na to, żeby te widełki komunikatywnie podawać.
+2537:  No i wreszcie ostatnia najważniejsza, błagam, rzecz, nawet jeżeli wyłącznie kodujecie, to wtedy tutaj powinien być jeszcze GitHub, portfolio, tak, to znaczy trzeba coś gromadzić, nieważne jest to, czy ktoś Wam coś wydał,
+2549:  czy pracowaliście faktycznie nad jakimś tytułem, ale ważne jest to, żeby mieć gdzieś jakieś jedno miejsce, gdzie gromadzicie wszystkie swoje zajawkowe rzeczy, które mogą się przydać przy projektowaniu gier, nie ma znaczenia jakość tego, nikt nie będzie się bawił w ocenianie, co najwyżej, najgorsza rzecz jaką możecie dostać to feedback, no to głównie mówię do ludzi, którzy będą chcieli na przykład być wszelakiego autorementu autartystami w gamedevie, najgorsze, że to można usłyszeć to
+2573:  Słuchaj, popracuj jeszcze nad swoim stylem, tu trzeba tego, tam trzeba tego, tutaj jest taki jeden koncept artysta, którym się można na przykład inspirować, albo no ten model 3D jest okej, ale wiesz, my potrzebujemy model, który będzie faktycznie pokazywał na przykład tę broń jako funkcjonalną z wszystkich perspektyw, a nie tylko, żeby było ładnie z przodu, a brzydko z tyłu i niefunkcjonalnie, bo wiesz, no gracz to będzie trzymać, tak?
+2592:  No i takie rzeczy się zdarzają i trzeba być na taki feedback otwarty, więc mega polecam, żeby się zainteresować portfolio,
+2598:  oprócz oczywiście tego nieszczęsnego poszukiwania pracy, które jak wiadomo jest zajęciem wdzięcznym, wszyscy marzymy o tym, żeby się troszeczkę zajęć, jak ktoś na przykład ma wybór między Netflixem, a takim rozesłaniem 150 CV, każdy wybiera to drugie, to jest oczywiste, ja to w 100% rozumiem, dziękuję Wam serdecznie za wysłuchanie i oczywiście czekam na pytania, a to jest jeszcze raz Space Marine, bo czemu by nie.
+2627:  Niech rozpośni się dyskusja.
+2629:  Kto chce zacząć?
+2630:  Rękę do góry.
+2637:  Tak, mówił Pan po pierwsze o tym, abyśmy projektowali nasze światy, starając się unikać tych
+2648:  Tych sytuacji, kiedy mamy na mapie miejsce w świecie, nie da się do niego wejść.
+2654:  Natomiast co gdybyśmy spróbowali zaprojektować świat w taki sposób po prostu intencjonalnie, gdybyśmy w ten sposób na przykład oznaczali lokacje sekretów i specjalnych nagród dla gracza.
+2665:  To jest dobry pomysł.
+2667:  W ogóle da się też intencjonalnie zamknąć świat tak, żeby to było fajne i wspomnę Dolinę Górniczą, bo czemu by nie, zawsze odniesienie do Gothica jest mile widziane.
+2675:  Można to zrobić inteligentnie i myślę sobie też, że jednak w odniesieniu do sekretu jakiegoś i tak dalej, jeżeli coś jest zamknięte, no to automatycznie musi być taka opcja, żeby w którymś momencie tam dotrzeć i to odkryć.
+2686:  Zresztą dwie najbardziej podstawowe rzeczy budowania napięcia narracyjnego, tajemnica albo intryga, no i oczywiście śmierć.
+2697:  Dobrze, jeszcze drugie pytanie w takim wypadku, a mianowicie śmiejemy się wiadomo z tych pytajniczków na mapach i tak dalej, aczkolwiek stanowią one bardzo wygodną metodę indykacji lokacji treści dla gracza.
+2711:  Jaką alternatywę by pan sugerował do tego?
+2715:  Toggle on, toggle off.
+2716:  Prosta sprawa, jeżeli komuś to pomaga, niech może sobie to włączyć, prawda?
+2720:  Dobrze, ja mam tutaj na myśli bardziej alternatywę w znaczeniu mechanicznym, na przykład, nie wiem, Skyrim zamiast pytajniczków na mapie stosował kompas.
+2729:  To jest jakaś opcja, choć nie jestem fanem.
+2732:  Powiem znowu o rozwiązaniu, które widziałem i lubię.
+2736:  Podróżujemy sobie po Red Dead Redemption 2 i Arthur Morgan zaznacza na mapie, gdzie był, albo że coś znalazł interesującego, czyli retroaktywne spojrzenie na to, nie proaktywne.
+2745:  Wtedy nie zdradza się tego, co gracza czeka, tylko raczej zaznacza się, co odkrył i wtedy włącza się ten mechanizm nagrody, prawda?
+2752:  Że im więcej odkryliśmy, tym bardziej nasza mapa jest zapełniona.
+2756:  To jest trochę odwrócenie tego myślenia i równocześnie no nic nie tracimy, ponieważ gracz wtedy będzie grać dłużej albo będzie właśnie szukał w solucji, tak jak większość graczy Elden Ringa robiła.
+2766:  To długa podróż.
+2798:  Tak, ja tutaj mam pytanie o te modele generatywne i o generowanie treści, gdzie miałem takie wrażenie, że pan trochę się z tego wyśmiewał, że te firmy chcą teraz to właśnie generować w taki sposób, ale z drugiej strony mam wrażenie, że dla wielu firm otwarte światy są niejako troszeczkę przekleństwem pod tym względem, że widać, że to się sprzedaje, że gracze wtedy dłużej czasu poświęcają tej grze, więc osoby z góry bardzo często chyba wymuszają na tych studiach, żeby włożyć to w otwarty świat, będzie lepiej.
+2824:  Jakby okej, będziemy generować to AI-em i śmieję się pana, że to wtedy będzie takie powtarzalne, ale aktualnie problem jest taki, że bez AI-a ludzie tworzą o wiele bardziej powtarzalne treści, więc może dzięki temu uda się uniknąć tego i ci projektanci będą mogli się rzeczywiście skupić na tych kluczowych rzeczach, a AI po prostu dopełni ten cały świat.
+2844:  W taki sposób, że mówię, że projektanci będą mogli zaznaczyć te wszystkie szczegóły, te wszystkie punkty, a ja i to wypełnię.
+2851:  I w ten sposób dostaniemy grę, w której treść będzie naprawdę przyzwoita, a jednocześnie nie będzie pusta.
+2858:  A bez tego ja byłaby po prostu pusta, no bo często jest tak, że brakuje tych środków, żeby tworzyć tą grę.
+2864:  Absolutnie się zgodzę, tylko powiem, że moim zdaniem raczej to będzie dochodziło do shiftu, jeżeli chodzi o zapotrzebowanie na narrative designera, to znaczy teraz mamy większe zapotrzebowanie na quest designeru, którzy właśnie robią repetytywne rzeczy, tu się absolutnie zgadzam, ale dlatego, że jest crunch, dlatego, że jest wymóg rynku taki, a nie inny i dlatego, że na czele wielu firm stoi Android Wilson i ma takie oczekiwania, jakie ma, to jest problem.
+2888:  bo zwykle ponzowie i szefowie korporacji, to znaczy, jeżeli są, są w większym stopniu biznesmenami niż graczami, nie?
+2895:  I tutaj leży pies pogrzebany.
+2897:  Na szczęście nie mam nikogo.
+2898:  Natomiast, jeżeli chodzi o narrative designera, to on i tak musi wkroczyć, jak AI wypełni content, prawda?
+2904:  I on wtedy mówi, no dobrze, no to teraz jak połączyć ze sobą te wszystkie struktury, bo AI wciąż nie jest dobre w łączeniu struktur, struktury wyższego rzędu,
+2915:  raczej jest dobre, przynajmniej jeżeli mówimy o modelach językowych, oczywiście wypełnianie rzeczy, tak samo jeżeli chodzi o proceduralne generowanie rzeczywistości.
+2922:  Fajnie możemy wygenerować proceduralnie 10 dungeonów, ale równocześnie dobrze, jeżeli wejdzie artysta i zacznie tweakować, tak, tutaj coś doda, tam coś zmodyfikuje, więc myślę sobie, że dojdzie do takiej profesjonalizacji tych zawodów, które były najbardziej wyzyskiwane w crunchu po prostu i w nadgodzinach, to znaczy
+2939:  story designerów, czy właśnie concept artistów, level designerów, którzy będą się teraz zajmowali strukturami wyższego rzędu, więc ja też jestem optymistą, jeżeli chodzi o wykorzystanie AI, ale w zasadzie realistą, bo ono już jest wykorzystywane, znaczy nasz sprzeciw lub jego brak nic nie zmieni, to już i tak jest.
+2954:  Problem tylko jest taki, że jeżeli nie powiemy, okej, mamy świetne narzędzia, róbmy lepsze światy, to będzie problem, bo w tym momencie mam takie wrażenie, że i Ubisoft, i EA są na stanowisku, okej, mamy świetne narzędzia, róbmy to samo, co robiliśmy, tylko że taniej.
+2968:  No trochę tak.
+2969:  Dziękuję.
+2972:  Czy ktoś jeszcze?
+2990:  Ja miałbym pytanie jeszcze w kwestii tego zamknięcia światłu.
+2995:  No głównie o ten problem związany z mapą, minimapą i fakt, że to mimo wszystko jest ograniczona przestrzeń.
+3001:  Weźmy sobie na przykład miasto z dostępem do morza i fakt, że gdzieś tam na krańcu mapy mimo wszystko nie możemy renderować tego morza w nieskończoność.
+3012:  Jak w takiej sytuacji ewentualnie by w sposób narracyjny, rozsądny niż
+3019:  Stop, cofamy cię.
+3021:  Można by to wytłumaczyć.
+3023:  I tak, żeby jeszcze to miało sens w świecie gry, bo to jest też bardzo ważne.
+3027:  No jedna z tych rzeczy, to można to ogarnąć questem oczywiście, tak, w tym moim przykładzie z Militechem, ale również są inne opcje, no chociażby weźmy proceduralnie generowane duże światy w stylu Elite Dangerous czy Star Citizen.
+3040:  Eksperymentuję w tym momencie w robot space industry z taką technologią, że każda rzecz pozostawiona, to chyba nawet zostało już wdrożone, że każda rzecz pozostawiona w świecie ma swoje miejsce, swoją instancję na serwerze, w związku z powyższym, jeżeli wrócimy po...
+3054:  dwóch latach na tę samą planetę, ba, jeżeli ktoś z naszych znajomych pójdzie w miejsce, w którym zostawiliśmy skafander, on tam będzie.
+3062:  Niezależnie od tego, czy się vlogujemy, on tam będzie, bo jest to realistyczne.
+3066:  I ten rodzaj realizmu, myślę, jest zbawieniem w tej sytuacji, no bo my mamy wyłącznie ograniczenia technologiczne, które sprawiają,
+3073:  że gracz nie może się udać w nieskończoność właśnie gdzieś daleko, bo właśnie nie ma możliwości, na razie przynajmniej, zrealizowania tego w taki sposób, żeby nie było tego kontrastu między fajną, wypełnioną treściami przestrzenią, a tą przestrzenią, która była wygenerowana proceduralnie.
+3090:  Więc w momencie, w którym rzeczywiście będziemy też, odwołując się do poprzedniego pytania, w stanie wypełniać nawet, nawet generycznie i może nawet trochę lepszymi questami przestrzeń wokół i nie będzie już ograniczeń technologicznych ściśle i w większym stopniu będziemy korzystywali z zasobów serwerowych, to wtedy czemu by nie?
+3106:  Da się to zrobić, żeby nawet można było jakiś świat zwiedzać w nieskończoność.
+3110:  Ale na razie myślę, że rozwiązaniem jest dobry narrative, dobry writing i to jest nasz przyjaciel, przynajmniej na razie.
+3116:  Zobaczymy jak będzie później.
+3118:  To jest na pewno bardzo ciekawy kierunek rozwoju.
+3121:  Jestem głęboko przekonany, że technologia znajdzie rozwiązanie jak zawsze i inżynierowie znajdą rozwiązanie jak zawsze, ale na razie trzeba szyć z tego co mamy.
+3133:  Dzień dobry Panie Krzysztofie, ja chciałem po pierwsze podziękować za wykład i za cały rozwój rynku gier w Polsce.
+3142:  Moje pytanie dotyczy gier VR, który jest dosyć rzadko poruszany i tego jak imersja w tych grach może wpływać na
+3152:  na rozwój w zasadzie całej branży, to znaczy wydaje mi się, że gry z wirtualną rzeczywistością mogą mieć zdecydowanie wyższy poziom imersji, jeżeli chodzi o graczy i kiedy takie urządzenia właśnie służące do wirtualnej rzeczywistości zaczną wypierać na przykład konsole czy gry komputerowe?
+3174:  Odpowiem lapidarnie na początek, to znaczy nie miałem imersji w Hogwarts Legacy, ponieważ mój komputer był za słaby, 17 tysięcy złotych później, moja imersja jest dość kosztowna i no jest fajnie, tak, ale...
+3190:  ale jednak Krakus boleje nad tym, tak?
+3194:  Więc myślę sobie, że tu jest główny problem, to znaczy próg wejścia ekonomiczny, który wciąż sprawia, że gier na VR nie jest wiele, nie opłaca się ich robić, bo niewiele osób je kupi, ale...
+3206:  nie oznacza to, że przy rozwoju ciągłym technologii nie będziemy w stanie tego procesu przyjemnić.
+3211:  Jak ja zwykle na to odpowiadam, musimy poczekać aż Apple zrobi okulary wirtualnej rzeczywistości, a następnie jak Samsung zrobi je lepiej.
+3222:  wtedy będziemy rzeczywiście mogli się kontentować w wirtualną rzeczywistość, która jest po prostu wygodna, nie?
+3227:  Bo my mamy na przykład na AGK-u placownię badań wirtualnej rzeczywistości, w której ja bywam ekstremalnie rzadko, nie dlatego, że nie jestem patriotyczny, tylko dlatego, że jak ja widzę te rozstawione dziwne jakieś wskaźniki, widzę te handheldy,
+3238:  Przede wszystkim czuję te 40 kilo na nosie okularów, to mnie się już robi słabo.
+3243:  Ja już nie mam imersji, a mam mdłości bardzo często, bo jeszcze do tego wszystkiego mam cholerną chorobę lokomocyjną, która naprawdę w wiarze nie pomaga.
+3250:  Więc to jest taki splot okoliczności, który sprawia, że ja na razie stawiam na AR i rzeczywistość rozszerzoną.
+3256:  Przykład.
+3257:  Fajnie byłoby, gdybym był w stanie na przykład wyłączyć sobie telefon i aplikację w telefonie, która daje mi interfejs jakiś, na przykład mapę do nawigowania po grze FromSoftu.
+3267:  I będę w ten sposób w stanie swoje niedomagania jakoś uzupełnić rozszerzoną rzeczywistością bez ingerencji w projekt artystyczny gry.
+3276:  Więc to jest ciekawe.
+3277:  Natomiast myślę, że to jest pewien stereotyp, że imersja wiąże się wyłącznie z taką przestrzenną imersją, bo jest jeszcze imersja narracyjna, jak jesteśmy w... No dobra...
+3286:  Jeżeli ktoś jest wkręcony w Warhammera, prawda, na przykład, no to niestety nie ma żadnego serialu praktycznie, który moglibyśmy oglądać, zwłaszcza aktorskiego.
+3294:  Są animacje, jeszcze, oby był dobry, Henry Cavill daje pewne nadzieje, ale czy my nie mamy imersji, bo to są figurki?
+3302:  No oczywiście, że mamy imersję, prawda, tylko ta imersja jest narracyjna, bo sobie odpowiadamy następnie 70 godzin loru, którego wysłuchaliśmy od lutina 9 na kanale, prawda.
+3311:  Albo mamy imersję kinestetyczną.
+3313:  To jest dla tych wszystkich, którzy lubią chociażby, nie wiem dlaczego, ale ten feedback haptyczny w kontrolerach, prawda?
+3320:  Są ludzie, dla których to jest bardzo imersywne.
+3322:  Ja raz byłem na przykład w kinie 4D na filmie Noe wybrany przez Boga.
+3327:  To jest film, gdzie jest dużo wody.
+3330:  I to było kino 4D.
+3331:  I w którymś kluczowym momencie zaczęła we mnie sikać jakaś sikawka, żeby była imersja.
+3336:  Nie było imersji.
+3344:  Tu jeszcze ktoś jest.
+3347:  Nawet dwie osoby.
+3361:  Świetny design sali.
+3363:  Dzięki.
+3368:  Nie więcej rok temu na tej samej scenie mówiłeś o tym, że gry wideo są takim medium, które zawiera w sobie inne media.
+3376:  I właśnie myślę, że świat trochę się zmienia i teraz widzimy takie rzeczy, że na przykład inne media zaczynają zawierać w sobie gry.
+3386:  Chcę tak nawiązać trochę do seriali.
+3390:  Też jak już masz tu GGWP, no to na przykład Dota też ma cosplay.
+3397:  I pytanie, co o tym sądzisz i czy to nie jest objaw tego, że stosunek wobec gier się zmienia, że to już jest faktycznie jakby uznawane za taką prawdziwą sztukę, że prawdziwe medium, które można integrować z innymi.
+3413:  przez mądrych ludzi na pewno, ale jak wiemy z rzeczywistością bywa różnie.
+3419:  Myślę, że na pewno dużo zmieniła adaptacja serialowa The Last of Us.
+3424:  Ona sporo zmieniła faktycznie.
+3426:  Nie specjalnie jakoś uważam, żeby to był serial z tysiąclecia, tak jak niektórzy,
+3431:  Po prostu mi się bardzo podobał, natomiast uważam, że jest zdecydowanie w nim za mało tego contentu, który był w grze, którą widziałem na streamach i to było o wiele bardziej emocjonujące przeżycie niż oglądanie od piątego odcinka w górę.
+3442:  Co nie zmienia faktu, że rzeczywiście to się o ciupinkę zaczyna zmieniać, ale nie sądzę, żeby to była jakaś gigantyczna i szybka zmiana, bo po prostu tak to jest z mediami, że one...
+3452:  bardzo dużo potrzebują czasu, żeby się zadomowić i gry wideo wciąż mają ten problem, ten mój problem, nie?
+3458:  Tych cholernych tysięcy wywalonych po to, żeby się cieszyć dobrą grafiką.
+3461:  I teraz, skoro już mówimy o The Last of Us, świetna premiera Naughty Dog wyszła w PC-towej wersji.
+3467:  Coś wspaniałego.
+3468:  Wczytywanie shaderów na Steam Decku?
+3471:  Półtorej godziny.
+3472:  Wczytywanie shaderów na GeForce 4090 na kanale Luka Stevensa?
+3477:  20 minut.
+3478:  Nie ma to jak sobie włączyć w grę w 2023 i czekać 20 minut aż się odpali.
+3483:  Więc myślę sobie, że jest pewien problem z tym cały czas rosnącym też pułapem technologicznym.
+3489:  I to jest problem do rozwiązania ASAP, bo dużo ludzi po prostu nie jest w stanie się cieszyć taką rozrywką, jaką ja się na przykład jestem w stanie cieszyć.
+3496:  I mnie się to kompletnie nie podoba.
+3497:  Ja bym chciał, żeby gry były o wiele bardziej dostępne i przystępne.
+3500:  No i nie oszukujmy się, że też sporo osób będzie grało w gry mobilne i segment mobilny będzie cały czas rósł właśnie dlatego, że tam te ograniczenia technologiczne są w inny sposób rozstrzygane.
+3511:  Chociaż ja na przykład się wkurzam, bo przez to w Gęsinie mam limit na moje mebelki w Imbryczku, bo mobilki i jest load limit i to mnie denerwuje, ale co tam.
