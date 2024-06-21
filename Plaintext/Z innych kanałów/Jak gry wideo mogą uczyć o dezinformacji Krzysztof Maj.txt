@@ -1,0 +1,340 @@
+Jak gry wideo mogą uczyć o dezinformacji? Krzysztof Maj
+🔗 https://www.youtube.com/watch?v=oxuy-Ogajxo
+KMM (Krzysztof M. Maj)
+MCH (Mateusz Cholewa)
+
+0:  MCH - Wstajemy rano, otwieramy oczy, do porannej kawy scrollujemy internet.
+4:  S00 - I nie ma pewności, że to co czytamy w sieci jest faktem.
+8:  MCH - Fałszywe treści są elementem naszej codzienności.
+18:  S00 - Jak rozpoznać dezinformację?
+20:  MCH - Jakie są jej techniki?
+21:  S00 - O tym będziemy rozmawiać w podcaście Demagoga.
+25:  MCH - Zapraszamy!
+26:  MCH - Mateusz Cholewa i Viola Marek.
+32:  MCH - Cześć, witajcie w kolejnym odcinku Demagoga i po raz pierwszy możemy zobaczyć się na żywo.
+35:  MCH - Specjalnie dla was ubrałem tę piękną koszulkę i jest ze mną dzisiaj wyjątkowy gość, z którym będziemy rozmawiać o wyjątkowym temacie i mam nawet nam ładnie zapisany wstęp.
+44:  MCH - Zwykle tego nie widzicie, ponieważ wszystko ukryte jest za ścianą Spotify'a albo ładnej grafiki przygotowanej na YouTube, a dzisiaj zobaczycie też trochę jak wygląda to
+53:  MCH - Dzień dobry.
+82:  KMM - Dzień dobry, dziękuję wam za zaproszenie, witam wszystkich oglądających.
+86:  KMM - Mam nadzieję, że będę mu w tym pomóc, bo temat jest obszerny bardzo.
+89:  MCH - Tak jest i też o którym dużo opowiadasz na swoim kanale, ale też piszesz w swoich pracach naukowych.
+96:  MCH - Zacznijmy sobie od takiego wstępnego wejścia, zanim się zagłębimy w dezinformację.
+101:  MCH - Zróbmy sobie taki basic, dla których być może dla niektórych osób, które nas oglądają hasło gry wideo i edukacja może być czymś zaskakującym.
+110:  MCH - Dla ciebie takie nie jest, ponieważ w wielu swoich produkcjach przekonuję, że to są rzeczy, które mogą mieć naturalnie ramię w ramię, to choć moglibyśmy o tym poświęcić 40 minut, godzinę i dużo rozmawiać, gdybyś mógł powiedzieć, czy da się użyć takich gier do edukacji i czy jest to potencjał, czy to rozpraszacz?
+129:  KMM - Trzeba o tym myśleć problemowo, a nie tematycznie.
+131:  KMM - I to już jest podstawowy problem, z którym będzie się borykać polskie szkolnictwo, bo jest lektura nadobowiązkowa od jakiegoś czasu w postaci gry This War of Mine.
+141:  KMM - Wielka niespodzianka, to znaczy są tam tak nieznane polskiej edukacji tematy, jak wojna, powstania.
+147:  KMM - Wspomniałem o Wojnie i Powstaniach, no więc właśnie.
+151:  KMM - To jest gra, która po pierwsze niewiele nas jest w stanie rzeczywiście nauczyć problemowo, bo też nie jest reprezentatywną grą dla tych, które się produkuje dzisiaj.
+161:  KMM - Jak wszystkie produkcje Eleven Beach Studios jest raczej eksperymentalna, awangardowa, bawi się z gatunkiem.
+166:  KMM - No i przede wszystkim jest dość ciężka, to znaczy co innego jest przeczytać opowiadanie nawet Borowskiego o obozie koncentracyjnym, a co innego przeżyć czyjąś śmierć, nie będę mówił dokładnie z uwagi na algorytm YouTube'a, jaką, ale drastyczną, bardzo cywilną, więc to nie jest wbrew pozorom gra, która
+185:  KMM - znalazłaby się w szkołach z uwagi na swoje jakieś walory edukacyjne, ona jest tam wyłącznie z uwagi na temat.
+190:  KMM - Więc to jest pierwsza kwestia, musimy podejść do gier problemowo i przede wszystkim zaakceptować fakt, który w pedagogice jest znany od lat, to znaczy, że najskuteczniejszą, nie ma skuteczniejszej metodą nauczania jest zapawa.
+203:  KMM - Nawet jeżeli my sobie nie nazywamy zabawą tego, co robimy, to sam fakt zaciekawienia się czymś, rozbicia sobie tego na jakieś cząstki i poczytania książki nawet w jakimś ładnym anturażu pod pledzikiem z kawą i tak dalej, to już jest coś, co bardzo przypomina to środowisko wirtualne i cyfrowe gry wideo.
+224:  KMM - ponieważ w atrakcyjnym otoczeniu zajmujemy się czymś, co nas interesuje.
+229:  KMM - Zresztą słowo rozrywka w staropolszczyźnie to było to samo, co zajęcie się czymś.
+233:  KMM - Zabawka tak samo była traktowana.
+235:  KMM - My dzisiaj bardzo tak starannie, to z uwagi na XVIII wiek, rozdzieliliśmy sferę zabawy od sfery nauki i pracy.
+243:  KMM - Greckie skola to jest czas wolny jako szkoła.
+249:  KMM - Powiedzmy taki namuł, nie chcę tego inaczej, gorzej nazwać, oświeceniowy, gdzie wymawiano nam, że trzeba się bawić, jeżeli już, to ad usum delfini, dla pożytku księcia, on jest z nami do dzisiaj i bardzo tak zamula i zachwaszcza edukację.
+262:  KMM - Więc gry wideo i nie tylko, bo także gry planszowe, także gry RPG, gry wyobraźni innymi słowy,
+269:  KMM - są idealną metodą nauczania i to nie tylko przedmiotów humanistycznych.
+273:  KMM - Powiedziałbym, że nawet na odwrót.
+275:  KMM - Im trudniejsze, bardziej skomplikowane i abstrakcyjne działania, problemy, informacje, tym łatwiej jest przyswajać je wtedy, kiedy się dobrze bawimy.
+285:  MCH - No to świetne jest to potencjalne narzędzie do mówienia o temacie, którym zajmuje się Stowarzyszenie Demagog, bo jednak dezinformacja jest czymś pojemnym i ulotnym i dosyć abstrakcyjnym.
+296:  MCH - I trudnym.
+296:  MCH - I trudnym, więc wszystkie te teoretycznie haczyki mamy, czy tam punkciki mamy odhaczone.
+303:  MCH - To właśnie jestem ciekaw, bo wiem, że zarzuciliśmy ci trudne zadanie pomyślenia tego, jak gry mogą odpowiadać na tego typu potrzebę i czy jest w nich potencjał do tego, żeby uczyć o dezinformacji, czy właściwie zapoznawać z całym tym zjawiskiem, które też jest całkiem duże.
+319:  KMM - Wiesz, Jesper Juhl w takiej książce o sztuka przegrywania, esej o bólu, jaki wywołują gry wideo, bardzo piękna, to Jesper Juhl groznawca, nie Jesper Juhl pedagog, mówi, że gry wideo są świetnym i w zasadzie jedynym takim narzędziem, które pozwala nam popełniać błędy, przekonywać się, jakie są ich konsekwencje i robić to w wizualnym środowisku.
+339:  KMM - I od tego musimy zacząć, to znaczy jedynie w grze wideo jesteśmy w stanie przejść przez jakąś opowieść, historię, fabułę,
+346:  KMM - i zobaczyć, jak ona się może rozgałęzić w różne alternatywne ścieżki.
+350:  KMM - Zresztą jak się pisze fabułę do gry wideo, korzysta się z tak zwanych node'ów, czyli rozgałęzień, które pozwalają nam na przykład powiązać dwie alternatywne ścieżki fabularne z jednym wyborem dialogowym.
+362:  KMM - Więc już strukturalnie fabuła w grze wideo pozwala ci pokazać konsekwencje różnego rodzaju wyborów, które możesz mieć dobre lub złe.
+371:  KMM - To jest pierwsza kwestia.
+372:  KMM - Druga kwestia, w grach wideo królują światy wyobrażone i fantastyczne.
+377:  KMM - A to w nich najlepiej i najdogodniej, ośmieliłbym się powiedzieć, jest dyskutować na tematy polityczne, zwłaszcza takie, które są polaryzujące.
+385:  KMM - Bo my nie jesteśmy w stanie w tym momencie ucieknąć od trybalizmu, który jest w naszym społeczeństwie.
+390:  KMM - Social media tylko go pogłębiają.
+391:  KMM - Szkolnictwo w żadnym wypadku nie pomaga, ponieważ po prostu udaje, że nie istnieją smartfony, że trzeba je wyegzybracjizmować ze szkół, udaje, że nie istnieje internet i udaje, że nie istnieją social media.
+402:  KMM - No ale strategia trzech małpek z NIPO nie pomaga, nie sprawi to, że przestanie istnieć.
+409:  KMM - W związku z powyższym wracamy tutaj kołem do tego, co może nam dać światotwórstwo, wytwarzanie jakiejś rzeczywistości, która w równym stopniu wyobcowuje wszystkich.
+418:  KMM - Niezależnie od tego, czy ktoś jest Ukraińcem, Polakiem czy Japończykiem, w świecie fantastycznym będzie się czuć obco.
+424:  KMM - I w moim przekonaniu to właśnie światy fantastyczne, konkretnie dystopie,
+428:  KMM - czyli te najgorsze wersje naszej wyobrażonej rzeczywistości, mogą nam pomóc zgłębić to, jaka jest groza totalitaryzmu, pełzającego totalitaryzmu, zwłaszcza takiego, który się gdzieś tam pojawia.
+441:  KMM - Kiedyś Wiktor Klemperer o tym pisał w Lingva 30 Imperii bardzo ładnie,
+445:  KMM - Nazizm się zaczął na uniwersytetach i wtedy w tych wszystkich debatach, teraz mamy taką kulturę debaty, że debatujmy.
+452:  KMM - Jeżeli ktoś jest klimatologiem, to zaprośmy kogoś, kto twierdzi, że w ogóle nie istnieje globalna zimna.
+459:  KMM - Debatujmy, warto rozmawiać.
+462:  KMM - No nie, właśnie na tym rzecz polega, że nie warto w takiej sytuacji rozmawiać, ponieważ ktoś będzie szerzył dezinformację, zyska platformę w ten sposób, która cofa naukę o 100 lat na przykład, bo 150 lat.
+473:  KMM - Więc to do niczego nie prowadzi.
+475:  KMM - Konsensus naukowy jest po to, żebyśmy zaakceptowali pewne fakty i szli dalej.
+479:  KMM - I tam jest obszar wątpliwości.
+481:  KMM - Tylko ten obszar wątpliwości jest dla ludzi, którzy przyswoili te fakty.
+485:  KMM - Na tym polega różnica.
+486:  KMM - Więc w świecie dopiero wyobrażonym, uważam, jesteśmy w stanie pokazać osobie, która już jest zatruta jakimiś ideami,
+493:  KMM - jak dalece właśnie ta trucizna może jątrzyć jej lub jego organizm.
+498:  KMM - I mam znakomity przykład.
+499:  KMM - Super.
+500:  KMM - Gra Orwell.
+502:  KMM - Kojarzy się już słusznie z rokiem 1984, który nawiasem mówiąc jest na liście lektur, ale jak widać nie pomaga to w niczym.
+508:  KMM - I ona sytuuje nas w roli aparatczyka, który na zlecenie dystopijnego aparatu państwa musi podjąć się śledztwa wynikłego z zagrożenia terrorystycznego, które doprowadziło do eksplozji na Placu Wolności, bodajże, jeśli mnie pamięć nie myli.
+526:  KMM - I cała gra jest interfejsem oprogramowania szpiegującego, coś w rodzaju Pegasusa, w którym to my podejmujemy decyzje co do tego, jakie informacje wyłuskiwać z gazet, z audycji radiowych, z akt sprawy sądowych i tak dalej, i tak dalej i uploadujemy je do systemu Orwell.
+547:  KMM - No oczywiście haczyk polega na tym, że uploadujemy informacje dotyczące konkretnych obywateli.
+552:  KMM - tego dystopijnego państwa.
+554:  KMM - I nagle się okazuje, jak bardzo istotny jest kontekst, ponieważ gra w którymś momencie wprowadza taką mechanikę, że podświetlane fragmenty różnych artykułów prasowych, wywiadów i tak dalej, parują się z innymi informacjami, które wydobyliśmy wcześniej.
+570:  KMM - Wywołują konflikty lub przeciwnie, pokrywają się.
+574:  KMM - I teraz oczywiście im lepiej gramy, im lepiej staramy się realizować te wytyczne dystopijnego aparatu państwa, no to tym skuteczniej i szybciej grę ukończymy.
+585:  KMM - Natomiast nie na tym rzecz polega.
+586:  KMM - Nagle się okazuje, że kontaktują się z nami inni ludzie, którzy mówią, że ci nasi mocodawcy niekoniecznie chcą dobrego, że wykorzystują właśnie pojęcie i kategorię terroryzmu do tego, żeby szpiegować przeciętnych obywateli.
+598:  KMM - I nagle zaczynamy czuć tę winę i odpowiedzialność kogoś, kto rozprzestrzenił mizinformację, dezinformację i osobiście odpowiada za to, że komuś się mogła stać krzywda.
+612:  KMM - I to jest potężne odkrycie.
+614:  KMM - W moim przekonaniu żadna książka, żaden artykuł prasowy nie jest w stanie nam tego przekazać z tego względu, że
+621:  KMM - My w mediach tradycyjnych tego nie poczujemy.
+624:  KMM - Gry wideo dają nam sprawczość, agencyjność, to my konkretnie roleplayując, wcielając się w jakąś rolę, podejmujemy decyzję o tym, że kogoś skażemy, albo że prowadzimy do czyjejś śmierci.
+635:  KMM - Jak jesteś w stanie udowodnić komuś, kto rozprzestrzeniał na Twitterze dezinformację covidową, że w wyniku jej zginął człowiek?
+644:  KMM - Nie jesteś w stanie tego udowodnić.
+645:  KMM - Nawet gdybyś pokazał akta sprawy, wyciąg ze szpitala, pokazał, że to jest ten człowiek, że dokładnie w momencie, w którym był ten tweet, już są informacje, których nie zdobędziemy, ale hipotetycznie, że właśnie wtedy się zaczęło jego wątpliwości jakieś, które doprowadziły do tego, że nie szukał pomocy medycznej tam, gdzie powinien szukać.
+665:  KMM - No nie jesteś w stanie tego zrobić, a dopiero wtedy byśmy poczuli rzeczywiście winę i współodpowiedzialność.
+669:  KMM - My często zapominamy o tym, że w realiach współczesnych, medialnych nie jesteśmy tylko konsumentami treści, jesteśmy prosumentami, produkujemy treści i konsumujemy jednocześnie, więc nasz retweet albo wypowiedź jakakolwiek,
+683:  KMM - na dowolną sprawę, która wynika z naszej jakiejś emocjonalnej reakcji, ale równocześnie nie jest w żaden sposób podbudowana researchem i sprawdzeniem 10 tysięcy razy.
+695:  KMM - Czy my na pewno nie powielamy informacji?
+698:  KMM - No to jest coś, z czym musimy wszyscy żyć w tym momencie, bo tak wygląda krajobraz media, wszyscy tak robią.
+703:  KMM - Ja sobie mogę tutaj idealistycznie bajać, że fajnie byłoby, żeby każdy ktoś weryfikował, ale my tego nie robimy.
+708:  KMM - Więc gra Orwell pozwala nam przynajmniej doświadczyć tego, jakie mogą być konsekwencje takich decyzji, ale co najważniejsze, jak bardzo kluczowy i istotny jest cross referencing.
+718:  KMM - Nawet nie mamy polskiego słowa na określenie tego zjawiska.
+721:  KMM - Sprawdzanie w wielu źródłach danej informacji, krzyżowanie tych informacji ze sobą, wyprowadzanie wspólnego mianownika i weryfikowanie ich.
+729:  KMM - To jest podstawa metody naukowej, tylko problem polega na tym, że dawniej tylko naukowcy musieli to stosować,
+735:  KMM - ponieważ mieli dostęp do informacji krytycznych, ważnych, a dzisiaj wszyscy mamy do nich dostęp, ale nie mamy dostępu do tych metod i dlatego osobiście uważam, że w szkolnictwie powinno się porzucić absolutnie wszystko w ramach przedmiotów humanistycznych, nie żartuję w tym momencie, wszystko czego uczymy,
+752:  KMM - Tak długo, jak długo nie będziemy traktowali tej techniki i tej metody jako priorytetowej.
+756:  KMM - Jeżeli tego ludzi nauczymy, możemy wszystko mówić.
+759:  KMM - Możemy mówić, że Mickiewicz był wielkim poetą, że Kościuszko, że wszystko jedno.
+763:  KMM - Możemy sobie wszystko to mówić, ale na samym początku ludzie powinni dostać właśnie to narzędzie.
+768:  KMM - I wiesz, mój ból polega na tym, że ja wiem, że szkoła nigdy nie włączy Orwella na listę lektur.
+774:  KMM - ewentualnie mogłaby włączyć dlatego, że przypomina to rok 1984, nie?
+777:  KMM - No właśnie, ciężko się zastanowić, czy to jest ten anturaż... Ale klucz tematyczny, tak?
+780:  MCH - Taki około PRL-owski może by do tego ładnie tak pasował.
+783:  KMM - A widzisz, a to jest pewien paradoks, tak, że traktuje się te dystopie jako coś, co opisywało rzeczywistość PRL-u, gdy tymczasem to opisuje rzeczywistość naszą.
+792:  KMM - Nie ma żadnej różnicy między dystopiami Janusza Zeidla, swoją drogą bardzo polecam, Paradisiel, Inferior, czy Lindervantrofa,
+799:  KMM - a ergo proxy anime, czy Maze Runner'em, Więźniem Labiryntu, Igrzyskami Śmierci, tymi Young Adult Dystopias, tak zwanymi dystopiami młodzieżowymi, które by długo jeszcze wymieniać.
+810:  KMM - O, jeszcze The Giver, jeżeli ktoś chce obejrzeć film, to bardzo polecam.
+814:  KMM - We wszystkich tych przypadkach mamy do czynienia z reprezentacjami medialnej rzeczywistości, w której nie istnieje coś takiego jak fakt, za to istnieją faktoidy.
+825:  KMM - to, co się ludziom wydaje, że jest faktyczne, to, co funkcjonuje w ramach tego efektu, o którym mówiliśmy jeszcze zakulisowo, to znaczy błędu potwierdzenia, confirmation bias, jeżeli pasuje to do naszego światopoglądu, no to będziemy to asymilować i akumulować.
+840:  KMM - No i właśnie nie robimy tego, co robi się w grze Orwell, nie szukamy kontekstu, a nawet ten kontekst, który znajdujemy, to selekcjonujemy sobie tylko ten, który umacnia nasze wcześniejsze przekonania i to jest niesamowicie niebezpieczne, bo wiesz, rozmawiasz wtedy, nawet
+853:  KMM - Powiedzmy, że to jest prosta rozmowa przy kawie i tobie piętrzą się w głowie argumenty przeciwko stronie, z którą rozmawiasz, ponieważ przypominasz sobie te wszystkie posty, tweety, obrazy, rozmowy, które umacniały twoje błędne przekonanie, natomiast nie sięgasz do źródła.
+870:  KMM - I lubię Orwella dlatego, że ta gra uczy nas sięgania do źródeł.
+873:  KMM - Nawet jeżeli robi to w przewrotny sposób, to my nie jesteśmy w stanie grać w tę grę, jeżeli nie korzystamy z artykułów prasowych, jeżeli nie korzystamy z tych wszystkich rozproszonych informacji.
+886:  KMM - Natomiast dzisiaj, wiesz jak jest, czasem retweetujemy albo repostujemy coś, co napisał dany człowiek i nawet nie zajrzymy do tego, co tam było komentowane.
+896:  KMM - Już nawet nie docieram do metody naukowej, która mówi, że zacytowanie źródła naukowego to nie jest punkt dojścia dyskusji, że kończymy dyskusję, bo ktoś zacytował naukowca i możemy padać na twarz.
+909:  KMM - To jest punkt wyjścia dyskusji.
+911:  KMM - Mieliśmy niedawno zresztą sytuację, profesor Szaciłowski zagiechł.
+915:  KMM - Przepięknie zrobił, ale też nie tylko stworzył hoaxa naukowego i napisał teksty, które
+921:  KMM - cytują nieistniejące prace.
+925:  KMM - Redaktorzy, weryfikatorzy, recenzenci naukowi tego nie zweryfikowali na poziomie Ctrl-C, Ctrl-V, nie sprawdzili.
+931:  KMM - Czy istnieją publikacje zacytowane?
+933:  KMM - Już nie wspominam o zajrzeniu do treści.
+936:  KMM - Co mnie się zdarzyło, jak siedem lat prowadziłem pismo naukowe, to zaglądałem do treści tekstów, nawet wielokrotnie mówiłem autorom, no co z tego, że przywołujesz mi cały artykuł, jak nie dajesz mi paginacji, ja mam to teraz przeczytać za ciebie?
+947:  KMM - Potrzebuję kontekst, tak?
+949:  KMM - Potrzebuję mieć cytat jakiś wyjęty.
+951:  KMM - A tymczasem szkolnictwo nie uczy nas tego, czego nas uczy gra Orłę, tylko uczy nas parafrazy.
+956:  KMM - Ja pamiętam bardzo dobrze to zdanie i zresztą uczniowie, którzy też wpadają do mnie na kanał, mówią mi, że absolutnie się pod tym względem nic nie zmieniło, że nie wolno cytować, nawet na maturze jest tak, spowiedź własnymi słowami, parafrazy.
+968:  KMM - To jest największy błąd metodologiczny, jaki możemy dzisiaj popełnić, bo w momencie, w którym parafrazujesz informację, zwłaszcza informacji kluczowe, na maturze to nie jest tak, że opisujemy teksty o kwiatkach, bo bardzo często tam jest publicystyka i to jest publicystyka popularnonaukowa przywoływana, więc w momencie, w którym wprowadzimy nasz własny światopogląd, zwłaszcza jeżeli operujemy niewyostrzonym aparatem terminologicznym, nieprecyzyjnym, no to wtedy rozwadniamy coraz bardziej tę treść.
+995:  KMM - Zresztą robią to już podręczniki.
+996:  KMM - Podręczniki szkolne pozbawione źródeł, cytatów, przypisu, bibliografii uczą nas, imersyjnie uczą nas, nie wprost, błędnej metody.
+1006:  MCH - Inaczej niż gra Orwell.
+1008:  KMM - Inaczej niż każda gra wideo.
+1009:  KMM - Wiesz, jeżeli Dark Souls nie pozwala ci na przykład progresować, ponieważ nie wiesz w jaki sposób pokonać jakiegoś bossa,
+1016:  KMM - to zaglądasz do internetu i wyszukujesz informacje, poradnik, aktywnie, sam, oddolnie, jak to zrobić.
+1024:  MCH - Nawet gra nie musi stricte traktować o dezinformacji, mizinformacji w fake newsach, żeby dawać nam narzędzia do tego, aby...
+1033:  MCH - gdzieś jakieś informacje weryfikować poza tym światem.
+1035:  KMM - Oczywiście, że tak, bo gra nam pozwala testować różnego rodzaju hipotezy.
+1040:  KMM - I jest, to nie tylko jest taka w klasycznym rozumieniu gra jak u Johanna Hajszenhy, że, albo Hoi Tsing jak powoli go czytać, Fomo Ludens, że mamy jakieś reguły, te reguły wyznaczają nam jakieś granice rozgrywki i w granicach tej rozgrywki te reguły funkcjonują, a poza nią nie.
+1056:  KMM - To jest bardzo podstawowa definicja gry, aplikująca się do wszystkich.
+1060:  KMM - Natomiast gra wideo jeszcze wytwarza fikcyjny świat, w którym to fikcyjnym świecie możesz być konfrontowany z takimi sytuacjami samymi, jakimi jesteś konfrontowany w naszej rzeczywistości.
+1069:  KMM - Nie wiesz, jak coś zrobić, jesteś z tym skonfrontowany indukcyjnie w takim razie, oddolnie przechodzisz do źródeł, zaczynasz formułować jakieś konkluzje, a szkoła uczy nas dedukcyjnie.
+1081:  KMM - daje nam rozwiązania i każe znaleźć przykłady albo przetworzyć jakiś wzorzec i zrobić coś po swojemu.
+1087:  KMM - To jest zupełnie krańcowo odmienna strategia, która właśnie dlatego nie przystaje do naszych czasów, bo my musimy cały czas oddolnie i aktywnie starać się wyszukiwać źródła informacji, a nie czekać, aż ktoś nam je poda.
+1101:  KMM - Zauważ, że jest takie też oczekiwanie, jak konfrontujesz się ze znawcą i on ci mówi, mam 15 lat praktyki medycznej i zajmuję się szczepieniami.
+1111:  KMM - I on, aha, to podaj źródło.
+1114:  KMM - Nie, chciałby się od razu odrzec bezczelny człowieku, tak?
+1117:  KMM - Ten człowiek ma 15 lat doświadczenia, to ty musisz nadrobić sporo i jeżeli on cytuje jedno źródło i ty chcesz zanegować 15 lat doświadczenia człowieka, musisz zacytować 15.
+1129:  KMM - I to jeszcze się zorientować, czy przypadkiem nie cytujesz takich, które zostały albo wycofane z baz danych, albo takich, które są niezweryfikowane, albo takich, które są finansowane przez jakąś partię, albo fundację, która bardzo by nie chciała, żeby pojawiły się niepożądane wyniki naukowe.
+1145:  KMM - Poziom ekspertyzy, którą trzeba mieć bardzo często w takich dyskusjach jest gigantyczny.
+1149:  KMM - Ja właśnie dlatego tak zacząłem ostro i konfrontacyjnie od tezy, że kultura debaty jest kulturą oczywiście demokratyczną i wspaniałą, ale w nauce nie mamy tylko demokracji, mamy też merytokrację.
+1160:  KMM - Więc jeżeli ktoś nic nie wie na dany temat, nie jest partnerem do dyskusji w takiej sytuacji, musi się nauczyć, musi aktywnie szukać źródeł sam,
+1168:  KMM - bo w przeciwnym wypadku, no może dojść do absurdalnej sytuacji, w której rzeczywiście poprzez tą naszą polemikę chociażby, no mieliśmy ostatnio tę sytuację na kanale Zero z denializmem klimatycznym i cytowaniem jakichś nonsensownych rzeczy, Dawid Myśliwiec szczęście na kanale Naukowy Bełkot zrobił tego,
+1184:  KMM - debag, natomiast no nie oszukujmy się zasięg takiej wypowiedzi szkodliwej dziennikarza, który nie ma prawa czegoś takiego powiedzieć, bo on się na tym nie zna, nie jest dziennikarzem klimatycznym, nie jest dziennikarzem naukowym, tylko jest dziennikarzem politycznym i to bieda dziennikarzem, umiejącym wyłącznie werystykę, prawda?
+1202:  KMM - I tak długo, jak długo bawi się werystykę, jest w porządku, ale w momencie, w którym konfrontuje się z problemem, którego intelektualnie przerasta, no to wtedy zagrożenie jest takie, że z debaty zrobi się cyrk.
+1213:  KMM - i ten cyrk będzie się podobał gawiedzi, ludzie będą się cieszyć, ale to już nie ma nic wspólnego z debatą, nie ma nic wspólnego z dyskusją taką merytoryczną rzeczywiście.
+1221:  KMM - Jest to strasznie przykre, bo nie ma za bardzo narzędzi do tego, żeby to skrytykować, bo ktoś mógłby powiedzieć, że w tym momencie ja hejtuję redaktora Mazurka, a tymczasem ja tylko mówię, że nie ma prawa taki człowiek, który się nie zna na jakimś temacie, wypowiadać się z pogardą, wzgardą, albo satyrycznie, albo żartobliwie i w taki sposób, żeby...
+1242:  KMM - Całość tego bardzo złożonego problemu została rozwodniona.
+1246:  KMM - Ludzie niestety zapamiętają to, co najbardziej emocjonalnie ich dotknie.
+1250:  KMM - No i właśnie, dlatego gry są dobre.
+1252:  KMM - Bo gry przez to, że są multimodalne, wielokanałowe, oddziałują na nas wielobocowo, sprawiają, że my możemy przeżyć jakąś informację.
+1261:  KMM - Dlatego dezinformacja wprowadzona do gry wideo jest taka groźna.
+1265:  KMM - bo my wtedy ją przeżyjemy o wiele bardziej niż cokolwiek innego.
+1269:  KMM - Na szczęście w grach do takich przypadków przynajmniej na tyle, na ile wiem, nie dochodzi, co nie zmienia oczywiście faktu, że już coraz częściej studia, o tym zresztą miałem okazję rozmawiać na Pyrkonie czas jakiś temu, tegorocznym,
+1283:  KMM - konsultują się już z historykami, konsultują się z naukowcami właśnie po to, żeby uniknąć sytuacji, w której przedstawią coś nie do końca zgodnego z realiami historycznymi.
+1293:  MCH - Może być to nowy obszar, medium, poza medium społecznościowym, gdzie też potencjalnie tego typu treści, fałszywe treści można gdzieś umieścić.
+1301:  KMM - Im gorsza będzie nasza edukacja, tym więcej będzie miejsc, w których ludzie niewykwalifikowani.
+1307:  KMM - Przypominam, że przykład z kanału Zero, który przywołałem, to nie jest przykład dwudziestolatka.
+1313:  KMM - 18 lat, o, zainfekowany przez media społecznościowe, o, dezinformowany.
+1318:  KMM - Nie, szkoła to robi od dawna.
+1321:  KMM - Więc dlatego przywołałem te metodologiczne problemy, dedukcyjność, pokazywanie nam autorytatywnego źródła, które nie dowodzi, że jest wartościowe, tylko na okładce ma napisane, że to jest profesor.
+1335:  KMM - No i co z tego, że to jest profesor?
+1336:  KMM - Możemy sobie stworzyć, jak profesor Szaciłowski z Agiechu,
+1339:  KMM - profesora z Turkmenistanu Capele Pilaka, on też będzie profesorem, nawet będzie miał profil w Google Scholar.
+1344:  KMM - No i co z tego, jak nie istnieje, prawda?
+1346:  KMM - Jesteśmy w stanie z taką łatwością tego rodzaju rzeczami manipulować.
+1350:  KMM - Dlatego właśnie mamy przypadki ludzi, którzy są po pięćdziesiątce, po sześćdziesiątce i oni bardzo często są tymi, którzy rozprzestrzeniają dezinformacje.
+1360:  KMM - Rzadko tworzą gry.
+1361:  KMM - Ale rzadko, chociaż wiesz, to też nie jest reguła, natomiast myślę, że jeżeli tworzą gry, to już jednak, zwłaszcza, że jeżeli się musieli wybić w swoim środowisku, to reprezentują sobie troszeczkę inny poziom.
+1371:  KMM - Więc w grach tak, jako się rzekło, zdecydowanie w tym momencie mamy o rząd wielkości mniej tego rodzaju zjawisk niż w mediach społecznościowych, zresztą nieprzypadkowo, ponieważ media społecznościowe są trochę inaczej sprofilowane, przez to, że funkcjonują algorytmy, które nam serwują wyłącznie to, co chcemy czytać, to, co chcemy poznawać,
+1390:  KMM - to siłą rzeczy cały czas będziemy umacniać się w tych przekonaniach, które mamy.
+1395:  KMM - Natomiast w przypadku gier wideo za każdym razem masz wykreowany inny świat, za każdym razem masz wykreowaną inną rzeczywistość, za każdym razem masz dostępne inne mechaniki, więc sposoby interakcji z tą rzeczywistością.
+1405:  KMM - Przypomina mi się w tym kontekście gra Plague Inc., druga, którą chciałem też przywołać, właśnie o tym, w jaki sposób się rozprzestrzenia wirus i jak funkcjonują pandemie.
+1414:  KMM - Bardzo prosta gra, to znaczy tam funkcjonujemy jako ta osoba, która odpowiada za rozprzestrzenianie plagi.
+1421:  KMM - W związku z powyższym musimy to zrobić maksymalnie efektywnie, no więc wybieramy lotniska, więc wybieramy dworce, porty.
+1428:  KMM - Wiesz, i z tego w drobny sposób już ktoś młody, na przykład, nie wiem, sześciolatek, siedmiolatek, ośmiolatek, bawiąc się tym, zaczyna się uczyć o bardzo kluczowej kwestii, to znaczy jeżeli jest pandemia, unikaj dużych zbiorowisk ludzi.
+1442:  KMM - Czyli coś, co, przepraszam bardzo, trzeba było mówić podczas pandemii, którą wszyscy przeżyliśmy, dorosłym bykom, ludziom, którzy naprawdę powinni to wiedzieć.
+1452:  KMM - Zresztą w Polsce mamy do dzisiaj z tym problem, że jeżeli ktoś ślimka, kaszle i tak dalej, nie zasłoni się.
+1458:  KMM - Musieliśmy zacząć uczyć ludzi podstawowych nawyków higienicznych, niestety, pod pretekstem pandemii.
+1465:  KMM - Zmęgrali w Black Ink.
+1466:  KMM - No więc właśnie.
+1468:  KMM - I taka drobna rzecz, której uczysz, to jest dokładnie to, co się nazywa nauczaniem imersyjnym.
+1474:  KMM - Imersyjne nauczanie funkcjonuje chyba w najlepszym, jej zapoznanym wariancie w dydaktyce języka obcego.
+1481:  KMM - Imersyjne nauczanie oto to jest moment, w którym wyjedziemy na Erasmusa albo wyjedziemy do pracy za granicę i nagle łapiemy się na tym, że przyswajamy struktury językowe automatycznie, bez chodzenia na kurs.
+1492:  KMM - No i to samo dotyczy się wszystkich innych nawyków, które nabywamy w grze wideo.
+1496:  KMM - Dlatego też, jeżeli ten świat jest dobrze wykreowany, to będziemy w stanie, tak wiesz, podprogowo uczyć różnych rzeczy.
+1503:  KMM - To mogą być rzeczy bardzo podstawowe, jak na przykład to, w jaki sposób się rozprzestrzenia wirusy, ale równocześnie możemy, i tam jest cały katalog wirusów plaguing,
+1511:  KMM - dowiedzieć się faktycznie, jakie funkcjonują, jakie istnieją.
+1514:  KMM - Zresztą znowu Dawid Myśli jest przeze mnie przed chwilą przywołany, mówił ostatnio, że przez tę nieszczęsną nagonkę na szczepienia, która wynikła z fałszu i falsyfikatu, który się rozprzestrzenił w Stanach Zjednoczonych, potem został w Polsce niestety rozprzestrzeniony dalej, wirusowo swoją drogą,
+1532:  KMM - mamy po raz pierwszy wzrost znowu zachorowań na odrę.
+1536:  KMM - Myśleliśmy, że będziemy w stanie tę chorobę wytępić, zwłaszcza, że ona ma takie możliwości.
+1542:  KMM - To znaczy rzeczywiście jesteśmy w stanie doprowadzić do tego, że będzie całkowicie wyrugowana.
+1546:  KMM - To tak jakby byliśmy w stanie bodajże ospę wieczną wyrugować.
+1550:  KMM - No więc to jest przerażające, że wskutek działalności, na którą się złożył każdy,
+1555:  KMM - kto kiedykolwiek retweetował, repostował jakikolwiek tekst dotyczący szczepień, a nie miał na ten temat wiedzy, nie miał w tym zakresie tytułów naukowych, nie miał doświadczenia naukowego, nie miał dorobku publikacyjnego, nie pracował w szpitalach i nie szczepił ludzi.
+1570:  KMM - To jest sześć warunków, które powinna spełnić każda osoba, która wypowiada się na ten temat autorytatywnie w sieci.
+1575:  KMM - W związku społecznym w tym momencie wyciąłem 90% wypowiedzi internetowych.
+1580:  KMM - A każda z tych osób, które w tym momencie wyciąłem, ma, no można byłoby powiedzieć teraz demagogicznie, krew na rękach, a możemy powiedzieć po prostu, że nie jesteśmy w stanie zweryfikować, czy nie jest spółodpowiedzialna za te sytuacje, z których teraz się będą mierzyć lekarze.
+1594:  KMM - I oczywiście to jest przykład polaryzujący i radykalny, ale mamy ich znacznie więcej, bo one będą w przypadku różnego rodzaju idei politycznych, faktoidów, które są rozprzestrzeniane.
+1603:  KMM - Ja dzisiaj się ledwo natknąłem na coś, to będzie o grze, ale nie będzie tym razem o, znaczy to już będzie o dezinformacji, mianowicie była informacja dotycząca na Twitterze, bo gdzieżby indziej, dotycząca tego, że Yasuke, czyli czarnoskóry samuraj z okresu Sengoku.
+1619:  KMM - Czytałem ten tweet.
+1620:  KMM - Tak, tak, tak.
+1621:  KMM - miał nie występować tam i było to podpisane i wiele redakcji to też podjęło, że to jest specjalista, historyk, który się specjalizuje w tym zakresie.
+1630:  KMM - Jest jeden problem, mianowicie Internet Archive pozwolił nam stwierdzić, że to nie jest żaden historyk, ten człowiek ma bardzo amerykańskie nazwisko, to po pierwsze, a po drugie okazało się, że nie ma żadnych danych na temat jego publikacji, w ogóle nigdzie praktycznie.
+1643:  KMM - I to już pokazuje na takim bardzo podstawowym poziomie, że ludzie nawet nie są w stanie stwierdzić, kto jest naukowcem.
+1649:  KMM - To jest przerażające.
+1650:  KMM - Zauważ, że mamy do tego narzędzi o rząd wielkości więcej niż wcześniej.
+1655:  KMM - Możemy sprawdzić w Google Scholarzy na stronie internetowej danego uniwersytetu.
+1658:  KMM - Jeżeli to jest naukowiec polski, to w bazie Nauka Polska musi być, ponieważ prawo nas zobowiązuje do tego, żeby tam były wszystkie informacje o doktoratach, także o tych doktoratach, które zostały wycofane, jak doktorat Jacka Bartosiaka, haha, musiałem o tym wspomnieć.
+1670:  KMM - Następnie mamy do dyspozycji portal ORCID, który przypisuje każdemu naukowcowi taki identyfikator specjalny.
+1675:  KMM - Możemy sprawdzić bazy zagraniczne danych Thomson Reutersa, wszystkie inne.
+1679:  KMM - Jest tych źródeł bardzo dużo, więc jeżeli ktoś jest uznanym specjalistą w jakiejś dziedzinie i nie ma ani jednej jego publikacji na ten temat, albo jest publikacji siedem, które są cytowane dwadzieścia razy,
+1690:  KMM - to nie jest uznanym badaczem w danej dziedzinie.
+1692:  KMM - Automatycznie.
+1693:  KMM - A jeżeli tych publikacji nie ma w ogóle, to znaczy, że jest nikim w nauce.
+1696:  KMM - Nie można być w nauce kimkolwiek, jeżeli nie rozprzestrzenia się w jakikolwiek sposób wyników swoich badań.
+1703:  KMM - W jakikolwiek sposób.
+1704:  KMM - To nie jest w tym momencie ważne, jakie jest miejsce publikacji, bo to jest toksyczny element polskiego systemu ewaluacji.
+1709:  KMM - Ważne jest, żeby te informacje gdzieś były.
+1712:  KMM - Ale musisz się gdzieś nauczyć szukania aktywnego tych informacji, oddolnego.
+1717:  KMM - Jeżeli chcesz brać udział w debacie i być traktowany poważnie, to musisz odrobić zadanie domowe.
+1722:  KMM - Ludziom się wydaje, że wystarczy, że jesteś przekonany o czymś bardzo intensywnie i emocjonalny do tego masz stosunek i możesz przyjąć zaproszenie do dowolnego kanału i wypowiadać się na ten temat.
+1732:  KMM - Jest to absolutnie przerażające dla mnie.
+1734:  MCH - A widzisz, dobrze, żeśmy zeszli trochę w ten rejon, bo chciałem nawiązać... Rozmawiamy dzisiaj głównie o grach w kontekście dezinformacji, ale też trochę o algorytmach.
+1743:  MCH - I trochę o algorytmach traktuję gra przygotowana w ramach projektu Fake No More, który jest realizowany przez Szkołę z Klasą, ale także przez Stowarzyszenie Demagog, czy m.in.
+1753:  MCH - przez czeskiego Fakescape, która to...
+1757:  MCH - trochę mówiliśmy o budowaniu światów, tutaj też świat przenosi nas w przyszłość do takie postacie, które żyją w swoich małych bańkach i naszym zadaniem jest połączyć ich i znaleźć ich wspólne punkty.
+1771:  MCH - Niektórzy interesują się grami wideo, niektórych pasjonują koty, niektórych pasjonuje sztuka, niektórych tężyna fizyczna i
+1778:  MCH - Zadaniem graczy jest poprzez wymianę doświadczenia i tworzenie jakichś scenariuszy i historii, łączenie ich ze sobą, ale jest też w tym taki element trochę psujący zabawę, czy też dorzucający losowe czynniki, czyli ta panująca sieć i ten żyjący tam algorytm w postaci takiej ośmiornicy, której karty muszą być zagrywane w trakcie.
+1800:  MCH - Wówczas one trochę zmieniają zasady gdzieś ogólnie przyjęte i sprawiają, że gracze muszą trochę kombinować, bo mają dodatkowe modyfikatory i ciekawie pomaga to budować relacje i jestem ciekaw, czy w grach wideo na pewno o budowaniu relacji jest dużo mowa, w końcu gatunek MMO istnieje.
+1819:  MCH - Ale czy też widzisz przestrzeń do tego, żeby gdzieś przekazać właśnie informacje o tym, jak działają algorytmy?
+1826:  MCH - Dlaczego dostajemy pewne treści, a nie inne?
+1828:  MCH - Dlaczego tak łatwo i szybko dostaniemy informacje o denializmie klimatycznym, a niekoniecznie tą, która go obala?
+1835:  MCH - I czy widzisz tytuły, które może korzystają na takich mechanikach?
+1839:  MCH - Albo mogłyby wykorzystać to jako interesujący motyw do tego, żeby gdzieś obudować swój storytelling na przykład?
+1844:  KMM - Wiesz co, na pewno by trzeba było wtedy skalować w górę to, co mieliśmy w jednak niszowej grze Orwell, którą przywołałem.
+1851:  KMM - Swoją drogą ona ma też drugą część, o której zawsze zapominam.
+1854:  KMM - Ale wydaje mi się, że to jest coś, co jest nieodłącznym elementem nurtu cyberpunka.
+1860:  KMM - od Williama Gibsona w górę, no i tutaj możemy wymienić każdą grę cyberpunkową, Deus Ex Human Revolution, Cyberpunk 2077, może najbardziej znana polskim graczom w tym momencie, Watch Dogs, wcześniejsza gra Ubisoftu.
+1872:  KMM - One wszystkie w zasadzie poruszają problem, od którego my nie jesteśmy w stanie w tym momencie uciec, to znaczy tego, że fake news czy faktoid
+1880:  KMM - rozprzestrzenia się szybciej, z tego właśnie względu, że nie tylko mamy ludzi, którzy są nieświadomymi, złymi aktorami, bo też trzeba pamiętać, że to retweetowanie, repostowanie, które tak bardzo gwałtownie potępiam, ono jest nieświadome, to znaczy ludzie tego nie robią dlatego, że chcą czegoś złego.
+1899:  KMM - Mogą robić to dlatego, że dysponują anegdotycznym przykładem, że no, że mnie komuś z rodziny coś kiedyś jakoś i ja teraz widzę, błąd potwierdzenia, że tutaj jest odpowiedź.
+1910:  KMM - Przyszedł prorok, ewangelista i on nam mówi jak jest, mówi nam jak wygląda świat.
+1916:  KMM - Taki prorok zawsze się znajduje w dystopiach, zawsze w którymś momencie przychodzi ktoś,
+1920:  KMM - kto znajduje odpowiedź na wszystko.
+1922:  KMM - W Deus Exima Revolution jest to Hugh Darrow.
+1924:  KMM - I mamy swoją drogą rewelacyjną okazję w tej grze do tego, żeby skonfrontować się z osobami, które są tymi objawionymi prorokami i mówią nam, jaka jest wizja świata, w czymś, co zastępuje typowe walki z bossami, czyli najsilniejszymi przeciwnikami w danej grze.
+1941:  KMM - W Deus Exima Revolution walki o wiele bardziej emocjonujące to są szermierki słowne.
+1946:  KMM - Ponieważ jest to gra cyberpunkowa, umożliwia ona, tak jak w każdym przypadku świata cyberpunkowego, wzmacnianie naszego ciała.
+1955:  KMM - To się nazywa augmentacja.
+1956:  KMM - Swoją drogą będziemy mieli to niebawem, przyzwyczajajmy się.
+1959:  KMM - Mianowicie ludzie mają implant chociażby konwersacyjny, który umożliwia poprzez śledzenie bicia serca, rozszerzania tęczówek itd.
+1966:  KMM - sprawdzanie, czy oponent kłamie, czy nie, ale również możemy sprawdzać, jak nasza retoryka wpływa na poziom przekonania przeciwnika.
+1975:  KMM - Więc my musimy przekonać tych satrapów i autokratów i tyranów albo po prostu szefów dużych korporacji, którzy mają władzę i pieniądze i muszą mieć tę wizję, tak, nakreślono im wcześniej przez PR-owców, że rozprzestrzeniają kłamstwa, że ich wizja świata jest niewłaściwa.
+1992:  KMM - Musimy zdruzgotać ich światopogląd.
+1995:  KMM - To jest niesamowite wrażenie.
+1997:  KMM - Nie znam żadnej innej gry, która by to zrobiła równie dobrze i chciałbym, żeby to było częstsze, bo to nie jest gra, w której przeklikujemy się przez dialogi, bo jesteśmy znudzeni.
+2005:  KMM - To jest gra, w której bardzo uważnie czytamy dialogi, bo zdajemy sobie sprawę z tego, jakie to ma kolosalne znaczenie.
+2011:  KMM - Oczywiście tam możemy sobie stan gry zapisać i testować właśnie.
+2014:  KMM - To jest też super, jak nasza retoryka wpływa na to, co mówi i myśli przeciwnik.
+2020:  KMM - retoryczne w tym przypadku, chociaż to jest także przeciwnik w tym świecie faktyczny.
+2024:  KMM - No bo też, że nakreślę sytuację, spisek, który jest tam ujawniony, polityczny, polega na tym, że tak, oczywiście możemy się ulepszać, możemy odjąć sobie rękę i wstawić protezę, możemy wymienić sobie oko na lepsze.
+2036:  KMM - Tylko, że jest jeden problem, mianowicie, żeby przyjmowały się te ulepszenia i wszczepki, musimy przyjmować specjalny lek.
+2043:  KMM - Bardzo drogi, pewnie.
+2044:  KMM - Bardzo drogi lek.
+2045:  KMM - I wystarczy manipulować ceną tego leku na giełdzie i w momencie robisz z klasy średniej klasę niższą.
+2051:  KMM - W momencie jesteś w stanie z prosperującego przedsiębiorcy uczynić narkomana, który błaga o dawkę na ulicy.
+2058:  KMM - I to są obrazy, z którymi się konfrontuje Deus Exima Revolution.
+2061:  KMM - Jest to zrobione absolutnie rewelacyjnie.
+2063:  KMM - No i też pokazuje, jak bardzo łatwo taką informacją manipulować.
+2066:  KMM - Zresztą mieliśmy takie przypadki, one są memiczne, ale tak naprawdę nie.
+2070:  KMM - że jeden tweet mógł doprowadzić do tego, że był skok na giełdzie lub wręcz przeciwnie, tylko że wiesz, to jest skok w postaci słupka i my się cieszymy, bo nie wiem, może ktoś ma akcję i ohoho, jak fajnie, ale nie myślimy o tym, że po drugiej stronie są pracownicy tej firmy i nagle 150 osób może zostać zwolnionych.
+2087:  KMM - I znowu, czyjś tweet, czyjaś głupia wypowiedź mogła doprowadzić do tego, że realnie zostało zwolnionych 150 osób.
+2093:  KMM - Poziom odpowiedzialności, jaki jest za wypowiedzi, które głosimy, jest gigantyczny i my sobie kompletnie z tego nie zdajemy sprawy.
+2100:  KMM - Można byłoby jeszcze do tego dorzucić swoją drogą, jak już o tym mówimy, odpowiedzialności sieciowej gry poruszające problem cyberbullingu, czy jakiegokolwiek bullyingu.
+2110:  KMM - Cała seria Life is Strange jest na tym osadzona, ale
+2114:  KMM - Przypuszczam, że znaleźlibyśmy jeszcze więcej przykładów takich bardzo konkretnych, pokazujących, do czego to może doprowadzić.
+2120:  KMM - Zawsze powtarzam zresztą swoim kolegom, a to pokolenie milenialsów jest, że za tak zwanych naszych czasów, tak, można było dręczyć ludzi tak, jak to się niestety dręczyło zawsze i to zawsze było w szkole jakimś cudem, czyli tym miejscu, które ma nam inkulturować i dawać nam okazję do zadzierzgania relacji społecznych.
+2138:  KMM - No więc jeżeli ktoś komuś wsadził głowę do sedesu i trzy osoby się śmiały,
+2143:  KMM - No to wiedziały o tym trzy osoby, może jak powiedziały o tym innym, to wiedziały o tym trzydzieści, no dobrze, najgorszy wariant, wiedziała o tym cała szkoła.
+2151:  KMM - A dzisiaj będzie wiedzieć o tym trzysta tysięcy ludzi na TikToku.
+2155:  KMM - W pięć minut.
+2156:  KMM - W pięć minut.
+2157:  KMM - I teraz poziom odpowiedzialności naszej za nagranie czegoś takiego, za puszczenie do internetu, nie może zostać zredukowany tym, że powiemy, a to zakaszmy smartfony w szkołach, bo ludzie sobie nie zdają sprawy z tego,
+2170:  KMM - jaka jest odpowiedzialność i jaka na nich ciąży.
+2172:  KMM - I jeżeli wycofamy smartfony ze szkół, to oni zrobią dokładnie to samo, tylko że z domu i wtedy nie będziemy mieli z perspektywy państwa, nauczycieli i pracowników oświaty żadnej kontroli nad tym.
+2183:  KMM - Nie będziemy mogli wpłynąć na te osoby chociażby, żeby nigdy czegoś takiego nie robiły.
+2188:  KMM - Nie będziemy mogli skonfrontować ich z odpowiedzialnością do coś takiego.
+2191:  KMM - Więc to jest straszny problem w tym momencie, że także rządzący nie dostrzegają tego, jaki mogą mieć wpływ wychowawczy w tym konkretnym obszarze, bo wszystkim nam jest łatwiej zapomnieć, że problem istnieje.
+2203:  KMM - A ten problem istnieje, tylko że wiedzą o tym cholera jasna tylko młodzi ludzie.
+2209:  KMM - To na zakończenie.
+2210:  MCH - Jako ktoś, kto też uczy i edukuje w ramach Akademii Stowarzyszenia Demagog i Akademii Fact Checkingu, gdybym chciał na przykład zaproponować wykorzystanie jakichś elementów gamifikacji gier wideo, co byłoby dla mnie, jako dla osoby edukatora, najbardziej atrakcyjne przy takim projekcie?
+2229:  KMM - Ja zdecydowanie zacznę od Orwella.
+2230:  KMM - Trochę wracamy kołem do początku naszej rozmowy.
+2233:  KMM - Wydaje mi się, że wszystkie metody, o których można mówić, weryfikacyjne,
+2237:  KMM - tam by się naprawdę zaaplikowały, więc zwłaszcza Orwell jest też wdzięcznym przykładem dlatego, że to jest gra idiotycznie przystępna, jest to gra point and click, w związku z powyższym każdy jest w stanie w nią zagrać, nie trzeba żadnych kompetencji dodatkowych, żadnych umiejętności, więc wszyscy twoi kursanci czy kursanci w ogóle zainteresowani tym uczniowie
+2258:  KMM - mogą się tym zainteresować.
+2259:  KMM - To nie jest kasus Wiedźmina, Dark Souls czy Cyberfanka, gdzie musimy spędzić kilka godzin, żeby w ogóle się zorientować, jak należy obsługiwać wszystkie systemy w grze.
+2268:  KMM - Dlatego też samouczki tam są bardzo długie.
+2270:  KMM - A tutaj po prostu dostajemy okno przeglądarki.
+2272:  KMM - Najprostsza rzecz, jaka istnieje.
+2274:  KMM - I oczywiście ten interfejs jest też bardzo taki kreskówkowy, umowny, ale też chodzi o to, że gra była zaprojektowana przez małe studio, które też nie miało jakiegoś gigantycznego budżetu.
+2284:  KMM - I to w tym konkretnym przypadku jest zaletą, bo każdy też może sobie, niezależnie od tego, jaki ma sprzęt, pozwolić na to, żeby taką grę uruchomić.
+2291:  KMM - I następnie przez to, że tam nie ma jakiejś historii, tylko w zasadzie historią jest to, co ty odkrywasz i twoja działalność jako tego aparatczyka, to bardzo łatwo jest konfrontować ze sobą różne doświadczenia.
+2303:  KMM - Też nie ma tam zbyt wielu alternatywnych wyborów, one się pojawiają pod koniec, ale tego już nie zdradzam, bo byłby to potężny spoiler.
+2311:  KMM - żeby utrudnić dyskusję.
+2313:  KMM - Sam początek gry jest bardzo jednorodny dla wszystkich, więc jesteśmy w stanie z grubsza przedyskutować sobie te same zjawiska, przygotować sobie właśnie jakiś plan rozważań na parę szkoleń, a potem właśnie możemy na przykład dopytać ludzi, czy i jak osiągnęli jakieś alternatywne zakończenie, bo to też jest interesujące, że do takich można doprowadzić, więc zdecydowanie bym
+2335:  KMM - Coś takiego polecam nie tylko Tobie w ramach Akademii Demagoga, ale w ogóle wszystkim, którzy są zainteresowani takim sposobem na zgamifikowanie swojego doświadczenia, wyszukiwania informacji, weryfikowania ich, a przede wszystkim właśnie tego, co nazwałem za publikacjami naukowymi, z których regularnie korzystam i w ogóle za metodą naukową cross-referencingiem, czyli tym krzyżowym
+2357:  KMM - odnoszeniem się do wielu źródeł i ustalaniem tego, który z kontekstów jest właściwy, a który na przykład niekoniecznie może nam pomóc w dotarciu do tej, oh, będzie szumnie i idealistycznie prawdy.
+2369:  MCH - W takim razie zamknijmy nasze spotkanie tym wielkim hasłem.
+2373:  MCH - Krzysztof M. Maj, doktor Krzysztof M. Maj był moim i waszym gościem w pierwszym wideokasie Demagoga.
+2377:  MCH - Świetnie było się z tobą, Krzysztofie, zobaczyć.
+2380:  MCH - Wy zobaczycie nas, jak rozmawialiśmy.
+2382:  MCH - No i cóż, dziękuję za to, że byłeś i usłyszeliśmy.
+2385:  KMM - Dziękuję najserdeczniej za zaproszenie.
+2386:  KMM - Pozdrawiam wszystkich widzów.
+2390:  KMM - Słuchaliście podcastu Demagoga realizowanego przez Suns & Stories.
+2394:  S00 - Więcej informacji o naszej pracy znajdziecie na stronie demagog.org.pl i w naszych mediach społecznościowych na Facebooku, Instagramie i Twitterze.
+2403:  S00 - Do usłyszenia.
